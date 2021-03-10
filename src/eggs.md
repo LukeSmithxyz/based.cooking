@@ -33,3 +33,7 @@ for a few minutes beforehand.
 
 Scrambled eggs are easy to customize. E.g. start by frying any of: onions, bits
 of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
+
+## Contribution
+
+- Martin Chrzanowski -- [website](https://m-chrzan.xyz)

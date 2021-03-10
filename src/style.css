@@ -1,4 +1,6 @@
 body {
+        background-color: #151515 ;
+        color: white ;
 	max-width: 800px ;
 	margin: auto ;
 	margin-bottom: 500px ;
@@ -16,4 +18,12 @@ img {
 	max-width: 600px ;
 	margin: auto ;
 	display: block ;
+}
+
+a {
+        color: lightblue ;
+}
+
+a:visited {
+        color: gray ;
 }

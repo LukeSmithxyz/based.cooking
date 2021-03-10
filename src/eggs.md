@@ -2,13 +2,13 @@
 
 Eggs are great. This page will contain all sorts of "basic" ways of having an
 egg. Feel free to suggest more, as per the instructions on the
-[homepage](inde.html)
+[homepage](index.html).
 
 ## Boiled eggs
 
 1. Bring water to boil (about enough to cover the eggs when submerged).
 2. Place eggs in water.
-3. Keep heat high enough to keep a rolling boil, boil until desired doneness
+3. Keep heat high enough to keep a rolling boil, boil until desired consistency
    (about 5 or less minutes for soft boiled and very runny, 8 minutes for medium
    runny, 10+ for hard boiled).
 

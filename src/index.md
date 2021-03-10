@@ -14,6 +14,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pasta (store bought)](pasta.html)
 - [Pasta Sauce](pasta-sauce.html)
 - [Rice](rice.html)
+- [Oats](oats.html)
 
 ## More Info
 

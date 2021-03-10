@@ -1,7 +1,7 @@
 # Tuscan Style Pork Roast
 
 An herbaceous pancetta stuffed pork roast with a crispy exterior. Finished with a lemon vinaigrette.
-Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) who's recipes are nutoriously bad
+Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) whose instructions are nutoriously bad
 - Prep time: 30 minutes
 - Cook time: 2 hours
 - Serves: 6-8 people

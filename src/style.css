@@ -33,3 +33,9 @@ img {
 		color: tomato ;
 	}
 }
+
+@media print {
+	body {
+		max-width: none ;
+	}
+}

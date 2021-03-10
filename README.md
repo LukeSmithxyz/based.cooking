@@ -13,11 +13,16 @@
 ## Rules for submission
 
 Add reciples as `.md` files to the `src/` directory.
-Look at already existing `.md` files for expemlars
+Look at already existing `.md` files for examples
 or see [example](example.md).
 
 Recipe must be based, i.e. good traditional and substantial food. Nothing
 ironic, meme-tier hyper-sugary, meat-substitute, etc.
+
+### Minor rules
+
+- Don't include salt and pepper and other uniquitous things in the ingredients list.
+- If measurements are used, include metric and American measurements. Do not use decimals in American; round or use fractions.
 
 ## Images
 

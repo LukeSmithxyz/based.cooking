@@ -2,11 +2,18 @@
 
 Only Based cooking. No ads, no tracking, nothing but based cooking.
 
-## Recipe list
+## Recipes
 
+- [Chicken Parmesan](chicken-parmesan.html)
 - [Gnocchi](gnocchi.html)
 - [Slow-cooked Chicken Tacos](chicken-tacos.html)
 - [Beef Stroganoff](stroganoff.html)
+- [Beef or Lamb Stew](beef-stew.html)
+- [Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
+- [Tuscan Style Pork Roast](tuscan-style-pork-roast.html)
+- [Flemish Beer and Gingerbread Beef Stew](carbonade.html)
+- [French Mustard Sauce Porkchops](french-mustard-sauce-porkchops.html)
+- [Chicken, Tomato & Spinach Curry](chicken-tomato-spinach-curry.html)
 
 ## Basics
 
@@ -14,6 +21,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pasta (store bought)](pasta.html)
 - [Pasta Sauce](pasta-sauce.html)
 - [Rice](rice.html)
+- [Eggs](eggs.html)
 - [Oats](oats.html)
 
 ## More Info

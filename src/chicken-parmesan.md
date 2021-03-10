@@ -34,3 +34,7 @@ Some place it on the chicken before cooking it with the mozarella.
 The sauce, if left on the chicken too long will make the breadcrumbs go soggy.
 That also will make leftovers mushy (while still tasty).
 I recommend keeping the breasts separate and only adding the sauce when served.
+
+## Contribution
+
+- Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)

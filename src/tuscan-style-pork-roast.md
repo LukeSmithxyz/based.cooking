@@ -20,8 +20,6 @@ Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) 
 - 1 lemon
 - 4 oz pancetta or bacon
 - 1 tsp fresh parsley
-- Kosher salt
-- Freshly ground pepper
 
 ## Directions
 1.	Preheat oven to 275°F

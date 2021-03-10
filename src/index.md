@@ -2,7 +2,7 @@
 
 Only Based cooking. No ads, no tracking, nothing but based cooking.
 
-## Recipe list
+## Recipes
 
 - [Chicken Parmesan](chicken-parmesan.html)
 - [Gnocchi](gnocchi.html)
@@ -13,6 +13,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Tuscan Style Pork Roast](tuscan-style-pork-roast.html)
 - [Flemish Beer and Gingerbread Beef Stew](carbonade.html)
 - [French Mustard Sauce Porkchops](french-mustard-sauce-porkchops.html)
+- [Chicken, Tomato & Spinach Curry](chicken-tomato-spinach-curry.html)
 
 ## Basics
 

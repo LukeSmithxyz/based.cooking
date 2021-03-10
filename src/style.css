@@ -17,3 +17,19 @@ img {
 	margin: auto ;
 	display: block ;
 }
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background: #151515 ;
+		color: white ;
+	}
+	a {
+		color: lightblue ;
+	}
+	a:visited {
+		color: gray ;
+	}
+	h2 {
+		color: tomato ;
+	}
+}

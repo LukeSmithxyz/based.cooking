@@ -13,7 +13,7 @@
 ## Rules for submission
 
 Add reciples as `.md` files to the `src/` directory.
-Look at already existing `.md` files for expemlars
+Look at already existing `.md` files for examples
 or see [example](example.md).
 
 Recipe must be based, i.e. good traditional and substantial food. Nothing

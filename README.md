@@ -2,6 +2,14 @@
 
 [https://based.cooking](https://based.cooking)
 
+## To-do
+
+- get many recipes
+- make and take pictures of recipes
+- decide on CSS/styling, something good-looking and readable, but nothing too complicated
+- search function? See below
+- keep it simple
+
 ## Rules for submission
 
 Add reciples as `.md` files to the `src/` directory.

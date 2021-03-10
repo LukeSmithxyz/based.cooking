@@ -2,6 +2,7 @@
 
 An herbaceous pancetta stuffed pork roast with a crispy exterior. Finished with a lemon vinaigrette.
 Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) whose instructions are notoriously bad
+
 - Prep time: 30 minutes
 - Cook time: 2 hours
 - Serves: 6-8 people
@@ -26,7 +27,7 @@ Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) 
 2.	Butterfly the roast by cutting into three parts by cutting into the side starting a third of the way up the roast. When you get to the end of the roast open it up and repeat for the remaining roast. You're opening it up like a pamphlet. Refer to the video linked above if you're confused.
 2.	Cover with plastic wrap and beat with meat mallet to pound the pork to an even levelness.
 3.	Mince garlic cloves(8) with the rosemary(2 Tbsp). Place into a cold pan with olive oil(⅓ cup) and zest of lemon(1). Keep lemon for later.
-4.	Bring to slow simmer on medium low heat for 2-3 minutes. Strain the herbs making sure to squeeze all excess oil. Reserve oil for later. 
+4.	Bring to slow simmer on medium low heat for 2-3 minutes. Strain the herbs making sure to squeeze all excess oil. Reserve oil for later.
 5.	Add pancetta/bacon(4 oz) to food processor. Pulse a few times before adding the garlic/rosemary mixture. Process until a smooth paste forms.
 6.	Salt and pepper both sides of the roast before placing the roast fat side down and spreading the paste over the roast leaving about a 2 inch gap on one side.
 7.	Roll tightly towards the 2 inch gap and use butchers twine to secure the roll. Place a knot every inch or so.

@@ -12,7 +12,7 @@ The simple use of different spices can change
 
 ## Directions
 
-1. Add some ammount of rice to a pot that has a cover.
+1. Add some amount of rice to a pot that has a cover.
 2. Add twice as much liquid to the same pot. Water is typical, but for extra flavor, use stock or broth.
 3. If desired, dice onion or garlic and mix into rice.
 4. Cover the pot, put it on the stove and turn the heat on the highest level.

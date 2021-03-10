@@ -7,6 +7,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Gnocchi](gnocchi.html)
 - [Slow-cooked Chicken Tacos](chicken-tacos.html)
 - [Beef Stroganoff](stroganoff.html)
+- [Beef or Lamb Stew](beef-stew.html)
 
 ## Basics
 

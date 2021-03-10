@@ -30,7 +30,7 @@ Pick and choose additional ingredients:
 4. Pour over fruit in bowl (if having fruit).
 5. Sprinkle cinnamon (if having cinnamon).
 6. Mix.
-7. Add a spoonfool of peanut butter (if having peanut butter).
+7. Add a spoonful of peanut butter (if having peanut butter).
 
 ## Serving sizes
 

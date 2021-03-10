@@ -4,10 +4,12 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 
 ## Recipe list
 
+- [Chicken Parmesan](chicken-parmesan.html)
 - [Gnocchi](gnocchi.html)
 - [Slow-cooked Chicken Tacos](chicken-tacos.html)
 - [Beef Stroganoff](stroganoff.html)
 - [Beef or Lamb Stew](beef-stew.html)
+- [Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
 
 ## Basics
 

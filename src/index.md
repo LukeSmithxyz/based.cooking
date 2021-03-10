@@ -11,7 +11,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Beef or Lamb Stew](beef-stew.html)
 - [Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
 - [Tuscan Style Pork Roast](tuscan-style-pork-roast.html)
-- [Chicken, Tomato & Spinach Curry] (chicken-tomato-spinach-curry.html)
+- [Chicken, Tomato & Spinach Curry](chicken-tomato-spinach-curry.html)
 
 ## Basics
 

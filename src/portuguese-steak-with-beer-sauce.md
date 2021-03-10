@@ -6,9 +6,7 @@ Bitoque (pronounced bee-tok) is a traditional quintessential Portuguese dish, it
 
 - sirloin steaks
 - garlic
-- Salt q.b. (quanto basta – ‘enough’)
-- Pepper q.b.
-- olive oil q.b.
+- olive oil q.b. (quanto basta – ‘enough’)
 - medium fat milk
 - beer
 - mustard

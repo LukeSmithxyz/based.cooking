@@ -40,4 +40,4 @@ size. My personal "standard serving" is 1/3 cup steel cut or 1/2 cup rolled
 
 ## Contribution
 
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz)
+- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)

@@ -2,7 +2,7 @@
 
 Only Based cooking. No ads, no tracking, nothing but based cooking.
 
-## Recipe list
+## Recipes
 
 - [Chicken Parmesan](chicken-parmesan.html)
 - [Gnocchi](gnocchi.html)

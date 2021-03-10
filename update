@@ -2,6 +2,8 @@
 
 # If you're Luke, add an arg to update the website too.
 
+git pull hub master
+
 #rm dest -rf
 #mkdir -p dest
 ssg5 src dest "Based Cooking (https://based.cooking)" "https://based.cooking"

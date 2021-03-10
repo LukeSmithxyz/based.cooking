@@ -11,6 +11,8 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Beef or Lamb Stew](beef-stew.html)
 - [Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
 - [Tuscan Style Pork Roast](tuscan-style-pork-roast.html)
+- [Flemish Beer and Gingerbread Beef Stew](carbonade.html)
+- [French Mustard Sauce Porkchops](french-mustard-sauce-porkchops.html)
 
 ## Basics
 

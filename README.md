@@ -19,6 +19,11 @@ or see [example](example.md).
 Recipe must be based, i.e. good traditional and substantial food. Nothing
 ironic, meme-tier hyper-sugary, meat-substitute, etc.
 
+### Minor rules
+
+- Don't include salt and pepper and other uniquitous things in the ingredients list.
+- If measurements are used, include metric and American measurements. Do not use decimals in American; round or use fractions.
+
 ## Images
 
 Each recipe can have a title image at the top and perhaps

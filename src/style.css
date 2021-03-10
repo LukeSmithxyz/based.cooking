@@ -1,0 +1,19 @@
+body {
+	max-width: 800px ;
+	margin: auto ;
+	margin-bottom: 500px ;
+}
+
+h1 {
+	text-align: center ;
+}
+
+footer {
+	text-align: center ;
+}
+
+img {
+	max-width: 600px ;
+	margin: auto ;
+	display: block ;
+}

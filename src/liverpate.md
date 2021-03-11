@@ -6,7 +6,6 @@ The last step before eating it raw someday.
 
 ## Ingredients
 
-
 - 1lbs./500g liver (chicken, beef, poultry etc.)
 - 1 Cup Carrots
 - 1 Cup Onions

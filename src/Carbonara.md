@@ -28,7 +28,6 @@ An option here is to make a bain-marie over your boiling pasta pot to melt the c
 The dish is done when the sauce looks a bit runnier than you would like, as it will start to thicken immediately after leaving the pan.
 Add the guanciale back in and give it a quick toss to mix. Plate and optionally garnish with grated cheese and freshly ground black pepper. Voila.
 
-
 ## Contribution
 
 Peter Piontek

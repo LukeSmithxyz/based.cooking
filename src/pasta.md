@@ -18,7 +18,7 @@ Pasta is usually eaten with some kind of [pasta sauce](pasta-sauce.html) or used
 4. Now add pasta.
 5. Keep it boiling, but decrease heat as it tries to overflow.
 6. Wait until pasta is at the preferred softness (see below), then strain it.
-7. While the pasta is sitting in your strainer, you may add basil leaves or other herbs and aromatics. I also recommend taking a knob or so of room tempurature butter and add it in and stirring it, melting it into the pasta.
+7. While the pasta is sitting in your strainer, you may add basil leaves or other herbs and aromatics. I also recommend taking a knob or so of room temperature butter and add it in and stirring it, melting it into the pasta.
 
 ### How long should pasta be cooked?
 

@@ -19,8 +19,8 @@
 3. Season slow-cooker contents liberally with adobo seasoning, paprika and any other desired seasonings, squeeze half of a lime too if desired.
 4. Let cook on low for 8 hours. Cooking on high for less time is possible as well, but a slower cook is preferrable.
 7. Dice the tomato, cilantro, any lettuce and the third onion for taco contents.
-9. Shred chicken with forks once coooked. Optionally add a dash more seasoning for taste or appearance.
-10. Add chicken, cheese and all the diced ingredients to torillas.
+9. Shred chicken with forks once cooked. Optionally add a dash more seasoning for taste or appearance.
+10. Add chicken, cheese and all the diced ingredients to tortillas.
 11. Squeeze remainder of lime over finished product.
 
 ## Contribution

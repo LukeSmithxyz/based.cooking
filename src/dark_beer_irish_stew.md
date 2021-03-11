@@ -25,21 +25,21 @@ Dark Beer Irish Stew
 - Salt and Pepper
 
 ## Directions
-- Cut Pork into medium size chunks, roll in flour, salt and pepper
+1. Cut Pork into medium size chunks, roll in flour, salt and pepper
   mix. Fry in large pot with oil to get a bit of flavour and seal
   the meat. (Take out after and sit in a plate to the side)
-- Put in your sliced Onions, add butter and cook until you get
+2. Put in your sliced Onions, add butter and cook until you get
   translucent Onions. Add Garlic towards the end
-- Stir in 1 Tablespoon flour, or as needed to Onions, stir til no
+3. Stir in 1 Tablespoon flour, or as needed to Onions, stir til no
   clumps.
-- Add beer! (Take sip first) Stir through
-- Add the Celery and Carrots to complete the Holiday Trinity. Add
+4. Add beer! (Take sip first) Stir through
+5. Add the Celery and Carrots to complete the Holiday Trinity. Add
   Beans. Bring up to Simmer temperature.
-- Red Wine Vinegar (2-3 Tablespoons) and Brown Sugar
-- Add Chopped Parsley and Rosemary Sprig
-- Cook down for >1 Hour on low medium heat.
-- Cut Potatoes and Mash (Add butter and Milk plus Salt and Pepper)
-- Serve together and Enjoy!
+6. Red Wine Vinegar (2-3 Tablespoons) and Brown Sugar
+7. Add Chopped Parsley and Rosemary Sprig
+8. Cook down for >1 Hour on low medium heat.
+9. Cut Potatoes and Mash (Add butter and Milk plus Salt and Pepper)
+10. Serve together and Enjoy!
 
 ## Closing Remarks
 Hearty, Winter Stew. And as always, tastes even better the next day for lunch. Guten Appetite !

@@ -288,6 +288,10 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [White chocolate creme brulee](white-chocolate-creme-brulee.html)
 - [Wontons](wontons.html)
 - [Yaki Udon](yaki-udon.html)
+- [Banana Bread](banana-bread.html)
+- [Cacio e Pepe](cacio-e-pepe.html)
+- [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
+- [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
 
 ## Basics
 

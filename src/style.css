@@ -34,3 +34,10 @@ img {
 		color: tomato ;
 	}
 }
+
+@media print {
+	a[href] {
+		text-decoration: none ;
+		color: black ;
+	}
+}

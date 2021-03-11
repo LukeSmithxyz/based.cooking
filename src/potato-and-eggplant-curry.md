@@ -5,6 +5,7 @@ A simple and tasty curry that is easy to customise.
 ## Ingredients
 
 - 1 large eggplant (Aubergine)
+- 2 medium potatoes
 - 3 tbsp olive oil
 - 2 onions (finely sliced)
 - 2 garlic cloves (crushed)

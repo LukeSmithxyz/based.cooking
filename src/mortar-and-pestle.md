@@ -10,7 +10,7 @@ They easily smash garlic, nuts and other things (also automatically removes skin
 This is much better than simple slicing because it squeezes out the juices and tastes of things.
 
 You can also easily make paste (like pesto) and out of herbs and other simple ingredients.
-Many people use a hard-to-clean and expensive electronic food processor to do things like this,
+Many people use a hard-to-clean and expensive electric food processor to do things like this,
 but a larger mortar and pestle could get the job done just as easily.
 
 Do not get porcelain mortar and pestles; they are non-functional and loud.

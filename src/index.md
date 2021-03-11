@@ -22,6 +22,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pasta Sauce](pasta-sauce.html)
 - [Rice](rice.html)
 - [Eggs](eggs.html)
+- [Bread](bread.html)
 
 ## More Info
 

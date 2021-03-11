@@ -33,7 +33,6 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Bread](bread.html)
 - [Sourdough](sourdough.html)
 
-
 ## More Info
 
 - [Table Salt vs. Kosher Salt?](salt.html)

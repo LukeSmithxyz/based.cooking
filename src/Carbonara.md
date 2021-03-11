@@ -1,6 +1,6 @@
 # Carbonara
 
-![carbonara](pix/carbo.webp)
+![carbonara](pix/carbonara.webp)
 
 Carbonara is a simple dish. The quality of your ingredients make or break it.
 I recommend using the best ingredients you can source.

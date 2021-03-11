@@ -28,7 +28,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Miso Ginger Pork](miso-ginger-pork.html)
 - [Pancakes](pancake.html)
 - [Pizza Dough](pizza-dough.html)
-- [Älplermagronen (Alpine maccaroni)](aelplermagronen.html)
+- [Älplermagronen (Alpine macaroni)](aelplermagronen.html)
 
 ## Basics
 

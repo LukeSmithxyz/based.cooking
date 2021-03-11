@@ -74,5 +74,5 @@ This website and all its content is in the public domain.
 By submitting text or images or anything else to this repository,
 you waive any pretense of ownership to it,
 although you are welcome and recommended to give yourself credit
-at the botton of a submitted page for you adding it
+at the bottom of a submitted page for you adding it
 (including personal or donation links).

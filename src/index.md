@@ -29,6 +29,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pancakes](pancake.html)
 - [Pizza Dough](pizza-dough.html)
 - [Liver Pate](liverpate.html)
+- [Flammkuchen](flammkuchen.html)
 
 ## Basics
 

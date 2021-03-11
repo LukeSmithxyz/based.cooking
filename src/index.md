@@ -14,7 +14,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Flemish Beer and Gingerbread Beef Stew](carbonade.html)
 - [French Mustard Sauce Porkchops](french-mustard-sauce-porkchops.html)
 - [Chicken, Tomato & Spinach Curry](chicken-tomato-spinach-curry.html)
-- [Almeirim Stone Soup](almeirim-stone-soup.md)
+- [Almeirim Stone Soup](almeirim-stone-soup.html)
 
 ## Basics
 

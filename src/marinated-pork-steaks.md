@@ -1,6 +1,6 @@
 # Marinated pork steaks 
 
-A tasty simple marinate that fits well with pork.
+A tasty simple marinade that fits well with pork.
 
 - Prep time: 35 minutes
 - Cook time: 10 minutes

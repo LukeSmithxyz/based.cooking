@@ -29,6 +29,9 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pancakes](pancake.html)
 - [Pizza Dough](pizza-dough.html)
 - [Beef Tips with Mashed Potatoes](beef-tips.html)
+- [Älplermagronen (Alpine macaroni)](aelplermagronen.html)
+- [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)
+- [Liver Pate](liverpate.html)
 
 ## Basics
 
@@ -38,6 +41,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Rice](rice.html)
 - [Eggs](eggs.html)
 - [Bread](bread.html)
+- [Sauerkraut](sauerkraut.html)
 
 ## More Info
 

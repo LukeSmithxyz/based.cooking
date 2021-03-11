@@ -4,12 +4,12 @@ This is a recipe for a basic loaf of bread. The dough itself can be used however
 
 ## Ingredients
 
-1 1/2 cups warm water
-2 and 1/4 teaspoons Active Dry Yeast
-1 Tsp sugar
-2 Tbsp  maple syrup, agave, or honey
-1/2 Tbsp salt
-3 3/4 cups Unbleached All-Purpose Flour (plus more for rolling / dusting)
+* 1 1/2 cups warm water
+* 2 and 1/4 teaspoons Active Dry Yeast
+* 1 Tsp sugar
+* 2 Tbsp  maple syrup, agave, or honey
+* 1/2 Tbsp salt
+* 3 3/4 cups Unbleached All-Purpose Flour (plus more for rolling / dusting)
 
 ## Instructions
 

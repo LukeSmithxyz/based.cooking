@@ -37,6 +37,7 @@ for a few minutes beforehand.
 2. Crack eggs into pan and let them coagulate maybe twenty or thirty seconds before scrambling.
 3. Use a rubber spatula to sort of scrape the egg towards the center of the pan.
 You're pushing the cooked egg towards the center while letting the raw egg spill out to be cooked.
+Give the egg a couple seconds to cook before pushing it back towards the center.
 The more you scramble the less fluffy the egg will be.
 4. Finish as normal.
 
@@ -46,3 +47,4 @@ of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
 ## Contribution
 
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
+- Deven Blake -- [website](http://www.trinity.moe)

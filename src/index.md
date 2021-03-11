@@ -28,6 +28,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Miso Ginger Pork](miso-ginger-pork.html)
 - [Pancakes](pancake.html)
 - [Pizza Dough](pizza-dough.html)
+- [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)
 - [Liver Pate](liverpate.html)
 
 ## Basics

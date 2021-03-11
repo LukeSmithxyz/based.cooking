@@ -14,6 +14,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Flemish Beer and Gingerbread Beef Stew](carbonade.html)
 - [French Mustard Sauce Porkchops](french-mustard-sauce-porkchops.html)
 - [Chicken, Tomato & Spinach Curry](chicken-tomato-spinach-curry.html)
+- [Broiled Trevally](broiled-trevally.html)
 
 ## Basics
 

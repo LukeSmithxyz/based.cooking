@@ -1,8 +1,13 @@
 body {
-	max-width: 800px ;
-	margin: auto ;
-	padding: 0 16px ;
+	max-width: 40em ;
+	margin: 1em auto ;
+	padding: 0 .62em ;
 	margin-bottom: 500px ;
+	font: 1.2em/1.62 sans-serif ;
+}
+
+h1,h2,h3 {
+	line-height: 1.2 ;
 }
 
 h1 {
@@ -21,16 +26,25 @@ img {
 
 @media (prefers-color-scheme: dark) {
 	body {
-		background: #151515 ;
-		color: white ;
+		color: #fff ;
+		background: #000 ;
 	}
-	a {
-		color: lightblue ;
+	a:link  {
+		color: #9cf ;
 	}
-	a:visited {
-		color: gray ;
+	a:hover, a:visited:hover {
+		color: #cef ;
+	}
+	a:visited { 
+		color: #c9f ;
 	}
 	h2 {
 		color: tomato ;
+	}
+}
+
+@media print{
+	body {
+		max-width: none ;
 	}
 }

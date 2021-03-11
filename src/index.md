@@ -4,6 +4,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 
 ## Recipes
 
+- [Carbonara](carbonara.html)
 - [Chicken Parmesan](chicken-parmesan.html)
 - [Gnocchi](gnocchi.html)
 - [Slow-cooked Chicken Tacos](chicken-tacos.html)

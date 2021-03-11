@@ -20,6 +20,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Cacio e Pepe](cacio-e-pepe.html)
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
 - [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
+- [Drunken Beans](drunken-beans.html)
 
 ## Basics
 

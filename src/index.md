@@ -12,7 +12,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Baked salmon with fennel & tomatoes](baked-salmon-with-fennel-&-tomatoes.html)
 - [Bakewell tart](bakewell-tart.html)
 - [Banana Pancakes](banana-pancakes.html)
-- [Banana Bread](banana_bread.html)
+- [Banana Bread](banana-bread.html)
 - [Battenberg Cake](battenberg-cake.html)
 - [BBQ Pork Sloppy Joes](bbq-pork-sloppy-joes.html)
 - [Bean & Sausage Hotpot](bean-&-sausage-hotpot.html)
@@ -42,6 +42,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Broiled Trevally](broiled-trevally.html)
 - [Brown Stew Chicken](brown-stew-chicken.html)
 - [Budino Di Ricotta](budino-di-ricotta.html)
+- [Cacio e Pepe](cacio-e-pepe.html)
 - [Cajun spiced fish tacos](cajun-spiced-fish-tacos.html)
 - [Callaloo Jamaican Style](callaloo-jamaican-style.html)
 - [Canadian Butter Tarts](canadian-butter-tarts.html)
@@ -92,6 +93,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Crispy Sausages and Greens](crispy-sausages-and-greens.html)
 - [Crock Pot Chicken Baked Tacos](crock-pot-chicken-baked-tacos.html)
 - [Dal fry](dal-fry.html)
+- [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
 - [Schwarz Bier Irish Stew](dark_beer_irish_stew.html)
 - [Duck Confit](duck-confit.html)
 - [Dundee cake](dundee-cake.html)
@@ -203,6 +205,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Portuguese fish stew (Caldeirada de peixe)](portuguese-fish-stew.html)
 - [Portuguese prego with green piri-piri](portuguese-prego-with-green-piri-piri.html)
 - [Bitoque - Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
+- [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
 - [Potato Gratin with Chicken](potato-gratin-with-chicken.html)
 - [Pouding chomeur](pouding-chomeur.html)
 - [Poutine](poutine.html)
@@ -288,10 +291,6 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [White chocolate creme brulee](white-chocolate-creme-brulee.html)
 - [Wontons](wontons.html)
 - [Yaki Udon](yaki-udon.html)
-- [Banana Bread](banana-bread.html)
-- [Cacio e Pepe](cacio-e-pepe.html)
-- [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
-- [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
 
 ## Basics
 

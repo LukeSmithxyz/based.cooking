@@ -15,6 +15,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [French Mustard Sauce Porkchops](french-mustard-sauce-porkchops.html)
 - [Chicken, Tomato & Spinach Curry](chicken-tomato-spinach-curry.html)
 - [Broiled Trevally](broiled-trevally.html)
+- [Almeirim Stone Soup](almeirim-stone-soup.html)
 
 ## Basics
 

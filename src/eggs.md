@@ -2,7 +2,7 @@
 
 Eggs are great. This page will contain all sorts of "basic" ways of having an
 egg. Feel free to suggest more, as per the instructions on the
-[homepage](inde.html)
+[homepage](index.html).
 
 ## Boiled eggs
 
@@ -36,4 +36,4 @@ of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
 
 ## Contribution
 
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz)
+- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)

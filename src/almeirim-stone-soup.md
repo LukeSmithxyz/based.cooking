@@ -31,4 +31,4 @@
 
 ## Contribution
 
-- Artur Mancha -- [Pleroma](https://pleroma.pt/@lisbonjoker
+- Artur Mancha -- [Pleroma](https://pleroma.pt/@lisbonjoker)

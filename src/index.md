@@ -94,6 +94,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Crock Pot Chicken Baked Tacos](crock-pot-chicken-baked-tacos.html)
 - [Dal fry](dal-fry.html)
 - [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
+- [Drunken Beans](drunken-beans.html)
 - [Schwarz Bier Irish Stew](dark_beer_irish_stew.html)
 - [Duck Confit](duck-confit.html)
 - [Dundee cake](dundee-cake.html)

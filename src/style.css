@@ -43,8 +43,12 @@ img {
 	}
 }
 
-@media print{
-	body {
+@media print {
+  body {
 		max-width: none ;
+  }
+	a[href] {
+		text-decoration: none ;
+		color: black ;
 	}
 }

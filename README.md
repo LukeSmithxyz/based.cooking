@@ -31,7 +31,7 @@ several instructional images as absolutely necessary.
 
 Do not add stock images you found on the internet.
 Take a good picture yourself of the actual dish created.
-If you see a bad or substandard iamge, you may submit a better one.
+If you see a bad or substandard image, you may submit a better one.
 
 Images should be in `.webp` format.
 If you submit an image for say, `chicken-parmesan.md`, it should be added as `pix/chicken-parmesan.webp`.
@@ -74,5 +74,5 @@ This website and all its content is in the public domain.
 By submitting text or images or anything else to this repository,
 you waive any pretense of ownership to it,
 although you are welcome and recommended to give yourself credit
-at the botton of a submitted page for you adding it
+at the bottom of a submitted page for you adding it
 (including personal or donation links).

@@ -9,6 +9,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Slow-cooked Chicken Tacos](chicken-tacos.html)
 - [Beef Stroganoff](stroganoff.html)
 - [Beef or Lamb Stew](beef-stew.html)
+- [Beef Jerky](beef-jerky.html)
 - [Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
 - [Tuscan Style Pork Roast](tuscan-style-pork-roast.html)
 - [Flemish Beer and Gingerbread Beef Stew](carbonade.html)
@@ -17,6 +18,16 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Broiled Trevally](broiled-trevally.html)
 - [Almeirim Stone Soup](almeirim-stone-soup.html)
 - [Chicken Wings](chicken-wings.html)
+- [Banana Bread](banana-bread.html)
+- [Cacio e Pepe](cacio-e-pepe.html)
+- [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
+- [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
+- [Drunken Beans](drunken-beans.html)
+- [Chili con carne](chili-con-carne.html)
+- [Matcha Cookies](matcha-cookies.html)
+- [Miso Ginger Pork](miso-ginger-pork.html)
+- [Pancakes](pancake.html)
+- [Pizza Dough](pizza-dough.html)
 
 ## Basics
 

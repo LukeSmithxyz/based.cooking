@@ -24,3 +24,7 @@
 6. Place about 1/2 cup beef mixture on a cabbage leaf. Roll cabbage around beef mixture, tucking in sides to create an envelope around the meat. Repeat with remaining leaves and meat mixture. Place cabbage rolls in a layer atop the chopped cabbage in the casserole dish; season rolls with salt and black pepper
 7. Whisk tomato soup, tomato juice, and ketchup together in a bowl. Pour tomato soup mixture over cabbage rolls and cover dish wish aluminum foil
 8. Bake in the preheated oven until cabbage is tender and meat is cooked through, about 1 hour.
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com)

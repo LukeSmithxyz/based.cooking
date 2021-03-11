@@ -28,3 +28,7 @@
 10. Let the plantains "fry" on medium heat, shaking the frying pan to redistribute them every few minutes
 11. As the plantains brown, continue to add more cooking oil spray, salt and pepper (if needed) until they have reached the desired color and texture
 12. Remove and serve with kale
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com/)

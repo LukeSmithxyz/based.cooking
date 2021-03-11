@@ -14,3 +14,7 @@
 1. Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together
 2. Heat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens
 3. Garnish with sesame and serve immediately.
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com)

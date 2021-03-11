@@ -15,3 +15,7 @@ You can buy a Slow Cooker for cheap, but it is still one of the most precious to
 - Things that need more cooking should always go at the bottom. For example, potatoes take forever to cook, so put them under your meat. They'll get the extra cooking they need while getting marinated in juices.
 - Only slow-cook dry herbs, not freshly-picked herbs, although you can add freshly-picked herbs in the last 10 or 20 minutes for some extra flavor.
 - Only take off the top to check how things are doing in absolute emergencies. It loses a lot more heat than you might expect when you open that.
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com/)

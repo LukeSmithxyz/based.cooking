@@ -23,3 +23,7 @@
 2. Keep a tablespoon of fat in the casserole and discard the rest. Reduce to medium heat then add the garlic, onion and spinach and cook until the onion is translucent and the spinach wilted or about 5 minutes
 3. Return the lamb to the casserole with the onion-spinach mixture, add the tomato puree, cumin, harissa, chicken, chickpeas, lemon juice, salt and pepper in the pan. Simmer over low heat for about 20 minutes
 4. Add the pasta and cook for 15 minutes or until pasta is cooked.
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com/)

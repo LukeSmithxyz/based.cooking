@@ -32,3 +32,7 @@
 7. Stir the water starch and then pour half of the mixture to the simmering pot. Wait for around 30 seconds and then pour the other half. You can slightly taste the tofu and add pinch of salt if not salty enough. By the way, if you feel it is too spicy, add some sugar can milder the taste. But be carefully as the broth is very hot at this point
 8. Transfer out when almost all the seasonings stick to tofu cubes. Sprinkle Szechuan peppercorn powder (to taste)and chopped garlic greens if using
 9. Serve immediately with steamed rice.
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com/)

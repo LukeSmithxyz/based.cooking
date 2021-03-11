@@ -26,3 +26,7 @@
 8. Mix the cooked curly kale through the cooked mashed potato mixture
 9. Top with slices of the smoked sausage and serve hot with your favorite mustard or gravy
 10. Serve and enjoy!
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com/)

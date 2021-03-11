@@ -32,3 +32,7 @@
 15. Stir and mix the chopped baingan very well with the onion­tomato masala mixture
 16. Season with salt. Stir and saute for some more 4 to 5 minutes more
 17. Finally stir in the coriander leaves with the baingan bharta or garnish it with them. Serve Baingan Bharta with phulkas, rotis or chapatis. It goes well even with bread, toasted or grilled bread and plain rice or jeera rice.
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com/)

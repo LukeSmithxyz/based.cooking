@@ -15,3 +15,7 @@
 3. Pour over the rice krispies in a mixing bowl and mix until all the ingredients are evenly combined. Press evenly into the prepare baking tin and set aside
 4. Melt the milk chocolate in the microwave or over a pan of barely simmering water
 5. Spread the melted chocolate over the rice krispie mixture and leave to set in a cool place. Once set slice into squares and serve!
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com/)

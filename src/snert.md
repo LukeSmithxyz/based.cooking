@@ -25,3 +25,7 @@
 6. If you prefer a smooth consistency, purée the soup with a stick blender. Season to taste with salt and pepper. Add the meat back to the soup, setting some slices of rookworst aside
 7. Serve in heated bowls or soup plates, garnished with slices of rookworst and chopped celery leaf
 8. Enjoy!
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com/)

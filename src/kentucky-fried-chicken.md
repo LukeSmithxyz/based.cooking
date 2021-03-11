@@ -29,3 +29,7 @@
 4. Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit
 5. Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F
 6. Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot.
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com)

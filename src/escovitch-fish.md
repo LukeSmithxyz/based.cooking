@@ -28,3 +28,7 @@
 3. Add, bay leave, garlic and ginger, stir-fry for about a minute making sure the garlic does not burn
 4. Then add onion, bell peppers, thyme, scotch bonnet, sugar, all spice-continue stirring for about 2-3 minutes. Add vinegar, mix an adjust salt and pepper according to preference. Let it simmer for about 2 more minutes. 
 5. Discard bay leave, thyme spring and serve over fish with a side of this bammy. You may make the sauce about 2 days in advance.
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com)

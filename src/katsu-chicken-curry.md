@@ -28,3 +28,7 @@
 4. For the chicken: Season both sides of chicken breasts with salt and pepper. Place flour, egg and breadcrumbs in separate bowls and arrange in a row. Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides
 5. Heat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side. Once cooked, place on kitchen paper to absorb excess oil
 6. Pour curry sauce over chicken, serve with white rice and enjoy!
+
+## Source
+
+- The MealDB -- [Website](https://themealdb.com)

@@ -22,6 +22,11 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
 - [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
 - [Drunken Beans](drunken-beans.html)
+- [Chili con carne](chili-con-carne.html)
+- [Matcha Cookies](matcha-cookies.html)
+- [Miso Ginger Pork](miso-ginger-pork.html)
+- [Pancakes](pancake.html)
+- [Pizza Dough](pizza-dough.html)
 
 ## Basics
 

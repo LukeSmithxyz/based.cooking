@@ -10,7 +10,7 @@ Instant noodles with processed spices are quick but not the most healthy. It's i
 
 - 2 packages of vegetable- or tom yam-quick noodles
 - 1 can coconut milk
-- 200g mushrooms
+- 10 small or 5 big mushrooms
 - 2 eggs
 - A few salad leaves (or practically any veggie you have in the fridge)
 - 1 lime 

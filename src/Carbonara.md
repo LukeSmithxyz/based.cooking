@@ -1,5 +1,7 @@
 # Carbonara
 
+![carbonara](pix/carbo.webp)
+
 Carbonara is a simple dish. The quality of your ingredients make or break it.
 I recommend using the best ingredients you can source.
 Suggestions: bronze extruded pasta, 24 months aged Parmigiano-Reggiano, 12+ months aged Pecorino Romano, guanciale from the butcher, and organic eggs.

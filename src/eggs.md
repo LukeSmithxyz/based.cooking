@@ -31,6 +31,15 @@ for a few minutes beforehand.
 4. Cook until desired dryness.
 5. Season with salt and pepper.
 
+### Scrambled and fluffy
+
+1. Prepare as normal.
+2. Crack eggs into pan and let them coagulate maybe twenty or thirty seconds before scrambling.
+3. Use a rubber spatula to sort of scrape the egg towards the center of the pan.
+You're pushing the cooked egg towards the center while letting the raw egg spill out to be cooked.
+The more you scramble the less fluffy the egg will be.
+4. Finish as normal.
+
 Scrambled eggs are easy to customize. E.g. start by frying any of: onions, bits
 of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
 

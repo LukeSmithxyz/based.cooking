@@ -20,3 +20,5 @@ if you use other flour like rye, you may need more liquid.
 ## Contribution
 
 BeFe
+
+;tags: basic

@@ -18,3 +18,5 @@ Here is a simple Pancake recipe
 ## Contribution
 
 BeFe
+
+;tags: quick basic

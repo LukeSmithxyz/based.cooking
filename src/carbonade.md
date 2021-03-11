@@ -36,3 +36,5 @@ The smoked bacon is not in the traditional recipe but it's good. Don't add it if
 ## Contribution
 
 - anon btc: 1FJSSps89rEMtYm8Vvkp2uyTX9MFpZtcGy
+
+;tags: flemish stew beef

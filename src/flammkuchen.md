@@ -26,3 +26,5 @@ I usually take it down from the baking tray and let it cool down for 2-5 minutes
 ## Contributors
 
 - Bernhard Egger -- [website](https://eggerbernhard.ch), [twitter](https://twitter.com/VisionBernie)
+
+;tags: french pork

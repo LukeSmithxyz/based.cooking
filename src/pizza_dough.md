@@ -5,12 +5,12 @@ if you use other flour like rye, you may need more liquid.
 
 ## Ingredients
 
-400 g Flour (Basic Wheat flour)
-200 ml lukewarm Water
-1 pkg (7g) dry yeast
-1 spoon olive oil
-1 teaspoon salt
-a litte bit sugar
+- 400 g Flour (Basic Wheat flour)
+- 200 ml lukewarm Water
+- 1 pkg (7g) dry yeast
+- 1 spoon olive oil
+- 1 teaspoon salt
+- a litte bit sugar (to feed the yeast)
 
 ## Directions
 1. combine all ingredients all in a bowl and knead to a dough.

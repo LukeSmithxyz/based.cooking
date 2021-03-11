@@ -32,6 +32,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Älplermagronen (Alpine macaroni)](aelplermagronen.html)
 - [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)
 - [Liver Pate](liverpate.html)
+- [Flammkuchen](flammkuchen.html)
 
 ## Basics
 

@@ -21,7 +21,7 @@ ironic, meme-tier hyper-sugary, meat-substitute, etc.
 
 ### Minor rules
 
-- Don't include salt and pepper and other uniquitous things in the ingredients list.
+- Don't include salt and pepper and other ubiquitous things in the ingredients list.
 - If measurements are used, include metric and American measurements. Do not use decimals in American; round or use fractions.
 
 ## Images

@@ -1,4 +1,4 @@
-# Reciple name
+# Recipe name
 
 This is a brief, one or two sentence description of the dish.
 
@@ -24,7 +24,7 @@ Please take your own picture after having followed exactly this recipe.
 5. Looks good.
 6. Obvious,
 
-## Contributers
+## Contributors
 
 <!--
 Put your name or identifier here if you want.

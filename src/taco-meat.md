@@ -9,6 +9,7 @@
 - 1 teaspoon oregano (ground or leaf)
 - 1/4 teaspoon cumin
 - dash of pepper (1/8 teaspoon or less)
+
 ## Directions
 
 1. Brown beef and onion together. Drain grease.

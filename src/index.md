@@ -18,6 +18,8 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Broiled Trevally](broiled-trevally.html)
 - [Almeirim Stone Soup](almeirim-stone-soup.html)
 - [Chicken Wings](chicken-wings.html)
+- [Instant Tom Yam Kung noodle soup](instant-tom-yam-kung-noodle-soup.html)
+- [Marinated Pork Steaks](marinated-pork-steaks.html)
 - [Banana Bread](banana-bread.html)
 - [Cacio e Pepe](cacio-e-pepe.html)
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)

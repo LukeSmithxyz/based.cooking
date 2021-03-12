@@ -2,7 +2,7 @@
 
 name: CI
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
@@ -28,6 +28,7 @@ jobs:
         host: https://based.cooking
         username: based
         key: ${{ secrets.based_ssh }}
+        password: ${{ secrets.based_ssh_pass }}
         script: |
           cd repo
           git pull --force origin master

@@ -4,8 +4,6 @@
 
 - Tortellini
 - 1-2 eggs
-- Salt
-- Pepper
 - Cooking cream
 - Cheese (optional)
 

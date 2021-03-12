@@ -4,7 +4,7 @@ Popular central-asian and middle eastern dish.
 High in nutrition, designed to be prepared and eaten communaly.
 
 ## Ingredients
-- long grain rice: 1 kg.
+- long grain [rice](rice.html): 1 kg.
 - meat (lamb or any other kind of meat): 1.5 kg.
 - carrots: 500 gr.
 - onions: 500 gr.

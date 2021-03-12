@@ -18,6 +18,8 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Broiled Trevally](broiled-trevally.html)
 - [Almeirim Stone Soup](almeirim-stone-soup.html)
 - [Chicken Wings](chicken-wings.html)
+- [Instant Tom Yam Kung noodle soup](instant-tom-yam-kung-noodle-soup.html)
+- [Marinated Pork Steaks](marinated-pork-steaks.html)
 - [Banana Bread](banana-bread.html)
 - [Cacio e Pepe](cacio-e-pepe.html)
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
@@ -34,6 +36,9 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Liver Pate](liverpate.html)
 - [Flammkuchen](flammkuchen.html)
 - [Tortellini](tortellini.html)
+- [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
+- [Taco Meat](taco-meat.html)
+- [Tuna Sub](tuna-sub.html)
 
 ## Basics
 
@@ -42,8 +47,11 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pasta Sauce](pasta-sauce.html)
 - [Rice](rice.html)
 - [Eggs](eggs.html)
+- [Oats](oats.html)
 - [Bread](bread.html)
 - [Sauerkraut](sauerkraut.html)
+- [Yogurt](yogurt.html)
+- [Sweet Potato Fries](sweet-potato-fries.html)
 
 ## More Info
 

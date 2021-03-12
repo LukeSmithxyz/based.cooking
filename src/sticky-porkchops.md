@@ -1,6 +1,6 @@
 # Sticky Porkchops
 
-This is a very easy and simple Japanese style ramen noodle soup. This is very cheap to make, and you can really customise this however you wish with the garnish. This is my own spin inspired by other recipies that I found.
+Simple chinese inspired sticky porkchops.
 
 - ⏲️ Prep time: 3 hours
 - 🍳Cook time: 10 min

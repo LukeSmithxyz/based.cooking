@@ -28,7 +28,8 @@ jobs:
         host: https://based.cooking
         username: based
         key: ${{ secrets.based_ssh }}
-        password: ${{ secrets.based_ssh_pass }}
+        passphrase: ${{ secrets.based_ssh_pass }}
+        port: ${{ secrets.based_port }}
         script: |
           cd repo
           git pull --force origin master

@@ -37,6 +37,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Flammkuchen](flammkuchen.html)
 - [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
 - [Taco Meat](taco-meat.html)
+- [Tuna Sub](tuna-sub.html)
 
 ## Basics
 

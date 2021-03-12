@@ -25,7 +25,7 @@ jobs:
     - name: Updating website.
       uses: appleboy/ssh-action@master
       with:
-        host: https://based.cooking
+        host: based.cooking
         username: based
         key: ${{ secrets.based_ssh }}
         passphrase: ${{ secrets.based_ssh_pass }}

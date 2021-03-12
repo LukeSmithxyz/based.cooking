@@ -36,6 +36,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Liver Pate](liverpate.html)
 - [Flammkuchen](flammkuchen.html)
 - [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
+- [Tuna Sub](tuna-sub.html)
 
 ## Basics
 

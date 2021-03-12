@@ -35,6 +35,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)
 - [Liver Pate](liverpate.html)
 - [Flammkuchen](flammkuchen.html)
+- [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
 
 ## Basics
 
@@ -43,9 +44,11 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pasta Sauce](pasta-sauce.html)
 - [Rice](rice.html)
 - [Eggs](eggs.html)
+- [Oats](oats.html)
 - [Bread](bread.html)
 - [Sauerkraut](sauerkraut.html)
 - [Yogurt](yogurt.html)
+- [Sweet Potato Fries](sweet-potato-fries.html)
 
 ## More Info
 

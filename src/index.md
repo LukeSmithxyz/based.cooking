@@ -40,6 +40,9 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
 - [Taco Meat](taco-meat.html)
 - [Fried Anglerfish Fillet](fried-anglerfish-fillet.html)
+- [Hangover Eggs](hangover-eggs.html)
+- [Caesar Salad](caesar-salad.md)
+- [Maque Choux](maque-choux.html)
 
 ## Basics
 
@@ -53,7 +56,8 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Sauerkraut](sauerkraut.html)
 - [Yogurt](yogurt.html)
 - [Sweet Potato Fries](sweet-potato-fries.html)
-- [Fried potatos](fried_potatos.html)
+- [Fried potatos](fried-potatos.html)
+- [Croutons](croutons.html)
 
 ## More Info
 

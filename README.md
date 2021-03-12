@@ -12,22 +12,19 @@
 
 ## Rules for submission
 
-Add reciples as `.md` files to the `src/` directory.
-Look at already existing `.md` files for examples
-or see [example](example.md).
+- Recipes should be `.md` files in the `src/` directory.  Look at already
+  existing `.md` files for examples or see [example](example.md).
+- File names should be the name of the dish with words separated by hypens
+  (`-`). Not underscores, and definitely not spaces.
+- Recipe must be based, i.e. good traditional and substantial food. Nothing
+  ironic, meme-tier hyper-sugary, meat-substitute, etc.
+- **ADD YOUR RECIPE TO THE LIST ON `index.md` OR NO ONE WILL EVER SEE IT.**
+- Don't include salt and pepper and other ubiquitous things in the ingredients
+  list.
 
-Recipe must be based, i.e. good traditional and substantial food. Nothing
-ironic, meme-tier hyper-sugary, meat-substitute, etc.
+**If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
 
-**ADD YOUR RECIPE TO THE LIST ON `index.md` OR NO ONE WILL EVER SEE IT.**
-I've been having to remind most submitters of this, but it's all so tiresome
-so I'm just going to let you add ghost pages now if you don't listen!
-
-### Minor rules
-
-- Don't include salt and pepper and other ubiquitous things in the ingredients list.
-
-## Images
+### Images
 
 Each recipe can have a title image at the top and perhaps
 several instructional images as absolutely necessary.

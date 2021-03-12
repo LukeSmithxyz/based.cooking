@@ -44,6 +44,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Caesar Salad](caesar-salad.html)
 - [Maque Choux](maque-choux.html)
 - [Ragù](ragu.html)
+- [Scandinavian Coffee Cake](scandinavian-coffee-cake.html)
 
 ## Basics
 

@@ -13,6 +13,7 @@
 * melted butter, or margarine
 * 2/3 cup firmly packed brown sugar
 * 2 teaspoon cinnamon
+* chopped walnuts
 
 ## Directions
 

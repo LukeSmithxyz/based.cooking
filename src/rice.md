@@ -6,7 +6,7 @@ The simple use of different spices can change
 ## Ingredients
 
 - rice
-- [chicken stock](chicken-stock.html) (optional)
+- [chicken stock](chicken-stock-bone-broth.html) (optional)
 - onion or garlic (optional)
 - lime and cilantro (optional, for a Mexican taste)
 

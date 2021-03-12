@@ -18,7 +18,7 @@ it dissolves so quickly.
 
 Table salt has iodine and other additives.
 
-Its history is somewhat analogous to the addition of flouride to municiple
+Its history is somewhat analogous to the addition of fluoride to municipal
 water supplies.  Nearly a hundred years ago, the U.S. government began working
 with corporations to add iodine to salt ostensibly because they were concerned
 about people having iodine deficiencies.

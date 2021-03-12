@@ -21,7 +21,7 @@ Serves 4
 3. Sear the porkchops on high heat on cast iron or stainless steel pan until golden brown on each side, and cook them through on lower heat..
 4. Once the porkchops are cooked, set them aside in a warm environment.
 5. Sweat the shallots in the same pan.
-6. Deglaze with white wine, let it reduce until there's about two teaspons left.
+6. Deglaze with white wine, let it reduce until there's about two teaspoons left.
 7. Add the stock.
 8. Add the gherkins.
 9. Mix in the mustard.

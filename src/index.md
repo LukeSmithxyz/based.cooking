@@ -44,6 +44,8 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Caesar Salad](caesar-salad.html)
 - [Maque Choux](maque-choux.html)
 - [Ragù](ragu.html)
+- [Japanese Noodle Soup](japanese-noodle-soup.html)
+- [Sticky Porkchops](sticky-porkchops.html)
 
 ## Basics
 

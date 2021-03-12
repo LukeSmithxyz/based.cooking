@@ -40,6 +40,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
 - [Taco Meat](taco-meat.html)
 - [Fried Anglerfish Fillet](fried-anglerfish-fillet.html)
+- [Scandanavian Coffee Cake](scandanavian-coffee-cake.html)
 
 ## Basics
 

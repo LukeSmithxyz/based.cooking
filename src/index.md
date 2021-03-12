@@ -309,6 +309,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Rice](rice.html)
 - [Eggs](eggs.html)
 - [Bread](bread.html)
+- [Sauerkraut](sauerkraut.html)
 
 ## More Info
 

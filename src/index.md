@@ -31,6 +31,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Miso Ginger Pork](miso-ginger-pork.html)
 - [Pancakes](pancake.html)
 - [Pizza Dough](pizza-dough.html)
+- [Plov](plov.md)
 - [Beef Tips with Mashed Potatoes](beef-tips.html)
 - [Älplermagronen (Alpine macaroni)](aelplermagronen.html)
 - [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)

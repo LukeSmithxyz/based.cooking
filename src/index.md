@@ -33,6 +33,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pizza Dough](pizza-dough.html)
 - [Beef Tips with Mashed Potatoes](beef-tips.html)
 - [Älplermagronen (Alpine macaroni)](aelplermagronen.html)
+- [Rösti](roesti.html)
 - [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)
 - [Liver Pate](liverpate.html)
 - [Flammkuchen](flammkuchen.html)

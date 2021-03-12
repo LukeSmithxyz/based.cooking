@@ -5,11 +5,11 @@ Note: You may also need a blender / food processor.
 
 ## Ingredients
 
-- Any quantity of chicken breast
-- 100ml of virgin olive oil
+- 500g or 1lb of chicken breast
+- Virgin olive oil (1/2 cup or ~100ml)
 - Fresh tomatoes of any variety (10 - 15 medium sized)
 - Two medium sized onions
-- More spinach than you think you need
+- 250g or 1/2lbs of *fresh* spinach
 - Curry powder of your favourite variety
 - Red chillis (or red chilli paste)
 - Any extra herbs or spices to your taste

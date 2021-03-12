@@ -18,10 +18,24 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Broiled Trevally](broiled-trevally.html)
 - [Almeirim Stone Soup](almeirim-stone-soup.html)
 - [Chicken Wings](chicken-wings.html)
+- [Instant Tom Yam Kung noodle soup](instant-tom-yam-kung-noodle-soup.html)
+- [Marinated Pork Steaks](marinated-pork-steaks.html)
 - [Banana Bread](banana-bread.html)
 - [Cacio e Pepe](cacio-e-pepe.html)
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
 - [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
+- [Drunken Beans](drunken-beans.html)
+- [Chili con carne](chili-con-carne.html)
+- [Matcha Cookies](matcha-cookies.html)
+- [Miso Ginger Pork](miso-ginger-pork.html)
+- [Pancakes](pancake.html)
+- [Pizza Dough](pizza-dough.html)
+- [Beef Tips with Mashed Potatoes](beef-tips.html)
+- [Älplermagronen (Alpine macaroni)](aelplermagronen.html)
+- [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)
+- [Liver Pate](liverpate.html)
+- [Flammkuchen](flammkuchen.html)
+- [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
 
 ## Basics
 
@@ -30,7 +44,11 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pasta Sauce](pasta-sauce.html)
 - [Rice](rice.html)
 - [Eggs](eggs.html)
+- [Oats](oats.html)
 - [Bread](bread.html)
+- [Sauerkraut](sauerkraut.html)
+- [Yogurt](yogurt.html)
+- [Sweet Potato Fries](sweet-potato-fries.html)
 
 ## More Info
 

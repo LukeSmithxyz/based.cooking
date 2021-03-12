@@ -64,7 +64,9 @@ tags/%: $(BLOG_SRC)/%.md
 blog/index.html: $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header index_header tag_list_header tag_entry tag_separator tag_list_footer article_list_header article_entry article_separator article_list_footer index_footer footer))
 	mkdir -p blog
 	TITLE="$(BLOG_TITLE)"; \
+	PAGE_TITLE="$(BLOG_TITLE)"; \
 	export TITLE; \
+	export PAGE_TITLE; \
 	envsubst < templates/header.html > $@; \
 	envsubst < templates/index_header.html >> $@; \
 	envsubst < templates/tag_list_header.html >> $@; \
@@ -103,10 +105,12 @@ tagpages: $(TAGFILES)
 
 blog/@%.html: $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header tag_index_header tag_list_header tag_entry tag_separator tag_list_footer article_list_header article_entry article_separator article_list_footer tag_index_footer footer))
 	mkdir -p blog
-	TITLE="Articles tagged $*"; \
+	PAGE_TITLE="Articles tagged $* — $(BLOG_TITLE)"; \
 	TAGS="$*"; \
-	export TITLE; \
+	TITLE="$(BLOG_TITLE)"; \
+	export PAGE_TITLE; \
 	export TAGS; \
+	export TITLE; \
 	envsubst < templates/header.html > $@; \
 	envsubst < templates/tag_index_header.html >> $@; \
 	envsubst < templates/article_list_header.html >> $@; \
@@ -129,8 +133,10 @@ blog/@%.html: $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header tag_in
 
 blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header article_header article_footer footer))
 	mkdir -p blog
-	TITLE="$(shell head -n1 $<)"; \
+	TITLE="$(shell head -n1 $< | sed 's/^# \+//')"; \
 	export TITLE; \
+	PAGE_TITLE="$${TITLE} — $(BLOG_TITLE)"; \
+	export PAGE_TITLE; \
 	AUTHOR="$(shell git log --format="%an" -- "$<" | tail -n 1)"; \
 	export AUTHOR; \
 	DATE_POSTED="$(shell git log --diff-filter=A --date="format:$(BLOG_DATE_FORMAT)" --pretty=format:'%ad' -- "$<")"; \

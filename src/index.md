@@ -47,6 +47,8 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Maque Choux](maque-choux.html)
 - [Ragù](ragu.html)
 - [Scandinavian Coffee Cake](scandinavian-coffee-cake.html)
+- [Japanese Noodle Soup](japanese-noodle-soup.html)
+- [Sticky Porkchops](sticky-porkchops.html)
 - [chilli-con-pork](pork-based-chilli-con-carne.html)
 
 ## Basics

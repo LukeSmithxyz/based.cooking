@@ -36,10 +36,11 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Liver Pate](liverpate.html)
 - [Flammkuchen](flammkuchen.html)
 - [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
+- [Taco Meat](taco-meat.html)
+- [Tuna Sub](tuna-sub.html)
 
 ## Basics
 
-- [Fried potatos](fried_potatos.html)
 - [Chicken Stock and Bone Broth](chicken-stock-bone-broth.html)
 - [Pasta (store bought)](pasta.html)
 - [Pasta Sauce](pasta-sauce.html)
@@ -50,6 +51,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Sauerkraut](sauerkraut.html)
 - [Yogurt](yogurt.html)
 - [Sweet Potato Fries](sweet-potato-fries.html)
+- [Fried potatos](fried_potatos.html)
 
 ## More Info
 

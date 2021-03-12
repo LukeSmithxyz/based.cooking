@@ -31,7 +31,7 @@ for a few minutes beforehand.
 4. Cook until desired dryness.
 5. Season with salt and pepper.
 
-### Scrambled and fluffy
+## Scrambled and fluffy
 
 1. Prepare as normal.
 2. Crack eggs into pan and let them coagulate maybe twenty or thirty seconds before scrambling.

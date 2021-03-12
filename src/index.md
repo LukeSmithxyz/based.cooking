@@ -6,6 +6,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 
 - [Carbonara](carbonara.html)
 - [Chicken Parmesan](chicken-parmesan.html)
+- [Chicken Pasta Casserole](chicken-pasta-casserole.html)
 - [Gnocchi](gnocchi.html)
 - [Slow-cooked Chicken Tacos](chicken-tacos.html)
 - [Beef Stroganoff](stroganoff.html)
@@ -33,6 +34,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pizza Dough](pizza-dough.html)
 - [Beef Tips with Mashed Potatoes](beef-tips.html)
 - [Älplermagronen (Alpine macaroni)](aelplermagronen.html)
+- [Rösti](roesti.html)
 - [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)
 - [Liver Pate](liverpate.html)
 - [Flammkuchen](flammkuchen.html)
@@ -44,6 +46,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Caesar Salad](caesar-salad.html)
 - [Maque Choux](maque-choux.html)
 - [Ragù](ragu.html)
+- [Scandinavian Coffee Cake](scandinavian-coffee-cake.html)
 - [Japanese Noodle Soup](japanese-noodle-soup.html)
 - [Sticky Porkchops](sticky-porkchops.html)
 

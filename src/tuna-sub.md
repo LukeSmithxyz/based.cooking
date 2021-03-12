@@ -1,6 +1,6 @@
 # Tuna Sub
 
-Use the best tuna you find, I like oil-packed but water is OK. Someone you know has a tuna salad recipe.
+Use the best tuna you can find. I like oil-packed but water is OK. Someone you know has a tuna salad recipe. 
 
 ## Ingredients
 
@@ -8,10 +8,10 @@ Use the best tuna you find, I like oil-packed but water is OK. Someone you know 
 - Sandwich bun or bread (a good one)
 - Thinly sliced cheese (your favorite)
 - Sliced tomatoes
-- Baby spinich leaves
+- Baby spinach leaves
 - Pickles
-- Mayo and Mustard
-- Other sandwich toppings (very little out of bounds here)
+- Mayo and mustard
+- Other sandwich toppings (very little out of bounds here).
 
 ## Directions
 
@@ -22,8 +22,7 @@ Use the best tuna you find, I like oil-packed but water is OK. Someone you know 
 5. Add sliced tomatoes
 6. Add pickle slices
 7. Season with salt and pepper to taste
-8. Combine halves and enjoy!.
-
+8. Combine halves and enjoy.
 
 ## Contribution
-- Kevin Hauskins
+- I don't think you could call it that.

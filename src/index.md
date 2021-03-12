@@ -4,6 +4,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 
 ## Recipes
 
+- [Carbonara](carbonara.html)
 - [Chicken Parmesan](chicken-parmesan.html)
 - [Gnocchi](gnocchi.html)
 - [Slow-cooked Chicken Tacos](chicken-tacos.html)
@@ -18,6 +19,8 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Broiled Trevally](broiled-trevally.html)
 - [Almeirim Stone Soup](almeirim-stone-soup.html)
 - [Chicken Wings](chicken-wings.html)
+- [Instant Tom Yam Kung noodle soup](instant-tom-yam-kung-noodle-soup.html)
+- [Marinated Pork Steaks](marinated-pork-steaks.html)
 - [Banana Bread](banana-bread.html)
 - [Cacio e Pepe](cacio-e-pepe.html)
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
@@ -33,6 +36,14 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Chicken Biscuit Potpie](chicken-biscuit-potpie.html)
 - [Liver Pate](liverpate.html)
 - [Flammkuchen](flammkuchen.html)
+- [Tortellini](tortellini.html)
+- [Banana Muffins with Chocolate](banana-muffins-with-chocolate.html)
+- [Taco Meat](taco-meat.html)
+- [Fried Anglerfish Fillet](fried-anglerfish-fillet.html)
+- [Hangover Eggs](hangover-eggs.html)
+- [Caesar Salad](caesar-salad.html)
+- [Maque Choux](maque-choux.html)
+- [Ragù](ragu.html)
 
 ## Basics
 
@@ -41,8 +52,13 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Pasta Sauce](pasta-sauce.html)
 - [Rice](rice.html)
 - [Eggs](eggs.html)
+- [Oats](oats.html)
 - [Bread](bread.html)
 - [Sauerkraut](sauerkraut.html)
+- [Yogurt](yogurt.html)
+- [Sweet Potato Fries](sweet-potato-fries.html)
+- [Fried potatos](fried-potatos.html)
+- [Croutons](croutons.html)
 
 ## More Info
 

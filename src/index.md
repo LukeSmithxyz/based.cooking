@@ -44,6 +44,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Oats](oats.html)
 - [Bread](bread.html)
 - [Sauerkraut](sauerkraut.html)
+- [Sweet Potato Fries](sweet-potato-fries.html)
 
 ## More Info
 

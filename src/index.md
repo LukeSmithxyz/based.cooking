@@ -45,6 +45,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Eggs](eggs.html)
 - [Bread](bread.html)
 - [Sauerkraut](sauerkraut.html)
+- [Yogurt](yogurt.html)
 
 ## More Info
 

@@ -13,7 +13,7 @@ A simple, tasty, and healthy carb based snack.
 
 ## Instructions
 
-1. Set oven heat to 425°F.
+1. Set oven heat to 425°F (220°C).
 2. Grab a pan and put a layer of parchment paper (or aluminum foil) on it.
 3. Chop the potato(es) on your cutting board with a sharp knife throwing them onto the pan.
 4. Drizzle the fries with olive oil. Toss the fries with clean hands to coat the fries in olive oil. Now wash your hands with soap to remove excess olive oil.

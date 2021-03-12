@@ -36,7 +36,7 @@
 13. From the outside, cut through the ring toward center almost all the way through in 1- inch slices.
 14. Fan out slices slightly to side.
 15. Brush with shortening; cover; let it rise for about 45 minutes or till double in bulk.
-16. Meanwhile set oven for moderate 375°F.
+16. Meanwhile set oven for moderate 375°F (190°C).
 17. Bake 25 to 30 minutes.
 18. While warm spread with confectioners' sugar icing; sprinkle with chopped walnuts.
 

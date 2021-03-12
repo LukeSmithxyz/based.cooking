@@ -50,6 +50,17 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Japanese Noodle Soup](japanese-noodle-soup.html)
 - [Sticky Porkchops](sticky-porkchops.html)
 - [chilli-con-pork](pork-based-chilli-con-carne.html)
+- [Beef Goulash](beef-goulash.html)
+- [Cheesy Meatballs with Tomato Sauce](cheesy-meatballs.html)
+- [Country Breakfast Skillet](country-skillet.html)
+- [Creamy Mashed Potatoes](creamy-mashed-potatoes.html)
+- [Fresh Guacamole](guacamole.html)
+- [Merchant's Buckwheat](merchants-buckwheat.html)
+- [Pasta Navy Style](pasta-navy-style.html)
+- [Pan-seared Chicken Fillet](pan-seared-chicken.html)
+- [Parmesan Potatoes](parmesan-potatoes.html)
+- [Refried Beans](refried-beans.html)
+- [Sunday Morning Milkshake](sunday-milkshake.html)
 
 ## Basics
 

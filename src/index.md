@@ -6,6 +6,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 
 - [Carbonara](carbonara.html)
 - [Chicken Parmesan](chicken-parmesan.html)
+- [Chicken Pasta Casserole](chicken-pasta-casserole.html)
 - [Gnocchi](gnocchi.html)
 - [Slow-cooked Chicken Tacos](chicken-tacos.html)
 - [Beef Stroganoff](stroganoff.html)

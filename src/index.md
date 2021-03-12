@@ -41,7 +41,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Taco Meat](taco-meat.html)
 - [Fried Anglerfish Fillet](fried-anglerfish-fillet.html)
 - [Hangover Eggs](hangover-eggs.html)
-- [Caesar Salad](caesar-salad.md)
+- [Caesar Salad](caesar-salad.html)
 - [Maque Choux](maque-choux.html)
 
 ## Basics

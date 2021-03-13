@@ -63,6 +63,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Refried Beans](refried-beans.html)
 - [Sunday Morning Milkshake](sunday-milkshake.html)
 - [Quesadilla](quesadilla.html)
+- [Tuna Sub](tuna-sub.html)
 
 ## Basics
 

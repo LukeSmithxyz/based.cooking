@@ -7,9 +7,7 @@ How to roast chicken breast with a "leave-in" probe thermometer. The thermometer
 
 - Boneless skinless chicken breast(s)
 - 1/4 stick of butter per chicken breast
-- Salt
-- Pepper
-- Other seasoning (optional)
+- Seasoning (optional)
 
 ## Directions
 

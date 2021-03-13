@@ -5,7 +5,7 @@ Matcha is a type of tea leaf powder that has a beautiful vivid green color. Howe
 ## Ingredients
 (for 13 cookies, 8 ~ 9cm in diameter)
 
-- 115 g Unsalted butter
+- 115g Unsalted butter
 - 60g Caster sugar
 - 115g Brown sugar
 - 55g Egg
@@ -25,7 +25,7 @@ Matcha is a type of tea leaf powder that has a beautiful vivid green color. Howe
 4. Add flour, matcha powder and baking soda and mix with a whisk until you can hardly see the powder.
 5. Add white coverture chocolate  and macadamia and mix evenly with spatula.
 6. Allow 30 minutes to 1 hour in the refrigerator until the dough hardens.
-7. Pan with a 5cm diameter cookie and bake at 170 ° C for 9 minutes. (Unox convection oven)
+7. Pan with a 5cm diameter cookie and bake at 170°C (338°F) for 9 minutes. (Unox convection oven)
 
 * Preheat the oven beforehand. My oven is very hot, so raise the oven temperature a little bit higher if you have common oven.
 * If you bake too little, it will not be cooked. If you bake too long, it will become hard.

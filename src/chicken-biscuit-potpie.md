@@ -12,7 +12,7 @@
 
 ## Directions
 
-1. Preheat oven to 400°. In a large bowl, combine the vegetables, chicken, soup and thyme. Pour into an ungreased deep-dish 9-in. pie plate. Combine the biscuit mix, milk and egg; spoon over chicken mixture.
+1. Preheat oven to 400°F (200°C). In a large bowl, combine the vegetables, chicken, soup and thyme. Pour into an ungreased deep-dish 9-in. pie plate. Combine the biscuit mix, milk and egg; spoon over chicken mixture.
 2. Bake until topping is golden brown and toothpick inserted in the center comes out clean, 25-30 minutes.
 
 ## Contribution

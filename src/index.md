@@ -51,6 +51,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Sticky Porkchops](sticky-porkchops.html)
 - [chilli-con-pork](pork-based-chilli-con-carne.html)
 - [Beef Goulash](beef-goulash.html)
+- [Omelet](omelet.html)
 - [Cheesy Meatballs with Tomato Sauce](cheesy-meatballs.html)
 - [Country Breakfast Skillet](country-skillet.html)
 - [Creamy Mashed Potatoes](creamy-mashed-potatoes.html)

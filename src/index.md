@@ -31,6 +31,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Matcha Cookies](matcha-cookies.html)
 - [Miso Ginger Pork](miso-ginger-pork.html)
 - [Pancakes](pancake.html)
+- [Oaty Pancakes](oaty-pancakes.html)
 - [Pizza Dough](pizza-dough.html)
 - [Beef Tips with Mashed Potatoes](beef-tips.html)
 - [Älplermagronen (Alpine macaroni)](aelplermagronen.html)

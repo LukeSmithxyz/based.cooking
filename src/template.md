@@ -1,4 +1,4 @@
-# Reciple name
+# Recipe name
 
 This is a brief, one or two sentence description of the dish.
 
@@ -19,12 +19,12 @@ Please take your own picture after having followed exactly this recipe.
 3. just for convenience's sake.
 4. If necessary, include directional images between these items.
 
-![like this](lol.jpg)
+![like this](lol.webp)
 
 5. Looks good.
 6. Obvious,
 
-## Contributers
+## Contributors
 
 <!--
 Put your name or identifier here if you want.

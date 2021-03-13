@@ -1,6 +1,7 @@
 body {
 	max-width: 800px ;
 	margin: auto ;
+	padding: 0 16px ;
 	margin-bottom: 500px ;
 }
 
@@ -14,6 +15,7 @@ footer {
 
 img {
 	max-width: 600px ;
+	width: 100% ;
 	margin: auto ;
 	display: block ;
 }
@@ -31,5 +33,12 @@ img {
 	}
 	h2 {
 		color: tomato ;
+	}
+}
+
+@media print {
+	a[href] {
+		text-decoration: none ;
+		color: black ;
 	}
 }

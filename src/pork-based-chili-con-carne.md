@@ -29,12 +29,11 @@ Mince should be broken up well before cooking.
 4. Bacon add
 5. Add 3/4 of tomato sauce
 6. Add chilis and chorizo
-7. Add spices and beans. Then wait until audible spitting of sauce has lasted for around 40 mins
+7. Add spices and beans. Then wait until audible spitting of sauce has lasted for around 40 min
 8. Add remainder of sauce
 9. Add wine
-10. Lower flame, cover pan, then maintain a gentle simmer for 20 mins
+10. Lower flame, cover pan, then maintain a gentle simmer for 20-40 min
 
 ## Contribution
 
-This dish reminds me of my grandma.
 jacobsiggins.co.uk

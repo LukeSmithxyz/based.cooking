@@ -72,6 +72,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 
 ## Basics
 
+- [Cajun Seasoning](cajun-seasoning.html)
 - [Chicken Stock and Bone Broth](chicken-stock-bone-broth.html)
 - [Pasta (store bought)](pasta.html)
 - [Pasta Sauce](pasta-sauce.html)

@@ -53,7 +53,6 @@ syrup over before serving.
 or coffee. Pour syrup over the pile of buttered pancakes
 and serve bacon or sausages alongside if you like.
 
-
 ## Contribution
 
 BeFe

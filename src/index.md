@@ -44,6 +44,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Fried Anglerfish Fillet](fried-anglerfish-fillet.html)
 - [Hangover Eggs](hangover-eggs.html)
 - [Caesar Salad](caesar-salad.html)
+- [Stuffed Round Squash](stuffed-round-squash.html)
 - [Maque Choux](maque-choux.html)
 - [Ragù](ragu.html)
 - [Scandinavian Coffee Cake](scandinavian-coffee-cake.html)

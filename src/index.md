@@ -69,6 +69,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Peanut Butter](peanut-butter.html)
 - [Hummus](hummus.html)
 - [Ginataang Kalabasa](ginataang-kalabasa.html)
+- [Simple Sauce](simple-sauce.html)
 
 ## Basics
 

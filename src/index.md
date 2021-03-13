@@ -12,6 +12,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Beef Stroganoff](stroganoff.html)
 - [Beef or Lamb Stew](beef-stew.html)
 - [Beef Jerky](beef-jerky.html)
+- [Hamburger Patties](hamburger-patties.html)
 - [Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
 - [Tuscan Style Pork Roast](tuscan-style-pork-roast.html)
 - [Flemish Beer and Gingerbread Beef Stew](carbonade.html)
@@ -27,7 +28,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
 - [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
 - [Drunken Beans](drunken-beans.html)
-- [Chili con carne](chili-con-carne.html)
+- [Chili con Carne](chili-con-carne.html)
 - [Matcha Cookies](matcha-cookies.html)
 - [Miso Ginger Pork](miso-ginger-pork.html)
 - [Pancakes](pancake.html)
@@ -49,7 +50,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Scandinavian Coffee Cake](scandinavian-coffee-cake.html)
 - [Japanese Noodle Soup](japanese-noodle-soup.html)
 - [Sticky Porkchops](sticky-porkchops.html)
-- [chilli-con-pork](pork-based-chilli-con-carne.html)
+- [Pork-based Chili con Carne](pork-based-chili-con-carne.html)
 - [Beef Goulash](beef-goulash.html)
 - [Omelet](omelet.html)
 - [Cheesy Meatballs with Tomato Sauce](cheesy-meatballs.html)
@@ -65,6 +66,9 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Quesadilla](quesadilla.html)
 - [Tuna Sub](tuna-sub.html)
 - [Spaghetti and Meatballs](spaghetti-and-meatballs.html)
+- [Peanut Butter](peanut-butter.html)
+- [Hummus](hummus.html)
+- [Ginataang Kalabasa](ginataang-kalabasa.html)
 
 ## Basics
 
@@ -79,7 +83,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Sauerkraut](sauerkraut.html)
 - [Yogurt](yogurt.html)
 - [Sweet Potato Fries](sweet-potato-fries.html)
-- [Fried potatos](fried-potatos.html)
+- [Fried Potatoes](fried-potatoes.html)
 - [Croutons](croutons.html)
 
 ## More Info

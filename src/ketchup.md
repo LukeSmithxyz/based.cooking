@@ -1,6 +1,6 @@
-# Kethcup
+# Ketchup
 
-- Kethcup/Catsup
+- Ketchup/Catsup
 
 ## Ingredients
 
@@ -14,10 +14,10 @@
 * 1 teaspoon paprika
 * 1 teaspoon whole cloves
 * a dash cayenne pepper
-* 
+
 ## Directions
 
-1.Simmer together tomatoes and onion for 20 to 30 minutes; press through a sieve.
+1. Simmer together tomatoes and onion for 20 to 30 minutes; press through a sieve.
 2. Put the cinnamon, cloves, and garlic loosely in a clean, thin, white cloth; tie top tightly; add to vinegar and simmer 30 minutes.
 3. Remove spice bag.
 4. Boil tomato mixture rapidly until you have but one-half the original amount.

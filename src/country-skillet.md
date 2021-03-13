@@ -26,7 +26,7 @@ have used, but seldom use.
 * 2 small/medium-sized potatoes
 * Salt
 * Black pepper
-* 4-6 bacon stripes*
+* 4-6 bacon strips*
 * ½ an onion*
 * Cheese (I usually use Gouda)*
 * Paprika*

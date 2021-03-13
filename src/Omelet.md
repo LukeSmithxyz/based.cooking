@@ -1,6 +1,8 @@
 # Omelet
 
-- Produces roughly 4 Omelets
+- ⏲️ Prep time: 10 min
+- 🍳Cook time: ≈ 30 min
+- 🍽️ Servings: 4 Omelets
 
 ## Ingredients
 

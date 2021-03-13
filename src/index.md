@@ -65,6 +65,8 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Quesadilla](quesadilla.html)
 - [Tuna Sub](tuna-sub.html)
 - [Peanut Butter](peanut-butter.html)
+- [Hummus](hummus.html)
+- [Ginataang Kalabasa](ginataang-kalabasa.html)
 
 ## Basics
 

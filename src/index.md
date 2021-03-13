@@ -27,7 +27,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
 - [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
 - [Drunken Beans](drunken-beans.html)
-- [Chili con carne](chili-con-carne.html)
+- [Chili con Carne](chili-con-carne.html)
 - [Matcha Cookies](matcha-cookies.html)
 - [Miso Ginger Pork](miso-ginger-pork.html)
 - [Pancakes](pancake.html)
@@ -49,7 +49,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Scandinavian Coffee Cake](scandinavian-coffee-cake.html)
 - [Japanese Noodle Soup](japanese-noodle-soup.html)
 - [Sticky Porkchops](sticky-porkchops.html)
-- [chilli-con-pork](pork-based-chilli-con-carne.html)
+- [Pork-based Chili con Carne](pork-based-chili-con-carne.html)
 - [Beef Goulash](beef-goulash.html)
 - [Omelet](omelet.html)
 - [Cheesy Meatballs with Tomato Sauce](cheesy-meatballs.html)
@@ -78,7 +78,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Sauerkraut](sauerkraut.html)
 - [Yogurt](yogurt.html)
 - [Sweet Potato Fries](sweet-potato-fries.html)
-- [Fried potatos](fried-potatos.html)
+- [Fried Potatoes](fried-potatoes.html)
 - [Croutons](croutons.html)
 
 ## More Info

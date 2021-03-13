@@ -25,7 +25,7 @@
 9. add 1/2 cup to 1 cup (250-500 mL) water or broth
 10. add white parts of green onion and ginger
 11. add miso paste to taste
-12. simmer stiring occassionally
+12. simmer stirring occasionally
 13. add zucchini or bok choy, cook al dente
 14. serve pork & veggies over bed of rice, garnish with green onion
 15. (optional) add some spice! Sriracha or crushed red pepper are great.

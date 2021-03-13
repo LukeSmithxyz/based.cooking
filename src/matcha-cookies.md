@@ -5,7 +5,7 @@ Matcha is a type of tea leaf powder that has a beautiful vivid green color. Howe
 ## Ingredients
 (for 13 cookies, 8 ~ 9cm in diameter)
 
-- 115 g Unsalted butter
+- 115g Unsalted butter
 - 60g Caster sugar
 - 115g Brown sugar
 - 55g Egg

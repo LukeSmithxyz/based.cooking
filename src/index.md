@@ -12,6 +12,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Beef Stroganoff](stroganoff.html)
 - [Beef or Lamb Stew](beef-stew.html)
 - [Beef Jerky](beef-jerky.html)
+- [Hamburger Patties](hamburger-patties.html)
 - [Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
 - [Tuscan Style Pork Roast](tuscan-style-pork-roast.html)
 - [Flemish Beer and Gingerbread Beef Stew](carbonade.html)

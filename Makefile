@@ -16,7 +16,7 @@ BLOG_FEEDS ?= rss atom
 BLOG_SRC ?= articles
 
 
-.PHONY: help init build deploy clean
+.PHONY: help init build deploy clean taglist
 
 ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/ 2>/dev/null)
 TAGFILES = $(patsubst $(BLOG_SRC)/%.md,tags/%,$(ARTICLES))
@@ -184,3 +184,6 @@ blog/atom.xml: $(ARTICLES)
 			"`sed -n '1d;/^$$/{2{d;b};q};p' < $$FILE`"; \
 	done >> $@
 	printf '</feed>\n' >> $@
+
+taglist:
+	grep -RIh '^;tags:' src | cut -d' ' -f2- | tr ' ' '\n' | sort | uniq

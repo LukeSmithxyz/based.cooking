@@ -1,4 +1,4 @@
-# Chilli con carne
+# Chilli con Carne
 
 Thinly minced and non-lean mince is preferred.
 Spices shall be left to the choice of the cook, if at all desired.
@@ -12,8 +12,8 @@ Mince should be broken up well before cooking.
 - Chorizo pork sausage
 - Pork mince
 - Bacon strips
-- Tomatoe sauce
-- Chillis
+- Tomato sauce
+- Chilis
 - Kidney beans
 - Olive oil
 - Wine
@@ -22,13 +22,13 @@ Mince should be broken up well before cooking.
 
 ## Directions
 
-1. As pan heats: Slice chillis and chorizo as desired
+1. As pan heats: Slice chilis and chorizo as desired
 2. Olive oil in pan heat on high
 3. Pork mince in.
 3. Butter add
 4. Bacon add
-5. Add 3/4 of tomatoe sauce
-6. Add chillis and chorizo
+5. Add 3/4 of tomato sauce
+6. Add chilis and chorizo
 7. Add spices and beans. Then wait until audible spitting of sauce has lasted for around 40 mins
 8. Add remainder of sauce
 9. Add wine

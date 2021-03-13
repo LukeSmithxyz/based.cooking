@@ -2,13 +2,12 @@
 
 ![pepe](pix/cacio-e-pepe.webp)
 
-Cacio e Pepe(meaning cheese and pepper) is not only based but also incredibly simple, ideal for lazy neets and similarly minded people
-who don't want to wash too many dishes and don't like complicated recipes with too many extra ingredients.
+Cacio e Pepe (meaning cheese and pepper) is not only based but also incredibly simple, ideal for lazy neets and similarly minded people who don't want to wash too many dishes and don't like complicated recipes with too many extra ingredients.
 
 ## Ingredients
 
 - Spaghetti (recipe works with pretty much any type)
-- Grated Parmasean Cheese (or something similar)
+- Grated Parmasean Cheese (or something similar, pic above uses parmasean and fresh mozzarella)
 
 ## Directions
 
@@ -25,3 +24,4 @@ Pasta water and the cheese are already salty, so you may not need to add any ext
 ## Contributors
 
 - Some guy called [siedes](https://github.com/siedes)
+- Batu Cam -- Added picture -- XMR: 85eZ4uVd4gkiCsQEeDnsQG9pUbDzdi1r1VSJ9hK5Sx7hKsFZjvmqtWV7gU1ysWUR32jhWutBRGUUq8VAJNUfin9wBCCuTdg

@@ -1,6 +1,6 @@
 # 🍳 Based Cooking 🍲
 
-Only Based cooking. No ads, no tracking, nothing but based cooking.
+Only based cooking. No ads, no tracking, nothing but based cooking.
 
 ## Recipes
 
@@ -19,7 +19,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Broiled Trevally](broiled-trevally.html)
 - [Almeirim Stone Soup](almeirim-stone-soup.html)
 - [Chicken Wings](chicken-wings.html)
-- [Instant Tom Yam Kung noodle soup](instant-tom-yam-kung-noodle-soup.html)
+- [Instant Tom Yam Kung Noodle Soup](instant-tom-yam-kung-noodle-soup.html)
 - [Marinated Pork Steaks](marinated-pork-steaks.html)
 - [Banana Pancakes](banana-pancakes.html)
 - [Banana Bread](banana-bread.html)
@@ -27,7 +27,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
 - [Dried Tomato and Plums Bread Spread](dried-tomato-plum-spread.html)
 - [Drunken Beans](drunken-beans.html)
-- [Chili con carne](chili-con-carne.html)
+- [Chili Con Carne](chili-con-carne.html)
 - [Matcha Cookies](matcha-cookies.html)
 - [Miso Ginger Pork](miso-ginger-pork.html)
 - [Pancakes](pancake.html)

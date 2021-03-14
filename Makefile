@@ -131,7 +131,7 @@ blog/@%.html: $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header tag_in
 	envsubst < templates/footer.html >> $@; \
 
 
-blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header article_header article_footer footer))
+blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header article_header tag_link_header tag_link tag_link_footer article_footer footer))
 	mkdir -p blog
 	TITLE="$(shell head -n1 $< | sed 's/^# \+//')"; \
 	export TITLE; \
@@ -148,6 +148,13 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	envsubst < templates/header.html > $@; \
 	envsubst < templates/article_header.html >> $@; \
 	sed -e '/^;/d' < $< | markdown -f fencedcode >> $@; \
+	envsubst < templates/tag_link_header.html >> $@; \
+	for i in $${TAGS} ; do \
+		TAG_NAME="$$i" \
+		TAG_LINK="./@$$i.html" \
+		envsubst < templates/tag_link.html >> $@; \
+	done; \
+	envsubst < templates/tag_link_footer.html >> $@; \
 	envsubst < templates/article_footer.html >> $@; \
 	envsubst < templates/footer.html >> $@; \
 

@@ -26,3 +26,5 @@ Cooking time: ~5 minutes
 ## Contributors
 
 - peebowo
+
+;tags: mexican quick

@@ -26,3 +26,5 @@ Either eat the pancakes as they get ready or put a plate in a preheated oven (lo
 ## Contribution
 
 - Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)
+
+;tags: breakfast quick sweet

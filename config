@@ -1,5 +1,5 @@
-BLOG_TITLE:=based.cooking
-BLOG_REMOTE:=
+BLOG_TITLE:=Based Cooking
+BLOG_REMOTE:=root@based.cooking:/var/www/cooking
 BLOG_DATE_FORMAT_INDEX:=%F
-BLOG_DATE_FORMAT:=%F %H:%M
+BLOG_DATE_FORMAT:=%F
 BLOG_SRC:=src

@@ -1,6 +1,6 @@
 # 🍳 Based Cooking 🍲
 
-Only Based cooking. No ads, no tracking, nothing but based cooking.
+Only based cooking. No ads, no tracking, nothing but based cooking.
 
 ## Recipes
 
@@ -12,6 +12,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Beef Stroganoff](stroganoff.html)
 - [Beef or Lamb Stew](beef-stew.html)
 - [Beef Jerky](beef-jerky.html)
+- [Hamburger Patties](hamburger-patties.html)
 - [Portuguese Steak with Beer Sauce](portuguese-steak-with-beer-sauce.html)
 - [Tuscan Style Pork Roast](tuscan-style-pork-roast.html)
 - [Flemish Beer and Gingerbread Beef Stew](carbonade.html)
@@ -20,8 +21,9 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Broiled Trevally](broiled-trevally.html)
 - [Almeirim Stone Soup](almeirim-stone-soup.html)
 - [Chicken Wings](chicken-wings.html)
-- [Instant Tom Yam Kung noodle soup](instant-tom-yam-kung-noodle-soup.html)
+- [Instant Tom Yam Kung Noodle Soup](instant-tom-yam-kung-noodle-soup.html)
 - [Marinated Pork Steaks](marinated-pork-steaks.html)
+- [Banana Pancakes](banana-pancakes.html)
 - [Banana Bread](banana-bread.html)
 - [Cacio e Pepe](cacio-e-pepe.html)
 - [Potato and Eggplant Curry](potato-and-eggplant-curry.html)
@@ -31,6 +33,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Matcha Cookies](matcha-cookies.html)
 - [Miso Ginger Pork](miso-ginger-pork.html)
 - [Pancakes](pancake.html)
+- [Oaty Pancakes](oaty-pancakes.html)
 - [Pizza Dough](pizza-dough.html)
 - [Beef Tips with Mashed Potatoes](beef-tips.html)
 - [Älplermagronen (Alpine macaroni)](aelplermagronen.html)
@@ -46,6 +49,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Caesar Salad](caesar-salad.html)
 - [Maque Choux](maque-choux.html)
 - [Ragù](ragu.html)
+- [Roasted Chicken Breast](roasted-chicken-breast.html)
 - [Scandinavian Coffee Cake](scandinavian-coffee-cake.html)
 - [Japanese Noodle Soup](japanese-noodle-soup.html)
 - [Sticky Porkchops](sticky-porkchops.html)
@@ -65,6 +69,12 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Quesadilla](quesadilla.html)
 - [Tuna Sub](tuna-sub.html)
 - [Tomato Flavored Hamburger & Macaroni](tomato-hamburger-macaroni.html)
+- [Spaghetti and Meatballs](spaghetti-and-meatballs.html)
+- [Peanut Butter](peanut-butter.html)
+- [Hummus](hummus.html)
+- [Ginataang Kalabasa](ginataang-kalabasa.html)
+- [Simple Sauce](simple-sauce.html)
+- [Hellfire Steak](hellfire-steak.html)
 
 ## Basics
 

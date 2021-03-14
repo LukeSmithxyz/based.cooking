@@ -27,4 +27,4 @@ And just like that you got yourself some tasty pork steaks.
 
 ## Contribution
 
-- Ricky Lindén - [website](https://rickylinden.com), [donate (btc)](bc1qr28v9avdltgqhv63qqwt08k0n5kq9v27vppuzq), [donate (xmr)](49C6XptCgtVeurXQR9ZeXmV444TjCzDgEMEE84AAuQPmPPwdq7vMsCkTmn8EaZEJ6HPKsd1G4Vmzk5QbbMqWxCGRMrMoamK)
+- Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)

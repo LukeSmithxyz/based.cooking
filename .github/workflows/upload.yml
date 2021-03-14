@@ -33,4 +33,5 @@ jobs:
           cd repo
           git pull --force origin master
           mkdir -p dest
+          ./src/search/generate_search_index.sh
           ./ssg5 src dest "Based Cooking (https://based.cooking)" "https://based.cooking"

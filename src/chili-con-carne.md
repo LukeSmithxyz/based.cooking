@@ -37,4 +37,4 @@
 
 - Aaron Taylor -- [website](https://atay.me)
 
-;tags: mexican beef
+;tags: mexican beef beans

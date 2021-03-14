@@ -30,4 +30,4 @@ They are substantial and can be roasted in butter and other ingredients.
 
 - Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
 
-;tags: italian potato
+;tags: italian potato side

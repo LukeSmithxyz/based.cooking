@@ -54,4 +54,4 @@ Originally published at [https://www.yaroslavps.com/food/beef-goulash/](https://
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: hungarian beef
+;tags: hungarian beef stew

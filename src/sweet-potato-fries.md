@@ -32,4 +32,4 @@ A simple, tasty, and healthy carb based snack.
 
 Shane Kunz - [Website](https://shanekunz.com)
 
-;tags: potato snack
+;tags: potato snack side

@@ -30,4 +30,4 @@ For Mexican rice, you might want to avoid cooking in stock to avoid taste clashe
 
 - Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
 
-;tags: basic rice
+;tags: basic rice side

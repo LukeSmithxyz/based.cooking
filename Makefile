@@ -22,7 +22,7 @@ ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/ 2>/dev/null)
 TAGFILES = $(patsubst $(BLOG_SRC)/%.md,tags/%,$(ARTICLES))
 
 help:
-	$(info blogit init|build|deploy|clean)
+	$(info make init|build|deploy|clean|taglist)
 
 init:
 	mkdir -p $(BLOG_SRC) data templates

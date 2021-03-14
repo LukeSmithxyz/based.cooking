@@ -34,7 +34,7 @@ Serves: 2
 5. Add the blended tomato puree and fry well till the oil oozes out. It may take about 4 to 5 minutes on a medium flame. Also, add a little salt.
 6. Add the marinated chicken pieces. Add water to adjust the thickness of the gravy, if required.
 7. Finally, add in the cream and let the gravy simmer on a low flame for a minute or two and then switch off the flame. 
-8. Garnish with coriander leaves.
+8. Garnish with coriander leaves, Cream.
 
 
 ## Contributor

@@ -56,17 +56,24 @@ This site is generated with [Roman Zolotarev](https://www.romanzolotarev.com/)'s
 [ssg5](https://www.romanzolotarev.com/ssg.html) which is also included in this
 repo for replicability.
 
-## curl/Search function in the future
+## curl/Search function
 
-I eventually want a command-line/curl interface to this site.
-Part of this would be an implicit search function.
+So suppose someone wants a recipe with chicken, to return articles with that title:
+```bash
+$ curl based.cooking/search/chicken
 
-So suppose someone wants a recipe with chicken, I'd like
-`curl based.cooking/chicken` to return articles with that title.
-If there is only one result, that page is opened.
+https://based.cooking/chicken-biscuit-potpie.html
+https://based.cooking/chicken-parmesan.html
+https://based.cooking/chicken-pasta-casserole.html
+https://based.cooking/chicken-stock-bone-broth.html
+https://based.cooking/chicken-tacos.html
+https://based.cooking/chicken-tomato-spinach-curry.html
+https://based.cooking/chicken-wings.html
+https://based.cooking/pan-seared-chicken.html
+https://based.cooking/roasted-chicken-breast.html
+```
+~~If there is only one result, that page is opened.~~
 
-Just something to think about.
-Then people could make a simple two or three character alias to get a simple text recipe.
 
 ## License
 

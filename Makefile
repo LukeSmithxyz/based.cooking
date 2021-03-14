@@ -81,9 +81,10 @@ blog/index.html: $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsuffix .htm
 	envsubst < templates/tag_list_footer.html >> $@; \
 	envsubst < templates/article_list_header.html >> $@; \
 	first=true; \
+	echo $(ARTICLES); \
 	for f in $(ARTICLES); do \
 		printf '%s ' "$$f"; \
-		git log --diff-filter=A --date="format:%s $(BLOG_DATE_FORMAT_INDEX)" --pretty=format:'%ad%n' -- "$$f"; \
+		git log -n 1 --diff-filter=A --date="format:%s $(BLOG_DATE_FORMAT_INDEX)" --pretty=format:'%ad%n' -- "$$f"; \
 	done | sort -k2nr | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
 		"$$first" || envsubst < templates/article_separator.html; \
 		URL="`printf '%s' "\$$FILE" | sed 's,^$(BLOG_SRC)/\(.*\).md,\1,'`.html" \
@@ -117,7 +118,7 @@ blog/@%.html: $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header tag_in
 	first=true; \
 	for f in $(shell grep -FH '$*' $(TAGFILES) | sed 's,^tags/\([^:]*\):.*,$(BLOG_SRC)/\1.md,'); do \
 		printf '%s ' "$$f"; \
-		git log --diff-filter=A --date="format:%s $(BLOG_DATE_FORMAT_INDEX)" --pretty=format:'%ad%n' -- "$$f"; \
+		git log -n 1 --diff-filter=A --date="format:%s $(BLOG_DATE_FORMAT_INDEX)" --pretty=format:'%ad%n' -- "$$f"; \
 	done | sort -k2nr | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
 		"$$first" || envsubst < templates/article_separator.html; \
 		URL="`printf '%s' "\$$FILE" | sed 's,^$(BLOG_SRC)/\(.*\).md,\1,'`.html" \
@@ -139,7 +140,7 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	export PAGE_TITLE; \
 	AUTHOR="$(shell git log --format="%an" -- "$<" | tail -n 1)"; \
 	export AUTHOR; \
-	DATE_POSTED="$(shell git log --diff-filter=A --date="format:$(BLOG_DATE_FORMAT)" --pretty=format:'%ad' -- "$<")"; \
+	DATE_POSTED="$(shell git log -n 1 --diff-filter=A --date="format:$(BLOG_DATE_FORMAT)" --pretty=format:'%ad' -- "$<")"; \
 	export DATE_POSTED; \
 	DATE_EDITED="$(shell git log -n 1 --date="format:$(BLOG_DATE_FORMAT)" --pretty=format:'%ad' -- "$<")"; \
 	export DATE_EDITED; \
@@ -163,7 +164,7 @@ blog/rss.xml: $(ARTICLES)
 		"$(BLOG_TITLE)" "$(BLOG_URL_ROOT)" "$(BLOG_DESCRIPTION)" > $@
 	for f in $(ARTICLES); do \
 		printf '%s ' "$$f"; \
-		git log --diff-filter=A --date="format:%s %a, %d %b %Y %H:%M:%S %z" --pretty=format:'%ad%n' -- "$$f"; \
+		git log -n 1 --diff-filter=A --date="format:%s %a, %d %b %Y %H:%M:%S %z" --pretty=format:'%ad%n' -- "$$f"; \
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
 		printf '<item>\n<title>%s</title>\n<link>%s</link>\n<guid>%s</guid>\n<pubDate>%s</pubDate>\n<description>%s</description>\n</item>\n' \
 			"`head -n 1 $$FILE`" \
@@ -179,7 +180,7 @@ blog/atom.xml: $(ARTICLES)
 		"$(BLOG_TITLE)" "$(BLOG_DESCRIPTION)" "$(shell date +%Y-%m-%dT%H:%M:%SZ)" "$(BLOG_URL_ROOT)" "$(BLOG_URL_ROOT)/atom.xml" "$(BLOG_URL_ROOT)/atom.xml" > $@
 	for f in $(ARTICLES); do \
 		printf '%s ' "$$f"; \
-		git log --diff-filter=A --date="format:%s %Y-%m-%dT%H:%M:%SZ" --pretty=format:'%ad %aN%n' -- "$$f"; \
+		git log -n 1 --diff-filter=A --date="format:%s %Y-%m-%dT%H:%M:%SZ" --pretty=format:'%ad %aN%n' -- "$$f"; \
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE AUTHOR; do \
 		printf '<entry>\n<title type="text">%s</title>\n<link rel="alternate" type="text/html" href="%s"/>\n<id>%s</id>\n<published>%s</published>\n<updated>%s</updated>\n<author><name>%s</name></author>\n<summary type="text">%s</summary>\n</entry>\n' \
 			"`head -n 1 $$FILE`" \

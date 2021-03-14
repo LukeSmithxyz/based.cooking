@@ -30,3 +30,5 @@ Cooking time: ~45 minutes
 ## Contributors
 
 - **Alexander Bocken** -- [contact](mailto:alexander@bocken.org)
+
+;tags: swiss potato

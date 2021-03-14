@@ -34,3 +34,5 @@ This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically 
 ## Contribution
 
 by Shou, [website](https://shouganai.xyz)
+
+;tags: fish

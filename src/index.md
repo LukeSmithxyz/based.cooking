@@ -64,6 +64,7 @@ Only Based cooking. No ads, no tracking, nothing but based cooking.
 - [Sunday Morning Milkshake](sunday-milkshake.html)
 - [Quesadilla](quesadilla.html)
 - [Tuna Sub](tuna-sub.html)
+- [Tomato Flavored Hamburger & Macaroni](tomato-hamburger-macaroni.html)
 
 ## Basics
 

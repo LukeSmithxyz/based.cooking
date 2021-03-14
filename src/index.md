@@ -74,6 +74,7 @@ Only based cooking. No ads, no tracking, nothing but based cooking.
 - [Ginataang Kalabasa](ginataang-kalabasa.html)
 - [Simple Sauce](simple-sauce.html)
 - [Hellfire Steak](hellfire-steak.html)
+- [Butter Chicken Masala](butter-chicken-masala.html)
 
 ## Basics
 

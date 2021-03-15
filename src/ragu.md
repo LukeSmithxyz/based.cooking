@@ -38,3 +38,5 @@ Reduce heat to very low and add mix to the pan.
 
 Support the [site](https://based.cooking/pix/bitcoin-based-cooking.webp).  
 Luke's Vultr referral credits won't last forever...
+
+;tags: italian pasta

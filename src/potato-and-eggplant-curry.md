@@ -38,3 +38,5 @@ A simple and tasty curry that is easy to customise.
 ## Contribution
 
 - Luke Chadwick - [website](https://lukechadwick.com)
+
+;tags: indian curry potato

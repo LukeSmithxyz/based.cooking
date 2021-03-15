@@ -35,3 +35,5 @@ This is a recipe for a basic loaf of bread. The dough itself can be used however
 ## Contribution
 
 Alex Selimov - [Website](https://alexselimov.xyz)
+
+;tags: basic bread

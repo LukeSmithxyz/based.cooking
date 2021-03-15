@@ -26,3 +26,5 @@ Pasta water and the cheese are already salty, so you may not need to add any ext
 
 - Some guy called [siedes](https://github.com/siedes)
 - Batu Cam -- Added picture -- XMR: 85eZ4uVd4gkiCsQEeDnsQG9pUbDzdi1r1VSJ9hK5Sx7hKsFZjvmqtWV7gU1ysWUR32jhWutBRGUUq8VAJNUfin9wBCCuTdg
+
+;tags: italian quick pasta

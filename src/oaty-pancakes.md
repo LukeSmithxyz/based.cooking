@@ -39,3 +39,5 @@ and serve bacon or sausages alongside if you like.
 ## Contribution
 
 Puremana
+
+;tags: breakfast quick sweet cake

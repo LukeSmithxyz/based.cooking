@@ -33,3 +33,5 @@ Serves 4
 ## Contribution
 
 - anon btc: 1FJSSps89rEMtYm8Vvkp2uyTX9MFpZtcGy
+
+;tags: french pork quick

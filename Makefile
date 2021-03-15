@@ -93,8 +93,8 @@ blog/index.html: index.md $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsu
 		envsubst < templates/article_entry.html; \
 		first=false; \
 	done >> $@; \
-	markdown < index.md >> $@; \
 	envsubst < templates/article_list_footer.html >> $@; \
+	markdown < index.md >> $@; \
 	envsubst < templates/index_footer.html >> $@; \
 	envsubst < templates/footer.html >> $@; \
 

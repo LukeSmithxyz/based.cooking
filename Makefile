@@ -169,8 +169,8 @@ blog/rss.xml: $(ARTICLES)
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
 		printf '<item>\n<title>%s</title>\n<link>%s</link>\n<guid>%s</guid>\n<pubDate>%s</pubDate>\n<description>%s</description>\n</item>\n' \
 			"`head -n 1 $$FILE | sed 's/^# //'`" \
-			"$(BLOG_URL_ROOT)/`basename $$FILE`.html" \
-			"$(BLOG_URL_ROOT)/`basename $$FILE`.html" \
+			"$(BLOG_URL_ROOT)`basename $$FILE | sed 's/\.md/\.html/'`" \
+			"$(BLOG_URL_ROOT)`basename $$FILE | sed 's/\.md/\.html/'`" \
 			"$$DATE" \
 			"`tail -n+3 < $$FILE`"; \
 	done >> $@
@@ -178,15 +178,15 @@ blog/rss.xml: $(ARTICLES)
 
 blog/atom.xml: $(ARTICLES)
 	printf '<?xml version="1.0" encoding="UTF-8"?>\n<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">\n<title type="text">%s</title>\n<subtitle type="text">%s</subtitle>\n<updated>%s</updated>\n<link rel="alternate" type="text/html" href="%s"/>\n<id>%s</id>\n<link rel="self" type="application/atom+xml" href="%s"/>\n' \
-		"$(BLOG_TITLE)" "$(BLOG_DESCRIPTION)" "$(shell date +%Y-%m-%dT%H:%M:%SZ)" "$(BLOG_URL_ROOT)" "$(BLOG_URL_ROOT)/atom.xml" "$(BLOG_URL_ROOT)/atom.xml" > $@
+		"$(BLOG_TITLE)" "$(BLOG_DESCRIPTION)" "$(shell date +%Y-%m-%dT%H:%M:%SZ)" "$(BLOG_URL_ROOT)" "$(BLOG_URL_ROOT)atom.xml" "$(BLOG_URL_ROOT)/atom.xml" > $@
 	for f in $(ARTICLES); do \
 		printf '%s ' "$$f"; \
 		git log -n 1 --diff-filter=A --date="format:%s %Y-%m-%dT%H:%M:%SZ" --pretty=format:'%ad %aN%n' -- "$$f"; \
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE AUTHOR; do \
 		printf '<entry>\n<title type="text">%s</title>\n<link rel="alternate" type="text/html" href="%s"/>\n<id>%s</id>\n<published>%s</published>\n<updated>%s</updated>\n<author><name>%s</name></author>\n<summary type="text">%s</summary>\n</entry>\n' \
 			"`head -n 1 $$FILE | sed 's/^# //'`" \
-			"$(BLOG_URL_ROOT)/`basename $$FILE`.html" \
-			"$(BLOG_URL_ROOT)/`basename $$FILE`.html" \
+			"$(BLOG_URL_ROOT)`basename $$FILE | sed 's/\.md/\.html/'`" \
+			"$(BLOG_URL_ROOT)`basename $$FILE | sed 's/\.md/\.html/'`" \
 			"$$DATE" \
 			"`git log -n 1 --date="format:%Y-%m-%dT%H:%M:%SZ" --pretty=format:'%ad' -- "$$FILE"`" \
 			"$$AUTHOR" \

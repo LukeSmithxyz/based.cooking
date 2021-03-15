@@ -42,7 +42,7 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 11. Throw in some cheese which should melt nicely. (optional)
 12. Pour in the cans of tomato soup.
 13. *Important* Stir everything toghether, make sure the hamburger gets evenly distributed in the macaroni. Make sure to stir right to the bottom so the sauce can reach there too.
-14. Ready to eat. If you don't come back for seconds, you didn't do it right! 😉 
+14. Ready to eat. If you don't come back for seconds, you didn't do it right. 😉 
 
 ## Contribution
 

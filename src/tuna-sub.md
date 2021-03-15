@@ -26,3 +26,5 @@ Use the best tuna you can find. I like oil-packed but water is OK. Someone you k
 
 ## Contribution
 - I don't think you could call it that.
+
+;tags: fish sandwich quick

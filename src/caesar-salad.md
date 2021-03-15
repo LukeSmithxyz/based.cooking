@@ -22,3 +22,5 @@ Caesar Salad is an easy and delicious meal for lunch or dinner.
 ## Contributors
 
 - gucko
+
+;tags: italian salad

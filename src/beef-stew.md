@@ -26,3 +26,5 @@ There you have it, an idiot-proof stew that should taste reasonably well. Beside
 ## Contribution
 
 - Eoin Coogan - [website](https://eoincoogan.com), [youtube](https://www.youtube.com/channel/UCehh50T6qtDpt_kEUF33GJw)
+
+;tags: irish stew lamb beef

@@ -1,0 +1,6 @@
+BLOG_TITLE:=Based Cooking
+BLOG_REMOTE:=/var/www/based.cooking
+BLOG_DATE_FORMAT_INDEX:=%F
+BLOG_DATE_FORMAT:=%F
+BLOG_SRC:=src
+BLOG_URL_ROOT:=https://based.cooking/

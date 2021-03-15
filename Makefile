@@ -33,7 +33,7 @@ init:
 	printf '<a href="$$URL">$$NAME</a>' > templates/tag_entry.html
 	printf ', ' > templates/tag_separator.html
 	printf '</p>' > templates/tag_list_footer.html
-	printf '<h2>Articles</h2><ul>' > templates/article_list_header.html
+	printf '<h2>Articles</h2><ul id=artlist>' > templates/article_list_header.html
 	printf '<li><a href="$$URL">$$DATE $$TITLE</a></li>' > templates/article_entry.html
 	printf '' > templates/article_separator.html
 	printf '</ul>' > templates/article_list_footer.html

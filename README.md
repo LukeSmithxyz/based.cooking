@@ -46,7 +46,7 @@ List of special, categorical tags to use if relevant:
 - `basic`: for basic recipes that aren't meant to be stand alone but are supposed
   to be incorporated in another recipe.
 - `breakfast`
-- `desert`
+- `dessert`
 - `drink`
 - `quick`: for recipes that can be cooked in under ~20 minutes.
 - `side`: side dishes such as mash, fries, etc.

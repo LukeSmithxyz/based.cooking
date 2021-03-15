@@ -16,13 +16,13 @@ BLOG_FEEDS ?= rss atom
 BLOG_SRC ?= articles
 
 
-.PHONY: help init build deploy clean taglist
+.PHONY: help init build deploy clean taglist gen_search_index
 
 ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/ 2>/dev/null)
 TAGFILES = $(patsubst $(BLOG_SRC)/%.md,tags/%,$(ARTICLES))
 
 help:
-	$(info make init|build|deploy|clean|taglist)
+	$(info make init|build|deploy|clean|taglist|gen_search_index)
 
 init:
 	mkdir -p $(BLOG_SRC) data templates
@@ -46,7 +46,7 @@ init:
 
 build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICLES)) $(patsubst %,blog/%.xml,$(BLOG_FEEDS))
 
-deploy: build
+deploy: build gen_search_index
 	rsync -rLtvz $(BLOG_RSYNC_OPTS) blog/ data/ $(BLOG_REMOTE)
 
 clean:
@@ -93,8 +93,8 @@ blog/index.html: index.md $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsu
 		envsubst < templates/article_entry.html; \
 		first=false; \
 	done >> $@; \
-	envsubst < templates/article_list_footer.html >> $@; \
 	markdown < index.md >> $@; \
+	envsubst < templates/article_list_footer.html >> $@; \
 	envsubst < templates/index_footer.html >> $@; \
 	envsubst < templates/footer.html >> $@; \
 
@@ -196,3 +196,27 @@ blog/atom.xml: $(ARTICLES)
 
 taglist:
 	grep -RIh '^;tags:' src | cut -d' ' -f2- | tr ' ' '\n' | sort | uniq
+
+# BLOG_SRC=`pwd`/src
+gen_search_index:
+	URL="https://based.cooking"; \
+	RECIPES=$$(ls $(BLOG_SRC)/*.md); \
+	# search index reachable through https://based.cooking/search/ \
+	SEARCH_DIR=$(BLOG_SRC)/search; \
+	# before regenerating search indices, remove old ones \
+	rm -rf $$SEARCH_DIR; \
+	mkdir -p $$SEARCH_DIR; \
+	# list all recipes in src/ \
+	for filepath in $$RECIPES; do \
+		# grab filename of the recipe \
+		filename=$$(basename $$filepath) \
+		# grab filename of the recipe WITHOUT it's extension: '.md' \
+		title=$${filename%.*}; \
+		# split title into words delimited by dash '-' \
+		title_delimited=$$(echo $$title | tr '-' "\n"); \
+		# iterate over each word in the title \
+		for word in $$title_delimited; do \
+			# for each word, create a new file that contains links to it's recipes \
+			echo "$$URL/$$title.html" >> $$SEARCH_DIR/$$word; \
+		done \
+	done

@@ -1,7 +1,7 @@
 # French Crêpes
 Like pancakes, but very thin.
 
-~10/15 crêpes.
+15 crêpes.
 
 ## Ingredients
 
@@ -28,3 +28,5 @@ Like pancakes, but very thin.
 ### Contributor
 
 - Aeredren - [GitHub](https://github.com/Aeredren)
+
+;tags: french desert breakfast

@@ -83,10 +83,6 @@ This is not necessary yet though.
 I don't really want images of recipes on the mainpage yet.
 I'll think about how best to do it to minimize bandwidth if possible.
 
-This site is generated with [Roman Zolotarev](https://www.romanzolotarev.com/)'s
-[ssg5](https://www.romanzolotarev.com/ssg.html) which is also included in this
-repo for replicability.
-
 ## curl/Search function
 
 So suppose someone wants a recipe with chicken, to return articles with that title:

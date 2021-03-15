@@ -5,7 +5,8 @@
   (`-`). Not underscores, and definitely not spaces.
 - Recipe must be based, i.e. good traditional and substantial food. Nothing
   ironic, meme-tier hyper-sugary, meat-substitute, etc.
-- **ADD YOUR RECIPE TO THE LIST ON `index.md` OR NO ONE WILL EVER SEE IT.**
+- Be sure to add a small number of relevant  tags to your recipe (and remove
+  the dummy tags). Try to use already existing tags.
 - Don't include salt and pepper and other ubiquitous things in the ingredients
   list.
 -->

@@ -31,3 +31,5 @@ You may eat or compost the remaining vegetables.
 ## Contribution
 
 - Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
+
+;tags: chicken stock basic

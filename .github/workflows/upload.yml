@@ -27,11 +27,6 @@ jobs:
         passphrase: ${{ secrets.based_ssh_pass }}
         port: ${{ secrets.based_port }}
         script: |
-          apt update && apt install perl wget
-          wget https://raw.githubusercontent.com/mackyle/markdown/master/Markdown.pl -O /usr/bin/Markdown.pl
-          chmod +x /usr/bin/Markdown.pl
           cd repo
           git pull --force origin master
-          mkdir -p dest
-          ./src/search/generate_search_index.sh
-          ./ssg5 src dest "Based Cooking (https://based.cooking)" "https://based.cooking"
+          make clean deploy

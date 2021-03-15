@@ -38,3 +38,5 @@ Originally published at [https://www.yaroslavps.com/food/sunday-morning-milkshak
 - Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
+
+;tags: sweet breakfast drink

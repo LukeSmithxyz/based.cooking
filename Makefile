@@ -168,11 +168,11 @@ blog/rss.xml: $(ARTICLES)
 		git log -n 1 --diff-filter=A --date="format:%s %a, %d %b %Y %H:%M:%S %z" --pretty=format:'%ad%n' -- "$$f"; \
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
 		printf '<item>\n<title>%s</title>\n<link>%s</link>\n<guid>%s</guid>\n<pubDate>%s</pubDate>\n<description>%s</description>\n</item>\n' \
-			"`head -n 1 $$FILE`" \
+			"`head -n 1 $$FILE | sed 's/^# //'`" \
 			"$(BLOG_URL_ROOT)/`basename $$FILE`.html" \
 			"$(BLOG_URL_ROOT)/`basename $$FILE`.html" \
 			"$$DATE" \
-			"`sed -n '1d;/^$$/{2{d;b};q};p' < $$FILE`"; \
+			"`tail -n+3 < $$FILE`"; \
 	done >> $@
 	printf '</channel>\n</rss>\n' >> $@
 
@@ -184,13 +184,13 @@ blog/atom.xml: $(ARTICLES)
 		git log -n 1 --diff-filter=A --date="format:%s %Y-%m-%dT%H:%M:%SZ" --pretty=format:'%ad %aN%n' -- "$$f"; \
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE AUTHOR; do \
 		printf '<entry>\n<title type="text">%s</title>\n<link rel="alternate" type="text/html" href="%s"/>\n<id>%s</id>\n<published>%s</published>\n<updated>%s</updated>\n<author><name>%s</name></author>\n<summary type="text">%s</summary>\n</entry>\n' \
-			"`head -n 1 $$FILE`" \
+			"`head -n 1 $$FILE | sed 's/^# //'`" \
 			"$(BLOG_URL_ROOT)/`basename $$FILE`.html" \
 			"$(BLOG_URL_ROOT)/`basename $$FILE`.html" \
 			"$$DATE" \
 			"`git log -n 1 --date="format:%Y-%m-%dT%H:%M:%SZ" --pretty=format:'%ad' -- "$$FILE"`" \
 			"$$AUTHOR" \
-			"`sed -n '1d;/^$$/{2{d;b};q};p' < $$FILE`"; \
+			"`tail -n+3 $$FILE`"; \
 	done >> $@
 	printf '</feed>\n' >> $@
 

@@ -2,13 +2,13 @@
 
 A quick breakfast spaghetti recipe that covers a healthy amount of carbs, fat, and spices. Eggs
 and/or bacon can be added to cover some protein, you should cook those while the boiler is cooking
-the speghatti for time efficiency.
+the spaghetti for time efficiency.
 
 ## Ingredients
 
 - Spaghetti (any kind you prefer)
 - Ground spices (I like to use cumin, tumeric, paprika, and garlic)
-- Tomato Paste/Sauce (preferably one with basil and without perservatives)
+- Tomato Paste/Sauce (preferably one with basil and without preservative)
 - Extra Virgin Olive Oil
 
 ## Directions
@@ -16,7 +16,7 @@ the speghatti for time efficiency.
 1. Boil some water fully and prepare a pot.
 2. While the water is boiling, add all your spices in the pot with the spaghetti on top.
 3. Pour the boiled water on the spaghetti to make it soft so you can immerse it fully in the water.
-4. Mix thouroughly the water with the spices and salt and pepper if needed.
+4. Mix thoroughly the water with the spices and salt and pepper if needed.
 5. Place the pot on the stove, keep it boiling, and stir every minute or two for 8 minutes.
 6. It should take no more than 8 minutes, but you can check if it is fully cooked by tasting one
 	 peice at a time.
@@ -31,3 +31,5 @@ the speghatti for time efficiency.
 ## Contribution
 
 - Sadoon AlBader - [website](https://soulserv.xyz)
+
+;tags: breakfast pasta

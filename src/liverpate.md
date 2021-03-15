@@ -27,3 +27,5 @@ With beef liver, remove its membrane, that is on top, with your fingers. Cut it 
 
 vod3
 btc: 3DdikYnxPHv6Bz6qgXYoyxrcbikADqxwNd
+
+;tags: pate liver

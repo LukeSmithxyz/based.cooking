@@ -20,6 +20,17 @@ img {
 	display: block ;
 }
 
+code {
+	overflow-wrap: break-word ;
+	color: lime ;
+}
+
+li img {
+	max-width: 1em ;
+	max-height: 1em ;
+	display: inline ;
+}
+
 @media (prefers-color-scheme: dark) {
 	body {
 		background: #151515 ;

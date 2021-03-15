@@ -66,3 +66,5 @@ Originally published at [https://www.yaroslavps.com/food/country-breakfast-skill
 - Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
+
+;tags: american breakfast pork

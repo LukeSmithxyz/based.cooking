@@ -12,19 +12,50 @@
 
 ## Rules for submission
 
+- Recipes should start with a title, with a single `#`, *on the first line*. No
+  empty line at the top, not trailing line at the end. The file needs to be `\n`
+  terminated in linux-fashion (if you're on linux you don't need to care, it
+  should be automatic).
 - Recipes should be `.md` files in the `src/` directory.  Look at already
   existing `.md` files for examples or see [example](example.md).
 - File names should be the name of the dish with words separated by hypens
   (`-`). Not underscores, and definitely not spaces.
 - Recipe must be based, i.e. good traditional and substantial food. Nothing
   ironic, meme-tier hyper-sugary, meat-substitute, etc.
-- **ADD YOUR RECIPE TO THE LIST ON `index.md` OR NO ONE WILL EVER SEE IT.**
 - Don't include salt and pepper and other ubiquitous things in the ingredients
   list.
 
 **If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
 
+### Tags
+
+You can (and should) add tags at the end of your recipe. The syntax is:
+```
+;tags: tag1 tag2 tag3
+```
+
+The tag line should be a single line, at the end of the markdown file, preceded
+by a blank line.
+
+Add between 1 and 4 tags, **prioritize existing tags**. As a general guideline,
+add the country from which the recipe originates if the recipe is representative
+of said country, using the adjective form (eg. *mexican*, *italian*, etc). Tag
+the main ingredient if it's something slightly special.
+
+List of special, categorical tags to use if relevant:
+- `basic`: for basic recipes that aren't meant to be stand alone but are supposed
+  to be incorporated in another recipe.
+- `breakfast`
+- `desert`
+- `drink`
+- `quick`: for recipes that can be cooked in under ~20 minutes.
+- `side`: side dishes such as mash, fries, etc.
+- `snack`
+- `spread`
+
 ### Images
+
+Images are stored in `data/pix`.
 
 Each recipe can have a title image at the top and perhaps
 several instructional images as absolutely necessary.
@@ -43,18 +74,14 @@ they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, et
 
 ## About the site
 
-The front page, for now, will just be a list of recipes
-and when adding a `.md` page, please manually add a link to it in the list.
+The front page, for now, will just be a list of recipes automatically generated
+from the content of `src`.
 As more articles are added, the site will be reorganized, categorized
 or will implement server-side scripting or searches.
 This is not necessary yet though.
 
 I don't really want images of recipes on the mainpage yet.
 I'll think about how best to do it to minimize bandwidth if possible.
-
-This site is generated with [Roman Zolotarev](https://www.romanzolotarev.com/)'s
-[ssg5](https://www.romanzolotarev.com/ssg.html) which is also included in this
-repo for replicability.
 
 ## curl/Search function in the future
 

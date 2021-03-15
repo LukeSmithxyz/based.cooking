@@ -29,5 +29,4 @@ jobs:
         script: |
           cd repo
           git pull --force origin master
-          mkdir -p dest
-          ./ssg5 src dest "Based Cooking (https://based.cooking)" "https://based.cooking"
+          make clean deploy

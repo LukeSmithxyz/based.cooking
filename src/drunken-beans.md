@@ -27,3 +27,5 @@ Pinto beans cooking with beer, what beer you use can change the dish.
 ## Contribution
 
 - just a dude who likes cooking
+
+;tags: beans stew

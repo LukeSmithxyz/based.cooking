@@ -31,3 +31,5 @@ A simple, tasty, and healthy carb based snack.
 ## Contribution
 
 Shane Kunz - [Website](https://shanekunz.com)
+
+;tags: potato snack side

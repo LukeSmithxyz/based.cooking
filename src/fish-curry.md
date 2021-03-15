@@ -2,7 +2,6 @@
 
 Best served with white rice
 
-- ⏲️ Prep time: 30 min (plus one hour rising)
 - 🍳Cook time: 30 min
 - 🍽️ Servings:5
 

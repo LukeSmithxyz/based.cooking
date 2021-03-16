@@ -28,6 +28,6 @@ Can be prepared the night before and kept frozen for a week or two.
 5. Add spices, syrup and cream.
 
 ## Contribution
-- Thijs Wester - [website](twester.tk)
+- Thijs Wester - [website](https://twester.tk)
 
 ;tags: soup

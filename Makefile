@@ -16,13 +16,13 @@ BLOG_FEEDS ?= rss atom
 BLOG_SRC ?= articles
 
 
-.PHONY: help init build deploy clean taglist gen_search_index
+.PHONY: help init build deploy clean taglist gen_search_index flush_search_index
 
 ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/ 2>/dev/null)
 TAGFILES = $(patsubst $(BLOG_SRC)/%.md,tags/%,$(ARTICLES))
 
 help:
-	$(info make init|build|deploy|clean|taglist|gen_search_index)
+	$(info make init|build|deploy|clean|taglist|gen_search_index|flush_search_index)
 
 init:
 	mkdir -p $(BLOG_SRC) data templates
@@ -44,9 +44,9 @@ init:
 	printf '' > templates/article_footer.html
 	printf 'blog\n' > .git/info/exclude
 
-build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICLES)) $(patsubst %,blog/%.xml,$(BLOG_FEEDS))
+build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICLES)) $(patsubst %,blog/%.xml,$(BLOG_FEEDS)) gen_search_index
 
-deploy: build gen_search_index
+deploy: build
 	rsync -rLtvz $(BLOG_RSYNC_OPTS) blog/ data/ $(BLOG_REMOTE)
 
 clean:
@@ -93,8 +93,8 @@ blog/index.html: index.md $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsu
 		envsubst < templates/article_entry.html; \
 		first=false; \
 	done >> $@; \
-	markdown < index.md >> $@; \
 	envsubst < templates/article_list_footer.html >> $@; \
+	markdown < index.md >> $@; \
 	envsubst < templates/index_footer.html >> $@; \
 	envsubst < templates/footer.html >> $@; \
 
@@ -197,15 +197,18 @@ blog/atom.xml: $(ARTICLES)
 taglist:
 	grep -RIh '^;tags:' src | cut -d' ' -f2- | tr ' ' '\n' | sort | uniq
 
-# BLOG_SRC=`pwd`/src
-gen_search_index:
+
+SEARCH_DIR=$(BLOG_SRC)/
+
+flush_search_index:
+	# remove any file in 'blog' that has no ext
+	find blog -not -name "*.*" -type f -delete;
+
+gen_search_index: flush_search_index
 	URL="https://based.cooking"; \
-	RECIPES=$$(ls $(BLOG_SRC)/*.md); \
-	# search index reachable through https://based.cooking/search/ \
-	SEARCH_DIR=$(BLOG_SRC)/search; \
-	# before regenerating search indices, remove old ones \
-	rm -rf $$SEARCH_DIR; \
-	mkdir -p $$SEARCH_DIR; \
+	RECIPES=$$(find $(BLOG_SRC) -type f -name "*.md"); \
+	# search index reachable through https://based.cooking/ \
+	mkdir -p "$(SEARCH_DIR)" \
 	# list all recipes in src/ \
 	for filepath in $$RECIPES; do \
 		# grab filename of the recipe \
@@ -217,18 +220,19 @@ gen_search_index:
 		# iterate over each word in the title \
 		for word in $$title_delimited; do \
 			# for each word, create a new file that contains links to it's recipes \
-			echo "$$URL/$$title.html" >> $$SEARCH_DIR/$$word; \
+			echo "$$URL/$$title.html" >> blog/$$word; \
 		done \
 		# grab all tags of current recipe \
 		TAGS=$$(grep -RIh '^;tags:' $$filepath | cut -d' ' -f2- | tr ' ' '\n'); \
 		# iterate over each tag in the recipe \
 		for tag in $$TAGS; do \
 			# for each tag, create a new file that contains links to it's recipes \
-			echo "$$URL/$$title.html" >> $$SEARCH_DIR/$$tag; \
+			echo "$$URL/$$title.html" >> blog/$$tag; \
 		done \
 	done \
 	# remove duplicates that may appear due to overlap between tags and title \
-	for f in $$(ls -d $$SEARCH_DIR/*); do \
+	# matches any file without extenstion \
+	for f in $$(find blog -not -name "*.*" -type f); do \
 		# remove duplicates \
 		sort -u $$f -o $$f; \
 	done \

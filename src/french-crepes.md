@@ -9,7 +9,7 @@ Like pancakes, but very thin.
 - 3 eggs
 - 60cl milk
 - 20cl beer
-- 30g butter or 3 tablespoons of oil 
+- 30g butter or 3 tablespoons of oil
 
 ## Directions
 
@@ -29,4 +29,4 @@ Like pancakes, but very thin.
 
 - Aeredren - [GitHub](https://github.com/Aeredren)
 
-;tags: french desert breakfast
+;tags: french dessert breakfast

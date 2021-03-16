@@ -99,6 +99,16 @@ https://based.cooking/chicken-wings.html
 https://based.cooking/pan-seared-chicken.html
 https://based.cooking/roasted-chicken-breast.html
 ```
+
+Works with tags too:
+
+```bash
+$ curl http://based.cooking/search/german
+
+https://based.cooking/sauerkraut.html
+```
+
+
 ~~If there is only one result, that page is opened.~~
 
 

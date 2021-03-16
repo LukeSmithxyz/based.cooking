@@ -18,7 +18,7 @@
   should be automatic).
 - Recipes should be `.md` files in the `src/` directory.  Look at already
   existing `.md` files for examples or see [example](example.md).
-- File names should be the name of the dish with words separated by hypens
+- File names should be the name of the dish with words separated by hyphens
   (`-`). Not underscores, and definitely not spaces.
 - Recipe must be based, i.e. good traditional and substantial food. Nothing
   ironic, meme-tier hyper-sugary, meat-substitute, etc.
@@ -46,7 +46,7 @@ List of special, categorical tags to use if relevant:
 - `basic`: for basic recipes that aren't meant to be stand alone but are supposed
   to be incorporated in another recipe.
 - `breakfast`
-- `desert`
+- `dessert`
 - `drink`
 - `quick`: for recipes that can be cooked in under ~20 minutes.
 - `side`: side dishes such as mash, fries, etc.

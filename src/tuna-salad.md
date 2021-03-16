@@ -19,4 +19,4 @@
 
 scary90
 
-;tags quick basic tuna fish
+;tags: quick basic tuna fish

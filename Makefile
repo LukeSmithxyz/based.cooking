@@ -219,4 +219,16 @@ gen_search_index:
 			# for each word, create a new file that contains links to it's recipes \
 			echo "$$URL/$$title.html" >> $$SEARCH_DIR/$$word; \
 		done \
-	done
+		# grab all tags of current recipe \
+		TAGS=$$(grep -RIh '^;tags:' $$filepath | cut -d' ' -f2- | tr ' ' '\n'); \
+		# iterate over each tag in the recipe \
+		for tag in $$TAGS; do \
+			# for each tag, create a new file that contains links to it's recipes \
+			echo "$$URL/$$title.html" >> $$SEARCH_DIR/$$tag; \
+		done \
+	done \
+	# remove duplicates that may appear due to overlap between tags and title \
+	for f in $$(ls -d $$SEARCH_DIR/*); do \
+		# remove duplicates \
+		sort -u $$f -o $$f; \
+	done \

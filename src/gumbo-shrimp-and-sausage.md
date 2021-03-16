@@ -51,4 +51,4 @@ This recipe is a simplified version of AB's Seafood Gumbo -- [youtube]
 - Carl Zimmerman -- [website](https://codingwithcarl.com)
 - Smokin' & Grillin' wit AB -- [youtube](https://www.youtube.com/c/SmokinGrillinwitAB/)
 
-;tags: advanced cajun creole american
+;tags: american fish rice

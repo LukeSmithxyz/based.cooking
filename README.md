@@ -87,7 +87,7 @@ I'll think about how best to do it to minimize bandwidth if possible.
 
 So suppose someone wants a recipe with chicken, to return articles with that title:
 ```bash
-$ curl based.cooking/search/chicken
+$ curl based.cooking/chicken
 
 https://based.cooking/chicken-biscuit-potpie.html
 https://based.cooking/chicken-parmesan.html
@@ -103,7 +103,7 @@ https://based.cooking/roasted-chicken-breast.html
 Works with tags too:
 
 ```bash
-$ curl http://based.cooking/search/german
+$ curl http://based.cooking/german
 
 https://based.cooking/sauerkraut.html
 ```

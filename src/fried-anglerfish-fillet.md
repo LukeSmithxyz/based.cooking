@@ -19,7 +19,7 @@ This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically 
 2. Remove the organs. Gently pull and cut the membrane that connects each to the rest of the body.
 3. Make an incision around the mouth (the hard 'lips'), turn the fish around and do the same to that side.
 4. Start to slowly but firmly pull back the skin cutting whenever there is resistance as you make your way towards the tail.
-5. Once you have removed the skin, flip it back onto its belly and cut off the thin flabs of meat and fins from the body. At this point there should be a clear distinction between the body and the larger head. Behead the animal.
+5. Once you have removed the skin, flip it back onto its back and cut off the thin flabs of meat of its underside and fins from the body. At this point there should be a clear distinction between the body and the larger head. Behead the animal.
 6. With a filleting knife, fillet the meat from the backbone and remove the tail.
 7. You should be left with 2 long strips of meat. Cut each in half.
 
@@ -33,6 +33,6 @@ This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically 
 
 ## Contribution
 
-by Shou, [website](https://shouganai.xyz)
+Shou, [website](https://shouganai.xyz)
 
 ;tags: fish

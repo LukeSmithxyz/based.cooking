@@ -5,7 +5,7 @@ Perfectly cooked fall off the bone buffalo wings.
 ## Ingredients
 
 - Chicken wings and drums
-- Enough Franks RedHot Sauce to marinate and top dress*
+- Enough Frank's RedHot Sauce to marinate and top dress*
 - Reynold's Oven Bag
 
 ## Directions
@@ -23,3 +23,5 @@ Perfectly cooked fall off the bone buffalo wings.
 ## Contributors
 
 - **Kyle Steger** -- [GitHub](https://github.com/kyleVsteger) -- _just some dude_
+
+;tags: chicken

@@ -20,3 +20,5 @@ Quick and simple bread spread.
 ## Contribution
 
 - Patryk Niedźwiedziński - [website](https://niedzwiedzinski.cyou)
+
+;tags: bread quick snack spread

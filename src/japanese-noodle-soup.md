@@ -1,11 +1,11 @@
 # Japanese Noodle Soup
 
-![Japanese Noodle Soup](/pix/japanese-noodle-soup.webp)
+![Japanese Noodle Soup](pix/japanese-noodle-soup.webp)
 
-This is a very easy and simple Japanese style ramen noodle soup. This is very cheap to make, and you can really customise this however you wish with the garnish. This is my own spin inspired by other recipies that I found.
+This is a very easy and simple Japanese style ramen noodle soup. This is very cheap to make, and you can really customise this however you wish with the garnish. This is my own spin inspired by other recipes that I found.
 
-- ⏲️ Prep time: 20min
-- 🍳Cook time: 20 min
+- ⏲️ Prep time: 20 minutes
+- 🍳Cook time: 20 minutes
 - 🍽️ Servings: 4
 
 ## Ingredients
@@ -32,7 +32,7 @@ This is a very easy and simple Japanese style ramen noodle soup. This is very ch
 1. For the broth, add 700ml of chicken stock to a large boiling pot with the garlic, ginger, soy sauce, chinese five spice, chili, and 300ml of water.
 2. Bring this to the boil, then turn the heat to low and simmer for around 5 mins.
 3. Add a pinch of sugar and more soy sauce to taste
-4. Fry the pork chops until cooked (My [Sticky Pork Chops](https://based.cooking/sticky-porkchops) recepie works really well with this dish)
+4. Fry the pork chops until cooked (My [Sticky Pork Chops](https://based.cooking/sticky-porkchops) recipe works really well with this dish)
 5. Hard boil 4 eggs.
 6. Cook the ramen noodles as per packet instructions.
 7. Strain the stock into another pan, then reheat.
@@ -42,3 +42,5 @@ This is a very easy and simple Japanese style ramen noodle soup. This is very ch
 ## Contribution
 
 - Jake Keast - [website](https://jakekeast.xyz), xmr: 8BBKCQbL1xSKS8fWE257cVBzerYu1censWYUCncLppo6MPLd3u59ejYE9XMdW4CNL3DGgf1vjG5SHGDEJV95xtxW2wsaANo
+
+;tags: japanese chicken soup

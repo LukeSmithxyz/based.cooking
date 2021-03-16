@@ -32,3 +32,4 @@ Other meats may be substituted instead of beef, but use caution.
 
 - Elias Howell -- [website](https://snarf.top)
 
+;tags: beef snack

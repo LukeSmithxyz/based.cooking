@@ -1,64 +1,69 @@
 body {
-	max-width: 800px ;
-	margin: auto ;
-	padding: 0 16px ;
-	margin-bottom: 500px ;
+  max-width: 800px;
+  margin: auto;
+  padding: 0 16px;
+  margin-bottom: 500px;
+  font-family: sans-serif;
 }
 
 h1 {
-	text-align: center ;
+  text-align: center;
 }
 
 footer {
-	text-align: center ;
+  text-align: center;
 }
 
 img {
-	max-width: 600px ;
-	width: 100% ;
-	margin: auto ;
-	display: block ;
+  max-width: 600px;
+  width: 100%;
+  margin: auto;
+  display: block;
 }
 
 code {
-	overflow-wrap: break-word ;
-	color: lime ;
+  overflow-wrap: break-word;
+  color: lime;
 }
 
 img[alt="BTC logo"],
 img[alt="XMR Logo"] {
-	max-width: 1em ;
-	max-height: 1em ;
-	display: inline ;
+  max-width: 1em;
+  max-height: 1em;
+  display: inline;
 }
 
 @media (prefers-color-scheme: dark) {
-	body {
-		background: #151515 ;
-		color: white ;
-	}
-	a {
-		color: lightblue ;
-	}
-	a:visited {
-		color: gray ;
-	}
-	h2 {
-		color: tomato ;
-	}
+  body {
+    background: #151515;
+    color: white;
+  }
+  a {
+    color: lightblue;
+  }
+  a:visited {
+    color: gray;
+  }
+  h2 {
+    color: tomato;
+  }
 }
 
 @media print {
-	a[href] {
-		text-decoration: none ;
-		color: black ;
-	}
+  a[href] {
+    text-decoration: none;
+    color: black;
+  }
 }
 
 @media (min-width: 55em) {
-	#artlist { column-count: 2 ;}
+  #artlist {
+    column-count: 2;
+  }
 }
 
 @media (min-width: 100em) {
-	#artlist { column-count: 3 ;}
+  #artlist {
+    column-count: 3;
+  }
 }

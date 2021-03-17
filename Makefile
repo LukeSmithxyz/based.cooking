@@ -167,7 +167,7 @@ blog/rss.xml: $(ARTICLES)
 		printf '%s ' "$$f"; \
 		git log -n 1 --diff-filter=A --date="format:%s %a, %d %b %Y %H:%M:%S %z" --pretty=format:'%ad%n' -- "$$f"; \
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
-		printf '<item>\n<title>%s</title>\n<link>%s</link>\n<guid>%s</guid>\n<pubDate>%s</pubDate>\n<description>%s</description>\n</item>\n' \
+		printf '<item>\n<title>%s</title>\n<link>%s</link>\n<guid>%s</guid>\n<pubDate>%s</pubDate>\n<description><![CDATA[%s]]></description>\n</item>\n' \
 			"`head -n 1 $$FILE | sed 's/^# //'`" \
 			"$(BLOG_URL_ROOT)`basename $$FILE | sed 's/\.md/\.html/'`" \
 			"$(BLOG_URL_ROOT)`basename $$FILE | sed 's/\.md/\.html/'`" \

@@ -1,4 +1,4 @@
-# Plov
+# Pilaf
 
 Popular central asian and middle eastern dish.
 High in nutrition, designed to be prepared and eaten communally.

@@ -28,7 +28,7 @@ Peruvian-chinese dish, Easy to cook just add and mix everything.
 3. Cook the rice (if it is yesterday's rice better, preferably without salt).
 4. Cut the welsh onion and bell pepper into small squares.
 5. Mix everything over low heat, adding soy sauce.
-6. Optinal: add beacon, sesame oil.
+6. Optional: add beacon, sesame oil.
 7. (Everything is salty, you can reduce it with just a teaspoon of sugar, especially if you cook the rice with salt.)
 
 ## Contribution
@@ -37,4 +37,3 @@ Peruvian-chinese dish, Easy to cook just add and mix everything.
 - [![](https://img.shields.io/badge/Contact-andy@andyrufasto.cf-succes?style=social&logo=GNU-Privacy-Guard)](https://keyoxide.org/0A3D7C5B8C2499A8BEBCE72869D2E5C413569DA2)
 
 ;tags: peruvian chinese rice
-

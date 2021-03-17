@@ -36,7 +36,11 @@ Note that your commit name will be used to sign the recipe, so for full
 anonymity either commit with a name that can't be traced back to you, or ask
 someone else to commit for you.
 
+If you add a Bitcoin/Monero address, put it in "code" between \`'s, like below. This is for formatting, especially with long Monero addresses.
+
 - Luke Smith - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
-- Luke Smith (photo credit) - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
+- Billy Smith - btc: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w`
+- Sally Smith (photo credit) - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
+-
 
 ;tags: tag1 tag2 tag3 (see README for tag guidelines)

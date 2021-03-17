@@ -1,4 +1,6 @@
 body {
+	background: #151515 ;
+	color: white ;
 	max-width: 800px ;
 	margin: auto ;
 	padding: 0 16px ;
@@ -6,8 +8,20 @@ body {
 	font-family: sans-serif ;
 }
 
+a {
+	color: lightblue ;
+}
+
+a:visited {
+	color: gray ;
+}
+
 h1 {
 	text-align: center ;
+}
+
+h2 {
+	color: tomato ;
 }
 
 footer {
@@ -33,19 +47,22 @@ img[alt="XMR Logo"] {
 	display: inline ;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 	body {
-		background: #151515 ;
-		color: white ;
+		background: white ;
+		color: black ;
 	}
 	a {
-		color: lightblue ;
+		color: blue ;
 	}
 	a:visited {
-		color: gray ;
+		color: purple ;
 	}
 	h2 {
-		color: tomato ;
+		color: inherit ;
+	}
+	code {
+		color: forestgreen ;
 	}
 }
 

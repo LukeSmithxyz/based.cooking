@@ -172,7 +172,7 @@ blog/rss.xml: $(ARTICLES)
 			"$(BLOG_URL_ROOT)`basename $$FILE | sed 's/\.md/\.html/'`" \
 			"$(BLOG_URL_ROOT)`basename $$FILE | sed 's/\.md/\.html/'`" \
 			"$$DATE" \
-			"`tail -n+3 < $$FILE`"; \
+			"`markdown < $$FILE`"; \
 	done >> $@
 	printf '</channel>\n</rss>\n' >> $@
 

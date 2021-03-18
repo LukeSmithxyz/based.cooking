@@ -1,6 +1,6 @@
 body {
 	background: #151515 ;
-	color: white ;
+	color: navajowhite ;
 	max-width: 800px ;
 	margin: auto ;
 	padding: 0 16px ;
@@ -9,15 +9,17 @@ body {
 }
 
 a {
-	color: lightblue ;
+	color: gold ;
 }
 
 a:visited {
-	color: gray ;
+	color: darkgoldenrod ;
 }
 
 h1 {
 	text-align: center ;
+	border-style:solid;
+	border-width:0px 0px 2px 0px;
 }
 
 h2 {

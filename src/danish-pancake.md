@@ -16,6 +16,12 @@ Danish Pancake recipe
 4. They are done when both sides start turning brown.
 5. Add Butter or Margarine when needed.
 
+## Served With
+- Sugar
+- Sirup
+- Powdered sugar
+- Marmelade (Jam)
+
 ## Contribution
 
 Jesper

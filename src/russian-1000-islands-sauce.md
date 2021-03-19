@@ -12,7 +12,6 @@ A tasty sauce that goes well with salads or rice. Recipe taken from a Russian mo
 - Dijon mustard
 - Onion powder
 - Pickle relish (optional)
-- Salt & pepper (optional)
 
 ## Directions
 

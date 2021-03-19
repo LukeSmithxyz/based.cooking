@@ -16,13 +16,13 @@ BLOG_FEEDS ?= rss atom
 BLOG_SRC ?= articles
 
 
-.PHONY: help init build deploy clean taglist
+.PHONY: help init build deploy clean taglist gen_search_index flush_search_index
 
 ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/ 2>/dev/null)
 TAGFILES = $(patsubst $(BLOG_SRC)/%.md,tags/%,$(ARTICLES))
 
 help:
-	$(info make init|build|deploy|clean|taglist)
+	$(info make init|build|deploy|clean|taglist|gen_search_index|flush_search_index)
 
 init:
 	mkdir -p $(BLOG_SRC) data templates
@@ -44,7 +44,7 @@ init:
 	printf '' > templates/article_footer.html
 	printf 'blog\n' > .git/info/exclude
 
-build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICLES)) $(patsubst %,blog/%.xml,$(BLOG_FEEDS))
+build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICLES)) $(patsubst %,blog/%.xml,$(BLOG_FEEDS)) gen_search_index
 
 deploy: build
 	rsync -rLtvz $(BLOG_RSYNC_OPTS) blog/ data/ $(BLOG_REMOTE)
@@ -196,3 +196,43 @@ blog/atom.xml: $(ARTICLES)
 
 taglist:
 	grep -RIh '^;tags:' src | cut -d' ' -f2- | tr ' ' '\n' | sort | uniq
+
+
+SEARCH_DIR=$(BLOG_SRC)/
+
+flush_search_index:
+	# remove any file in 'blog' that has no ext
+	find blog -not -name "*.*" -type f -delete;
+
+gen_search_index: flush_search_index
+	URL="https://based.cooking"; \
+	RECIPES=$$(find $(BLOG_SRC) -type f -name "*.md"); \
+	# search index reachable through https://based.cooking/ \
+	mkdir -p "$(SEARCH_DIR)" \
+	# list all recipes in src/ \
+	for filepath in $$RECIPES; do \
+		# grab filename of the recipe \
+		filename=$$(basename $$filepath) \
+		# grab filename of the recipe WITHOUT it's extension: '.md' \
+		title=$${filename%.*}; \
+		# split title into words delimited by dash '-' \
+		title_delimited=$$(echo $$title | tr '-' "\n"); \
+		# iterate over each word in the title \
+		for word in $$title_delimited; do \
+			# for each word, create a new file that contains links to it's recipes \
+			echo "$$URL/$$title.html" >> blog/$$word; \
+		done \
+		# grab all tags of current recipe \
+		TAGS=$$(grep -RIh '^;tags:' $$filepath | cut -d' ' -f2- | tr ' ' '\n'); \
+		# iterate over each tag in the recipe \
+		for tag in $$TAGS; do \
+			# for each tag, create a new file that contains links to it's recipes \
+			echo "$$URL/$$title.html" >> blog/$$tag; \
+		done \
+	done \
+	# remove duplicates that may appear due to overlap between tags and title \
+	# matches any file without extenstion \
+	for f in $$(find blog -not -name "*.*" -type f); do \
+		# remove duplicates \
+		sort -u $$f -o $$f; \
+	done \

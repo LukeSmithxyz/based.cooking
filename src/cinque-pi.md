@@ -26,6 +26,6 @@ This is a nice simple dish made up of five ingredients: panna, pomodori, parmigi
 
 ## Contribution
 
-- **Elias Pahls** - [contact](pahlse@pm.me)
+- **Elias Pahls** - [contact](mailto:pahlse@pm.me)
 
 ;tags: italian, pasta, quick

@@ -14,12 +14,14 @@ BLOG_URL_ROOT ?= http://localhost/blog
 BLOG_FEED_MAX ?= 20
 BLOG_FEEDS ?= rss atom
 BLOG_SRC ?= articles
+COOKDIR ?= /usr/share/cooking/based.cooking
 
 
-.PHONY: help init build deploy clean taglist
+.PHONY: help init build deploy clean taglist install
 
 ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/ 2>/dev/null)
 TAGFILES = $(patsubst $(BLOG_SRC)/%.md,tags/%,$(ARTICLES))
+MANPAGES = $(patsubst $(BLOG_SRC)/%.md,pages/%.1,$(ARTICLES))
 
 help:
 	$(info make init|build|deploy|clean|taglist)
@@ -50,7 +52,7 @@ deploy: build
 	rsync -rLtvz $(BLOG_RSYNC_OPTS) blog/ data/ $(BLOG_REMOTE)
 
 clean:
-	rm -rf blog tags
+	rm -rf blog tags pages
 
 config:
 	printf 'BLOG_REMOTE:=%s\n' \
@@ -196,3 +198,24 @@ blog/atom.xml: $(ARTICLES)
 
 taglist:
 	grep -RIh '^;tags:' src | cut -d' ' -f2- | tr ' ' '\n' | sort | uniq
+
+install: $(MANPAGES)
+	mkdir -p $(COOKDIR)
+	cp pages/* $(COOKDIR)
+
+manpages: $(MANPAGES)
+
+pages:
+	mkdir -p $@
+
+pages/%.1: src/%.md pages
+	printf ".TH $* 7\n" > $@; \
+	sed -e 's/^##* /.SH /' \
+		-e 's/^ *- */.IP \\(bu 4\n/' \
+		-e 's/^ *\* */.IP \\(bu 4\n/' \
+		-e 's/^ *\([0-9][0-9]*\). */.IP \1. 4\n/' \
+		-e '/!\[.*\](.*)/d' \
+		-e 's;\[\([^]]*\)\](\([a-z\-]*\)\.html);\1 (\n.I \2\n);g' \
+		-e 's;\[\([^]]*\)\](\([a-z\-]*\));\1 (\n.I \2\n);g' \
+		-e 's;\[\([^]]*\)\](\([^ ]*\));\1\n.UR \2\n.UE \n;g' \
+		-e 's/^;tags:\(.*\)/.SH Tags:\n.I \1\n/' < $< >> $@

@@ -14,4 +14,4 @@
 
 - Jacob Smith - [website](https://jacobwsmith.xyz)
 
-;tags: spread snack basic
+;tags: spread snack basic strict_fast

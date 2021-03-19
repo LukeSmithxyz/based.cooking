@@ -23,13 +23,13 @@ A simple and tasty curry that is easy to customise.
 
 ## Directions
 
-1. Heat the oven to approximately 200 °C (392 °F). 
+1. Heat the oven to approximately 200 °C (392 °F).
 2. Cut the eggplant into 1 cm (⅓") slices and place on a tray. Cover with a layer of oil and bake for 20 minutes.
 3. Cook the sliced onions with oil until soft on medium (about 5-6 minutes).
 4. Add the garlic, garam masala, turmeric and ground coriander and allow to release aroma for a minute or two.
 5. Tip in the canned tomatos and coconut milk. Add the eggplant, and chunks of potato.
   - It is possible to add additional vegetables at this step. I have on occasion added carrots and red peppers (capsicums).
-7. Cover and simmer for ~15-20 minutes. 
+7. Cover and simmer for ~15-20 minutes.
 8. Boil 2 serves of rice
 9. Remove the lid and cook for a further 5 minutes, or until reduced.
   - A nice optional addition at this point is paneer.
@@ -39,4 +39,4 @@ A simple and tasty curry that is easy to customise.
 
 - Luke Chadwick - [website](https://lukechadwick.com)
 
-;tags: indian curry potato
+;tags: indian curry potato strict_fast

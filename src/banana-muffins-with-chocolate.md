@@ -26,4 +26,4 @@
 
 - Łukasz Drukała - [website](https://masflam.com), [donate](https://masflam.com/#donate)
 
-;tags: dessert sweet snack cake
+;tags: dessert sweet snack cake strict_fast

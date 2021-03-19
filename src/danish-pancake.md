@@ -27,4 +27,4 @@ Danish Pancake recipe
 Jesper
 XMR: `88cPx6Gzv5RWRRJLstUt6hACF1BRKPp1RMka1ukyu2iuHT7iqzkNfMogYq3YdDAC8AAYRqmqQMkCgBXiwdD5Dvqw3LsPGLU`
 
-;tags: quick basic breakfast sweet cake pancake
+;tags: quick basic breakfast sweet cake pancake cheesefare

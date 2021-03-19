@@ -27,4 +27,4 @@ Its simplicity and short preparation time make it perfect for a snack or dessert
 - A family recipe (not mine)
 - Submitted by Mealwhiles
 
-;tags: portuguese quick sweet snack dessert
+;tags: portuguese quick sweet snack dessert cheesefare

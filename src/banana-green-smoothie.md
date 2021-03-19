@@ -17,4 +17,4 @@
 
 Front3ndNinja - [Website](https://github.com/Front3ndNinja)
 
-;tags: drink sweet breakfast
+;tags: drink sweet breakfast strict_fast

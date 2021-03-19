@@ -31,4 +31,4 @@ Cooking time: ~45 minutes
 
 - **Alexander Bocken** -- [contact](mailto:alexander@bocken.org)
 
-;tags: swiss potato side
+;tags: swiss potato side cheesefare

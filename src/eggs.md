@@ -49,4 +49,4 @@ of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 - Deven Blake -- [website](http://www.trinity.moe)
 
-;tags: eggs basic
+;tags: eggs basic cheesefare

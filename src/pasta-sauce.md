@@ -22,4 +22,4 @@ Unlike modern store-bought sauces, there is no added sugar, only the subtle tast
 
 - Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
 
-;tags: italian basic sauce
+;tags: italian basic sauce strict_fast

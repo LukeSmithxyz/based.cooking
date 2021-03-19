@@ -29,4 +29,4 @@ Like pancakes, but very thin.
 
 - Aeredren - [GitHub](https://github.com/Aeredren)
 
-;tags: french dessert breakfast
+;tags: french dessert breakfast cheesefare

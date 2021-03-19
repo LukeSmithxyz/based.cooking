@@ -30,4 +30,4 @@ Can be prepared the night before and kept frozen for a week or two.
 ## Contribution
 - Thijs Wester - [website](https://twester.tk)
 
-;tags: soup
+;tags: soup cheesefare

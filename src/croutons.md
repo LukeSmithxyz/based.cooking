@@ -21,4 +21,4 @@ Croutons are an essential addition to many salads.  They are delicious and easy 
 
 - gucko
 
-;tags: basic french salad
+;tags: basic french salad strict_fast

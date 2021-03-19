@@ -27,4 +27,4 @@ Cooking time: ~5 minutes
 
 - peebowo
 
-;tags: mexican quick
+;tags: mexican quick cheesefare

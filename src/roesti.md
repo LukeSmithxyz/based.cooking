@@ -1,7 +1,7 @@
 # Rösti
 
 This swiss classic works great together with fried eggs and steamed peas or spinach.
-Can be usefull to get rid of leftover potatoes from the day before.
+Can be useful to get rid of leftover potatoes from the day before.
 
 - ⏲️ Prep time: 20 min
 - 🍳Cook time: 20 min

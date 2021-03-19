@@ -34,5 +34,6 @@ Cooking time: ~45 minutes
 ## Contributors
 
 - **Alexander Bocken** -- [contact](mailto:alexander@bocken.org)
+- **Elias Pahls** -- [contact](mailto:pahlse@pm.me)
 
 ;tags: swiss potato side

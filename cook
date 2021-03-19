@@ -1,6 +1,6 @@
 #!/bin/sh
 
-test -n "$COOKDIR" || COOKDIR="/usr/share/cooking"
+test -n "$COOKPATH" || COOKPATH="/usr/share/cooking"
 
 die() {
     printf "$1\n" 1>&2
@@ -8,7 +8,7 @@ die() {
 }
 
 get_recipes() {
-    find "$COOKDIR" -name '*.1'
+    find "$COOKPATH" -name '*.1'
 }
 
 list_recipes() {
@@ -19,18 +19,18 @@ list_recipes() {
 }
 
 search_recipe() {
-    grep -Rli "$1" "$COOKDIR" | sed -e 's;^.*/\([^/]*\).1;\1;g'
+    grep -Rli "$1" "$COOKPATH" | sed -e 's;^.*/\([^/]*\).1;\1;g'
 }
 
 open_recipe() {
-    path="$(find "$COOKDIR" -name "$1.1")"
+    path="$(find "$COOKPATH" -name "$1.1")"
     test -f "$path" || die "No such recipe: $1"
     man "$path"
 }
 
 help() {
     printf "$0 [<recipe>|-s <query>]\n"
-    printf "    If no argument given, will list all recipes found in \$COOKDIR and sub folders\n"
+    printf "    If no argument given, will list all recipes found in \$COOKPATH and sub folders\n"
     printf "    <recipe>: open recipe with given name\n"
     printf "    -s <query>: greps for <query> in all installed recipes, case insensitive\n"
 }

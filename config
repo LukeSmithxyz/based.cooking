@@ -4,4 +4,4 @@ BLOG_DATE_FORMAT_INDEX:=%F
 BLOG_DATE_FORMAT:=%F
 BLOG_SRC:=src
 BLOG_URL_ROOT:=https://based.cooking/
-COOKDIR:=/usr/share/cooking/based.cooking
+COOKPATH:=/usr/share/cooking/based.cooking

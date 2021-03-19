@@ -14,7 +14,7 @@ BLOG_URL_ROOT ?= http://localhost/blog
 BLOG_FEED_MAX ?= 20
 BLOG_FEEDS ?= rss atom
 BLOG_SRC ?= articles
-COOKDIR ?= /usr/share/cooking/based.cooking
+COOKPATH ?= /usr/share/cooking/based.cooking
 
 
 .PHONY: help init build deploy clean taglist install
@@ -200,8 +200,8 @@ taglist:
 	grep -RIh '^;tags:' src | cut -d' ' -f2- | tr ' ' '\n' | sort | uniq
 
 install: $(MANPAGES)
-	mkdir -p $(COOKDIR)
-	cp pages/* $(COOKDIR)
+	mkdir -p $(COOKPATH)
+	cp pages/* $(COOKPATH)
 
 manpages: $(MANPAGES)
 

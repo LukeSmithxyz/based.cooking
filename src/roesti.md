@@ -3,9 +3,9 @@
 This swiss classic works great together with fried eggs and steamed peas or spinach.
 Can be usefull to get rid of leftover potatoes from the day before.
 
-Serves: 1
-
-Cooking time: ~45 minutes
+- ⏲️ Prep time: 20 min
+- 🍳Cook time: 20 min
+- 🍽️ Servings: 4
 
 ## Ingredients
 

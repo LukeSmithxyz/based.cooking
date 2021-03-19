@@ -18,9 +18,9 @@ Danish Pancake recipe
 
 ## Served With
 - Sugar
-- Sirup
+- Syrup
 - Powdered sugar
-- Marmelade (Jam)
+- Marmalade (Jam)
 
 ## Contribution
 

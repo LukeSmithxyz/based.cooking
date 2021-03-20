@@ -9,8 +9,6 @@ This recipe makes a lot and is super easy. A whole roast usually makes enough fo
 ## Ingredients
 
 - 2 ½ lbs. boneless pork shoulder
-- 2 teaspoons kosher salt
-- pepper, to taste
 - 6 cloves of garlic, cut into slivers
 - 1 ½ teaspoons cumin
 - ½ teaspoon sazon 
@@ -23,7 +21,7 @@ This recipe makes a lot and is super easy. A whole roast usually makes enough fo
 
 ## Directions
 
-1.	Season pork with salt and pepper.
+1.	Season pork with kosher salt and pepper.
 2.	In a medium sauté pan on medium-high heat, brown pork on all sides.
 3.	Remove from heat and allow to cool, about 10 minutes.
 4.	Using a sharp knife, insert blade into pork, cutting small holes and insert garlic slivers as far in as you can.

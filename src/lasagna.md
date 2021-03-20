@@ -2,10 +2,9 @@
 
 A classic italian dish, lasagna is a great meal for a cold day when you're in the mood for pasta. 
 
-Serves 4 or 5 people. 
-
-Prep time: about ten minutes.
-Cooking time: about an hour. 
+- ⏲️ Prep time: 10 min
+- 🍳Cook time: 50-60 min
+- 🍽️ Servings: 4-5
 
 ## Ingredients
 - Ricotta cheese. 

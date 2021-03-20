@@ -1,0 +1,34 @@
+name: Deploy to GitHub Pages
+on:
+    push:
+        branches:
+            - master
+
+jobs:
+    deploy:
+        name: Deployment
+        runs-on: ubuntu-latest
+        steps:
+            - name: download stuff
+              run: |
+                sudo apt-get install discount
+                git clone https://github.com/LukeSmithxyz/based.cooking.git
+            
+            - name: init
+              run: |
+                cd based.cooking
+                make init
+                
+            - name: build
+              run: |
+                cd based.cooking
+                make build
+            
+            - name: move files
+              run:  mv based.cooking/data/* based.cooking/blog/
+
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # see: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key
+                  publish_dir: "based.cooking/blog"

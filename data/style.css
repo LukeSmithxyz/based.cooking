@@ -6,7 +6,6 @@ body {
 	padding: 0 16px ;
 	margin-bottom: 500px ;
 	font-family: sans-serif ;
-	line-height: 1.5 ;
 }
 
 a {
@@ -81,3 +80,10 @@ img[alt="XMR Logo"] {
 @media (min-width: 100em) {
 	#artlist { column-count: 3 ;}
 }
+
+@media (pointer: coarse) {
+	li {
+		line-height: 1.5 ;
+	}
+}
+

@@ -29,6 +29,6 @@ A classic italian dish, lasagna is a great meal for a cold day when you're in th
 
 ## Contribution
 
-- Josiah -- [website](https://himiko.cloud), [keybase](https://keybase.io/himikocloud), [donate](https://himiko.cloud/donate/)
+- Josiah -- [website](https://himiko.cloud), [donate](https://himiko.cloud/donate/)
 
 tags; basic italian

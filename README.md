@@ -9,7 +9,7 @@ There are no ads, trackers, cookies (unless reciples thereof) or javascript.
 
 - By adding a recipe.
 - Make a recipe and take a nice picture of it if no nice picture already
-  exists. Submitted images should be small `.webm` files ideally less than 100K
+  exists. Submitted images should be small `.webp` files ideally less than 100K
   or so.
 - Fix errors in recipes or add minor improvements.
 

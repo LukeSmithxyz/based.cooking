@@ -11,6 +11,7 @@ You may also include prep/cook time and the number of servings as below:
 
 ## Ingredients
 
+- There must be a blank line above all lists.
 - List the ingredients
 - in an unordered list
 - similar to this.
@@ -41,6 +42,5 @@ If you add a Bitcoin/Monero address, put it in "code" between \`'s, like below. 
 - Luke Smith - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
 - Billy Smith - btc: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w`
 - Sally Smith (photo credit) - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
--
 
 ;tags: tag1 tag2 tag3 (see README for tag guidelines)

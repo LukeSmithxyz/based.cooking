@@ -3,7 +3,7 @@
 [https://based.cooking](https://based.cooking)
 
 This is a simple cooking website where users can submit recipes here for credit.
-There are no ads, trackers, cookies (unless reciples thereof) or javascript.
+There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 
 ## Ways to contribute
 

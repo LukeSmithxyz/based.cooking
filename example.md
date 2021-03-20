@@ -31,7 +31,7 @@ You may also include prep/cook time and the number of servings as below:
 
 Here, just put your name and links to yourself (maybe a website or donation link) if you want.
 You may say "Anonymous" or a screenname if desired.
-If you add something substantial to an already existing recipe (including and image) you may add your name below with the contribution in parens.
+If you add something substantial to an already existing recipe (including an image) you may add your name below with the contribution in parens.
 
 Note that your commit name will be used to sign the recipe, so for full
 anonymity either commit with a name that can't be traced back to you, or ask

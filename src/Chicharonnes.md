@@ -1,13 +1,5 @@
 # Chicharrones
 
-If necessary, provide a very brief description of the dish in one or two sentences.
-For most dishes, this will be unnecessary.
-If there is a title image of this dish, it should be above this paragraph.
-You may also incjlude prep/cook time and the number of servings as below:
-
-
-- 🍳Cook time: 35+ min
-
 ## Ingredients
 - Pork Butt with fat
 - Adobo Goya all purpose

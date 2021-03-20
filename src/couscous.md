@@ -14,7 +14,7 @@ This is the recipe for traditional couscous with tomato sauce, for this you migh
 - the amount of pumpkin you add highly depends on how many vegetables you've already added
 - hot pepper / hot paste (very optional as it changes the taste of the sauce dramatically)
 - I personally like to add some white radish to it but it's completely optional
-- some salt, black pepper, some oil, around 3 to 4 littres of water (in freedom units this equates to around a galon)
+- some oil, around 3 to 4 littres of water (in freedom units this equates to around a galon)
 - 1kg of couscous
 
 this can feed up to 8 people

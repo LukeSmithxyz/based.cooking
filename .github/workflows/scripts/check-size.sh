@@ -11,7 +11,7 @@ check_size() {
     fi
 }
 
-git diff --name-only origin/master | while IFS= read -r file; do
+git diff --name-only `git merge-base origin/master HEAD` | while IFS= read -r file; do
     case "$file" in
         *.webp)
             echo "Checking size of $file"

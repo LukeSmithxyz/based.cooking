@@ -19,4 +19,4 @@ Here is a simple Pancake recipe
 
 BeFe
 
-;tags: quick basic breakfast sweet cake
+;tags: quick basic breakfast sweet cake pancake

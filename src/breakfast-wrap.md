@@ -1,6 +1,6 @@
 # Breakfast Wrap
 
-The basic parts of a full English in a wrap. Inspired by Macdonalds breakfast wraps.
+The basic parts of a full English in a wrap. Inspired by McDonald's breakfast wraps.
 
 - ⏲️ Prep time: 5 min
 - 🍳Cook time: 10 min

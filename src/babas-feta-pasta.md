@@ -19,7 +19,7 @@ Serves Around 3 People. You can scale up to 4 If you increase most quantities by
 - 6 Medium Mushrooms (Cut smallish and small stalk)
 - 1/2 Broccli (Chopped small)
 - 8-10 Finely sliced cherry tomatoes
-- Whole Block of feta (Washed)
+- 1/2 Block of feta (Washed)
 - 1 Chicken stock (Added to 3/4 Mug boiling water)
 - Overfilled Teaspoon Mixed Spice
 - 3/4 Bowls fusilli pasta 

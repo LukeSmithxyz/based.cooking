@@ -74,6 +74,7 @@
 18. When the water is boiling, add the dry spaghetti to the pot.
 19. Boil the spaghetti for 8-10 minutes, or to al dente.
 20. Drain the spaghetti in a collander.
+21. (Optional) Add ~1/3 cup of pasta water to sauce to help sauce stick to noodles
 
 ### Serve
 

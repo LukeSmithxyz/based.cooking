@@ -24,7 +24,7 @@ Brew coffee in a full immersion style to maximize body. Full immersion coffee br
 5. Grind coffee. 1-1.2:U+03BC:m.
 6. Add coffee to brewer, settle grounds into a flat bed. Tare your scale.
 7. Start your timer, then pour evenly over the coffee to your total brew mass.
-8. At 4.5 min, plunge the brewer to separate the grounds from the water.
+8. At 4.5 min, plunge the filter to separate the grounds from the water.
 9. Pour into your mug and enjoy!
 
 ## Contribution

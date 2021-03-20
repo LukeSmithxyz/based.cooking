@@ -7,6 +7,7 @@ A recipe for Glühwein/mulled wine a beverage you can find at almost every Europ
 ## Ingredients
 
 for 1 liter of Glühwein
+
 - 300 ml Cassis-Juice (Johannesbeer), if you can't find it you can replace it with another juice, I did it e.g. with cranberry pomegranate juice
 - 1 bottle 700ml red wine (I prefer Primitivo/Zinfandel), don't buy a cheap cooking wine, you want to drink it :)
 - 50 g Sugar

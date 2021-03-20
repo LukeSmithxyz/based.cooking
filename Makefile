@@ -137,7 +137,7 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	mkdir -p blog
 	TITLE="$(shell head -n1 $< | sed 's/^# \+//')"; \
 	export TITLE; \
-	PAGE_TITLE="$${TITLE} — $(BLOG_TITLE)"; \
+	PAGE_TITLE="$${TITLE} Recipe — $(BLOG_TITLE)"; \
 	export PAGE_TITLE; \
 	AUTHOR="$(shell git log --format="%an" -- "$<" | tail -n 1)"; \
 	export AUTHOR; \

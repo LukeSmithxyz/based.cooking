@@ -10,8 +10,8 @@ This is a nice simple dish made up of five ingredients: panna, pomodori, parmigi
 
 - pasta: 800g | 1 1/2 lb
 - Cream: 4dl | 1 1/2 cups
-- Tomato purée: 2-3 T
-- Parmigiano (grated): 4-6 T
+- Tomato purée
+- Parmigiano (grated)
 - Parsley
 
 ## Directions

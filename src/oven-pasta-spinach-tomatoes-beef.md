@@ -5,15 +5,17 @@
 - 🍽️ Servings:4
 
 ## Ingredients
+
 - 300g pasta (penne)
 - 1 onion
-- 1T olive oil
+- 1 Tbsp olive oil
 - 300g minced beef (or pork)
-- 1T cinnamon
+- 1 Tbsp cinnamon
 - 400g (canned) tomatoes
 - 125g mozzarella cheese
 
 ## Directions
+
 1. Preheat an oven to 200 C and boil the pasta.
 2. Sauté the onion in olive oil.
 3. After about one minute add the beef and cinnamon.
@@ -24,6 +26,7 @@
 8. Bake for 20 minutes.
 
 ## Contribution
+
 - Thijs Wester - [website](https://twester.tk)
 
 ;tags: pasta oven italian

@@ -3,16 +3,17 @@
 Best served with white rice
 
 - 🍳Cook time: 30 min
-- 🍽️ Servings:5
+- 🍽️ Servings:
 
 ## Ingredients
-- 3T neutral oil
+
+- 3 Tbsp neutral oil
 - 1 onion
 - 1 red onion
 - 2 cloves of garlic
 - 4cm ginger
 - 1 red pepper
-- 1t curry powder
+- 1 tsp curry powder
 - 250g green beans
 - 4 tomatoes
 - 200ml fish broth
@@ -21,6 +22,7 @@ Best served with white rice
 
 
 ## Directions
+
 1. Boil green beans for 10 minutes
 2. Cut onions, tomato, garlic and fish.
 3. Heat oil on a wok and sauté the onion and garlic
@@ -29,6 +31,7 @@ Best served with white rice
 
 
 ## Contribution
-- Thijs Wester - [website](twester.tk)
+
+- Thijs Wester - [website](https://twester.tk)
 
 ;tags: thai

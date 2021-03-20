@@ -1,0 +1,11 @@
+on: pull_request
+
+jobs:
+  check_size:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: git fetch origin main
+      - name: Check file size
+        run: .github/workflows/scripts/check-size.sh
+

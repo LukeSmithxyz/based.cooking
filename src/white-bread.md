@@ -6,7 +6,7 @@ Simple white bread. Like the bread you get from the grocery store but 100x bette
 
 - ⏲️ Prep time:     10 min
 - ⬆️ Proofing time: 1.5 - 2.5 hrs
-- 🍞Baking time:   35 min - 1 hr
+- 🍞 Baking time:   35 min - 1 hr
 
 ## Ingredients
 

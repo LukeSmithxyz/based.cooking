@@ -21,7 +21,7 @@
 1. preheat oven to 160°C (320°F)
 2. brown the butter in a pot, **stirring and scraping frequently**
 3. whisk in the cocoa powder and boil for a minute
-4. take off the heat and whisk in remaining ingredients until smooth
+4. take off the heat and whisk in remaining ingredients and a pinch of salt until smooth
 5. bake in pan lined with parchment sling for 30-40min, until a toothpick
    emerges almost clean (personal preference -- less time: fudgier, more time:
    chewier)

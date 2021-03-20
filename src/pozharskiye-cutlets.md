@@ -7,8 +7,8 @@ Despite what seems to be a massive amount of butter required, they're rather lig
 
 - Chicken mince
 - Butter (originally, 1 part butter per 2 parts chicken; 1/4 works perfectly fine)
-- Eggs (~1 egg per 500g chicken, plus usually 3-5 for the breading)
-- A couple white bread loafs (store-bought breadcrumbs also suffice, but require more eggs)
+- Eggs (~1 egg per 500g chicken, plus 3-5 for the breading)
+- A couple white bread loaves (store-bought breadcrumbs also suffice, but require more eggs)
 - Spices/salt (optional, recommended)
 - Non-lard based, non-chunky sauce (optional)
 - Onions (optional)

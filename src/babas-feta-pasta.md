@@ -1,4 +1,4 @@
-# Baba's Greek Pasta
+# Baba's Feta Pasta
 
 Greek Pasta with sauce made out of feta and stock.
 

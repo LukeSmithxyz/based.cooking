@@ -8,7 +8,7 @@ A very traditional Brazilian dessert that is present in every Brazilian birthday
 
 - One can of condensed milk.
 - Three or four spoons of chocolate powder or cocoa powder.
-- One spoon of butter (actual butter pls, no margerine!)
+- One spoon of butter (actual butter pls, no margarine!)
 
 ## Instructions: 
 1. Add all the ingredients into a pan
@@ -19,6 +19,7 @@ A very traditional Brazilian dessert that is present in every Brazilian birthday
 Depending on how much brigadeiro you want to do, you'll have to add more or less of each ingredient, so be creative! Be careful with the chocolate powder, you definitely do not want to add too much of it!
 
 ## Contribution
-https://github.com/cabinetto
+- Daniel Kemmerich — [GitHub](https://github.com/cabinetto)
+- Stefan Teunissen (photo credit) — [GitHub](https://github.com/teunissenstefan), [website](https://stefanteunissen.dev)
 
 ;tags: dessert quick brazilian

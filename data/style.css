@@ -65,7 +65,12 @@ img[alt="XMR Logo"] {
 		color: forestgreen ;
 	}
 }
-
+@media (pointer: coarse) {
+	li > a {
+	    display: block;
+		height: 1.5rem
+	}
+}
 @media print {
 	a[href] {
 		text-decoration: none ;

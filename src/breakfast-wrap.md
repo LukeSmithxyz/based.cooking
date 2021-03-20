@@ -3,7 +3,7 @@
 The basic parts of a full English in a wrap. Inspired by McDonald's breakfast wraps.
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 10 min
+- 🍳 Cook time: 10 min
 - 🍽️ Servings: 1 (2 wraps)
 
 ## Ingredients

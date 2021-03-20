@@ -1,9 +1,9 @@
-#!/bin/bash
+#!/bin/sh
 set -eu
 
 SIZE_LIMIT=150000
 
-function check_size() {
+check_size() {
     local size=$(stat --printf="%s" $1)
     if [ "$size" -gt "$SIZE_LIMIT" ]; then
         echo "File $1 is bigger than specified $SIZE_LIMIT limit"

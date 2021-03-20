@@ -32,4 +32,4 @@ Cooking time: about an hour.
 
 - Josiah -- [website](https://himiko.cloud), [keybase](https://keybase.io/himikocloud), [donate](https://himiko.cloud/donate/)
 
-tags; pasta italian
+tags; basic italian

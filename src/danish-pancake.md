@@ -1,4 +1,7 @@
 # Danish Pancake
+
+![pancake](pix/danish-pancake.webp)
+
 Danish Pancake recipe
 
 ## Ingredients

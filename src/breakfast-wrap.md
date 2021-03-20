@@ -26,3 +26,5 @@ The basic parts of a full English in a wrap. Inspired by Macdonalds breakfast wr
 ## Contribution
 
 - Linux Lounge
+
+;tags: breakfast quick basic eggs

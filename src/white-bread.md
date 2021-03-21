@@ -10,9 +10,9 @@ Simple white bread. Like the bread you get from the grocery store but 100x bette
 
 ## Ingredients
 
-- 3/4 cup (174g) water
-- 1/2 cup (125g) whole milk
-- 1 packet (9g) active dry yeast (or 6.75g - you can round up to 7g if your scale doesn't have decimals -  instant yeast)
+- ¾ cup (174g) water
+- ½ cup (125g) whole milk
+- 1 packet (9g) active dry yeast or 6.75g (you can round up to 7g if your scale doesn't have decimals) instant yeast
 - 3 cups (440g) bread flour (or 408g all purpose flour + 32g vital wheat gluten)
 - 1 ½ tsp (8g) fine sea salt
 - 1 tbsp (21g) granulated sugar

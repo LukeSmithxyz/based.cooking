@@ -48,7 +48,7 @@ Sauce For the Buns
 4. Once your oil has reached the temp of 350, go ahead and fry 3-4 pieces of chicken at one time. You are going to fry for 7 mins (flipping at the midway point) and then pull the chicken and let sit for 5 mins then refry for the second time 3 mins, this depends on the thickness of the chicken.
 5. Now that your chicken is fried make sure you have a wire rack with a sheet pan under it so the crispy chicken can sit and rest on. During this resting time, you are going to add your Nashville Hot Chicken seasoning together with 1 1/2 cups of the cooking oil you just used. It will simmer but quickly whisk until it comes still. Now you want to brush that amazing sauce all over the crispy chicken or dunk it. 
 6. Have some toasted buns ready and create your sandwich. First, you want to sauce your top and bottom buns, add shredded romaine lettuce, chicken patty, tomato and then complete with the top bun for an amazingly delicious creation.
-7. Feed the family and enjoy! This one gets spicy, >E  N  J  O Y<
+7. Feed the family and enjoy! This one gets spicy, >E  N  J  O Y< :)
 
 ## Contribution
 

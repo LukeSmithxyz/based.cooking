@@ -20,49 +20,6 @@ See [the rules](RULES.md).
 **If you fail to do these things, I will close your submission and you will have to resubmit.
 I am tired of having to fix more than 50% of submissions.**
 
-### Tags
-
-You can (and should) add tags at the end of your recipe. The syntax is:
-```
-;tags: tag1 tag2 tag3
-```
-
-The tag line should be a single line, at the end of the markdown file, preceded
-by a blank line.
-
-Add between 1 and 4 tags, **prioritize existing tags**. As a general guideline,
-add the country from which the recipe originates if the recipe is representative
-of said country, using the adjective form (eg. *mexican*, *italian*, etc). Tag
-the main ingredient if it's something slightly special.
-
-List of special, categorical tags to use if relevant:
-- `basic`: for basic recipes that aren't meant to be stand alone but are supposed
-  to be incorporated in another recipe.
-- `breakfast`
-- `dessert`
-- `drink`
-- `quick`: for recipes that can be cooked in under ~20 minutes.
-- `side`: side dishes such as mash, fries, etc.
-- `snack`
-- `spread`
-
-### Images
-
-Images are stored in `data/pix`.
-
-Each recipe can have a title image at the top and perhaps
-several instructional images as absolutely necessary.
-
-Do not add stock images you found on the internet.
-Take a good picture yourself of the actual dish created.
-If you see a bad or substandard image, you may submit a better one.
-
-Images should be in `.webp` format and with as small file size as possible.
-If you submit an image for say, `chicken-parmesan.md`, it should be added as `pix/chicken-parmesan.webp`.
-
-If you would like to add additional directional images,
-they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, etc.
-
 ## About the site
 
 The front page, for now, will just be a list of recipes automatically generated

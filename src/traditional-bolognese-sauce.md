@@ -38,7 +38,7 @@ stir it through until it has completely evaporated.( if you are using it you can
 7. Add your canned and peeled tomatoes and use your spoon to break them up, you don't have to be too thorough since they will soften up while the sauce cooks.
 8. add the diced tomatoes, fill the jar your tomatos came in with water give it a shake and add that to the pot, do the same with your can of peeled tomatoes.
 9. lower your heat to the lowest setting and slightly cover the pan with your lid.
-10. let it simmer for as long as you can wait, preferably atleast 4 hours, if it starts getting a bit too dry you can add a bit more water to sure the sauce doesn't burn.
+10. let it simmer for as long as you can wait, preferably at least 4 hours, if it starts getting a bit too dry you can add a bit more water to make sure the sauce doesn't burn.
 11. Once it's done simmering for as long as you can muster and its nice and thick, the liquid should not come above your meat and should be pretty concentrated
 12. You can add your glass of milk, let it simmer for 10 more minutes and serve.
 

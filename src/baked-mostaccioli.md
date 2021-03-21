@@ -31,4 +31,4 @@ Baked pasta cooked in dish with spicy sauce
 - Recipe created by Dan
 - Refined & Uploaded by Zyansheep.
 
-;tags: pasta, italian
+;tags: pasta italian

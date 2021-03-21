@@ -1,6 +1,4 @@
 body {
-	background: #151515 ;
-	color: white ;
 	max-width: 800px ;
 	margin: auto ;
 	padding: 0 16px ;
@@ -8,20 +6,8 @@ body {
 	font-family: sans-serif ;
 }
 
-a {
-	color: lightblue ;
-}
-
-a:visited {
-	color: gray ;
-}
-
 h1 {
 	text-align: center ;
-}
-
-h2 {
-	color: tomato ;
 }
 
 footer {
@@ -37,7 +23,7 @@ img {
 
 code {
 	overflow-wrap: break-word ;
-	color: lime ;
+	color: forestgreen ;
 }
 
 img[alt="BTC logo"],
@@ -47,22 +33,22 @@ img[alt="XMR Logo"] {
 	display: inline ;
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
 	body {
-		background: white ;
-		color: black ;
+		background: #151515 ;
+		color: white ;
 	}
 	a {
-		color: blue ;
+		color: lightblue ;
 	}
 	a:visited {
-		color: purple ;
+		color: gray ;
 	}
 	h2 {
-		color: inherit ;
+		color: tomato ;
 	}
 	code {
-		color: forestgreen ;
+		color: lime ;
 	}
 }
 

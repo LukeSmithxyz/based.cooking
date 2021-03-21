@@ -8,7 +8,7 @@ Originally from a finnish book _Saiturin Keittiö_ (The Cheapskates Kitchen) fro
 ## Ingredients
 
 - 3 tbsp butter
-- 2l of fresh nettle sprouts
+- 2L of fresh nettle sprouts
 - 3 tbsp wheat flour
 - 1,2l vegetable bouillon
 - a dribble of cream

@@ -2,6 +2,9 @@
 
 Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greatest pasta dishes of all time. It's quick, easy, and uses a lot of basic pantry ingredients which makes this a convenient weeknight meal.
 
+- 🍳 Cook time: 15 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 1 pound (500g) spaghetti (or similarly shaped pasta)

@@ -25,11 +25,11 @@ A tasty and flavorful pasta.
 2. Add tomato paste until darker in color / caramelized.
 3. Add heavy cream, vodka, and mix.
 4. Add pepper flakes (more = spicier).
-5. Stir until combined, add salt and pepper and remove from heat.
+5. Stir until combined and remove from heat.
 6. Cook pasta in a separate pot until al dente, save 1/4 cup pasta water before draining.
 7. Add butter to sauce (while still hot/warm).
 8. Add pasta and pasta water to sauce.
-9. Add parmesan, salt and pepper to taste.
+9. Add parmesan.
 
 
 ## Contribution

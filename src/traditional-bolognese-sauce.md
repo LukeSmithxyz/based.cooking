@@ -33,7 +33,7 @@ Basic bolognese sauce for lasagne or pasta dishes
 4. If you are using garlic add it here and let it sweat for a minute
 5. Add in your minced meat and break it up into small clumps about the size of a rice grain with a spoon, keep stiring until all your meat is lightly cooked.
 6. Once all your meat is cooked and looks a bit grey add your wine, add enough to fully deglaze the pan (i usually add a little bit extra for the flavor) 
-stir it through until it has completely evaporated.( if you are using it you can also add the stock at this point)
+stir it through until it has completely evaporated. (If you are using it you can also add the stock at this point)
 6. Once your pan is somewhat dry you can add the tomato paste to the beef, let it cook for a minute to remove the slight metallic taste.
 7. Add your canned and peeled tomatoes and use your spoon to break them up, you don't have to be too thorough since they will soften up while the sauce cooks.
 8. add the diced tomatoes, fill the jar your tomatos came in with water give it a shake and add that to the pot, do the same with your can of peeled tomatoes.

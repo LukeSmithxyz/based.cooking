@@ -40,4 +40,4 @@ Yale Babylonian Collection from tablets from Babylonia, ca. 1740 BC.
 [video about recipe](https://www.youtube.com/watch?v=7IYYhoO-hiY)
 - Holsterbau - [website](https://github.com/Holsterbau)
 
-;tags: lamb, stew
+;tags: lamb stew

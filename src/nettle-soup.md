@@ -10,7 +10,7 @@ Originally from a finnish book _Saiturin Keittiö_ (The Cheapskates Kitchen) fro
 - 3 tbsp butter
 - 2L of fresh nettle sprouts
 - 3 tbsp wheat flour
-- 1,2l vegetable bouillon
+- 1.2L vegetable bouillon
 - a dribble of cream
 
 ## Directions

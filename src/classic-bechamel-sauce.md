@@ -26,12 +26,6 @@ Classic French sauce, base for a lot of dishes
 
 ## Contribution
 
-yiusa
+ -yiusa, eth: `0x68F1317c6512f0267fA711cafB6C134Ae968FA80`
 
-
-
- - eth: `0x68F1317c6512f0267fA711cafB6C134Ae968FA80`
-
-
-
-;tags: basic sauce French Italian
+;tags: basic sauce french italian

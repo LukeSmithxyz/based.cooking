@@ -1,6 +1,6 @@
 # Slow-cooked Pork Carnitas
 
-This recipe makes a lot and is super easy. A whole roast usually makes enough for a few meals (depending on how many people will be eating it). Leftovers can be refrigerated for 4-5 days. 
+This recipe makes a lot and is super easy. A whole roast usually makes enough for a few meals (depending on how many people will be eating it). Leftovers can be refrigerated for 4-5 days.
 
 - ⏲️ Prep time: 15 min
 - 🍳Cook time: 8 hr 30 min
@@ -11,7 +11,7 @@ This recipe makes a lot and is super easy. A whole roast usually makes enough fo
 - 2 ½ lbs. boneless pork shoulder
 - 6 cloves of garlic, cut into slivers
 - 1 ½ teaspoons cumin
-- ½ teaspoon sazon 
+- ½ teaspoon sazon
 - ¼ teaspoon dry oregano
 - ¾ cup low sodium chicken broth
 - 2-3 chipotle peppers in adobo sauce
@@ -38,4 +38,4 @@ This recipe makes a lot and is super easy. A whole roast usually makes enough fo
 - sam
 
 
-;tags: pork slow-cooked mexican 
+;tags: pork slowcooked mexican

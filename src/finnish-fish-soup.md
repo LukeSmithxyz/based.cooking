@@ -27,7 +27,7 @@ Originally from a finnish book _Saiturin Keittiö_ (The Cheapskates Kitchen) fro
 6. Add the spinach and let it boil 
 7. Mix the flour in a dash of cold water and mix with the soup and let it boil
 8. Remove the pot from the stove
-9. Add cream, egg yellows, whitepepper and a small lump of butter
+9. Add cream, egg yolks, white pepper and a small lump of butter
 10. Mix well
 
 ## Contribution

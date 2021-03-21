@@ -3,7 +3,9 @@
 Traditional Finnish fish soup usually served with rye bread.
 Originally from a finnish book _Saiturin Keittiö_ (The Cheapskates Kitchen) from 1992. 
 
-Cost of ingredients originally 30 Finnish mark or about 8€ adjusted for inflation.
+- ⏲️ Time: 50 min
+- 🍽️ Servings: 4
+- 💲  Cost ~8€
 
 ## Ingredients
 
@@ -27,8 +29,6 @@ Cost of ingredients originally 30 Finnish mark or about 8€ adjusted for inflat
 8. Remove the pot from the stove
 9. Add cream, egg yellows, whitepepper and a small lump of butter
 10. Mix well
-
-
 
 ## Contribution
 

@@ -2,10 +2,9 @@
 
 Originally from a finnish book _Saiturin Keittiö_ (The Cheapskates Kitchen) from 1992.
 
-Cost of ingredients originally <10 Finnish mark or about <3€ adjusted for inflation.
-
 - ⏲️ Prep time: the preceding night
-- 🍳Cook time: 1.5 hours
+- 🍳 Cook time: 1.5 hours
+- 💲  Cost <3€
 
 ## Ingredients
 

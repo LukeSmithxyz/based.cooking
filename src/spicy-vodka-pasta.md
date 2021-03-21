@@ -4,8 +4,9 @@ A tasty and flavorful pasta.
 
 - ⏲️ Prep time: 10 min
 - 🍳Cook time: 20 min
+- 🍽️ Servings: 2
 
-## Ingredients (Makes 2)
+## Ingredients
 
 - 1/4 cup olive oil
 - 1 clove of garlic, diced

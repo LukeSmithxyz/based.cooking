@@ -21,7 +21,7 @@ Brew coffee in a full immersion style to maximize body. Full immersion coffee br
 2. Weigh out coffee for desired serving size, generally using 0.2g over to account for grinder retention.
 3. Once water is at temperature, pour into brewer and to preheat the brewer. 
 4. Pour this preheat water into drinking vessel to preheat it.
-5. Grind coffee. 1-1.2&#956;m.
+5. Grind coffee coarsely, around 1-1.2&#956;m.
 6. Add coffee to brewer, settle grounds into a flat bed. Tare your scale.
 7. Start your timer, then pour evenly over the coffee to your total brew mass.
 8. At 4.5 min, plunge the filter to separate the grounds from the water.

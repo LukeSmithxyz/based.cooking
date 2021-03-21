@@ -30,3 +30,5 @@ Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coc
 ## Contribution
 
 - Jess Calape - [twitter](https://twitter.com/justjess1128)
+
+;tags: filipino chicken

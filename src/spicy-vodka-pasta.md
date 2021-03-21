@@ -18,7 +18,6 @@ A tasty and flavorful pasta.
 - 1 tablespoon butter
 - 1/4 cup parmesan cheese
 
-
 ## Directions
 
 1. In a large saucepan, heat the olive oil, garlic and green onion until soft.

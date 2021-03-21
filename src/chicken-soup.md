@@ -25,7 +25,7 @@ Hearty soup that is adaptable to customizing to your desired vegetables or other
 
 ## Contribution
 
-- AJ XMR: 45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ
+- AJ XMR: `45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ`
 
 ;tags: chicken soup 
 

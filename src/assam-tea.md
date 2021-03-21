@@ -2,7 +2,7 @@
 
 ![Assam Tea](pix/assam-tea.webp)
 
-This recipe results in five slices of easy to make french toast.
+This is a simple Assam tea recipe.
 
 - ⏲️ Prep time: 1 min
 - 🍳Cook time: 5 min

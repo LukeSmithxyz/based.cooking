@@ -35,4 +35,4 @@
 
 OctopusOnFire - [Minds](https://www.minds.com/OctopusOnFire/)
 
-;tags: spanish potato egg tortilla
+;tags: spanish potato eggs tortilla

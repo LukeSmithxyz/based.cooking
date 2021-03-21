@@ -22,7 +22,7 @@ Brew coffee in any conical brew device like a Chemex or V60. Coffee is best brew
 2. Weigh out coffee for desired serving size, generally using 0.2g over to account for grinder retention.
 3. Once water is at temperature, insert filter into brewer and rinse thoroughly to remove papery taste & preheat the brewer.
 4. Pour this rinse water into drinking vessel (if separate from brewer) to preheat it.
-5. Grind coffee. For Chemex; grind medium-coarse (0.7-0.8 :U+03BC:m). For V60; grind medium (0.6-0.7 :U+03BC:m).
+5. Grind coffee. For Chemex; grind medium-coarse (0.7-0.8&#956;m). For V60; grind medium (0.6-0.7&#956;m).
 6. Add coffee to brewer, settle grounds into a flat bed. Tare your scale.
 7. Start your timer, then pour evenly over the coffee bed up to 2X your coffee mass.
 8. Wait 40s as coffee blooms and releases trapped gasses, primarily CO2.

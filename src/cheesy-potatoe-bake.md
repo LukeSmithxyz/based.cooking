@@ -5,9 +5,8 @@ Potatoes baked in a dish smothered with cheese, what's not to love?
 **You will need a deep dish that is oven safe**
 
 - ⏲️ Prep time: 30 min
-- 🍳Cook time: 45 min
+- 🍳 Cook time: 45 min
 - 🍽️ Servings: 4
-
 
 ## Ingredients
 

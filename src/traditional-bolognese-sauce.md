@@ -28,7 +28,7 @@ Basic bolognese sauce for lasagne or pasta dishes
 
 1. Finely dice the carrots, celery, onion and pancetta, if your blender can handle it you can optionally blend all this to speed it up.
 2. Heat up a large saucepan or dutch oven on medium low heat and put enough olive oil in to cover the bottom of the pan.
-3. Put in your diced vegies and pancetta and let it slowly sauté for about 10 minutes until everything is fragrant and soft.
+3. Put in your diced veggies and pancetta and let it slowly sauté for about 10 minutes until everything is fragrant and soft.
 4. If you are using garlic add it here and let it sweat for a minute
 5. Add in your minced meat and break it up into small clumps about the size of a rice grain with a spoon, keep stiring until all your meat is lightly cooked.
 6. Once all your meat is cooked and looks a bit grey add your wine, add enough to fully deglaze the pan (I usually add a little bit extra for the flavor) 

@@ -20,7 +20,7 @@ PS: the biriyani tastes better the longer it's allowed to soak in it's flavour a
 - 8 Cloves
 - 400gm Basmati Rice
 - 600gm Mutton / Lamb (Boneless)
-- 2 Onions
+- 2 Onions (Preferably Red)
 - 2 Tomatoes
 - 1 Green chilli (Optional)
 - 10 Garlic pearls

@@ -31,7 +31,6 @@ A tasty and flavorful pasta.
 8. Add pasta and pasta water to sauce.
 9. Add parmesan.
 
-
 ## Contribution
 
 - yyxy -- Discord: yyxy#4715

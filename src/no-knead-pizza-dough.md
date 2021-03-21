@@ -4,15 +4,15 @@ Perfect for pan pizza in an 11 inch iron skillet.
 
 - ⏲️ Prep time: 5 min
 - 🍳Cook time: 7-24 hours
-- 🍽️ Servings:1 pizza
+- 🍽️ Servings: 1 pizza
 
 ## Ingredients
 
-- 200 g flour
-- 2 g instant yeast (dry)
-- 5 g salt
-- 5 g olive oil
-- 140 g luke warm water
+- 200g flour
+- 2g instant yeast (dry)
+- 5g salt
+- 5g olive oil
+- 140g luke warm water
 
 
 ## Directions

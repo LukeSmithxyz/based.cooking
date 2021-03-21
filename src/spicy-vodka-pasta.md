@@ -14,7 +14,7 @@ A tasty and flavorful pasta.
 - 1/4 cup heavy cream
 - 1 tablespoon vodka (alternatively, to taste)
 - 1 1/2 teaspoon red pepper flakes
-- 225g preferred pasta
+- 8 oz (225g) preferred pasta
 - 1 tablespoon butter
 - 1/4 cup parmesan cheese
 

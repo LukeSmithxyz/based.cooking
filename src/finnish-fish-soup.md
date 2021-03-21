@@ -13,7 +13,7 @@ Originally from a finnish book _Saiturin Keittiö_ (The Cheapskates Kitchen) fro
 - 6 midsized potatoes
 - small packet of frozen spinach or 50g of parboiled fresh spinach
 - 1 tbsp of wheat flour
-- 2 egg yellows
+- 2 egg yolks
 - 1/2 dl of cream
 - a small lump of butter
 

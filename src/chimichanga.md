@@ -8,7 +8,7 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 ## Ingredients
 
-- 1/2 lb. Lean ground beef or chicken
+- [taco-meat](taco-meat.html)
 - 1 Onion
 - Diced Tomatoes
 - 1 Bell Pepper

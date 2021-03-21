@@ -18,7 +18,7 @@ BLOG_SRC ?= articles
 
 .PHONY: help init build deploy clean taglist
 
-ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/ 2>/dev/null)
+ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/*.md 2>/dev/null)
 TAGFILES = $(patsubst $(BLOG_SRC)/%.md,tags/%,$(ARTICLES))
 
 help:

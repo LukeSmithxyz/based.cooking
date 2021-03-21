@@ -7,6 +7,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - uses: actions/checkout@v2
+          - name: Download dependencies 📥
+            run: sudo apt-get install discount
           - name: Compile based.cooking 🎲
             run: |
                 make build

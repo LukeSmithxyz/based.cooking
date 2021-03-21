@@ -35,7 +35,7 @@ A very simple, delicious, and traditional greek recipe for easter cookies.
 
 ## Contribution
 
-Rufflikerex: MD file preparation, recipe grammer fixes.
+Rufflikerex: MD file preparation, recipe grammar fixes.
 Anonymous relative of Rufflikerex: Original recipe.
 
 ;tags: dessert snack greek easter

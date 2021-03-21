@@ -1,10 +1,10 @@
-![Finished bread](pix/no-knead-bread-1.webp)
-
 # No-knead Bread
 
-- Prep time: 13 h
-- Cook time: 40 m
-- Servings: 8-12
+![Finished bread](pix/no-knead-bread-1.webp)
+
+- ⏲️ Prep time: 13 h 
+- 🍳Cook time: 50 m
+- 🍽️ Servings: 8-12
 
 ## Ingredients
 

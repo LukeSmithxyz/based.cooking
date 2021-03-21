@@ -31,7 +31,7 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 ## Contribution
 
-- AJ XMR: '45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ'
+- AJ XMR: `45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ`
 
 ;tags: mexican beef basic 
 

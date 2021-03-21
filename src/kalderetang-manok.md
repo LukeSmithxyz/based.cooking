@@ -2,10 +2,6 @@
 
 Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coca Cola.
 
-- ⏲️ Prep time: 10 min
-- 🍳Cook time: 30 min
-- 🍽️ Servings: 4
-
 ## Ingredients
 
 - 1 lb of chicken

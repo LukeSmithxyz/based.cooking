@@ -15,6 +15,7 @@ For the crust:
 - 85g normal butter
 - 140g digestive biscuits, crumbled
 - 1tbsp sugar, preferably golden caster
+
 For the cheesecake:
 - 900g Philadelphia cheese, or any other soft cheese
 - 250g golden caster sugar

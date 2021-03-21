@@ -6,7 +6,7 @@ A very traditional brazilian dessert that is present in every brazilian birthday
 
 - One can of condensed milk.
 - Three or four spoons of chocolate powder or cocoa powder.
-- One spoon of butter (Actual butter, no margerine!)
+- One spoon of butter (Actual butter, no margarine!)
 - Sprinkles (Optional)
 
 ## Instructions: 

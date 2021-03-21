@@ -2,9 +2,9 @@
 
 Egg rolls, but, you know, in a bowl.
 
-- ⏲️ Prep time: 10 min
-- 🍳Cook time: 15 min
-- 🍽️ Serving 22
+- ⏲️  Prep time: 10 min
+- 🍳 Cook time: 15 min
+- 🍽️  Servings: 2
 
 ## Ingredients
 

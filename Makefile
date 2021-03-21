@@ -49,6 +49,9 @@ build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICL
 deploy: build
 	rsync -rLtvz $(BLOG_RSYNC_OPTS) blog/ data/ $(BLOG_REMOTE)
 
+deploy-ipfs: build
+	ipfs add -r blog/* data/* -w --fscache
+
 clean:
 	rm -rf blog tags
 

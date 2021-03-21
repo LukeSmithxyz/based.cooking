@@ -20,7 +20,7 @@ Originally from a finnish book _Saiturin Keittiö_ (The Cheapskates Kitchen) fro
 
 1. Dice the peeled carrots, potatoes and celery
 2. Shred the onions
-3. Add all the vegetables and vegetable bouillon cubes into the pot along with 1,2 liters of water
+3. Add all the vegetables and vegetable bouillon cubes into the pot along with 1.2 liters of water
 4. Let the soup boil for about 20 minutes
 5. Mix the flour with a dap of cold water and add it to the soup
 6. Brew for another 10 minutes

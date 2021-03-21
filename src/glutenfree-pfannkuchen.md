@@ -25,8 +25,8 @@ A very easy recipe for glutenfree Pfannkuchen (german pancakes).
 
 ## Served with
 
-- Sirup
-- cinnamon and sugar
+- Syrup
+- Cinnamon and sugar
 
 ## Contribution
 

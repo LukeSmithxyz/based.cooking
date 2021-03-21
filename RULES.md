@@ -33,6 +33,6 @@ Always include and prefer the name of the authentic, traditional, high-quality i
 The authentic, traditional cheese is called Parmigiano-Reggiano and is a protected term used to designate high-quality cheese made in a specific region of Italy.
 See https://en.wikipedia.org/wiki/Parmigiano-Reggiano for more details.
 This rule was instated because there used to be a parasitic prevalence and preponderance of "parmesan" on [based.cooking](https://based.cooking).
-- "Parma ham" is an Anglicisation of "prosciutto".
+- "Parma ham" is an anglicisation of "prosciutto".
 The most famous type of authentic prosciutto is probably prosciutto crudo di Parma.
 See https://en.wikipedia.org/wiki/Prosciutto for more details.

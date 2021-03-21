@@ -23,7 +23,7 @@ Vegan or vegetarian recipes are fine, but specific bugman food imitating authent
 
 Soy is banned. For the lulz.
 
-### Autuenticty, traditional, high-quality ingredients and dishes
+### Autuentic, traditional, high-quality ingredients and dishes
 
 Always include and prefer the name of the authentic, traditional, high-quality ingredients and dishes over the cheaper, lower-quality, mass-produced variety.
 

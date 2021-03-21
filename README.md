@@ -13,21 +13,12 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
   or so.
 - Fix errors in recipes or add minor improvements.
 
-## Rules for submission
+## Rules
 
-- Model submission files after [example.md](example.md). Put them in `src/`.
-- Recipes should start with a title, with a single `#`, *on the first line*. No
-  empty line at the top, not trailing line at the end. The file needs to be `\n`
-  terminated in linux-fashion (if you're on linux you don't need to care, it
-  should be automatic).
-- File names should be the name of the dish with words separated by hyphens
-  (`-`). Not underscores, and definitely not spaces.
-- Recipe must be based, i.e. good traditional and substantial food. Nothing
-  ironic, meme-tier hyper-sugary, meat-substitute, etc.
-- Don't include salt and pepper and other ubiquitous things in the ingredients
-  list.
+See [the rules](RULES.md).
 
-**If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
+**If you fail to do these things, I will close your submission and you will have to resubmit.
+I am tired of having to fix more than 50% of submissions.**
 
 ### Tags
 

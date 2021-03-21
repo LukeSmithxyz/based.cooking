@@ -27,9 +27,6 @@ Cost of ingredients originally 30 Finnish mark or about 8€ adjusted for inflat
 8. Remove the pot from the stove
 9. Add cream, egg yellows, whitepepper and a small lump of butter
 10. Mix well
-
-
-
 ## Contribution
 
 - Niko Kataja - [website](https://github.com/Nikedi), [donate](https://paypal.me/Nkataja)

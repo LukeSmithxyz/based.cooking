@@ -4,7 +4,7 @@
 
 - ⏲️ Prep time: 13 h 
 - 🍳Cook time: 50 m
-- 🍽️ Servings: 8-12
+- 🍽️ Servings: 8-12 slices
 
 ## Ingredients
 

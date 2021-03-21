@@ -3,7 +3,7 @@
 [Kvass](https://en.wikipedia.org/wiki/Kvass) is a Slavic fermented beverage which is both simple to make and rich in flavour.
 
 - ⏲️ Prep time: ~30 min
-- 🍳 Cook time: ~1 week
+- ⌛ Fermentation time: ~1 week
 
 ## Ingredients
 

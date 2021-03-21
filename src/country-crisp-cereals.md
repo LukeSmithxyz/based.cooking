@@ -15,9 +15,8 @@ This is a recipe for making Jordan's Country Crisp-like cereals.
 - Oil (any type) (60 g - 75 mL)
 - Water (50 g)
 - Chocolate (70 g) (optional)
-- Vanilla Extract (1/2 ts) (optional)
+- Vanilla Extract (1/2 tsp) (optional)
  
-
 ## Directions
 
 1. Preheat the oven at 120°C.

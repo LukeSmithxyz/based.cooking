@@ -3,6 +3,10 @@
 It doesn't take that much time to prep and is a good hearty meal to start
 your day with.
 
+- ⏲️ Prep time: 10 min
+- 🍳Cook time: 15 min
+- 🍽️ Servings :
+
 ## Ingredients
 
 Portions are to a general taste, I just eyeball how much I want and it usually

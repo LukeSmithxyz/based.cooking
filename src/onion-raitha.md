@@ -15,7 +15,7 @@ provides as a sweet and cooling effect.
 - 50 gm of Cucumber
 - Sprigs of Mint
 - Dash of Honey
-- Hint of Chilli Powder (Spicy option)/ Hint of sugar (sweet option)
+- Hint of Chilli Powder (Spicy option)/ Hint of sugar (Sweet option)
 
 ## Directions
 

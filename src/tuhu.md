@@ -14,7 +14,7 @@ Yale Babylonian Collection from tablets from Babylonia, ca. 1740 BC.
 - 350 mL of prepared water
 - 350 mL of sour-tasting beer (e.g. Weißbier)
 - 1 large onion, chopped
-- 2 cups of aragula, chopped
+- 2 cups of arugula, chopped
 - ¾ cup of cilantro, chopped
 - 2 tsp of cumin seeds, crushed or powdered
 - 2 large beetroots, chopped

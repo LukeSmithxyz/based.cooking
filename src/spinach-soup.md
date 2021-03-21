@@ -10,7 +10,7 @@ Originally from a finnish book _Saiturin Keittiö_ (The Cheapskates Kitchen) fro
 - 200g fresh spinach or 150g of frozen spinach
 - 2 tbsp butter
 - 3 tbsp wheat flour
-- 1l milk
+- 1L milk
 
 ## Directions
 

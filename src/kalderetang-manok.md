@@ -10,8 +10,6 @@ Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coc
 - 1 chopped onion
 - 2 chopped cloves of garlic
 - 1 chopped tomato (optional)
-- 2 tablespoons of Salt
-- 2 tablespoons of Pepper
 - 3 cups of water
 - Tomato sauce
 - Chopped bell pepper

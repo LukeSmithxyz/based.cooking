@@ -33,7 +33,7 @@ Very filling egg dish that's easy, fast, and can be eaten at any meal. Any other
 
 ## Contribution
 
-- AJ XMR: 45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ
+- AJ XMR: `45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ`
 
 ;tags: eggs italian 
 

@@ -20,7 +20,7 @@
 
 ## Directions
 
-1. Preheat oven to 375°F. 
+1. Preheat oven to 375°F
 2. Mix the flour, baking soda, and salt in a bowl
 3. Using a mixer or whisk, beat the butter, sugar, eggs, and vanilla in a separate bowl for a few mins
 4. Combine and stir in the dry ingredients, then the chocolate chips

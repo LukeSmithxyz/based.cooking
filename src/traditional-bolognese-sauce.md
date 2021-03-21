@@ -3,8 +3,7 @@
 Basic bolognese sauce for lasagne or pasta dishes
 
 - ⏲️ Prep time: 45 min
-- 🍳Cook time: atleast 4 hours
-
+- 🍳 Cook time: at least 4 hours
 
 ## Ingredients
 

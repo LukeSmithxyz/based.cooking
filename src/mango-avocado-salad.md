@@ -10,7 +10,7 @@
 - Seeds (optional) (sesame, pumpkin...??)
 
 ## Directions
-1. Peal and chop fruit into chunks.
+1. Peel and chop fruit into chunks.
 2. Add to bowl and mix.
 3. Optionally toast seeds and serve on top.
 

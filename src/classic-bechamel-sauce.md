@@ -34,4 +34,4 @@ yiusa
 
 
 
-;tags: basic sauce French Italian
+;tags: basic sauce french italian

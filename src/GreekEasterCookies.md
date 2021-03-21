@@ -8,19 +8,19 @@ A very simple, delicious, and traditional greek recipe for easter cookies.
 
 ## Ingredients
 
--1 lb of unsalted butter
--3 cups of sugar
--10 eggs
--6 tsps baking powder
--2 tsps baker’s ammonium	
--1 pinch of baking soda
--2 tsp powder vanilla
--Zest of 3 oranges
--Zest of 2 lemons
--1/2 cup orange juice
--1 cup warmed milk
--1 egg yolk whisked to brush cookies
--Enough flour to make a soft pliable dough (about 9 cups or a bit more)
+- 1 lb of unsalted butter
+- 3 cups of sugar
+- 10 eggs
+- 6 tsps baking powder
+- 2 tsps baker’s ammonium	
+- 1 pinch of baking soda
+- 2 tsp powder vanilla
+- Zest of 3 oranges
+- Zest of 2 lemons
+- 1/2 cup orange juice
+- 1 cup warmed milk
+- 1 egg yolk whisked to brush cookies
+- Enough flour to make a soft pliable dough (about 9 cups or a bit more)
 
 ## Directions
 

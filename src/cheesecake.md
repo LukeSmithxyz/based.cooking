@@ -25,8 +25,9 @@ For the cheesecake:
 - 1.5 tsp lemon juice
 - 3 large eggs, and 1 yolk
 - 285ml sour cream
+
 For the topping:
-- whatever you want really, I used rasberry jam
+- whatever you want really, I used raspberry jam
 
 ## Directions
 

@@ -1,6 +1,6 @@
 # Lemon and oregano chicken traybake
 
-![](data/pix/lemon-and-oregano-chicken-traybake.webp)
+![Lemon and oregano chicken traybake](pix/lemon-and-oregano-chicken-traybake.webp)
 
 - ⏲️ Prep time: 30 min (in 10 minute intervals)
 - 🍳 Cook time: 60 min

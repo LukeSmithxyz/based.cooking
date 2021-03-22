@@ -14,7 +14,8 @@ Garlic toast, perfect as a substitute for crackers in a cheese platter.
 ## Directions
 
 1. Preheat oven to 180°C (356°F).
-2. Place sliced sourdough on a baking tray, prepared with aluminium foil
+2. Place sliced bread on a baking tray, covered with aluminum foil
+
 3. Generously coat sourdough slices with garlic-infused olive oil.
 4. Season with garlic salt, to taste.
 5. Bake for 10-15 minutes at 180°C (356°F) or until crunchy throughout.

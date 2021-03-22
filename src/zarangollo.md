@@ -8,8 +8,8 @@ Simple veggie starter/side dish from Murcia (Southeastern Spain)
 
 ## Ingredients
 
-- Onion
-- Eggplant
+- 1 White onion
+- 1 Eggplant
 - Olive oil
 - Egg (optional)
 

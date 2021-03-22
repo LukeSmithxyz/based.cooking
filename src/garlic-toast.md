@@ -8,15 +8,14 @@ Garlic toast, perfect as a substitute for crackers in a cheese platter.
 ## Ingredients
 
 - Any kind of firm, thin, sliced bread (Sourdough, Baguette)
-- Butter or Olive Oil (Optionally garlic-infused oil)
+- Garlic-infused olive oil (Optionally substitute butter or regular olive oil)
 - Garlic salt
 
 ## Directions
 
-1. Preheat oven to 180°C (356°F).
-2. Place sliced bread on a baking tray, covered with aluminum foil
-
-3. Generously coat sourdough slices with garlic-infused olive oil.
+1. Preheat oven to 180°C (350°F).
+2. Place sliced bread on a baking tray, covered with aluminium foil
+3. Generously coat bread slices with garlic-infused olive oil.
 4. Season with garlic salt, to taste.
 5. Bake for 10-15 minutes until crunchy throughout.
    - Alternatively set on broil for 1 minute.

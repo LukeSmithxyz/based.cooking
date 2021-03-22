@@ -1,4 +1,4 @@
-# Muffin
+# Chocolate Muffin in a Cup
 
 Quick and easy recipe of chocolate muffin in a cup.
 

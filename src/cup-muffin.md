@@ -18,7 +18,7 @@ Quick and easy recipe of chocolate muffin in a cup.
 - 2 tablespoons of vegetable oil
 - 1/2 teaspoon of vanilla extract
 
-## Instructions
+## Directions
 
 1. Mix the dry ingredients (flour, coffee, cocoa powder, sugar and baking powder) in a medium bowl.
 2. Add milk, egg, oil and vanilla extract. Mix well until homogeneous mass is formed.

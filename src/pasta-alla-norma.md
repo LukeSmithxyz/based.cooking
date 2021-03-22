@@ -17,7 +17,6 @@ A delicious Sicilian pasta dish, with Aubergines in a tomato sauce topped with f
 - 1 teaspoon dried oregano
 - 1 teaspoon caster sugar
 - Fresh basil
-- Salt and black pepper
 
 ## Directions
 

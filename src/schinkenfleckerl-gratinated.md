@@ -2,7 +2,7 @@
 
 This is a recipe for a typical Austrian carb and protein bomber. This is traditionally made with ham or smoked rolled roast. This is good if you want to feed a family or if you just want to be lazy and eat the same thing for 3 or 4 days.
 
-Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 Oil-Vinegrette) 
+Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 Oil-Vinegrette)
 
 ## Ingredients
 
@@ -36,4 +36,4 @@ There you have it, an idiot-proof carb and protein bomber that should taste reas
 
 - Martin Stohanzl - [website](loesmartin.at), [youtube](https://www.youtube.com/channel/UCJkTyM5-fcVBkhi7DypoNsg)
 
-;tags: austrian beef pork ham noodles smoked-rolled-roast baking-pan
+;tags: austrian beef pork ham noodles baking-pan

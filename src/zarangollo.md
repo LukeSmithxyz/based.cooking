@@ -15,7 +15,7 @@ Simple veggie starter/side dish from Murcia (Southeastern Spain)
 
 ## Directions
 
-1. Cut onion in julianne (a third or half of an onion ring)
+1. Cut onion in julienne (a third or half of an onion ring)
 2. Cut the eggplant in slices or chunks that can fit in a teaspoon
 3. Add oil to a pan (not a shallow one, wide and a bit deep is ideal if you have one) until it barely covers the vegetables
 4. Cook and stirr in medium heat until they are tender, caramelized and translucid

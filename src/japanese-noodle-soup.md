@@ -5,7 +5,7 @@
 This is a very easy and simple Japanese style ramen noodle soup. This is very cheap to make, and you can really customise this however you wish with the garnish. This is my own spin inspired by other recipes that I found.
 
 - ⏲️ Prep time: 20 minutes
-- 🍳Cook time: 20 minutes
+- 🍳 Cook time: 20 minutes
 - 🍽️ Servings: 4
 
 ## Ingredients
@@ -41,6 +41,6 @@ This is a very easy and simple Japanese style ramen noodle soup. This is very ch
 
 ## Contribution
 
-- Jake Keast - [website](https://jakekeast.xyz), xmr: 8BBKCQbL1xSKS8fWE257cVBzerYu1censWYUCncLppo6MPLd3u59ejYE9XMdW4CNL3DGgf1vjG5SHGDEJV95xtxW2wsaANo
+- Jake Keast - [website](https://jakekeast.xyz), xmr: `8BBKCQbL1xSKS8fWE257cVBzerYu1censWYUCncLppo6MPLd3u59ejYE9XMdW4CNL3DGgf1vjG5SHGDEJV95xtxW2wsaANo`
 
 ;tags: japanese chicken soup

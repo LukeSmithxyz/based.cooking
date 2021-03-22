@@ -10,7 +10,7 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 
 - 1kg Med ground beef
 - 900g Elbow macaroni
-- 4 Cans of Campbells Tomato soup (Or your prefered brand) 
+- 4 Cans of Campbell's Tomato soup (Or your preferred brand) 
 - Diced half or full onion 
 - Diced half or full bell pepper 
 - Oregano leaves 
@@ -25,7 +25,7 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 - Pink salt 
 - Onion power 
 - Frank's RedHot sauce (optional)
-- Mozzerella Cheese (optional)
+- Mozzarella Cheese (optional)
 
 ## Directions
 
@@ -35,14 +35,12 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 4. Add all of the seasoning.
 5. Keep cooking until all of the hamburger is brown.
 6. Once done, find a place to put the pot and keep it warm while you cook the macaroni.
-7. With another large pot, fill it up and bring it to a boil with some salt.
-8. Dump all of your elbows into the boiling pot and continue to stir for 6 - 8 minutes.
-9. Once done, drain out all of the water from the macaroni pot. 
-10. Dump either the macaroni into the hamburger pot or vice versa, the order doesn't really matter.
-11. Throw in some cheese which should melt nicely. (optional)
-12. Pour in the cans of tomato soup.
-13. *Important* Stir everything toghether, make sure the hamburger gets evenly distributed in the macaroni. Make sure to stir right to the bottom so the sauce can reach there too.
-14. Ready to eat. If you don't come back for seconds, you didn't do it right. 😉 
+7. Cook the macaroni according to [this pasta recipe](pasta.html).
+8. Dump either the macaroni into the hamburger pot or vice versa, the order doesn't really matter.
+9. Throw in some cheese which should melt nicely. (optional)
+10. Pour in the cans of tomato soup.
+11. *Important* Stir everything together, make sure the hamburger gets evenly distributed in the macaroni. Make sure to stir right to the bottom so the sauce can reach there too.
+12. Ready to eat. If you don't come back for seconds, you didn't do it right. 😉 
 
 ## Contribution
 

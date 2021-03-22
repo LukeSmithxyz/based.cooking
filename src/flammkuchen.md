@@ -3,9 +3,10 @@
 A recipe for Flammkuchen a very thin crust pizza-like dish - it originates from Elsass, a French region close to where I grew up.
 I like the recipe because it takes 10 minutes to prepare and another 10 minutes to bake. It goes well with a green salad as a side.
 
+- 🍽️ Servings:2
+
 ## Ingredients
 
-for 2
 - 400g Pizza dough (either bought or from [Pizza Dough](pizza-dough.html))
 - 1 onion (I prefer the red ones for optical reasons)
 - 150g bacon (you can replace it with mushrooms or other vegetables)

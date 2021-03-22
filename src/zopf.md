@@ -23,6 +23,6 @@
 9. Wait for the bread to cool before cutting.
 
 ## Contribution
-- Thijs Wester - [website](twester.tk)
+- Thijs Wester - [website](https://twester.tk)
 
 ;tags: swiss bread

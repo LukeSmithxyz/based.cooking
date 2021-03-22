@@ -27,6 +27,6 @@ Simple chinese inspired sticky porkchops.
 
 ## Contribution
 
-- Jake Keast - [website](https://jakekeast.xyz), xmr: 8BBKCQbL1xSKS8fWE257cVBzerYu1censWYUCncLppo6MPLd3u59ejYE9XMdW4CNL3DGgf1vjG5SHGDEJV95xtxW2wsaANo
+- Jake Keast - [website](https://jakekeast.xyz), xmr: `8BBKCQbL1xSKS8fWE257cVBzerYu1censWYUCncLppo6MPLd3u59ejYE9XMdW4CNL3DGgf1vjG5SHGDEJV95xtxW2wsaANo`
 
 ;tags: japanese pork soup

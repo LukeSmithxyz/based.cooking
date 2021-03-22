@@ -1,4 +1,4 @@
-﻿# Simple Creamy Pasta Sauce
+# Simple Creamy Pasta Sauce
 
 - ⏲️  Prep time: 2 min
 - 🍳  Cook time: 3 mins
@@ -22,7 +22,7 @@
 
 - herzeleid02
 
-;tags: basic quick sauce pasta
+;tags: basic quick sauce pasta 
 
 
 

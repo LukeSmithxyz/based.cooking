@@ -2,9 +2,9 @@
 
 Brew coffee in any conical brew device like a Chemex or V60. Coffee is best brewed 'manually' to achieve the most consistent brew possible. This is easily accomplished via various pourover methods. Ideally, a single or double serving of coffee is brewed at a time.
 
-- Prep time: ~2 min
-- Brew time: ~3.5 min
-- Servings:  Variable
+- ⏲️ Prep time: ~2 min
+- 🍳 Brew time: ~3.5 min
+- 🍽️ Servings:  Variable
 - Brew Ratio: 1g coffee:17g water (20g:340g for single 10oz. mug)
 
 ## Ingredients

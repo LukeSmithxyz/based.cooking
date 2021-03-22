@@ -2,9 +2,9 @@
 
 Brew coffee in a full immersion style to maximize body. Full immersion coffee brewing minimizes over-extraction while maximizing mouthfeel and texture. Ideally, a single or double serving of coffee is brewed at a time.
 
-- Prep time: ~2 min
-- Brew time: ~4.5 min
-- Servings:  Variable
+- ⏲️ Prep time: ~2 min
+- 🍳 Brew time: ~4.5 min
+- 🍽️ Servings:  Variable
 - Brew Ratio: 1g coffee:15g water (20g:300g for single 10oz. mug)
 
 ## Ingredients

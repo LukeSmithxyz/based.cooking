@@ -1,4 +1,7 @@
 # Danish Pancake
+
+![pancake](pix/danish-pancake.webp)
+
 Danish Pancake recipe
 
 ## Ingredients
@@ -18,9 +21,9 @@ Danish Pancake recipe
 
 ## Served With
 - Sugar
-- Sirup
+- Syrup
 - Powdered sugar
-- Marmelade (Jam)
+- Marmalade (Jam)
 
 ## Contribution
 

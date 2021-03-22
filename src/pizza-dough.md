@@ -1,21 +1,22 @@
-# Pizza dough
-here is a simple recipe for Pizza dough
-Basicly you have to use a 2/1 (flour/liqud) ratio.
-if you use other flour like rye, you may need more liquid.
+# Pizza Dough
+
+Here is a simple pizza dough recipe. Basically you use a 2/1 ratio of
+flour/liquid. If you use other flour like rye, you may need more liquid.
 
 ## Ingredients
 
-- 400 g Flour (Basic Wheat flour)
-- 200 ml lukewarm Water
+- 400g flour (basic wheat flour)
+- 200ml lukewarm water
 - 1 pkg (7g) dry yeast
 - 1 spoon olive oil
 - 1 teaspoon salt
-- a litte bit sugar (to feed the yeast)
+- a teensy bit of sugar (to feed the yeast)
 
 ## Directions
-1. combine all ingredients all in a bowl and knead to a dough.
-2. let it rest for 30 min in a luke warm place.
-3. then flour the work surface and roll it out thinly
+
+1. Combine all the ingredients in a bowl and knead into a dough.
+2. Let it rest for about 30 minutes somewhere lukewarm
+3. Add some flour to a table and roll the dough out there.
 
 ## Contribution
 

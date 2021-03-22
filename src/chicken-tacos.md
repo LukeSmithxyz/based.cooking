@@ -27,4 +27,4 @@
 
 - Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
 
-;tags: mexican chicken
+;tags: mexican chicken slowcooked

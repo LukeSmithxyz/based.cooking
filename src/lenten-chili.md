@@ -1,8 +1,8 @@
 # Lenten (Vegan) Chili
 
-- Prep time: 15 Minutes
-- Cook time: 45 Minutes
-- Serves: 4-8 people
+- ⏲️ Prep time: 10 min
+- 🍳 Cook time: 30 min
+- 🍽️ Servings: 4
 
 ## Ingredients
 
@@ -30,7 +30,7 @@
 5. Add the tomato sauce, diced tomatoes, sweet corn, beans, and rice.
 6. Turn up the heat to medium.
 6. Add each of the spices, taste the chili, and adjust flavoring accordingly.
-7. let cook for 20-30 minutes, stirring occasionally.
+7. Let cook for 20-30 minutes, stirring occasionally.
 
 Let cool for a few minutes and then serve in bowls.
 

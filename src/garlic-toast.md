@@ -7,7 +7,7 @@ Garlic toast, perfect as a substitute for crackers in a cheese platter.
 
 ## Ingredients
 
-- Sourdough loaf (sliced)
+- Any kind of firm, thin, sliced bread (Sourdough, Baguette)
 - Butter or Olive Oil (Optionally garlic-infused oil)
 - Garlic salt
 

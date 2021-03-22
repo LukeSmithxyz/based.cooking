@@ -25,5 +25,6 @@ Garlic toast, perfect as a substitute for crackers in a cheese platter.
 ## Contribution
 
 - Jack Crawford - [website](https://github.com/jjcrawford)
+- Edited by Zyansheep
 
 ;tags: basic bread quick side

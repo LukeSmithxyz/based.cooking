@@ -4,13 +4,10 @@ This recipe cointains instructions for sour dough starter needed for all sour do
 
 - ⏲️ Prep time: 5 min/day
 - ⏲️ Wait time: 4 days
-
-
 ## Ingredients
 
 - Wheat or rye flour
 - Water
-
 
 ## Directions
 
@@ -25,4 +22,4 @@ This recipe cointains instructions for sour dough starter needed for all sour do
 
 - Vili Kangas
 
-;tags: bread
+;tags: bread sourdough

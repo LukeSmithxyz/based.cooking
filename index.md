@@ -9,9 +9,15 @@ See the story of this site unfold in three videos:
 
 ### It's easy to contribute!
 
-- Submit new recipes via git via [Github](https://github.com/lukesmithxyz/based.cooking).
+- Submit new recipes using git via [GitHub](https://github.com/lukesmithxyz/based.cooking).
 - You may also improve recipes or add an image to those without them.
 - Donate to the individual people who contribute pages whose names are at the bottom of each page.
-- Donate to the site's long-term maintenance fund:
-	- ![BTC logo](https://lukesmith.xyz/pix/btc.svg) Bitcoin: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w` ([QR code](pix/bitcoin-based-cooking.webp))
-	- ![XMR Logo](https://lukesmith.xyz/pix/xmr.svg) Monero: `48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh` ([QR code](https://lukesmith.xyz/pix/xmr.png))
+
+### Donate to the Based.Cooking maintenance fund
+
+We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
+
+- ![BTC logo](https://lukesmith.xyz/pix/btc.svg) Bitcoin: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w` ([QR code](pix/bitcoin-based-cooking.webp))
+- ![XMR Logo](https://lukesmith.xyz/pix/xmr.svg) Monero: `48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh` ([QR code](https://lukesmith.xyz/pix/xmr.png))
+- [Donate to Luke](https://lukesmith.xyz/donate) and add a comment saying it's for Based.Cooking.
+- Brave users may also donate BAT to this website.

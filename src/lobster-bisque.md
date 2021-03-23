@@ -30,7 +30,7 @@ Creamy french lobster soup perfect for the hollidays, you can optionally replace
 
 1. Finely dice the onions, carrots, shallots and garlic and set aside for later.
 2. Blanche the lobster in boiling water for 2 minutes, remove from the water and let it leak.
-3. Cut it down the middle and remove the meat from the shell, set aside the meat for later.
+3. Cut it down the middle and remove the meat from the shell, set the meat aside for later.
 4. Place a stockpot on medium high heat and heat up enough oil to cover the bottom of the pan, add the lobster shells and cook them until they are bright red.
 5. Remove the oil from the pan and discard it, add your butter to the shells.
 6. Add all diced vegetables and let it sauté for 2 minutes, add a dash of cognac and flambé, lower the heat to medium low.

@@ -99,10 +99,14 @@ Only substantial dishes are allowed, no hyper-sugary desserts or junk food.
 - Keep your instructions clear and concise.
 - Do not waffle on or elaborate in unnecessary ways.
 
-# No life stories
+### No life stories
 
 Keep the introduction short.
 Nobody cares about the 1000-page lore and backstory of your recipe's cinematic universe.
+
+### No smoothies
+
+Luke says so.
 
 ### Autuentic, traditional, high-quality ingredients and dishes
 

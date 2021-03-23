@@ -15,7 +15,7 @@ Creamy french lobster soup perfect for the hollidays, you can optionally replace
 - 2 garlic cloves
 - cognac
 - 3 tbsp concentrated tomato puree
-- 4 tomatoes 
+- 4 tomatoes
 - 3 tbsp flour
 - 1 glass dry white wine
 - 2 litres fish stock
@@ -46,7 +46,6 @@ Creamy french lobster soup perfect for the hollidays, you can optionally replace
 
 ## Contribution
 
-Yiusa
--eth '0x68f1317c6512f0267fa711cafb6c134ae968fa80'
+- Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
 
-;tags: french seafood soup 
+;tags: french seafood soup

@@ -40,6 +40,7 @@ check_recipe_content() {
 		BEGIN {
 			HAS_TITLE                   = 0;
 			HAS_TAGS                    = 0;
+			HAS_INVALID_TAGS            = 0;
 			NUM_TAGS                    = 0;
 			HAS_INGREDIENTS             = 0;
 			HAS_DIRECTIONS              = 0;
@@ -78,6 +79,15 @@ check_recipe_content() {
 			if ($1 == ";tags:") {
 				HAS_TAGS = 1;
 				NUM_TAGS = NF - 1;
+
+				# Loop through all the tags
+				for (i = 2; i <= NF; i++) {
+					# Make sure that each tag only contains lowercase letters and hyphens
+					if ($i !~ "^[a-z-]+$") {
+						HAS_INVALID_TAGS = 1;
+						break;
+					}
+				}
 			}
 
 			FAIL = 0;
@@ -90,12 +100,19 @@ check_recipe_content() {
 			if (!HAS_TAGS) {
 				print "Recipe does not have a properly formatted tags on the last line."
 				FAIL = 1;
-			} else if (NUM_TAGS < 2) {
-				print "Recipe only has " NUM_TAGS " tags. Add some more."
-				FAIL = 1;
-			} else if (NUM_TAGS > 5) {
-				print "Recipe has " NUM_TAGS " tags which is too many. Remove some tags."
-				FAIL = 1;
+			} else {
+				if (HAS_INVALID_TAGS) {
+					print "Recipe has invalid tags. Tags must be separated by spaces and contain only lowercase letters or hyphens (-)";
+					FAIL = 1;
+				}
+
+				if (NUM_TAGS < 2) {
+					print "Recipe only has " NUM_TAGS " tags. Add some more."
+					FAIL = 1;
+				} else if (NUM_TAGS > 5) {
+					print "Recipe has " NUM_TAGS " tags which is too many. Remove some tags."
+					FAIL = 1;
+				}
 			}
 
 			if (!HAS_INGREDIENTS) {

@@ -2,7 +2,7 @@
 
 ![Pan pizza](pix/pan-pizza.webp)
 
-Pan pizza gives a thicc and crispy crust 🍕. For this recipe start early with the dough, preferably the night before. It takes a lot of time, but little effort and gives a fantastic result.
+Pan pizza gives a thicc and crispy crust 🍕. For this recipe, start early with the dough, preferably the night before. It takes a lot of time, but little effort and gives a fantastic result.
 
 - ⏲️ Prep time: 30 min
 - 🍳Cook time: 8 hours
@@ -11,7 +11,7 @@ Pan pizza gives a thicc and crispy crust 🍕. For this recipe start early with 
 
 - [no-knead pizza dough](no-knead-pizza-dough.html)
 - [pizza sauce](pizza-sauce.html)
-- cheeze
+- cheese
 - olive oil
 - pepperoni (optional)
 - mushrooms (optional)
@@ -25,12 +25,13 @@ Pan pizza gives a thicc and crispy crust 🍕. For this recipe start early with 
 3. Add some oil to hands and shape dough into a ball. 
 4. Place ball to the center of the pan and press it down gently. It will not cover the whole bottom yet.
 5. Cover the skillet and let the dough rest for minimum 30 min.
-6. Press the dough to cover the whole bottom of the skillet
+6. Press the dough to cover the whole bottom of the skillet.
 7. Add pizza sauce, cheeze, and whatever you like on your pizza
 8. Put in the middle of the oven, and cook for 15-20 minutes. 
 
 ## Contribution
 
 - brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`
+- Kelvin Shadewing - lbc: `bLspNeN1B8hNvN8Le86CSiPfEKkECzmXPz`
 
 ;tags: basic pizza sauce

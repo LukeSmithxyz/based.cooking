@@ -1,5 +1,7 @@
 # Bolognese Sauce
 
+![Bolognese sauce](pix/bolognese-sauce-1.webp)
+
 Basic bolognese sauce for lasagne or pasta dishes
 
 - ⏲️ Prep time: 45 min

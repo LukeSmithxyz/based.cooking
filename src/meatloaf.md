@@ -34,7 +34,7 @@ This recipe will result in two or three glass dishes of tasty, moist meatloaf. G
 7. Evenly distribute your mixed meat into 2 or 3 oven safe greased up dishes. Try to flatten the surface as much as you can.
 8. In each dish, create a small channel in the middle of each meatloaf. This is to maintain the shape as it's cooking.
 9. Put all of your meatloaf filled dishes into the oven on 180 Celsius for *1 hour*.
-10. Once about 15 minutes left on your timer, get started on your sauce.
+10. Once you have about 15 minutes left on your timer, get started on your sauce.
 11. Toss your 3 sugar cubes into a bowl with a little bit of hot water to melt them.
 12. Add your tomato soup, 1/4 Cup of ketchup and mustard (each).
 13. Stir sauce until its a thick, light red color.

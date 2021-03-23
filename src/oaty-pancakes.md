@@ -40,4 +40,4 @@ and serve bacon or sausages alongside if you like.
 
 Puremana
 
-;tags: breakfast quick sweet cake pancake
+;tags: breakfast quick sweet pancake cheesefare

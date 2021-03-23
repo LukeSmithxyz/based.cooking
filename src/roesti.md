@@ -36,4 +36,4 @@ Can be useful to get rid of leftover potatoes from the day before.
 - **Alexander Bocken** -- [contact](mailto:alexander@bocken.org)
 - **Elias Pahls** -- [contact](mailto:pahlse@pm.me)
 
-;tags: swiss potato side
+;tags: swiss potato side cheesefare

@@ -14,7 +14,6 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 - Sherry or regular white wine (you cook with what you drink with!) (1 tablespoon)
 - Soy sauce (1-2 tablespoon)
 
-
 ## Directions
 
 1. Cut broccoli into little flourettes (hold the broccoli upside down and cut around the stem with a pairing knife)
@@ -27,10 +26,7 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 8. Thicken sauce with corn starch.
 9. Put dry cooked broccoli back in and saute for very short time (you want it nice and crunchy).
 
-
 ## Contribution
 
 - mjt91 - [website](https://github.com/mjt91), [donate](https://www.paypal.com/paypalme/mjt91)
-
-
-;tags: side quick asian
+;tags: side quick asian strict-fast

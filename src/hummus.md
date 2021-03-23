@@ -30,4 +30,4 @@
 - Jacob Smith - [website](https://jacobwsmith.xyz)
 - K Chesney (revision)
 
-;tags: basic snack spread
+;tags: basic snack spread strict-fast

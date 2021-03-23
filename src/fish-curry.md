@@ -1,4 +1,4 @@
-# Fish Curry 
+# Fish Curry
 
 Best served with white rice
 
@@ -19,7 +19,6 @@ Best served with white rice
 - 200ml coconut milk
 - 400g fish fillet (white fish)
 
-
 ## Directions
 1. Boil green beans for 10 minutes
 2. Cut onions, tomato, garlic and fish.
@@ -27,8 +26,7 @@ Best served with white rice
 4. Add beans, tomato, broth and spices and boil for 6 minutes
 5. Add coconut milk, fish and pepper (whole) and boil for an additional 6 minutes.
 
-
 ## Contribution
 - Thijs Wester - [website](https://twester.tk)
 
-;tags: thai
+;tags: thai fish

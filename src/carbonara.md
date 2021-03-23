@@ -25,8 +25,8 @@ This recipe assumes large eggs (63 g | 2 1/4 oz).
 4. Fry the guanciale in a dry pan on low to medium heat until the sides are crisp but the insides are chewy. Leave the resulting fat in the pan and set the guanciale aside.
 5. When your pasta is almost done, add some tablespoons of the starchy pasta water to your egg/cheese mixture. Mix well, and add more water as needed.
 An option here is to make a bain-marie over your boiling pasta pot to melt the cheese -- this will result in an extremely creamy and well integrated emulsion.
-6. When your pasta is done (-1 minute), remove it to the pan with the fat. Keep it on low heat and mix the fat and spaghetti. 
-7. Now add the egg/cheese mixture and keep moving and stirring to fully incorporate the sauce. Add pasta water as needed. 
+6. When your pasta is done (-1 minute), remove it to the pan with the fat. Keep it on low heat and mix the fat and spaghetti.
+7. Now add the egg/cheese mixture and keep moving and stirring to fully incorporate the sauce. Add pasta water as needed.
 The carbonara is done when the sauce looks a bit runnier than you would like, as it will start to thicken immediately after leaving the pan.
 Add the guanciale back in and give it a quick toss to mix. Plate and optionally garnish with grated cheese and freshly ground black pepper. Voila.
 
@@ -34,4 +34,4 @@ Add the guanciale back in and give it a quick toss to mix. Plate and optionally 
 
 Peter Piontek
 
-;tags: italian pasta quick
+;tags: italian pasta quick cheesefare

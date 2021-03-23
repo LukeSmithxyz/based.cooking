@@ -30,10 +30,8 @@ This recipe results in five slices of easy to make french toast.
 10. Repeat steps 5 to 9 until you have cooked all of your bread.
 11. Drench french toast stack in Maple syrup (Optional)
 
-
 ## Contribution
 
 - Ryan Wilson - [website](https://rdwilson.xyz), [donate](https://rdwilson.xyz/donate.html)
 
 ;tags: breakfast french
-

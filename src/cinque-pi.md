@@ -20,7 +20,7 @@ This is a nice simple dish made up of five ingredients: panna, pomodori, parmigi
 2. Mix the cream with the purée and bring to a boil.
 3. Turn the heat down to medium and add the grated parmigiano.
 4. Let it cook on medium to low heat until the pasta are done.
-5. Add copped up parsley and pepper.
+5. Add chopped up parsley and pepper.
 6. You can either add the sauce to the pasta ore serve separately.
 7. Serve with some additional parmigiano and a leaf of parsley.
 

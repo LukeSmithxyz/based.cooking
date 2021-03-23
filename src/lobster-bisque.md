@@ -37,10 +37,12 @@ Creamy french lobster soup perfect for the hollidays, you can optionally replace
 7. Rougly dice the tomatoes and add them together with the tomato puree, once again let it sauté for 2 minutes.
 8. Add the flour and give it all a stir, let it dry up in the pan.
 9. Deglaze the pan with the white wine and once the wine has dried up a bit add the fish stock.
-10. Let it simmer on low heat for 30 minutes, while the soup is boiling take the lobster meat and dice it into bitesized pieces.
-11. After the soup is done boiling run it through a fine sieve.
-12. Bring the strained soup back to  a light boil and add the diced lobster pieces.
-13. Let the soup boil for 4 more minutes to heat up the lobster and serve, finish of in the plate with a bite of heavy cream.
+10. Tie up your herbs using kitchen twine and add them to your pot.
+11. Let it simmer on low heat for 30 minutes, while the soup is boiling take the lobster meat and dice it into bitesized pieces.
+12. After the soup is done boiling run it through a fine sieve.
+13. Bring the strained soup back to  a light boil and add the diced lobster pieces.
+14. Let the soup boil for 4 more minutes to heat up the lobster and serve, add pepper and salt to taste.
+15. Finish of in the plate with a bite of heavy cream.
 
 ## Contribution
 

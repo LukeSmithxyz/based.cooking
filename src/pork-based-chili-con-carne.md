@@ -36,6 +36,6 @@ Mince should be broken up well before cooking.
 
 ## Contribution
 
-jacobsiggins.co.uk
+[Jacob Siggins](jacobsiggins.co.uk)
 
 ;tags: mexican beans pork

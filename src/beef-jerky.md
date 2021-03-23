@@ -1,13 +1,15 @@
 # Beef Jerky
 
-Beef Jerky is ideal for road trips and camping, as it will not perish as readily as fresh meat.
-It is suitable not only as a snack but also as a meal.
-This recipe for jerky is not heavily brined and flavored as commercial jerky is.
+Beef Jerky is ideal for road trips and camping, as it will not perish as readily
+as fresh meat.  It is suitable not only as a snack but also as a meal. This
+recipe for jerky is not heavily brined and flavored as commercial jerky is.
+
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 6-8 hr
+- 🍽 Servings: 10-20
 
 ## Ingredients
 
-- ¾ tsp. salt
-- ¼ tsp. pepper
 - 1 tbl. brown sugar
 - ¼ tsp. garlic
 - 2 tbl. Worcestershire sauce or Teriyaki sauce

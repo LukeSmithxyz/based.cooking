@@ -2,10 +2,10 @@
 
 _A tradicional Madeiran-Portuguese Bread_
 
-- ⏲️ Prep time: 1 hour
+- ⏲ Prep time: 1 hour
 - 🍳 Cook time: 45 min
 - 💤 Rest time: 3 days
-- 🍽️ Servings: 10 breads
+- 🍽 Servings: 10 breads
 
 ## Ingredients
 

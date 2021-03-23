@@ -2,8 +2,9 @@
 
 Simple method for making a good serving of salmon. Goes well with just about anything.
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 19 min
+- 🍽 Servings: 2
 
 ## Ingredients
 
@@ -23,6 +24,6 @@ Simple method for making a good serving of salmon. Goes well with just about any
 
 ## Contribution
 
-- Carl Zimmerman -- [website](https://codingwithcarl.com)
+- Carl Zimmerman -- [website](https://codingwithcarl.com)
 
 ;tags: basic fish

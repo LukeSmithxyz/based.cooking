@@ -4,9 +4,9 @@
 
 Baked pasta cooked in dish with spicy sauce
 
-- ⏲️ Prep time: 15 min
+- ⏲ Prep time: 15 min
 - 🍳 Cook time: 15-20 min
-- 🍽️ Servings: 8 bowls
+- 🍽 Servings: 8 bowls
 
 ## Ingredients
 

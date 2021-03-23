@@ -2,9 +2,9 @@
 
 The basic parts of a full English in a wrap. Inspired by McDonald's breakfast wraps.
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 10 min
-- 🍽️ Servings: 1 (2 wraps)
+- 🍽 Servings: 2
 
 ## Ingredients
 
@@ -12,8 +12,8 @@ The basic parts of a full English in a wrap. Inspired by McDonald's breakfast wr
 - 2 bacon rashers
 - 1 egg
 - 2 wraps
-- milk
-- ketchup (optional)
+- Milk
+- Ketchup (optional)
 
 ## Directions
 

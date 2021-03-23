@@ -1,15 +1,21 @@
 # Basic Bread Recipe
 
-This is a recipe for a basic loaf of bread. The dough itself can be used however. I've made buns, rolls, and whole bread loafs using this same exact dough every time without a problem. Eat within 3 days as it will probably be going stale around then (as bread without preservatives and other junk should).
+This is a recipe for a basic loaf of bread. The dough itself can be used
+however. I've made buns, rolls, and whole bread loafs using this same exact
+dough every time without a problem. Eat within 3 days as it will probably be
+going stale around then (as bread without preservatives and other junk should).
+
+- ⏲ Prep time: 20 min
+- 🍳 Cook time: 26-35 min
+- 🍽 Servings: 16
 
 ## Ingredients
 
-* 1 1/2 cups warm water
-* 2 and 1/4 teaspoons Active Dry Yeast
-* 1 Tsp sugar
-* 2 Tbsp  maple syrup, agave, or honey
-* 1/2 Tbsp salt
-* 3 3/4 cups Unbleached All-Purpose Flour (plus more for rolling / dusting)
+- 1 1/2 cups warm water
+- 2 and 1/4 teaspoons Active Dry Yeast
+- 1 Tsp sugar
+- 2 Tbsp maple syrup, agave, or honey
+- 3 3/4 cups Unbleached All-Purpose Flour (plus more for rolling / dusting)
 
 ## Directions
 
@@ -27,10 +33,10 @@ This is a recipe for a basic loaf of bread. The dough itself can be used however
 
 ## Notes
 
-* Instant yeast is not recommended as you can't easily tell if the bread will come to life.
-* For whole wheat version use 2 cups of whole wheat bread and 1 and 3/4 cup unbleached all purpose flour.
-* Add sunflower seeds and/or rolled oats for extra flavor/grains.
-* For buns or rolls divide dough into smaller pieces before second rest. Shape them and then let the dough rest. Recommended lowering oven temperature to 350 F and not using water as those will result in a hard crust and potentially dry interior.
+- Instant yeast is not recommended as you can't easily tell if the bread will come to life.
+- For whole wheat version use 2 cups of whole wheat bread and 1 and 3/4 cup unbleached all purpose flour.
+- Add sunflower seeds and/or rolled oats for extra flavor/grains.
+- For buns or rolls divide dough into smaller pieces before second rest. Shape them and then let the dough rest. Recommended lowering oven temperature to 350 F and not using water as those will result in a hard crust and potentially dry interior.
 
 ## Contribution
 

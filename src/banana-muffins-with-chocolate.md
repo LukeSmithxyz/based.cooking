@@ -1,5 +1,9 @@
 # Banana Muffins with Chocolate
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 20-30 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 3 bananas
@@ -25,4 +29,4 @@
 
 - Łukasz Drukała - [website](https://masflam.com), [donate](https://masflam.com/#donate)
 
-;tags: dessert sweet snack cake strict-fast
+;tags: dessert sweet cake strict-fast

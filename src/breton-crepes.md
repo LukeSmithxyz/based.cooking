@@ -2,13 +2,15 @@
 
 Buckwheat crêpes eaten as dishes, traditionaly garnished with ham, eggs and cheese (galette complète).
 
-~15/20 galettes.
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 5
 
 ## Ingredients
 
 - 500g buckwheat flour
+- 700ml water
 - 1 egg
-- 70cl water
 
 ## Directions
 

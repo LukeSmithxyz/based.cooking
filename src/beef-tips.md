@@ -1,6 +1,13 @@
 # Beef Tips in Gravy on Sour Cream Mashed Potatoes
 
-Tender chunks of meat in a rich brown gravy poured over sour cream mashed potatoes, made in a pressure cooker. This recipe is a modification of the [Texas Cafe Classics Sirloin Tips Recipe](https://youtu.be/91gAm1hBaT4) by Mark Rippetoe.
+Tender chunks of meat in a rich brown gravy poured over sour cream mashed
+potatoes, made in a pressure cooker. This recipe is a modification of the
+[Texas Cafe Classics Sirloin Tips Recipe](https://youtu.be/91gAm1hBaT4)
+by Mark Rippetoe.
+
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 1 hr
+- 🍽 Servings: 10
 
 ## Ingredients
 
@@ -17,7 +24,7 @@ Tender chunks of meat in a rich brown gravy poured over sour cream mashed potato
 
 ## Directions
 
-**Beef Tips in Gravy**
+### Beef Tips in Gravy
 
 1. Throw your pressure cooker with an open lid onto high heat or turn it onto saute mode if it's electric
 2. Chop up the fat into very small, uniform cubes or strips and begin to saute it in the pressure cooker
@@ -32,7 +39,7 @@ Tender chunks of meat in a rich brown gravy poured over sour cream mashed potato
 11. Very slowly begin adding flour water into the pot while constantly stirring until the gravy thickens and reaches the consistency you desire (it's very easy to overthicken the gravy here, don't overdo it!)
 12. Turn off the heat and plate on top of your sour cream mashed potatoes, shown below
 
-**Sour Cream Mashed Potatoes**
+### Sour Cream Mashed Potatoes
 
 1. Peel and dice up your potatoes
 2. Boil them on medium heat in a pot of slightly salty water until they begin to fall apart when poked with a fork

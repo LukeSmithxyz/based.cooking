@@ -1,14 +1,14 @@
 # Baba's Feta Pasta
 
-Greek Pasta Recipe with sauce made out of feta, stock, cream cheese and other ingredients.
-Uses mixed spice for special flavour, and is a great dinner or mid-day meal.
+Greek Pasta Recipe with sauce made out of feta, stock, cream cheese and other
+ingredients.  Uses mixed spice for special flavour, and is a great dinner or
+mid-day meal.
 
-- ⏲️ Prep time: 15-30 min
-- 🍳 Cook time: 25-30 min
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 3
 
 ## Ingredients
-
-Serves Around 3 People. You can scale up to 4 If you increase most quantities by +1/4.
 
 - Medium Sweet Onion (Finely Chopped)
 - Virgin olive oil (not extra-virgin)

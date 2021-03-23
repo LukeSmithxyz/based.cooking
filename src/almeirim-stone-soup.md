@@ -2,19 +2,23 @@
 
 It is truly emblematic of Portuguese cuisine, as it uses all of the ingredients available in order to waste no food.
 
+- ⏲ Prep time: 20 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
-- well-washed stone
-- kidney beans or fresh
-- pig's ear (blanched and sliced thin)
-- chouriço negro or firm type of blood sausage
-- mixed meat chouriço or mediterranean smoked sausage
-- pork belly, fatback or bacon
-- potatoes, cubed
-- onions, chopped
-- garlic cloves
-- bay leaf
-- cilantro/coriander, chopped
+- Well-washed stone
+- Kidney beans or fresh
+- Pig's ear (blanched and sliced thin)
+- Chouriço negro or firm type of blood sausage
+- Mixed meat chouriço or mediterranean smoked sausage
+- Pork belly, fatback or bacon
+- Potatoes, cubed
+- Onions, chopped
+- Garlic cloves
+- Bay leaf
+- Cilantro/coriander, chopped
 
 ## Directions
 

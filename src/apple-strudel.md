@@ -2,9 +2,9 @@
 
 ![apple-strudel-1](pix/apple-strudel-1.webp)
 
-- ⏲️ Prep time: 10 min
+- ⏲ Prep time: 10 min
 - 🍳 Cook time: 40 min
-- 🍽️ Servings: 6
+- 🍽 Servings: 6
 
 ## Ingredients
 

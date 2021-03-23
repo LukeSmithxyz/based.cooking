@@ -1,15 +1,22 @@
 # Traditional beef or lamb stew
 
-This is a recipe for a typical Irish stew. This is traditionally made with lamb since it's cheaper however, beef tastes a lot better and is more readily available in North America I've been told. This is good if you want to feed a family or if you just want to be lazy and eat the same thing for 2 or 3 days.
+This is a recipe for a typical Irish stew. This is traditionally made with lamb
+since it's cheaper however, beef tastes a lot better and is more readily
+available in North America I've been told. This is good if you want to feed a
+family or if you just want to be lazy and eat the same thing for 2 or 3 days.
 
 Serve with mashed potatoes.
 
+- ⏲ Prep time: 20 min
+- 🍳 Cook time: 3 hr
+- 🍽 Servings: 10
+
 ## Ingredients
 
-- Lamb shoulder or beef chuck
-- Onion, celery, carrot and garlic
+- Lamb shoulder or beef chuck.
+- Onion, celery, carrot and garlic.
 - Thyme, rosemary and some bay leaves.
-- Beef or [chicken stock](https://based.cooking/chicken-stock-bone-broth.html)
+- Beef or [chicken stock](https://based.cooking/chicken-stock-bone-broth.html).
 - (Optional) a bottle of stout or porter for some extra flavour.
 
 ## Directions

@@ -18,24 +18,21 @@ This recipe makes a lot and is super easy. A whole roast usually makes enough fo
 - 2 bay leaves
 - ¼ teaspoon dry adobo seasoning
 
-
 ## Directions
 
-1.	Season pork with kosher salt and pepper.
-2.	In a medium sauté pan on medium-high heat, brown pork on all sides.
-3.	Remove from heat and allow to cool, about 10 minutes.
-4.	Using a sharp knife, insert blade into pork, cutting small holes and insert garlic slivers as far in as you can.
-5.	Pour chicken broth in slow cooker.
-6.	 Add pork and season with cumin, adobo, sazon, and oregano.
-7.	Add bay leaves and chipotle peppers.
-8.	Cover and cook low for 8 hours.
-9.	After 8 hours, shred pork using 2 forks and combine with juices.
-10.	Let cook for another 15-30 mins.
-
+1. Season pork with kosher salt and pepper.
+2. In a medium sauté pan on medium-high heat, brown pork on all sides.
+3. Remove from heat and allow to cool, about 10 minutes.
+4. Using a sharp knife, insert blade into pork, cutting small holes and insert garlic slivers as far in as you can.
+5. Pour chicken broth in slow cooker.
+6. Add pork and season with cumin, adobo, sazon, and oregano.
+7. Add bay leaves and chipotle peppers.
+8. Cover and cook low for 8 hours.
+9. After 8 hours, shred pork using 2 forks and combine with juices.
+10. Let cook for another 15-30 mins.
 
 ## Contribution
 
 - sam
-
 
 ;tags: pork slowcooked mexican

@@ -15,7 +15,7 @@
 - 1 - 2/3 cups Milk
 - 6-8 tbsp Butter
 
-## Instructions
+## Directions
 
 1. At medium/low heat begin melting the butter, and continue with beating eggs in large bowl, add salt, sugar, milk, flour and mix.
 2. Add melted butter while stirring batter.
@@ -27,6 +27,6 @@
 
 ## Contribution
 
-Matt Bogenhagen
+- Matt Bogenhagen
 
 ;tags: breakfast swedish

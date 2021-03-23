@@ -2,7 +2,6 @@
 
 Peruvian-chinese dish, Easy to cook just add and mix everything.
 
-
 ![Arroz Chaufa](pix/arroz_chaufa-2.webp)
 
 - ⏲️ Prep time: 40 min

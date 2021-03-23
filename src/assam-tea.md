@@ -22,10 +22,8 @@ This is a simple Assam tea recipe.
 3. Strain the tea using a tea filter into a cup.
 4. Add sugar and milk to taste
 
-
 ## Contribution
 
 - Chandra Kiran - [GitHub](https://github.com/ackr-8)
 
 ;tags: drink quick
-

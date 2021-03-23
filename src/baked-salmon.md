@@ -21,7 +21,6 @@ Simple method for making a good serving of salmon. Goes well with just about any
 3. Squeeze lemon juice and place a teaspoon of butter on each salmon steak.
 4. Bake at 400°F / 200°C for 19 mins.
 
-
 ## Contribution
 
 - Carl Zimmerman -- [website](https://codingwithcarl.com)

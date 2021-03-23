@@ -14,7 +14,6 @@ Perfect for pan pizza in an 11 inch iron skillet.
 - 5g olive oil
 - 140g luke warm water
 
-
 ## Directions
 
 1. Mix dry ingrediens in a bowl

@@ -35,5 +35,4 @@ A nice recipe for amazing fully home-made lasagna.
 - Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
 - Josiah -- [website](https://himiko.cloud), [donate](https://himiko.cloud/donate/)
 
-;tags: italian pasta meat 
-
+;tags: italian pasta meat

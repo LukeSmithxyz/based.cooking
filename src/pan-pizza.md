@@ -1,5 +1,7 @@
 # Pan pizza
 
+![Pan pizza](pix/pan-pizza.webp)
+
 Pan pizza gives a thicc and crispy crust 🍕. For this recipe start early with the dough, preferably the night before. It takes a lot of time, but little effort and gives a fantastic result.
 
 - ⏲️ Prep time: 30 min

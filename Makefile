@@ -18,7 +18,7 @@ BLOG_SRC ?= articles
 
 .PHONY: help init build deploy clean taglist
 
-ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/ 2>/dev/null)
+ARTICLES = $(shell git ls-tree HEAD --name-only -- $(BLOG_SRC)/*.md 2>/dev/null)
 TAGFILES = $(patsubst $(BLOG_SRC)/%.md,tags/%,$(ARTICLES))
 
 help:
@@ -59,7 +59,7 @@ config:
 
 tags/%: $(BLOG_SRC)/%.md
 	mkdir -p tags
-	grep -ih '^; *tags:' "$<" | cut -d: -f2- | tr '[:punct:]' ' ' | sed 's/  */\n/g' | sed '/^$$/d' | sort -u > $@
+	grep -ih '^; *tags:' "$<" | cut -d: -f2- | tr -c '[^a-z\-]' ' ' | sed 's/  */\n/g' | sed '/^$$/d' | sort -u > $@
 
 blog/index.html: index.md $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header index_header tag_list_header tag_entry tag_separator tag_list_footer article_list_header article_entry article_separator article_list_footer index_footer footer))
 	mkdir -p blog
@@ -117,7 +117,7 @@ blog/@%.html: $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header tag_in
 	envsubst < templates/tag_index_header.html >> $@; \
 	envsubst < templates/article_list_header.html >> $@; \
 	first=true; \
-	for f in $(shell grep -FH '$*' $(TAGFILES) | sed 's,^tags/\([^:]*\):.*,$(BLOG_SRC)/\1.md,'); do \
+	for f in $(shell awk '$$0 == "$*" { gsub("tags", "$(BLOG_SRC)", FILENAME); print FILENAME  ".md"; nextfile; }' $(TAGFILES)); do \
 		printf '%s ' "$$f"; \
 		git log -n 1 --diff-filter=A --date="format:%s $(BLOG_DATE_FORMAT_INDEX)" --pretty=format:'%ad%n' -- "$$f"; \
 	done | sort | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \

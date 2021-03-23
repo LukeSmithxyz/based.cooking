@@ -1,5 +1,7 @@
 # Chicken Pasta Casserole
 
+![Chicken Pasta Casserole](pix/chicken-pasta-casserole.webp)
+
 Easy to throw together and transport for the working fellow. High in protein!
 
 - ⏲️ Prep time: 5 min

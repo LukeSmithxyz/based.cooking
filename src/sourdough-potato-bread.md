@@ -4,7 +4,6 @@
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 45 min
-- 🍽️ Servings: 1
 
 ## Ingredients
 

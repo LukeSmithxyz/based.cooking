@@ -1,5 +1,5 @@
 #!/bin/sh
-set -eu
+set -u
 
 SIZE_LIMIT=150000
 FAIL=0
@@ -38,11 +38,14 @@ check_recipe_name() {
 check_recipe_content() {
 	awk '
 		BEGIN {
-			HAS_TITLE       = 0;
-			HAS_TAGS        = 0;
-			NUM_TAGS        = 0;
-			HAS_INGREDIENTS = 0;
-			HAS_DIRECTIONS  = 0;
+			HAS_TITLE                   = 0;
+			HAS_TAGS                    = 0;
+			NUM_TAGS                    = 0;
+			HAS_INGREDIENTS             = 0;
+			HAS_DIRECTIONS              = 0;
+			HAS_CONSECUTIVE_EMPTY_LINES = 0;
+
+			CONSECUTIVE_EMPTY_LINES = 0;
 		}
 
 		# First line should be the title
@@ -51,14 +54,23 @@ check_recipe_content() {
 			next;
 		}
 
-		/^## Ingredients/ {
+		$0 == "## Ingredients" {
 			HAS_INGREDIENTS = 1;
-			next;
 		}
 
-		/^## Directions/ {
+		$0 == "## Directions" {
 			HAS_DIRECTIONS = 1;
-			next;
+		}
+
+		$0 == "" {
+			CONSECUTIVE_EMPTY_LINES++
+			if (CONSECUTIVE_EMPTY_LINES >= 2) {
+				HAS_CONSECUTIVE_EMPTY_LINES = 1;
+			}
+		}
+
+		$0 != "" {
+			CONSECUTIVE_EMPTY_LINES = 0;
 		}
 
 		END {
@@ -96,6 +108,11 @@ check_recipe_content() {
 				FAIL = 1;
 			}
 
+			if (HAS_CONSECUTIVE_EMPTY_LINES) {
+				print "Recipe has at least 2 consecutive empty lines.";
+				FAIL = 1;
+			}
+
 			if (FAIL) {
 				exit 1;
 			}
@@ -107,22 +124,27 @@ check_recipe_content() {
 	fi
 }
 
-git diff --name-only "$(git merge-base origin/master HEAD)" | while IFS= read -r file; do
+while IFS= read -r file; do
+	echo "Checking '$file'"
 	case "$file" in
+		# Ignore these files
+		index.md) ;;
+		.github/*.md) ;;
+
 		*.webp)
 			echo "Checking size of $file"
 			check_size "$file"
 			check_webp_name "$file"
 			;;
-		.github/*.md)
-			# Ignore markdown files in .github
-			continue;
-			;;
 		*.md)
 			check_recipe_name "$file"
 			check_recipe_content "$file"
 			;;
-    esac
-done
+	esac
+	# Separate each file for easier reading.
+	echo ""
+done <<EOF
+$(git diff --name-only "$(git merge-base origin/master HEAD)")
+EOF
 
 exit $FAIL

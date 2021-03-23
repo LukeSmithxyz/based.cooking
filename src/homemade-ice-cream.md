@@ -26,4 +26,4 @@ _Easy Homemade Ice Cream_
 ## Contribution
 
 - Vince - [website](https://vincestuff.com), [github](https://github.com/Socerest2)
-;tags: dessert
+;tags: dessert american

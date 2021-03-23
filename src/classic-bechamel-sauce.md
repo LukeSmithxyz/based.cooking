@@ -3,7 +3,7 @@
 Classic French sauce, base for a lot of dishes
 
 - ⏲️ Prep time: 0m
-- 🍳Cook time: 15-20 min
+- 🍳 Cook time: 15-20 min
 
 ## Ingredients
 

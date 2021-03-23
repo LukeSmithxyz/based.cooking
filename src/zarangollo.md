@@ -3,7 +3,7 @@
 Simple veggie starter/side dish from Murcia (Southeastern Spain)
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 10-15 min
+- 🍳 Cook time: 10-15 min
 - 🍽️ Servings: 2
 
 ## Ingredients

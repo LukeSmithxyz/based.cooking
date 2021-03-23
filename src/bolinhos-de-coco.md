@@ -4,7 +4,7 @@ This is a Portuguese dish that translates to "coconut cupcakes," though there ar
 Its simplicity and short preparation time make it perfect for a snack or dessert.
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 10 min
+- 🍳 Cook time: 10 min
 
 ## Ingredients
 

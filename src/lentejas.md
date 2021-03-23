@@ -5,7 +5,7 @@
 Traditional-spanish dish. Typical spanish!
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 35 min
+- 🍳 Cook time: 35 min
 - 🍽️ Servings: 4-6
 
 ## Ingredients

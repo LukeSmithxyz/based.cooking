@@ -1,7 +1,7 @@
 # Orange Glorious
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 5 min
+- 🍳 Cook time: 5 min
 - 🍽️ Servings: 4
 
 ## Ingredients

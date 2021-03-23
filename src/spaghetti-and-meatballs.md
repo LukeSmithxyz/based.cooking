@@ -1,7 +1,7 @@
 # Spaghetti and Meatballs
 
 - ⏲️Prep time: 20 min
-- 🍳Cook time: 40 min
+- 🍳 Cook time: 40 min
 - 🍽️Servings: 6
 
 ## Ingredients

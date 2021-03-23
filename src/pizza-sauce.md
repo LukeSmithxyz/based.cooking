@@ -1,7 +1,7 @@
 # Pizza sauce
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 0.5-2 hours
+- 🍳 Cook time: 0.5-2 hours
 
 ## Ingredients
 

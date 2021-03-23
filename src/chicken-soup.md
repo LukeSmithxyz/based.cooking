@@ -3,7 +3,7 @@
 Hearty soup that is adaptable to customizing to your desired vegetables or other additions
 
 - ⏲️ Prep time: 30 min
-- 🍳Cook time: 2 hours
+- 🍳 Cook time: 2 hours
 - 🍽️ Servings:
 
 ## Ingredients

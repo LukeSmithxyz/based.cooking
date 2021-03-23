@@ -3,7 +3,7 @@
 ![Swedish Pancakes](pix/swedish-pancakes-00.webp)
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - 🍽️ Servings: 4
 
 ## Ingredients

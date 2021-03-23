@@ -5,7 +5,7 @@ a greek Tzatziki and is quick and quite easy to make. It's great especially with
 provides as a sweet and cooling effect.
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 2 min
+- 🍳 Cook time: 2 min
 - 🍽️ Servings: 4
 
 ## Ingredients

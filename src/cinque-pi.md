@@ -5,7 +5,7 @@
 This is a nice simple dish made up of five ingredients: panna, pomodori, parmigiano, pepe, e prezzemolo
 
 - ⏲️ Prep time: 15 min
-- 🍳Cook time: 15 min
+- 🍳 Cook time: 15 min
 - 🍽️ Servings: 4
 
 ## Ingredients

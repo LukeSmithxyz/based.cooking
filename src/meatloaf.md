@@ -48,4 +48,3 @@ This recipe will result in two or three glass dishes of tasty, moist meatloaf. G
 - Ryan Wilson - [website](https://rdwilson.xyz), [donate](https://rdwilson.xyz/donate.html)
 
 ;tags: beef american supper
-

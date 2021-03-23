@@ -26,7 +26,4 @@ jobs:
         key: ${{ secrets.based_ssh }}
         passphrase: ${{ secrets.based_ssh_pass }}
         port: ${{ secrets.based_port }}
-        script: |
-          cd repo
-          git pull --force origin master
-          make clean deploy
+        script: cd repo && git pull --force origin master && make clean deploy

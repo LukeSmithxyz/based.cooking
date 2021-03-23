@@ -13,12 +13,11 @@ _Easy Homemade Ice Cream_
 - 1 Cup Of Cream
 - 1½ drops of vanilla extract
 - 1½ Tablespoons of sugar
-- A small pinch of salt
 - Any toppings that you would want to add
 
 ## Directions
 
-1. Put all your ingredients in the jar. (Besides your toppings)
+1. Put all your ingredients in the jar. Along with it add a small pinch of salt. (Besides your toppings)
 2. Shake your ingrediants up. This takes around 10 minutes, just keep shaking until the ingredients become thickened.
 3. Now add your toppings in
 4. You are done! Now put your jar in your freezer for at least 2 hours, I put mine in for 4 hours. (Remember longer is better!)

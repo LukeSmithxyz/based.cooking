@@ -2,11 +2,16 @@
 
 ![carbonara](pix/carbonara.webp)
 
-Carbonara is a simple dish. The quality of your ingredients make or break it.
-I recommend using the best ingredients you can source.
-Suggestions: bronze extruded pasta, 24 months aged Parmigiano-Reggiano, 12+ months aged Pecorino Romano, guanciale from the butcher, and organic eggs.
+Carbonara is a simple dish. The quality of your ingredients make or break it.  I
+recommend using the best ingredients you can source.  Suggestions: bronze
+extruded pasta, 24 months aged Parmigiano-Reggiano, 12+ months aged Pecorino
+Romano, guanciale from the butcher, and organic eggs.
 
 This recipe assumes large eggs (63 g | 2 1/4 oz).
+
+- ⏲ Prep time: 3 min
+- 🍳 Cook time: 15 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -28,6 +33,6 @@ This recipe assumes large eggs (63 g | 2 1/4 oz).
 
 ## Contribution
 
-Peter Piontek, Ladislao Blanchi
+- Peter Piontek, Ladislao Blanchi
 
 ;tags: italian pasta quick cheesefare

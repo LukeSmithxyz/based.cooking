@@ -5,6 +5,10 @@
 Nothing beats meat, cheese and tomato combined together to create the best
 combination of flavors that man has created.
 
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 40 min
+- 🍽 Servings: 2
+
 ## Ingredients
 
 The quantities here are for about two adult portions. That is, if you are also
@@ -12,22 +16,20 @@ making some side dish, like in the photo.
 
 For the meatballs:
 
-* 300-400g of ground beef meat
-* 1/4 of an onion
-* ~70g of cheese; I have made with different cheese types, but usually I use
-Gouda
-* Parsley
-* 1-2 garlic cloves
-* 1 egg
-* ~1/5 metric cups (~50ml) of bread crumbs
+- 300-400g of ground beef meat
+- 1/4 of an onion
+- ~70g of cheese; I have made with different cheese types, but usually I use Gouda Parsley
+- 1-2 garlic cloves
+- 1 egg
+- ~1/5 metric cups (~50ml) of bread crumbs
 
 For the sauce:
 
-* 250ml of water
-* 8 spoonfuls of tomato paste
-* Oregano
-* Basil
-* Black pepper
+- 250ml of water
+- 8 spoonfuls of tomato paste
+- Oregano
+- Basil
+- Black pepper
 
 ## Instructions
 
@@ -37,29 +39,12 @@ For the sauce:
 4. Mince the garlic cloves and add to the bowl.
 5. Dice the parsley leaves and add to the bowl.
 6. Salt the beef mix and mix it thoroughly.
-7. Cut the cheese into cubes. The amount of cubes you will need will depend on
-
-how many meatballs you make, which depends on how big you want to make the
-meatballs. You get the idea.
-
-1. Take a cheese cube and wrap with enough ground meat to completely cover it.
-
-Repeat this process until you've run out of the ground beef mix.
-
-1. Heat the frying pan, add some olive oil, and add the meatballs. Cook over
-
-medium heat rolling the meatballs from time to time until they are slightly
-brown from all sides (wait, spheres have no sides).
-
-1. When the meatballs look done, pour the water and tomato paste; add the dried
-
-oregano and basil, and ground black pepper; and salt to taste.
-
-1. Cook over medium-low heat for about ten minutes rolling the meatballs so
-
-that they get completely bathed in tomato sauce.
-
-1. Serve with some side dish and enjoy!
+7. Cut the cheese into cubes. The amount of cubes you will need will depend on how many meatballs you make, which depends on how big you want to make the meatballs. You get the idea.
+8. Take a cheese cube and wrap with enough ground meat to completely cover it. Repeat this process until you've run out of the ground beef mix.
+9. Heat the frying pan, add some olive oil, and add the meatballs. Cook over medium heat rolling the meatballs from time to time until they are slightly brown from all sides (wait, spheres have no sides).
+10. When the meatballs look done, pour the water and tomato paste; add the dried oregano and basil, and ground black pepper; and salt to taste.
+11. Cook over medium-low heat for about ten minutes rolling the meatballs so that they get completely bathed in tomato sauce.
+12. Serve with some side dish and enjoy!
 
 Originally published at [https://www.yaroslavps.com/food/cheesy-meatballs/](https://www.yaroslavps.com/food/cheesy-meatballs/)
 
@@ -70,4 +55,4 @@ Originally published at [https://www.yaroslavps.com/food/cheesy-meatballs/](http
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: beef
+;tags: beef supper

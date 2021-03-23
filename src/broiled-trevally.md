@@ -1,23 +1,27 @@
 # Broiled Trevally
 
-Well, it's actually a *giant* trevally, and if you have seen one, that fish looks ugly.
-So here's a recipe to make it look---and taste!---more appealing.
+Well, it's actually a *giant* trevally, and if you have seen one, that fish
+looks ugly.  So here's a recipe to make it look---and taste!---more appealing.
+
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 6
 
 ## Ingredients
 
-- giant trevally
-- eggplants
-- squash (or zucchini)
-- carrots
-- onion
-- garlic
-- ginger
-- tomatoes
-- bay leaf
-- olive oil
-- thyme
-- basil
-- butter
+- Giant trevally
+- Eggplants
+- Squash (or zucchini)
+- Carrots
+- Onion
+- Garlic
+- Ginger
+- Tomatoes
+- Bay leaf
+- Olive oil
+- Thyme
+- Basil
+- Butter
 
 ## Directions
 

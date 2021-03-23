@@ -2,9 +2,9 @@
 
 A very basic sauce that can be used for various dishes.
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 20 min
-- 🍽️ Servings: 6
+- 🍽 Servings: 6
 
 ## Ingredients
 

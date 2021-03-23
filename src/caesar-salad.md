@@ -4,6 +4,10 @@
 
 Caesar Salad is an easy and delicious meal for lunch or dinner.
 
+- ⏲ Prep time: 20 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 5
+
 ## Ingredients
 
 - Romaine Lettuce

@@ -1,4 +1,3 @@
-
 # Homemade Ice Cream
 
 _Easy Homemade Ice Cream_

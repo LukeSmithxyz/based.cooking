@@ -1,4 +1,4 @@
-# Bolo do Caco _(Caco Bread)_
+# Bolo do Caco (Caco Bread)
 
 _A tradicional Madeiran-Portuguese Bread_
 
@@ -44,4 +44,5 @@ __Metric__
 ## Contribution
 
 - João Freitas - [website](https://joaoofreitas.tech), [github](https://github.com/joaoofreitas)
+
 ;tags: bread portuguese

@@ -24,7 +24,7 @@
 5. Fry potato wedges in butter, add more butter while stirring.
 6. Add pork and bacon and bake until crispy.
 7. Add and stir the rest of the ingredients, except eggs.
-8. Fry the eggs seperately and serve on top.
+8. Fry the eggs separately and serve on top.
 
 ## Contribution
 

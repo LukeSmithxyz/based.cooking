@@ -28,4 +28,3 @@ This is a simple Assam tea recipe.
 - Chandra Kiran - [GitHub](https://github.com/ackr-8)
 
 ;tags: drink quick
-

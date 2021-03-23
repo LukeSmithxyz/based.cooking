@@ -56,4 +56,4 @@ Sauce For the Buns
 
 - BBQ-Nation _Credit_ [website](https://grillnationbbq.com/wprm_print/1538)
 
-;tags: chicken paprika salt pepper
+;tags: chicken spicy

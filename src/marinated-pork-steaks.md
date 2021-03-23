@@ -28,4 +28,4 @@ And just like that you got yourself some tasty pork steaks.
 
 - Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)
 
-;tags: pork honey garlic
+;tags: pork steak

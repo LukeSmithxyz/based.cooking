@@ -35,4 +35,4 @@ This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically 
 
 Shou, [website](https://shouganai.xyz)
 
-;tags: fish onion
+;tags: fish seafood

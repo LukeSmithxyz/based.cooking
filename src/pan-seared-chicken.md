@@ -39,4 +39,4 @@ Originally published at [https://www.yaroslavps.com/food/pan-seared-chicken-file
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: chicken paprika
+;tags: chicken fry

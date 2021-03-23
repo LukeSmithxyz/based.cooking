@@ -59,4 +59,4 @@ Originally published at [https://www.yaroslavps.com/food/cheesy-meatballs/](http
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: beef eggs onion meat garlic
+;tags: beef cheese

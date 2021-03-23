@@ -1,15 +1,19 @@
 # Crab salad
 
+- ⏲️ Prep time: 10 min
+- 🍳Cook time: 30 min
+- 🍽️ Servings: 3
+
 ## Ingredients
 
-- Сrab meat
-- Egg
-- Rice
-- Corn
-- Cucumber
-- Carrot
-- Onion
-- Mayonnaise
+- Сrab meat (300 grams)
+- Egg (3)
+- Rice (50 grams)
+- Corn (1 can)
+- Cucumber (1)
+- Carrot (1)
+- Onion (1)
+- Mayonnaise (100 grams)
 
 ## Directions
 

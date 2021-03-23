@@ -17,7 +17,7 @@
 
 1. Dice onion and fry in olive oil on medium heat.
 2. Add chopped garlic and chili pepper (optional) for some minutes.
-3. Mix in tomato puré, salt, pepper, and oregano. Cook until puré gets oily
+3. Mix in tomato puré, salt, pepper, and oregano. Cook until puré gets oily.
 4. Add canned tomatoes, and crush with spatula.
 5. Let it sit on low heat. The longer the better. 
 

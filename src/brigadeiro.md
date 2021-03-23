@@ -12,7 +12,7 @@ A very traditional Brazilian dessert that is present in every Brazilian birthday
 ## Directions
 
 1. Add all ingredients into a pan.
-2. Put it under low heat and stir it (preferably with a wooden spoon) until it starts sticking to the bottom of the pan.
+2. Put it under low heat and stir it (preferably with a wooden spoon) until it stops sticking to the bottom of the pan.
 3. Remove it from the pan and eat it with a spoon or roll it into small balls.
 4. If you chose to roll it into balls, you may also roll them around in sprinkles while still hot.
 

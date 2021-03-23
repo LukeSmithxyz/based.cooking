@@ -1,6 +1,6 @@
 # Paneer Tikka Masala
 
-![paneer tikka masala](pix/paneer-tikka-masala.webp "Paneer Tikka Masala served with Naan bread")
+![paneer tikka masala](pix/paneer-tikka-masala-00.webp "Paneer Tikka Masala served with Naan bread")
 
 ## Ingredients
 

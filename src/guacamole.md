@@ -37,4 +37,4 @@ Originally published at [https://www.yaroslavps.com/food/fresh-guacamole/](https
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: mexican spread snack strict_fast
+;tags: mexican spread snack strict-fast

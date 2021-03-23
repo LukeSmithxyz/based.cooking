@@ -29,4 +29,4 @@ A curry serves best with naan that is unleavened bread. Traditionally made in â€
 
 - Nihar Samantaray - [website](https://nihars.com), [contact](mailto:i@nihars.com)
 
-;tags: indian bread strict_fast
+;tags: indian bread strict-fast

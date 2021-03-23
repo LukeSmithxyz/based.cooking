@@ -43,4 +43,4 @@ Originally published at [https://www.yaroslavps.com/food/refried-beans/](https:/
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: mexican beans strict_fast
+;tags: mexican beans strict-fast

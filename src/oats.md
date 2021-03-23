@@ -42,4 +42,4 @@ size. My personal "standard serving" is 1/3 cup steel cut or 1/2 cup rolled
 
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 
-;tags: sweet breakfast quick strict_fast
+;tags: sweet breakfast quick strict-fast

@@ -27,4 +27,4 @@ Round Squash, Zucchini, or Courguettes can be served as main dish (2 servings pe
 
 - Marco Fleres
 
-;tags: supper rice vegetables cheesefare strict_fast
+;tags: supper rice vegetables cheesefare strict-fast

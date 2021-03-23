@@ -30,4 +30,4 @@
 
 - Anonymous
 
-;tags: basic sauce strict_fast
+;tags: basic sauce strict-fast

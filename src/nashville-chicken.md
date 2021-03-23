@@ -4,9 +4,9 @@ If you love spicy foods and chicken then this Nashville Hot Chicken sandwich rec
 
 Nashville Hot Chicken was invented by a man named Thorton Prince. It is said that he came home late one night and whipped this dish up randomly. Could you imagine creating this staple of a dish late night after coming home from an evening of festivities, blows my mind. Let’s get into the recipe now. 
 
-- Prep time: 20 min
-- Cook time: 30 min
-- Servings: 4
+- ⏲️ Prep time: 20 min
+- 🍳 Cook time: 30 min
+- 🍽️ Servings: 4
 
 ## Ingredients
 

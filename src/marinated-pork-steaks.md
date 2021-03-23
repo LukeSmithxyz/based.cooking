@@ -2,9 +2,9 @@
 
 A tasty simple marinade that fits well with pork.
 
-- Prep time: 35 minutes
-- Cook time: 10 minutes
-- Serves: 3-4 people
+- ⏲️ Prep time: 35 minutes
+- 🍳 Cook time: 10 minutes
+- 🍽️ Servings: 3-4 people
 
 ## Ingredients
 

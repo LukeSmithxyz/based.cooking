@@ -1,8 +1,8 @@
 # Banana Pancakes
 
-- Prep time: 10 minutes
-- Cook time: 10 minutes
-- Serves: 4 people
+- ⏲️ Prep time: 10 minutes
+- 🍳 Cook time: 10 minutes
+- 🍽️ Servings: 4 people
 
 ## Ingredients
 

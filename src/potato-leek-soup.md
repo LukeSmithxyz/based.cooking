@@ -1,8 +1,8 @@
 # Potato Leek Soup
 
-- Prep time: 15 min
-- Cook time: 1 hour 20 min
-- Servings: 2
+- ⏲️ Prep time: 15 min
+- 🍳 Cook time: 1 hour 20 min
+- 🍽️ Servings: 2
 
 ## Ingredients
 

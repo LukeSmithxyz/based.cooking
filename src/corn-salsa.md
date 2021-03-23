@@ -1,7 +1,7 @@
 # Corn Salsa
 
-- Prep time: 10 Minutes
-- Cook time: 1 Hour+ in fridge
+- ⏲️ Prep time: 10 Minutes
+- 🍳 Cook time: 1 Hour+ in fridge
 
 ## Ingredients
 

@@ -44,4 +44,4 @@ Pancakes are sometimes served with pea soup; this dish is called snert met strui
 - Thomas - [@Thomas05t](https://github.com/Thomas05t)
 - Rijk - [@rijkvp](https://github.com/rijkvp)
 
-;tags: dutch vegetables soup
+;tags: dutch soup vegetables

@@ -9,7 +9,7 @@ _Easy Homemade Ice Cream_
 
 ## Ingredients
 
-- A Mason jar or some equivilent
+- A Mason jar or some equivalent
 - 1 Cup Of Cream
 - 1½ drops of vanilla extract
 - 1½ Tablespoons of sugar

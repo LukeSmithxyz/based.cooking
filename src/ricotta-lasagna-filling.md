@@ -11,7 +11,7 @@ A quick and easy filling for lasagna based on ricotta
 - Ricotta cheese 
 - One large egg
 - Parmesan cheese
-- oregano (optional)
+- Oregano (Optional)
 
 ## Directions
 

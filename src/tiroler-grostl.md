@@ -26,7 +26,6 @@
 7. Add and stir the rest of the ingredients, except eggs.
 8. Fry the eggs seperately and serve on top.
 
-
 ## Contribution
 
  - Peter Wilbrink -- [printplaatreparatie.nl](https://printplaatreparatie.nl)

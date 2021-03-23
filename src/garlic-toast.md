@@ -3,7 +3,7 @@
 Garlic toast, perfect as a substitute for crackers in a cheese platter.
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 10-15 min
+- 🍳 Cook time: 10-15 min
 
 ## Ingredients
 

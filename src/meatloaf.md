@@ -5,7 +5,7 @@
 This recipe will result in two or three glass dishes of tasty, moist meatloaf. Great for family suppers.
 
 - ⏲️ Prep time: 30 min
-- 🍳Cook time: 1 hour 10 minutes
+- 🍳 Cook time: 1 hour 10 minutes
 - 🍽️ Servings: 6+
 
 ## Ingredients

@@ -1,7 +1,7 @@
 # Chicken in Red Wine Vinegar Sauce
 
 - ⏲️ Prep time: 15 min
-- 🍳Cook time: 25 min
+- 🍳 Cook time: 25 min
 - 🍽️ Servings: 6
 
 ## Ingredients

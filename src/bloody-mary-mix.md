@@ -1,7 +1,7 @@
 # Bloody Mary Mix
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 5 min
+- 🍳 Cook time: 5 min
 - 🍽️ Servings: 8
 
 ## Ingredients

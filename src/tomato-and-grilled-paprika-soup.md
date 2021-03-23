@@ -1,6 +1,6 @@
 # Tomato and Grilled Bell Pepper soup
 
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - 🍽️Servings:12
 
 Can be prepared the night before and kept frozen for a week or two.

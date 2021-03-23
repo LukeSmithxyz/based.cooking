@@ -1,7 +1,7 @@
 # Oaty Pancakes
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 10 min
+- 🍳 Cook time: 10 min
 - 🍽️ Servings: 4
 
 ## Ingredients

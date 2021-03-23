@@ -17,7 +17,7 @@ Egg rolls, but, you know, in a bowl.
 - soy sauce
 - sesame oil
 
-## Instructions
+## Directions
 
 1. Grate or mince ginger finely. Process with the garlic cloves by grinding with salt under the edge of a knife. Finely mince the onion. **Optional** Marinade the ground turkey in 2 Tbsp of soy sauce and 1 tsp baking soda for 15 minutes to improve browning.
 
@@ -31,4 +31,4 @@ Egg rolls, but, you know, in a bowl.
 
 the-birchmen - BAT [GitHub](https://github.com/the-birchmen/)
 
-;tags = quick asian cabbage
+;tags: quick asian cabbage

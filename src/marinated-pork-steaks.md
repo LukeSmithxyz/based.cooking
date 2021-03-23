@@ -24,9 +24,8 @@ A tasty simple marinade that fits well with pork.
 
 And just like that you got yourself some tasty pork steaks.
 
-
 ## Contribution
 
 - Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)
 
-;tags: pork
+;tags: pork honey garlic

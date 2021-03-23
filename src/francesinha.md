@@ -2,7 +2,9 @@
 
 Francesinha is a traditional dish from the city of Porto. The francesinha in its special sandwich variation consists of linguiça, ham, cold meat and beef steak, covered with melted cheese.
 
-## Based Ingredients
+## Ingredients
+
+### Based Ingredients
 
 - bread
 - linguiça (type of Portuguese sausage)
@@ -10,7 +12,7 @@ Francesinha is a traditional dish from the city of Porto. The francesinha in its
 - Portuguese cheese
 - beef meat
 
-## Sauce Ingredients
+### Sauce Ingredients
 
 - blonde beer
 - fried tomato sauce
@@ -23,13 +25,15 @@ Francesinha is a traditional dish from the city of Porto. The francesinha in its
 - olive oil
 - piripiri (Portuguese chili)
 
-## Directions for the sauce
+## Directions
+
+### Directions for the sauce
 
 1. In a big saucepan, heat the olive oil and add the garlic and the onions. Cook them until golden.
 2. Pour the beer and simmer until the alcohol evaporates. It's around 5 minutes.
 3. Pour the beef broth, the fried tomato sauce, the port wine, the Piripiri and the butter to give shine to the sauce. Add the cornstarch slowly avoiding lumps. Simmer for a couple of minutes until the sauce looks thick.
 
-## Directions for the Francesinhas
+### Directions for the Francesinhas
 
 1. Preheat the oven to 180 C (350 F)
 2. Cook the beef chopped in small strings. Season with salt and black pepper.

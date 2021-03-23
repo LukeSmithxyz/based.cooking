@@ -26,7 +26,7 @@ Serves Around 3 People. You can scale up to 4 If you increase most quantities by
 - Overfilled tablespoon Creme Cheese
 - 1/3 Mug whole milk
 
-## Instructions
+## Directions
 
 Make sure to prepare & chop most ingredients before you start. 
 

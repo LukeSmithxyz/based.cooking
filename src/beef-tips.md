@@ -43,7 +43,6 @@ Tender chunks of meat in a rich brown gravy poured over sour cream mashed potato
 7. Begin adding sour cream and thoroughly mixing until the mash reaches your desired consistency
 8. Plate under your beef tips in gravy
 
-
 ## Contributors
 
 - **Batu Cam** -- Transcribed recipe from Mark Rippetoe's video with moderate to significant modifications based on experience -- Monero (XMR) to help me save for an unazoomer cabin: `85eZ4uVd4gkiCsQEeDnsQG9pUbDzdi1r1VSJ9hK5Sx7hKsFZjvmqtWV7gU1ysWUR32jhWutBRGUUq8VAJNUfin9wBCCuTdg`

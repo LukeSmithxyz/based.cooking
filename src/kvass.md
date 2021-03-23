@@ -35,4 +35,4 @@ and let it ferment for a week, or until it stops bubbling.
 
 - Holsterbau - [website](https://github.com/Holsterbau)
 
-;tags: drink
+;tags: drink lemon bread

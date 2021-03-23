@@ -5,7 +5,7 @@
 - ⏲️ Prep time: 5 min
 - 🍽️ Servings: 3
 
-## Ingredients 
+## Ingredients
 
 - 1 (7 oz) can white tuna, drained
 - 6 tablespoons mayonnaise 

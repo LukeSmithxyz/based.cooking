@@ -24,4 +24,4 @@ Perfectly cooked fall off the bone buffalo wings.
 
 - **Kyle Steger** -- [GitHub](https://github.com/kyleVsteger) -- _just some dude_
 
-;tags: chicken
+;tags: chicken meat

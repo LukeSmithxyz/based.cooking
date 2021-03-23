@@ -24,4 +24,4 @@ How to roast chicken breast with a "leave-in" probe thermometer. The thermometer
 
 - Michael - [website](https://murphym.dev/)
 
-;tags: chicken
+;tags: chicken meat

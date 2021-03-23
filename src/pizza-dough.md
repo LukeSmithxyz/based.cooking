@@ -22,4 +22,4 @@ flour/liquid. If you use other flour like rye, you may need more liquid.
 
 BeFe
 
-;tags: basic
+;tags: basic salt pizza

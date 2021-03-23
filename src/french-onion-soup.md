@@ -30,3 +30,5 @@ Servings: 5
 ## Contribution
 - Joe Powerhouse
 - BTC:1KPxw9js2VukakhMv2wUUFUQZnHQL842ju
+
+;tags: onion soup salt garlic cheese

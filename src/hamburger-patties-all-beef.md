@@ -1,4 +1,4 @@
-# Hamburger Patties (basic, all-beef)
+# Hamburger Patties
 
 🍽️ Servings: 4 patties
 

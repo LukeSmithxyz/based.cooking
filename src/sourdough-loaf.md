@@ -6,7 +6,7 @@ If you've never made your own sourdough bread, it can be intimidating! But I bel
 
 ## Ingredients
 
-* 100g fed sourdough starter (levain)
+* 100g fed [sourdough starter](sourdough-starter.html) (levain)
 * 330g warm water
 * 137g bread flour
 * 250g all-purpose flour (avoid bleached and enriched)

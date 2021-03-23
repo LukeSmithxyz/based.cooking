@@ -1,4 +1,4 @@
-# Bolo do Caco _(Caco Bread)_
+# Bolo do Caco (Caco Bread)
 
 _A tradicional Madeiran-Portuguese Bread_
 

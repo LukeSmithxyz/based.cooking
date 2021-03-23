@@ -17,7 +17,7 @@ See the story of this site unfold in three videos:
 
 We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
 
-- ![BTC logo](https://lukesmith.xyz/pix/btc.svg) Bitcoin: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w` ([QR code](pix/bitcoin-based-cooking.webp))
-- ![XMR Logo](https://lukesmith.xyz/pix/xmr.svg) Monero: `48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh` ([QR code](https://lukesmith.xyz/pix/xmr.png))
+- ![BTC logo](https://lukesmith.xyz/pix/btc.svg) Bitcoin ([QR code](pix/bitcoin-based-cooking.webp)): `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w`
+- ![XMR Logo](https://lukesmith.xyz/pix/xmr.svg) Monero ([QR code](https://lukesmith.xyz/pix/xmr.png)): `48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh`
 - [Donate to Luke](https://lukesmith.xyz/donate) and add a comment saying it's for Based.Cooking.
 - Brave users may also donate BAT to this website.

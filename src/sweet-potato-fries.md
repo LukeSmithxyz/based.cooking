@@ -11,7 +11,7 @@ A simple, tasty, and healthy carb based snack.
 * Cinnamon
 * Rosemary (optional)
 
-## Instructions
+## Directions
 
 1. Set oven heat to 425°F (220°C).
 2. Grab a pan and put a layer of parchment paper (or aluminum foil) on it.

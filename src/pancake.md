@@ -22,4 +22,4 @@ Here is a simple Pancake recipe
 
 BeFe
 
-;tags: quick basic breakfast sweet pancake cheesefare
+;tags: quick breakfast sweet pancake cheesefare

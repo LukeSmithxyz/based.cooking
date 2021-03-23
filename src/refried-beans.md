@@ -18,7 +18,7 @@ As usual, the ingredients here are for about two adult portions:
 * 2-4 spoonfuls butter
 * Cooking oil (can be olive oil)
 
-## Instructions
+## Directions
 
 1. Add the oil and the butter to the frying pan and heat to medium heat.
 2. Chop the onion and mince the garlic.
@@ -33,7 +33,6 @@ As usual, the ingredients here are for about two adult portions:
 6. Mash the beans and mix. Let them fry at medium-low to medium heat for about 5
    to 10 minutes, mixing from time to time.
 7. Serve, and enjoy with some totopos.
-
 
 Originally published at [https://www.yaroslavps.com/food/refried-beans/](https://www.yaroslavps.com/food/refried-beans/)
 

@@ -17,7 +17,7 @@ Here are the ingredients for about two adult portions:
 
 And of course, some totopos to eat with.
 
-## Instructions
+## Directions
 
 1. Cut the avocados in half, open them and place the pulp in a bowl.
 2. Mash the avocados, add lime juice, mix and mash some more.
@@ -27,7 +27,6 @@ And of course, some totopos to eat with.
 
 This recipe is best consumed fresh, since the avocado oxidizes pretty fast and
 might lose its appetizing color and texture in just some hours.
-
 
 Originally published at [https://www.yaroslavps.com/food/fresh-guacamole/](https://www.yaroslavps.com/food/fresh-guacamole/)
 

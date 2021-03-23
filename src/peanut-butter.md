@@ -1,6 +1,6 @@
 # Peanut Butter
 
-## Ingredient
+## Ingredients
 
 - 1 lb. of raw pre-shelled peanuts
 

@@ -2,7 +2,7 @@
 
 Asian style crispy coated chicken with sweet'ish sauce recipe. Served with boiled rice.
 
-![Asian Style Chicken with Sicky Sauce](pix/chicken-asian-sauce.webp)
+![Asian Style Chicken with Sticky Sauce](pix/chicken-asian-sauce.webp)
 
 ## Ingredients
 

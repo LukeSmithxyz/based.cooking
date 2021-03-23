@@ -6,7 +6,7 @@ If there is a title image of this dish, it should be above this paragraph.
 You may also include prep/cook time and the number of servings as below:
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - 🍽️ Servings: 4
 
 ## Ingredients

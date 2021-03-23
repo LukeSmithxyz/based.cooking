@@ -1,4 +1,7 @@
 # Pancake
+
+![Pancakes made at home](pix/pancake.webp)
+
 Here is a simple Pancake recipe
 
 ## Ingredients

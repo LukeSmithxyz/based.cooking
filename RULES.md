@@ -12,7 +12,6 @@ These rules are implemented to ensure:
 
 Make [based.cooking](https://based.cooking) based again!
 
-
 ## Rules
 
 ### Recipe format
@@ -50,7 +49,6 @@ The syntax is:
 - **Prioritize existing tags**.
 - As a general guideline, add the country from which the recipe originates if the recipe is representative of said country, using the adjective form (eg. *mexican*, *italian*, etc).
 - Tag the main ingredient if it's something slightly special.
-
 
 ##### List of special, categorical tags to use if relevant
 

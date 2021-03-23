@@ -32,7 +32,7 @@
 - Start heating some oil in a pan to add some cardamom and cumin seeds. Let it heat until the flavour is transfused for about a minute or two.
 - Now add chopped onions and tomatoes to the sautee. Add some shaved ginger and garlic paste and let it sauté until some raw flavour disappears.
 - Add the tomato purée, dry fenugreek leaves, and let it cook for about 15 minutes.
-- As the spice and tomato puree looks cooked, add some water to the mixture and let it cook more.
+- As the spice and tomato purée looks cooked, add some water to the mixture and let it cook more.
 
 ![paneer tikka masala](pix/paneer-tikka-masala-02.webp "Marinated paneer, chopped onions, chopped tomatoes, and corn.")
 

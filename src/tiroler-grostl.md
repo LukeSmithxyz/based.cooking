@@ -8,8 +8,8 @@
 
 - 1 kg / 2 lbs potatoes
 - 2 red onions
-- 500 gr / 1 lbs porkchops
-- 400 gr / 14 ounce bacon (smoked)
+- 500 g / 1 lbs porkchops
+- 400 g / 14 ounce bacon (smoked)
 - 5 eggs
 - 3 cloves of garlic
 - Ample amount of chopped parsley

@@ -25,9 +25,7 @@
 
 1. Take a glass container, and mix the cubed paneers with half a tea spoon of red chilli powder, turmeric powder, coriander powder, garam masala powder, fenugreek powder, and 50g yogurt.
 2. Let the mix marinade for at least an hour.
- 
 ![paneer tikka masala](pix/paneer-tikka-masala-01.webp "Paneer ready to be marinated on the skewer")
-
 3. Preheat the oven to 200°C (392°F), and place the marinated paneer cubes, with onion, capsicum, and tomato on the skewers. Let them grill in the oven using skewer support, by continuously flipping them every 5 minutes until the outer crust looks crispy enough.
 4. Start heating some oil in a pan to add some cardamom and cumin seeds. Let it heat until the flavour is transfused for about a minute or two.
 5. Now add chopped onions and tomatoes to the sautee. Add some shaved ginger and garlic paste and let it sauté until some raw flavour disappears.

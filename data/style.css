@@ -47,11 +47,6 @@ img[alt="XMR Logo"] {
 	display: inline ;
 }
 
-.banner a {
-    color: inherit;
-    text-decoration: none;
-}
-
 @media (prefers-color-scheme: light) {
 	body {
 		background: white ;

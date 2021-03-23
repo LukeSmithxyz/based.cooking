@@ -4,6 +4,7 @@ Well, it's actually a *giant* trevally, and if you have seen one, that fish look
 So here's a recipe to make it look---and taste!---more appealing.
 
 ## Ingredients
+
 - giant trevally
 - eggplants
 - squash (or zucchini)
@@ -19,6 +20,7 @@ So here's a recipe to make it look---and taste!---more appealing.
 - butter
 
 ## Directions
+
 1. Dice carrots, eggplant, squash, tomatoes and onions. Place these on a pan.
 2. Put basil, thyme, bay leaf, salt, and pepper on each of the fish's side. Place the fish above the veggies.
 3. Crush garlic and ginger (with [mortar and pestle, of course](mortar-and-pestle.html)) and place this in and around the fish.
@@ -29,6 +31,7 @@ So here's a recipe to make it look---and taste!---more appealing.
 8. Let everything set for 5 mins. before serving.
 
 ## Contribution
+
 - O.Q. Olarte [website](https://oqolarte.github.io), [donate](https://oqolarte.github.io/support)
 
 ;tags: fish cheesefare

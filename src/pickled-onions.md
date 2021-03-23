@@ -20,6 +20,7 @@ A good way to use up older red onions and goes great with just about anything.
 4. Seal and place in fridge for a few hours until vibrant pink.
 
 ## Notes
+
 - You can add other herbs or spices before sealing it to give different flavors as well. Use any of your standard pickling spices if desired.
 
 ## Contribution

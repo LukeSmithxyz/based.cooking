@@ -1,6 +1,6 @@
 # Chimichanga
 
-Essentially, just a fried burrito. Use whatever your favorite filling is. 
+Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 - ⏲️ Prep time: 120min
 - 🍳 Cook time: 30 min
@@ -26,8 +26,9 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 5. Fry using your preferred method (info on a couple of methods below)
 
 ## Frying
+
 * My preferred method to frying is air frying, place into air fryer and set for about 10 minutes. Just as crunchy with practically no grease from oil
-* For oil frying, I've found using just a film of oil and flipping on to the sides works well with more time. 
+* For oil frying, I've found using just a film of oil and flipping on to the sides works well with more time.
 
 ## Contribution
 

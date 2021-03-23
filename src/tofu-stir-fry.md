@@ -11,11 +11,11 @@ Cooking time: ~10 to 20 minutes
 - One block of extra firm tofu
 - Three eggs (unless vegan)
 - Vegetables per your choice, recommendations include:
-  - Sugar snap peas
-  - Chopped cabbage
-  - Sliced carrots
-  - Broccoli
-  - Cauliflower
+	- Sugar snap peas
+	- Chopped cabbage
+	- Sliced carrots
+	- Broccoli
+	- Cauliflower
 - Soy or teriyaki sauce
 - 2 tbsp minced garlic
 - Coconut oil

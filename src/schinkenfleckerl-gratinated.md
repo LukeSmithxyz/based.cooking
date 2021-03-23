@@ -17,8 +17,8 @@ Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 
 - 1-2 eggs
 - Majoran, Muskat, Pepper
 - Optional:
-  - parmesan
-  - chili flakes
+	- parmesan
+	- chili flakes
 
 ## Directions
 

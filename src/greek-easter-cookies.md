@@ -12,7 +12,7 @@ A very simple, delicious, and traditional greek recipe for easter cookies.
 - 3 cups of sugar
 - 10 eggs
 - 6 tsps baking powder
-- 2 tsps baker’s ammonium	
+- 2 tsps baker’s ammonium
 - 1 pinch of baking soda
 - 2 tsp powder vanilla
 - Zest of 3 oranges
@@ -26,7 +26,7 @@ A very simple, delicious, and traditional greek recipe for easter cookies.
 
 1. Cream butter and sugar together until fluffy.  Add eggs one at a time and blend well between each.
 2. Add ammonium to the warmed milk and add to the butter, sugar, and egg mixture.
-3. Start adding flour to the wet mixture and at this time also add the baking powder, vanilla, lemon/orange zest, salt and orange juice.  
+3. Start adding flour to the wet mixture and at this time also add the baking powder, vanilla, lemon/orange zest, salt and orange juice.
 4. Mix well and start adding flour slowly until you are able to roll the dough easily between your hands. (This is a big batch, if your mixer can’t handle the volume, then knead by hand).
 5. Form dough in a ball and place in a big bowl.  Let it rest for about 30 minutes, cover it with saran wrap and keep in oven or draft free area.
 6. Line pans with parchment paper.

@@ -6,6 +6,7 @@ Best served with white rice
 - 🍽️ Servings:5
 
 ## Ingredients
+
 - 3T neutral oil
 - 1 onion
 - 1 red onion
@@ -20,6 +21,7 @@ Best served with white rice
 - 400g fish fillet (white fish)
 
 ## Directions
+
 1. Boil green beans for 10 minutes
 2. Cut onions, tomato, garlic and fish.
 3. Heat oil on a wok and sauté the onion and garlic
@@ -27,6 +29,7 @@ Best served with white rice
 5. Add coconut milk, fish and pepper (whole) and boil for an additional 6 minutes.
 
 ## Contribution
+
 - Thijs Wester - [website](https://twester.tk)
 
 ;tags: thai fish

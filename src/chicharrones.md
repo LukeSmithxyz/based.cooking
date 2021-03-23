@@ -1,6 +1,7 @@
 # Chicharrones
 
 ## Ingredients
+
 - Pork Butt with fat
 - Adobo Goya all purpose
 - Cumin
@@ -23,12 +24,8 @@
 12. Use spoon to spin/stir and fry until a golden brown
 13. Take out the Chicharonnes and put into the colander. You may keep some of the fried bits that come off to eat as well.
 
-
 ## Contribution
 
-- Abuela's Cooking 
+- Abuela's Cooking
 
-;tags: mexican pork 
-
-
-
+;tags: mexican pork

@@ -24,12 +24,12 @@ Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coc
 
 ## Directions
 
-1. Sauté onions, garlic and (optional) tomato, in a pan of olive oil.   
+1. Sauté onions, garlic and (optional) tomato, in a pan of olive oil.
 2. Put chicken and cook until brown, add 2 tablespoons of salt and pepper. (Note: Make sure the chicken is cook all the way through.)
-3. Add fish sauce before adding water and let the chicken boil for a few minutes and then add tomato sauce. 
+3. Add fish sauce before adding water and let the chicken boil for a few minutes and then add tomato sauce.
 4. Add potatoes, carrots, and liver spread. Mix the liver spread and let it boil until broth thickens, let it boil until carrots and potatoes are soft. Add more salt and pepper if needed.
-5. Add dried peas, bell pepper and grated cheese and let it cook for a minute.  
-6. Cook until cheese melts before serving. 
+5. Add dried peas, bell pepper and grated cheese and let it cook for a minute.
+6. Cook until cheese melts before serving.
 
 ## Contribution
 

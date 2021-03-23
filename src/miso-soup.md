@@ -16,8 +16,8 @@ Miso-soup is Japanese traditional home cooking.
 2. put the dashi stock in the pot.
 3. if you use tofu or seaweed, cut the ingredients into bite-sized pieces, place the ingredients in the pot and bring to a boil.
 4. Melt the miso in the water and bring the water to a boil.
-6. serve into small bowls.
-7. if you use green onion, slice them and put in a small bowls.
+5. serve into small bowls.
+6. if you use green onion, slice them and put in a small bowls.
 
 ## Contribution
 

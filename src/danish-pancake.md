@@ -13,6 +13,7 @@ Danish Pancake recipe
 - 4 Eggs
 
 ## Directions
+
 1. Put all the ingredients in a bowl and stir until it's all mixed up.
 2. Preheat a pan with butter or Margarine.
 3. Turn when one side starts turning brown.
@@ -20,6 +21,7 @@ Danish Pancake recipe
 5. Add Butter or Margarine when needed.
 
 ## Served With
+
 - Sugar
 - Syrup
 - Powdered sugar

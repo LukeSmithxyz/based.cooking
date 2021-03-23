@@ -38,22 +38,34 @@ have used, but seldom use.
 1. Cut the bacon into pieces and fry it on a pan.
 2. Cut the potatoes into small cubes.
 3. After frying the bacon, set aside and use the bacon grease to fry the
-   potatoes over medium/medium-low heat for about 20 minutes.
-4. Add some salt and paprika to the potatoes, mix well and cook for another ten
-   minutes.
-5. Cut the onions and add them to the frying pan. Cook for about five minutes.
-6. If you decide to add some vegetables, like mushrooms or peppers, add them
-   now.
-7. Now, there are two ways you can cook the eggs.*
-    * Beat the eggs in a bowl and the pour them onto the pan.
-    * Or just crack the eggs directly on the mix in the pan and mix everything
-      thoroughly.
-8. Cut the cheese into small slices and add it.
-9. Cook for a couple of minutes more, until eggs are cooked enough. Don't let
-   the eggs dry (unless that's the way you like your eggs ¯\\\_(ツ)\_/¯).
-10. For the final touch, chop the parsley (or whatever other spices/herbs you
-   decided to use) and add it on top.
-11. Serve hot and add some freshly ground pepper.
+
+potatoes over medium/medium-low heat for about 20 minutes.
+
+1. Add some salt and paprika to the potatoes, mix well and cook for another ten
+
+minutes.
+
+1. Cut the onions and add them to the frying pan. Cook for about five minutes.
+2. If you decide to add some vegetables, like mushrooms or peppers, add them
+
+now.
+
+1. Now, there are two ways you can cook the eggs.*
+
+* Beat the eggs in a bowl and the pour them onto the pan.
+* Or just crack the eggs directly on the mix in the pan and mix everything
+thoroughly.
+
+1. Cut the cheese into small slices and add it.
+2. Cook for a couple of minutes more, until eggs are cooked enough. Don't let
+
+the eggs dry (unless that's the way you like your eggs ¯\\\_(ツ)\_/¯).
+
+1. For the final touch, chop the parsley (or whatever other spices/herbs you
+
+decided to use) and add it on top.
+
+1. Serve hot and add some freshly ground pepper.
 
 \*Personally, I prefer to beat the eggs first in a bowl before adding them to the
 frying pan.
@@ -63,6 +75,7 @@ Originally published at [https://www.yaroslavps.com/food/country-breakfast-skill
 ## Contribution
 
 - Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/),
+
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

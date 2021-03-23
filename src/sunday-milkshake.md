@@ -21,10 +21,12 @@ These are for about 4 glasses or 1 liter:
 
 1. Chop the banana so that it fits better in the blender.
 2. Add the banana pieces, berries, vanilla and sugar to taste to the blender.
-   Usually I use about 6 tea spoons of sugar.
-3. Pour enough milk so that the mix fills a liter of the blender volume.
-4. Blend it until the mix looks somewhat homogeneous.
-5. Pour it and enjoy!
+
+Usually I use about 6 tea spoons of sugar.
+
+1. Pour enough milk so that the mix fills a liter of the blender volume.
+2. Blend it until the mix looks somewhat homogeneous.
+3. Pour it and enjoy!
 
 Basically anything is better consumed fresh, but it is especially the case for
 this milkshake recipe. If you leave it sitting for more than 10-15 minutes it
@@ -35,6 +37,7 @@ Originally published at [https://www.yaroslavps.com/food/sunday-morning-milkshak
 ## Contribution
 
 - Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/),
+
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

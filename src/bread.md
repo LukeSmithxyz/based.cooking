@@ -14,16 +14,16 @@ This is a recipe for a basic loaf of bread. The dough itself can be used however
 ## Directions
 
 1. Proof the yeast. To do this warm 1/4 cup water to about bath water heat (110 degrees F, 43 degrees C) add active dry yeast and 1 Tsp sugar. Let sit for about 10 minutes, mixture should at least be doubled in size after waiting.
-1. Combine rest of water, yeast mixture, maple syrup (or other sweetener), salt, and flour in a large mixing bowl and stir. The result will be a sticky, rough dough. Use a spoon to stir until well combined and when it can no longer do the job, knead and turn it in the bowl with your hands.
-2. Lift the dough out and lightly grease the bowl with nonstick spray or olive oil. Cover and let rise for 2 hours at room temperature.
-3. Transfer dough to a lightly floured work surface and knead until dough is elastic. Rule of thumb is 10 minutes of kneading.
-4. Place seam-side down in a lightly greased loaf pan or baking sheet. Loosely cover with plastic wrap and let rest for 45-60 minutes.
-5. Preheat oven to 425 degrees F (218 C)* toward the end of the dough resting time and place a metal pan (NOT glass, Pyrex, or ceramic) on the lowest oven rack. Also have 1 cup of hot water ready.
-6. When the oven is preheated, slash the bread 2 or 3 times with a knife, making a cut about ½-inch deep.
-7. Place in oven on middle rack. Then carefully pour hot water into the shallow pan on the rack beneath. Expect it to bubble and steam; then close oven door quickly.
-8. Bake the bread for 26 to 35 minutes, or until deep golden brown and risen. Tapping the top of the loaf should produce a hollow sound.
-9. Remove the bread from the oven and let rest in the pan for 5 minutes. Then carefully remove from pan and transfer to a cooling rack to cool. Let it cool completely before slicing for best results (otherwise it can be doughy in the middle).
-10. Store leftovers in a plastic bag at room temperature for up to a few days. Transfer to freezer for longer term storage.
+2. Combine rest of water, yeast mixture, maple syrup (or other sweetener), salt, and flour in a large mixing bowl and stir. The result will be a sticky, rough dough. Use a spoon to stir until well combined and when it can no longer do the job, knead and turn it in the bowl with your hands.
+3. Lift the dough out and lightly grease the bowl with nonstick spray or olive oil. Cover and let rise for 2 hours at room temperature.
+4. Transfer dough to a lightly floured work surface and knead until dough is elastic. Rule of thumb is 10 minutes of kneading.
+5. Place seam-side down in a lightly greased loaf pan or baking sheet. Loosely cover with plastic wrap and let rest for 45-60 minutes.
+6. Preheat oven to 425 degrees F (218 C)* toward the end of the dough resting time and place a metal pan (NOT glass, Pyrex, or ceramic) on the lowest oven rack. Also have 1 cup of hot water ready.
+7. When the oven is preheated, slash the bread 2 or 3 times with a knife, making a cut about ½-inch deep.
+8. Place in oven on middle rack. Then carefully pour hot water into the shallow pan on the rack beneath. Expect it to bubble and steam; then close oven door quickly.
+9. Bake the bread for 26 to 35 minutes, or until deep golden brown and risen. Tapping the top of the loaf should produce a hollow sound.
+10. Remove the bread from the oven and let rest in the pan for 5 minutes. Then carefully remove from pan and transfer to a cooling rack to cool. Let it cool completely before slicing for best results (otherwise it can be doughy in the middle).
+11. Store leftovers in a plastic bag at room temperature for up to a few days. Transfer to freezer for longer term storage.
 
 ## Notes
 

@@ -6,21 +6,21 @@
 - 🍳 Cook time: 35 min
 - 🍽️ Servings: 6
 
-## Ingredients 
+## Ingredients
 
 * 8 free-range eggs
 * 1 kg of potatoes
 * 1 white onion
 * Extra virgin olive oil
 
-## Instructions 
+## Instructions
 
 1. Peel, rinse and dry the potatoes.
 2. Cut the potatoes into thin slices. Put in a bowl, add salt to taste and stir.
 3. Put a nonstick frying pan on the fire and add enough olive oil to fry all the potato slices.
 4. Add the potato slices already salted and let them cook for approximately 20 minutes over low heat.
 5. While the potatoes are frying, beat the eggs in a bowl. Peel and cut the onion as finely as possible.
-6. Add olive oil in another frying pan and slowly fry the onion until it gets a slightly golden color. 
+6. Add olive oil in another frying pan and slowly fry the onion until it gets a slightly golden color.
 7. Drain the onion and add it to the bowl with the beaten egg.
 8. Remove the potatoes from the pan with a slotted spoon, draining the oil away as much as possible, and add them to the bowl with the onion and egg.
 9. Let the mixture rest for at least 5 minutes so all the flavors come together. Give it a very gentle stir from time to time.

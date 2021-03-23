@@ -18,6 +18,7 @@ __Imperial__
 - 3 teaspoons salt
 
 __Metric__
+
 - 750 g sweet potato
 - 1 kg all-purpose flour
 - 150 ml water (warm at 75F / 35C)
@@ -44,4 +45,5 @@ __Metric__
 ## Contribution
 
 - João Freitas - [website](https://joaoofreitas.tech), [github](https://github.com/joaoofreitas)
+
 ;tags: bread portuguese

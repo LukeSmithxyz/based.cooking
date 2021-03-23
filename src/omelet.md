@@ -16,6 +16,7 @@
 * Cheddar Cheese (optional for Cheese Omelet)
 
 ## Directions
+
 1. Add tapioca, salt and pepper to milk; cook in double boiler 15 minutes or until tapioca is clear and mixture thickened, stirring  frequently.
 2. Add butter.
 3. Allow it to cool; combine with egg yolks, stirring occasionally.

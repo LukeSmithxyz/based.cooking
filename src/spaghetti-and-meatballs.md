@@ -50,35 +50,35 @@
 
 ### Form the meatballs
 
-9. In a large bowl, mix by hand the beef, Italian sausage, basil, parsley, mushrooms, eggs, breadcrumbs, cheese, and 2 tablespoons of salt and pepper.
-  - Do not overmix or the meatballs will be tough.
-10. Use small melon baller (or teaspoon) to form 1-inch round meatballs.
-11. Roll and compress into tight balls.
+1. In a large bowl, mix by hand the beef, Italian sausage, basil, parsley, mushrooms, eggs, breadcrumbs, cheese, and 2 tablespoons of salt and pepper.
+	- Do not overmix or the meatballs will be tough.
+3. Use small melon baller (or teaspoon) to form 1-inch round meatballs.
+4. Roll and compress into tight balls.
 
 ### Cook the meatballs
 
-12. In a separate wide, shallow pan, heat olive oil on medium-high heat.
-13. Brown meatballs on all sides for about 2-3 minutes.
-  - Depending on the pan size, you may need to brown two batches of the meatballs. Cook them in a single layer; do not crowd the pan by stacking them.
-  - Do not overcook the meatballs; they will continue to cook in the sauce.
-14. Towards the end of browning the meatballs, add a little bit of red wine to deglaze the pan.
+1. In a separate wide, shallow pan, heat olive oil on medium-high heat.
+2. Brown meatballs on all sides for about 2-3 minutes.
+	- Depending on the pan size, you may need to brown two batches of the meatballs. Cook them in a single layer; do not crowd the pan by stacking them.
+	- Do not overcook the meatballs; they will continue to cook in the sauce.
+5. Towards the end of browning the meatballs, add a little bit of red wine to deglaze the pan.
 
 ### Finish and simmer the sauce
 
-15. Add the cheese and red wine to the sauce and stir it in. Add 1 teaspoon of salt to taste.
-16. Add meatballs and gently stir. Simmer the sauce and meatballs for 30-45 minutes while cooking the spaghetti, stirring occasionally.
+1. Add the cheese and red wine to the sauce and stir it in. Add 1 teaspoon of salt to taste.
+2. Add meatballs and gently stir. Simmer the sauce and meatballs for 30-45 minutes while cooking the spaghetti, stirring occasionally.
 
 ### Cook the spaghetti
 
-17. Fill a large pot with 4 quarts of water. Add 2 tablespoons of salt and bring it to a boil.
-18. When the water is boiling, add the dry spaghetti to the pot.
-19. Boil the spaghetti for 8-10 minutes, or to al dente.
-20. Drain the spaghetti in a collander.
-21. (Optional) Add ~1/3 cup of pasta water to sauce to help sauce stick to noodles
+1. Fill a large pot with 4 quarts of water. Add 2 tablespoons of salt and bring it to a boil.
+2. When the water is boiling, add the dry spaghetti to the pot.
+3. Boil the spaghetti for 8-10 minutes, or to al dente.
+4. Drain the spaghetti in a collander.
+5. (Optional) Add ~1/3 cup of pasta water to sauce to help sauce stick to noodles
 
 ### Serve
 
-21. Place a thin layer of sauce on a plate. Add pasta, sauce and meatballs.
+1. Place a thin layer of sauce on a plate. Add pasta, sauce and meatballs.
 
 ## Contribution
 

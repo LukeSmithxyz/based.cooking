@@ -18,21 +18,29 @@
 ## Directions
 
 1. Sauté sausage crumbles in a large pan or dutch oven over medium-low heat.
+
 Add enough olive oil to gently fry the crumbles.
 Cook about five minutes until opaque, not browned.
-2. Add minced onion, carrot, and celery, and parsley to the pan.
+
+1. Add minced onion, carrot, and celery, and parsley to the pan.
+
 Stir often and add more olive oil if pan is dry.
 Cook 30 minutes on very low heat until vegetables are caramelized and sausage is browned.
-3. Add canned tomatoes and their juice.
+
+1. Add canned tomatoes and their juice.
+
 Break up tomatoes in the pan.
-4. Bring to a simmer then add thyme and rosemary
-5. Continue simmer uncovered for 20 minutes, until thickened.
-6. Mix tomato paste with 1 cup of hot water.
+
+1. Bring to a simmer then add thyme and rosemary
+2. Continue simmer uncovered for 20 minutes, until thickened.
+3. Mix tomato paste with 1 cup of hot water.
+
 Reduce heat to very low and add mix to the pan.
-7. Cook about 10 minutes until the sauce is dark red and glistens with oil.
-8. Remove herb sprigs and add pepper to taste.
-9. Meanwhile, boil large pot of salted water then cook and drain the pasta.
-10. Serve ragù over plate of pasta and top with grated parmesan cheese;
+
+1. Cook about 10 minutes until the sauce is dark red and glistens with oil.
+2. Remove herb sprigs and add pepper to taste.
+3. Meanwhile, boil large pot of salted water then cook and drain the pasta.
+4. Serve ragù over plate of pasta and top with grated parmesan cheese;
 
 ## Contribution
 

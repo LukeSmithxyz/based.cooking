@@ -5,6 +5,7 @@
 Here is a simple Pancake recipe
 
 ## Ingredients
+
 - 200g wheat flour
 - 200 ml milk
 - 2 Eggs
@@ -13,6 +14,7 @@ Here is a simple Pancake recipe
 - a little bit of salt
 
 ## Directions
+
 1. combine all ingredients all in a bowl and stir
 2. preheat a pan and add some oil
 3. Pour or scoop the batter onto the pan

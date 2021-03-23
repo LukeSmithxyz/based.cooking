@@ -31,25 +31,36 @@ mashed potatoes to be.
 
 1. Peel and cut the potatoes into medium sized pieces.
 2. Put the potatoes in a pot with some water so that it covers the potatoes and
-   boil them for about 20-30 minutes, or until the potatoes are soft.
-3. About ten minutes before removing the potatoes from the boiling water, cut
-   the bacon into little pieces and fry it.
-4. Warm up the milk and mayonnaise.
-5. Shred the cheese.
-6. When the potatoes are done, remove all water from the pot, add the warm milk
-   and mayonnaise mix, add some butter, and mash with a potato masher or a
-   blender.
-7. Add some salt, black pepper and garlic powder to taste and continue mashing
-   the mix.
-8. Once the mix is somewhat homogeneous and the potatoes are properly mashed,
-   add the shredded cheese and fried bacon and mix a little.
-9. Serve and top with chopped green onions.
+
+boil them for about 20-30 minutes, or until the potatoes are soft.
+
+1. About ten minutes before removing the potatoes from the boiling water, cut
+
+the bacon into little pieces and fry it.
+
+1. Warm up the milk and mayonnaise.
+2. Shred the cheese.
+3. When the potatoes are done, remove all water from the pot, add the warm milk
+
+and mayonnaise mix, add some butter, and mash with a potato masher or a
+blender.
+
+1. Add some salt, black pepper and garlic powder to taste and continue mashing
+
+the mix.
+
+1. Once the mix is somewhat homogeneous and the potatoes are properly mashed,
+
+add the shredded cheese and fried bacon and mix a little.
+
+1. Serve and top with chopped green onions.
 
 Originally published at [https://www.yaroslavps.com/food/creamy-mashed-potatoes/](https://www.yaroslavps.com/food/creamy-mashed-potatoes/)
 
 ## Contribution
 
 - Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/),
+
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

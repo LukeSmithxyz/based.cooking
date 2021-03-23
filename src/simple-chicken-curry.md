@@ -7,6 +7,7 @@ Servings: 3-4
 ## Ingredients
 
 Spices
+
 - 1 ½ tsp Coriander
 - 1 tsp Cumin
 - ½ tsp Turmeric
@@ -19,6 +20,7 @@ Spices
 - Sriracha Sauce (optional)
 
 Main Ingredients
+
 - ¼ cup (½ stick) Butter
 - 1 large Onion
 - 4 cloves Garlic

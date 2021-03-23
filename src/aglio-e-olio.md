@@ -1,11 +1,11 @@
-# Spaghetti aglio e olio 
+# Spaghetti aglio e olio
 
 Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greatest pasta dishes of all time. It's quick, easy, and uses a lot of basic pantry ingredients which makes this a convenient weeknight meal.
 
 ## Ingredients
 
 - 1 pound (500g) spaghetti (or similarly shaped pasta)
-- 1/2 cup (110g) extra virgin olive oil 
+- 1/2 cup (110g) extra virgin olive oil
 - 5-6 cloves of garlic
 - 1/4 tsp red pepper flakes
 - A bunch of fresh parsley
@@ -26,4 +26,3 @@ Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greate
 - Robert [github](https://github.com/robert5800)
 
 ;tags: italian pasta
-

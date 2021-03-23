@@ -23,8 +23,8 @@ The simple use of different spices can change its use or what it accents.
 
 For Mexican rice, you might want to avoid cooking in stock to avoid taste clashes.
 
-6. Dice up some cilantro.
-7. Mix in cilantro to finished rice, along with some squeezes of lime juice.
+1. Dice up some cilantro.
+2. Mix in cilantro to finished rice, along with some squeezes of lime juice.
 
 ## Contribution
 

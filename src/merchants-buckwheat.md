@@ -27,26 +27,36 @@ The ingredients below are for 2 hearty portions.
 
 1. Chop the onion and cut the pork into small pieces.
 2. Dust the pork with some flour. I sometimes like to do this once I've added
-   the pork to the pan, just because I am lazy and I haven't noticed much
-   difference between either approach.
-3. Heat the frying pan add a bit of oil, add the pork and onion, and fry for
-   about 10-15 minutes over medium-high heat.
-4. While the pork and onion are being fried, cut the carrot into small pieces
-   and chop the parsley.
-5. Once the pork and onion are fried, add the water, tomato paste, buckwheat and
-   carrots.
-6. Add curcuma, chili powder, salt and black pepper to taste; mix thoroughly.
-7. Add in the garlic cloves, bay leaves and chopped parsley.
-8. Once the water is boiling, close the pan with a lid and stew for about 25
-   minutes over low heat.
-9. Serve hot and enjoy!
 
+the pork to the pan, just because I am lazy and I haven't noticed much
+difference between either approach.
+
+1. Heat the frying pan add a bit of oil, add the pork and onion, and fry for
+
+about 10-15 minutes over medium-high heat.
+
+1. While the pork and onion are being fried, cut the carrot into small pieces
+
+and chop the parsley.
+
+1. Once the pork and onion are fried, add the water, tomato paste, buckwheat and
+
+carrots.
+
+1. Add curcuma, chili powder, salt and black pepper to taste; mix thoroughly.
+2. Add in the garlic cloves, bay leaves and chopped parsley.
+3. Once the water is boiling, close the pan with a lid and stew for about 25
+
+minutes over low heat.
+
+1. Serve hot and enjoy!
 
 Originally published at [https://www.yaroslavps.com/food/merchants-buckwheat/](https://www.yaroslavps.com/food/merchants-buckwheat/)
 
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
+- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/),
+
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

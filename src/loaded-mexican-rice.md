@@ -1,21 +1,20 @@
 # Loaded Mexican Rice
 
-A tex-mex style mexican rice with beans and meat. Adding the beans and meat take it from a side 
+A tex-mex style mexican rice with beans and meat. Adding the beans and meat take it from a side
 dish to good good burrito filling. :x
 
 ## Ingredients
 
-5 serving 
+5 serving
 
-* 1 Cup uncooked long grain white rice 
+* 1 Cup uncooked long grain white rice
 * 1/2 Cup frozen peas
 * 1/2 Cup frozen corn
-* 2 Caned adobo chilies chopped 
-* 5 Tbsp tomato paste 
-* 1 Can of black or pinto beans 
+* 2 Caned adobo chilies chopped
+* 5 Tbsp tomato paste
+* 1 Can of black or pinto beans
 * 1/2 Cup ground meat (optional)
 * 1/4 Onion diced (optional)
-
 
 ## Instructions
 

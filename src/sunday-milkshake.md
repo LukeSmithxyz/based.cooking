@@ -17,7 +17,7 @@ These are for about 4 glasses or 1 liter:
 * Vanilla
 * Sugar
 
-## Instructions
+## Directions
 
 1. Chop the banana so that it fits better in the blender.
 2. Add the banana pieces, berries, vanilla and sugar to taste to the blender.
@@ -30,13 +30,12 @@ Basically anything is better consumed fresh, but it is especially the case for
 this milkshake recipe. If you leave it sitting for more than 10-15 minutes it
 won't be so delicious anymore.
 
-
 Originally published at [https://www.yaroslavps.com/food/sunday-morning-milkshake/](https://www.yaroslavps.com/food/sunday-morning-milkshake/)
 
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
+- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/),
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: sweet breakfast drink
+;tags: sweet breakfast drink cheesefare

@@ -21,9 +21,7 @@
 5. Pour the mass into your muffin dish.
 6. Heat up the oven to 160 °C / 320 °F and bake the muffins for around 20-30 minutes in 170 °C / 340 °F.
 
-
 ## Contribution
 
 - Łukasz Drukała - [website](https://masflam.com), [donate](https://masflam.com/#donate)
-
-;tags: dessert sweet snack cake
+;tags: dessert sweet snack cake strict-fast

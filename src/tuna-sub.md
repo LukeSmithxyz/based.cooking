@@ -1,10 +1,10 @@
 # Tuna Sub
 
-Use the best tuna you can find. I like oil-packed but water is OK. Someone you know has a tuna salad recipe. 
+Use the best tuna you can find. I like oil-packed but water is OK. Someone you know has a tuna salad recipe.
 
 ## Ingredients
 
-- 1 recipe of your favorite tuna salad 
+- 1 recipe of your favorite tuna salad
 - Sandwich bun or bread (a good one)
 - Thinly sliced cheese (your favorite)
 - Sliced tomatoes
@@ -27,4 +27,4 @@ Use the best tuna you can find. I like oil-packed but water is OK. Someone you k
 ## Contribution
 - I don't think you could call it that.
 
-;tags: fish sandwich quick
+;tags: fish sandwich quick cheesefare

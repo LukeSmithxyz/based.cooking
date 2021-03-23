@@ -16,7 +16,7 @@ Perfect for pan pizza in an 11 inch iron skillet.
 
 ## Directions
 
-1. Mix dry ingrediens in a bowl
+1. Mix dry ingredients in a bowl.
 2. Mix in olive oil and water. No need for hands or kneading!
 3. Cover bowl air tight, and let it sit in room temperature for at least 7 hours, and up to 24 hours. It should have dramatically increased in size.
 4. The dough can be kept in the refrigerator for some days, so feel free to double/triple the ingedients for more pizzas for the same amount of work and time.

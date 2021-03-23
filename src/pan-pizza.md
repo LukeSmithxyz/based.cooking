@@ -32,6 +32,5 @@ Pan pizza gives a thicc and crispy crust 🍕. For this recipe, start early with
 ## Contribution
 
 - brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`
-- Kelvin Shadewing - lbc: `bLspNeN1B8hNvN8Le86CSiPfEKkECzmXPz`
 
 ;tags: basic pizza sauce

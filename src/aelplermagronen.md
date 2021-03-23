@@ -33,6 +33,5 @@ Cooking time: ~30 minutes
 ## Contributors
 
 - **Alexander Bocken** -- [contact](mailto:alexander@bocken.org)
-- Kelvin Shadewing - https://odysee.com/@KelvinShadewing:d
 
 ;tags: swiss pork potato

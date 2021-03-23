@@ -25,4 +25,4 @@ Depending on how much brigadeiro you want to make, you'll have to add more or le
 - https://github.com/actuallyexeon
 - https://github.com/daniel-zimmer
 
-;tags: dessert quick brazilian
+;tags: dessert quick brazilian cheesefare

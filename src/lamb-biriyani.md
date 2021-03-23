@@ -9,7 +9,7 @@ A plated rendering of the dish, made with Mutton. Makes a really hearty ,meaty a
 PS: the biriyani tastes better the longer it's allowed to soak in it's flavour after cooking.
 
 - ⏲️ Prep time: 30 min
-- 🍳Cook time: 1 hr 15 min
+- 🍳 Cook time: 1 hr 15 min
 - 🍽️ Servings: 4
 
 ## Ingredients

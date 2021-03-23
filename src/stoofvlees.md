@@ -4,7 +4,7 @@ This is a traditional belgian stew made with cheap, though beef cuts, beer and o
 Traditionally eaten with fries and chicory salad.
 
 - ⏲️ Prep time: 30 min
-- 🍳Cook time: 2 to 4 hours
+- 🍳 Cook time: 2 to 4 hours
 - 🍽️ Servings: 4
 
 ## Ingredients

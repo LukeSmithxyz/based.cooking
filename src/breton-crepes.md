@@ -23,4 +23,4 @@ It will then be easier to spread the dough.
 
 - Aeredren - [GitHub](https://github.com/Aeredren)
 
-;tags: french
+;tags: french cheesefare

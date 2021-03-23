@@ -5,7 +5,7 @@
 This is a simple Assam tea recipe.
 
 - ⏲️ Prep time: 1 min
-- 🍳Cook time: 5 min
+- 🍳 Cook time: 5 min
 - 🍽️ Servings: 1
 
 ## Ingredients

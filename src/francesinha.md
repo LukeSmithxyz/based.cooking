@@ -1,11 +1,11 @@
 # Francesinha
 
-Francesinha is a traditional sandwich from the city of Porto. The francesinha in its special sandwich variation consists of sausage, fresh sausage, ham, cold meat and beef steak, covered with melted cheese.
+Francesinha is a traditional dish from the city of Porto. The francesinha in its special sandwich variation consists of linguiça, ham, cold meat and beef steak, covered with melted cheese.
 
 ## Based Ingredients
 
 - bread
-- linguiça
+- linguiça (type of Portuguese sausage)
 - ham
 - Portuguese cheese
 - beef meat

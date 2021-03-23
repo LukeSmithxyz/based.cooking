@@ -49,11 +49,13 @@ List of special, categorical tags to use if relevant:
   to be incorporated in another recipe.
 - `breakfast`
 - `dessert`
-- `drink`
 - `quick`: for recipes that can be cooked in under ~20 minutes.
 - `side`: side dishes such as mash, fries, etc.
 - `snack`
 - `spread`
+
+If your recipe contains no meat or dairy, include the `strict-fast` tag.
+If it includes dairy but no milk, incude the `cheesefare` tag.
 
 ### Images
 

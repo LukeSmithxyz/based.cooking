@@ -3,7 +3,7 @@
 Essentially, just a fried burrito. Use whatever your favorite filling is. 
 
 - ⏲️ Prep time: 120min
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - Servings: 4
 
 ## Ingredients

@@ -3,7 +3,7 @@
 This recipe is a simplified version of AB's Seafood Gumbo -- [youtube](https://youtu.be/XuiKYWb7s5o)
 
 - ⏲️ Prep time: 15 min
-- 🍳Cook time: 130 min
+- 🍳 Cook time: 130 min
 - 🍽️ Servings: 4-6
   
 ## Ingredients

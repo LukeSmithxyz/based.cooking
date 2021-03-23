@@ -2,37 +2,37 @@
 set -eu
 
 SIZE_LIMIT=150000
+FAIL=0
 
 check_size() {
 	size="$(stat --printf="%s" "$1")"
 	if [ "$size" -gt "$SIZE_LIMIT" ]; then
 		echo "File $1 is bigger than specified $SIZE_LIMIT limit"
-		exit 1
+		FAIL=1
+	fi
+}
+
+check_file_name() {
+	fileName="$1"
+	expectedFolder="$2"
+
+	shouldname="${expectedFolder}/$(basename "$fileName" |
+		iconv --to-code=utf-8 |
+		tr '[:upper:]' '[:lower:]' |
+		tr '_ ' '-')"
+
+	if [ "$shouldname" != "$fileName" ]; then
+		echo "$1 should be named $shouldname."
+		FAIL=1
 	fi
 }
 
 check_webp_name() {
-	shouldname="$(echo "$1" |
-		iconv --to-code=utf-8 |
-		sed "s/^\(data\/pix\/\)\?/data\/pix\//" |
-		tr '[:upper:]' '[:lower:]' |
-		tr '_ ' '-')"
-	if [ "$shouldname" != "$1" ]; then
-		echo "$1 should be named $shouldname."
-		exit 1
-	fi
+	check_file_name "$1" "data/pix"
 }
 
 check_recipe_name() {
-	shouldname="$(echo "$1" |
-		iconv --to-code=utf-8 |
-		sed "s/^\(src\/\)\?/src\//" |
-		tr '[:upper:]' '[:lower:]' |
-		tr '_ ' '-')"
-	if [ "$shouldname" != "$1" ]; then
-		echo "$1 should be named $shouldname."
-		exit 1
-	fi
+	check_file_name "$1" "src"
 }
 
 check_recipe_content() {
@@ -103,7 +103,7 @@ check_recipe_content() {
 	' "$1"
 
 	if [ $? -ne 0 ]; then
-		exit 1;
+		FAIL=1
 	fi
 }
 
@@ -115,7 +115,8 @@ git diff --name-only "$(git merge-base origin/master HEAD)" | while IFS= read -r
 			check_webp_name "$file"
 			;;
 		.github/*.md)
-			exit 0;
+			# Ignore markdown files in .github
+			continue;
 			;;
 		*.md)
 			check_recipe_name "$file"
@@ -123,3 +124,5 @@ git diff --name-only "$(git merge-base origin/master HEAD)" | while IFS= read -r
 			;;
     esac
 done
+
+exit $FAIL

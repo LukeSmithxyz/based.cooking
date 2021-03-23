@@ -25,7 +25,6 @@ Vietnamese Pho Soup is a tea-like, beef based soup with a flavor profile that di
 - Honey or Brown Sugar
 - Rice noodles
 
-
 ## Directions
 
 1. Heat your oven and place the spices (garlic, cardamom seeds, cinammon sticks, star anise and ginger) on a tray and bake them until browned or decently toasted.

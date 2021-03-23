@@ -38,4 +38,4 @@ There you have it, an idiot-proof carb and protein bomber that should taste reas
 
 - Martin Stohanzl - [website](https://loesmartin.at), [youtube](https://www.youtube.com/channel/UCJkTyM5-fcVBkhi7DypoNsg)
 
-;tags: austrian beef pork ham noodles smoked-rolled-roast baking-pan
+;tags: austrian ham noodles

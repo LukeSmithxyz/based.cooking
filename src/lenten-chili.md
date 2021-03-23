@@ -1,4 +1,4 @@
-# Lenten (Vegan) Chili
+# Lenten Chili
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min
@@ -38,4 +38,4 @@ Let cool for a few minutes and then serve in bowls.
 
 - George Z
 
-;tags: chili, vegan, lenten
+;tags: strict-fast

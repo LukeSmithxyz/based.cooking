@@ -15,11 +15,11 @@
   - ✅ `dish-name.md`
   - ❌ `dish_name.md`
   - ❌ `dish name.md`
-- Be sure to add a small number of relevant  tags to your recipe (and remove the dummy tags). Try to use already existing tags.
+- Be sure to add a small number of relevant tags to your recipe (and remove the dummy tags). Try to use already existing tags.
   - ✅ `;tags: side american`
   - ❌ `;tags: tag1 tag2 tag3`
   - ❌ `;tags: tag1 tag2 tag3 side american`
   - ❌ `;tags: side, american`
-  
+
 - Don't include common items like salt and pepper and other ubiquitous things in the ingredients
   list.

@@ -1,5 +1,5 @@
 #!/bin/sh
-set -u
+set -eu
 
 SIZE_LIMIT=150000
 FAIL=0
@@ -36,7 +36,7 @@ check_recipe_name() {
 }
 
 check_recipe_content() {
-	awk '
+	errMsgs="$(awk '
 		BEGIN {
 			HAS_TITLE                   = 0;
 			HAS_TAGS                    = 0;
@@ -90,53 +90,40 @@ check_recipe_content() {
 				}
 			}
 
-			FAIL = 0;
-
 			if (!HAS_TITLE) {
 				print "Recipe does not have a properly formatted title on the first line."
-				FAIL = 1;
 			}
 
 			if (!HAS_TAGS) {
 				print "Recipe does not have a properly formatted tags on the last line."
-				FAIL = 1;
 			} else {
 				if (HAS_INVALID_TAGS) {
 					print "Recipe has invalid tags. Tags must be separated by spaces and contain only lowercase letters or hyphens (-)";
-					FAIL = 1;
 				}
 
 				if (NUM_TAGS < 2) {
 					print "Recipe only has " NUM_TAGS " tags. Add some more."
-					FAIL = 1;
 				} else if (NUM_TAGS > 5) {
 					print "Recipe has " NUM_TAGS " tags which is too many. Remove some tags."
-					FAIL = 1;
 				}
 			}
 
 			if (!HAS_INGREDIENTS) {
 				print "Recipe does not have an ingredients list."
-				FAIL = 1;
 			}
 
 			if (!HAS_DIRECTIONS) {
 				print "Recipe does not have a directions section."
-				FAIL = 1;
 			}
 
 			if (HAS_CONSECUTIVE_EMPTY_LINES) {
 				print "Recipe has at least 2 consecutive empty lines.";
-				FAIL = 1;
-			}
-
-			if (FAIL) {
-				exit 1;
 			}
 		}
-	' "$1"
+	' "$1")"
 
-	if [ $? -ne 0 ]; then
+	if [ -n "$errMsgs" ]; then
+		echo "$errMsgs"
 		FAIL=1
 	fi
 }
@@ -149,7 +136,6 @@ while IFS= read -r file; do
 		.github/*.md) ;;
 
 		*.webp)
-			echo "Checking size of $file"
 			check_size "$file"
 			check_webp_name "$file"
 			;;

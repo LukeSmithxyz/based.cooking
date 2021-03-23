@@ -3,7 +3,7 @@
 Garlic toast, perfect as a substitute for crackers in a cheese platter.
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 10-15 min (or 1 minute on broil)
+- 🍳Cook time: 10-15 min
 
 ## Ingredients
 
@@ -17,8 +17,7 @@ Garlic toast, perfect as a substitute for crackers in a cheese platter.
 2. Place sliced bread on a baking tray, covered with aluminium foil
 3. Generously coat bread slices with garlic-infused olive oil.
 4. Season with garlic salt, to taste.
-5. Bake for 10-15 minutes until crunchy throughout.
-   - Alternatively set on broil for 1 minute.
+5. Bake for 10-15 minutes or until crunchy throughout.
 6. Serve with cheese, charcuterie, pickles, dips, or to accommodate a soup. 
 
 ## Contribution

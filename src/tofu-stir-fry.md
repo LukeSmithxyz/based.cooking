@@ -20,7 +20,7 @@ Cooking time: ~10 to 20 minutes
 - 2 tbsp minced garlic
 - Coconut oil
 
-## Simple Cooking Procedures
+## Directions
 
 - (Optional) Deep freeze tofu at least 24 hours prior and then thaw. The freezing will crystalize the water inside and make the tofu spongey, giving it a more chewy texture, and aids in flavor absorption.
 - Chop tofu into cubes or slabs per preference and carefully drain water.
@@ -36,3 +36,5 @@ Cooking time: ~10 to 20 minutes
 ## Contributors
 
 - [Kelvin Shadewing](https://odysee.com/@KelvinShadewing:d)
+
+;tags: vegetarian vegan tofu stir fry

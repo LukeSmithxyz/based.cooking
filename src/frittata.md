@@ -3,7 +3,7 @@
 Very filling egg dish that's easy, fast, and can be eaten at any meal. Any other types of vegetables can be added, this is just what I use the most
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - 🍽️ Servings:4-6
 
 ## Ingredients

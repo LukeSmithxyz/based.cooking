@@ -5,7 +5,7 @@
 This is the most traditional dish that every household eats in Quebec. As a kid, you would eat Pâté Chinois at least once a week, either at home or at the school's cafeteria,. It is very similar to a Shepherd’s Pie, as it is divided in 3 layers of ingredients: meat, legumes and mashed potatoes. The literal translation of the name is something like _chinese pie_. You can search for the origin of the name on the internet, I'm not an history teacher.
 
 - ⏲️ Prep time: 20 min
-- 🍳Cook time: 40-60 min
+- 🍳 Cook time: 40-60 min
 - 🍽️ Servings: 6-8
 
 ## Ingredients

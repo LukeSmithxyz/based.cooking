@@ -1,7 +1,7 @@
 # Cheesy Pasta Bake
 
 - ⏲️ Prep time: 15 min
-- 🍳Cook time: 1 hr
+- 🍳 Cook time: 1 hr
 - 🍽️ Servings: 4
 
 ## Ingredients

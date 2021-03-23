@@ -1,7 +1,7 @@
 # Zopf
 
 - ⏲️ Prep time: 30 min (plus one hour rising)
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 
 ## Ingredients
 - 1kg white wheat flour

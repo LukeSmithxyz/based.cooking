@@ -3,7 +3,7 @@
 Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coca Cola.
 
 - ⏲️ Prep time: 30 min.
-- 🍳Cook time: 1 hr.
+- 🍳 Cook time: 1 hr.
 - 🍽️ Servings: 5
 
 ## Ingredients

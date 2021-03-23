@@ -1,7 +1,7 @@
 # Dominican Spaghetti
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 25 min
+- 🍳 Cook time: 25 min
 - 🍽️ Servings: 4
 
 ## Ingredients

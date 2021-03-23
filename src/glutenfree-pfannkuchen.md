@@ -32,4 +32,4 @@ A very easy recipe for glutenfree Pfannkuchen (german pancakes).
 
 - Lxgr - [github](https://github.com/lxgr-linux)
 
-;tags: basic, sweet, breakfast, german, pancake
+;tags: basic sweet breakfast german pancake

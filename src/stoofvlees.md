@@ -14,7 +14,7 @@ Traditionally eaten with fries and chicory salad.
 - 1kg chuck roast, cut in bite-sized pieces
 - 2 33cl bottles of brown beer
 - 2 bayleaves
-- 2 twigs of thyme 
+- 2 twigs of thyme
 - 1 clove (spice)
 - 2 tablespoons of belgian apple/pear syrup (optional, ill write up a recipe for this soon)
 - 2 teaspoons of vinegar
@@ -38,7 +38,6 @@ Traditionally eaten with fries and chicory salad.
 13. Finish the sauce by gently stirring in the vinegar to brighten up the flavors and serve.
 ## Contribution
 
-Yiusa
--eth '0x68f1317c6512f0267fa711cafb6c134ae968fa80'
+- Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
 
-;tags: beef stew belgian 
+;tags: beef stew belgian

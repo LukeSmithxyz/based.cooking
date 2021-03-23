@@ -3,7 +3,7 @@
 * ⏲️ Prep time: 15 min
 * 🍳Cook time: ≈ 3 hours
 * 🍽️ Servings: 1 cake
-*
+
 ## Ingredients
 
 * 1/2 cup milk

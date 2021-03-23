@@ -9,7 +9,7 @@ See the story of this site unfold in three videos:
 
 ### It's easy to contribute!
 
-- Submit new recipes via git via [Github](https://github.com/lukesmithxyz/based.cooking).
+- Submit new recipes using git via [GitHub](https://github.com/lukesmithxyz/based.cooking).
 - You may also improve recipes or add an image to those without them.
 - Donate to the individual people who contribute pages whose names are at the bottom of each page.
 - Donate to the site's long-term maintenance fund:

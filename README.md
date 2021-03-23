@@ -10,7 +10,7 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 - By adding a recipe.
 - Make a recipe and take a nice picture of it if no nice picture already
   exists. Submitted images should be small `.webp` files ideally less than 100K
-  or so. If your image is above 100K, shrink the size [here](https://www.compresss.com/compress-webp.html#), since if it's bigger then the limit, the check won't pass.
+  or so. If your image is above 150K, shrink the size [here](https://www.compresss.com/compress-webp.html#), since if it's bigger then the limit, the check won't pass.
 - Fix errors in recipes or add minor improvements.
 
 ## Rules for submission

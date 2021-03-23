@@ -20,7 +20,7 @@ This recipe will result in two or three glass dishes of tasty, moist meatloaf. G
 - Mustard
 - Sugar free ketchup
 - 3 Cubes of brown sugar
-- 1 Campbell's tomato soup
+- 1 Can of Campbell's tomato soup
 - Franks RedHot sauce (Optional)
 
 ## Directions

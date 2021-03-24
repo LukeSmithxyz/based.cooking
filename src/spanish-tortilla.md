@@ -13,7 +13,7 @@
 * 1 white onion
 * Extra virgin olive oil
 
-## Instructions
+## Directions
 
 1. Peel, rinse and dry the potatoes.
 2. Cut the potatoes into thin slices. Put in a bowl, add salt to taste and stir.

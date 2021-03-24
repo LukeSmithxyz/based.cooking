@@ -9,7 +9,7 @@
 * 3 Tbsp (40ml) oil
 * cilantro
 
-## Instructions
+## Directions
 
 1. Place tomatillos, garlic, and chiles in a medium saucepan and cover with water. Simmer until tomatillos turn pale green, about 10 minutes.
 2. Transfer tomatillos, garlic, and chiles into a blender or food processor. Add the onion and cilantro. Puree until smooth, then salt to taste, usually a teaspoon (6g) will suffice.

@@ -66,3 +66,5 @@ evening of festivities, blows my mind. Let’s get into the recipe now.
 [https://grillnationbbq.com/wprm_print/1538](https://grillnationbbq.com/wprm_print/1538)
 
 - BBQ-Nation _Credit_ [website](https://grillnationbbq.com/wprm_print/1538)
+
+;tags: chicken spicy

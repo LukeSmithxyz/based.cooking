@@ -20,7 +20,7 @@
 - Neutral Oil
 - Cilantro
 - Sugar
-- seasoning
+- Seasoning:
 	- Cumin
 	- Paprika
 	- Chili flakes

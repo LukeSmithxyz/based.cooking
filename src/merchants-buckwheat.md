@@ -27,7 +27,7 @@ The ingredients below are for 2 hearty portions.
 - Parsley
 - 3-4 bay leaves
 
-## Instructions
+## Directions
 
 1. Chop the onion and cut the pork into small pieces.
 2. Dust the pork with some flour. I sometimes like to do this once I've added the pork to the pan, just because I am lazy and I haven't noticed much difference between either approach.

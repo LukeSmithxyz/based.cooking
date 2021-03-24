@@ -20,7 +20,7 @@ it one time to get a sense of what the ideal proportions for you are.
 - Garlic powder
 - Herbes de Provence
 
-## Instructions
+## Directions
 
 1. Rinse the chicken fillets.
 2. Remove excess moisture from the fillets by patting them with a paper towel.
@@ -41,4 +41,4 @@ Originally published at [https://www.yaroslavps.com/food/pan-seared-chicken-file
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: chicken quick
+;tags: chicken fry

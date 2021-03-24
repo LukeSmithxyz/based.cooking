@@ -43,4 +43,4 @@ would be more then helpful.
 
 Shou, [website](https://shouganai.xyz)
 
-;tags: fish supper
+;tags: fish seafood

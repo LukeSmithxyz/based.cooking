@@ -21,7 +21,7 @@ have it as a side dish this should be enough for two persons.
 - Parmesan cheese
 - Rosemary; dried should be fine, but fresh is obviously better
 
-## Instructions
+## Directions
 
 1. Cut the potatoes into small cubes.
 2. Add some butter to a frying pan and heat up.

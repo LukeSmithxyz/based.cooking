@@ -23,4 +23,4 @@
 
 Front3ndNinja - [Website](https://github.com/Front3ndNinja)
 
-;tags: chicken
+;tags: chicken milk

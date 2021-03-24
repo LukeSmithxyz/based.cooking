@@ -20,7 +20,7 @@ recipe that is fast and easy to make and is quite tasty.
 - Cumin
 - Paprika
 
-## Instructions
+## Directions
 
 1. Add olive oil to your frying pan, heat it to medium-high heat.
 2. Chop some onions and add them to the preheated pan.
@@ -30,10 +30,9 @@ recipe that is fast and easy to make and is quite tasty.
 6. Grate the tomatoes over the pan using a grater with small-sized slots, in such a way that the tomato paste and juice falls right away from the grater to the pan.
 7. Grate the carrot using a grater with medium-sized slots and add it to the pan.
 8. Salt some more to taste, and add some black pepper to taste, mix.
-9. Cook it over medium/medium-low heat for about 10-15 minutes or until the
-10. water and juices from the tomatoes have almost completely evaporated.
-11. Once (or if) the pasta and beef is already cooked, add the pasta to the pan and cook for another couple of minutes.
-12. Serve hot and enjoy!
+9. Cook it over medium/medium-low heat for about 10-15 minutes or until the water and juices from the tomatoes have almost completely evaporated.
+10. Once (or if) the pasta and beef is already cooked, add the pasta to the pan and cook for another couple of minutes.
+11. Serve hot and enjoy!
 
 Originally published at [https://www.yaroslavps.com/food/navy-style-pasta/](https://www.yaroslavps.com/food/navy-style-pasta/)
 

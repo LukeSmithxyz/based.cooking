@@ -15,7 +15,7 @@
 - Soy sauce
 - Sesame oil
 
-## Instructions
+## Directions
 
 1. Grate or mince ginger finely. Process with the garlic cloves by grinding with salt under the edge of a knife. Finely mince the onion. **Optional** Marinade the ground turkey in 2 Tbsp of soy sauce and 1 tsp baking soda for 15 minutes to improve browning.
 2. In a hot wok or skillet add a few tablespoons of cooking oil, preferably peanut, and a tsp of sesame oil. Add the ground turkey and cook until no longer raw seasoning with soy sauce.

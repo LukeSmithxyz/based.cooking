@@ -1,6 +1,8 @@
 # Arroz Chaufa
 
-![Arroz Chaufa](pix/arroz_chaufa-2.webp)
+Peruvian-chinese dish. Easy to cook just add and mix everything.
+
+![Arroz Chaufa](pix/arroz-chaufa-2.webp)
 
 Peruvian-chinese dish. Easy to cook just add and mix everything.
 
@@ -18,7 +20,7 @@ Peruvian-chinese dish. Easy to cook just add and mix everything.
 - Soy Sauce
 - Welsh Onion
 
-![Ingredients](pix/arroz_chaufa-1.webp)
+![Ingredients](pix/arroz-chaufa-1.webp)
 
 ## Directions
 
@@ -32,7 +34,6 @@ Peruvian-chinese dish. Easy to cook just add and mix everything.
 
 ## Contribution
 
-- Andy Rufasto
-- [![](https://img.shields.io/badge/Contact-andy@andyrufasto.cf-succes?style=social&logo=GNU-Privacy-Guard)](https://keyoxide.org/0A3D7C5B8C2499A8BEBCE72869D2E5C413569DA2)
+- Andy Rufasto - [contact](mailto:andy@andyrufasto.cf), [GPG](https://keyoxide.org/0A3D7C5B8C2499A8BEBCE72869D2E5C413569DA2)
 
 ;tags: peruvian chinese rice

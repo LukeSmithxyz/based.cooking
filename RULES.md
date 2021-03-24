@@ -135,7 +135,7 @@ Nobody cares about the 1000-page lore and backstory of your recipe's cinematic u
 
 Milkshakes are fine, but Luke doesn't like smoothies for some reason.
 
-### Autuentic, traditional, high-quality ingredients and dishes
+### Authentic, traditional, high-quality ingredients and dishes
 
 Always include and prefer the name of the authentic, traditional, high-quality ingredients and dishes over the cheaper, lower-quality, mass-produced variety.
 

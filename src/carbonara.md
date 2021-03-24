@@ -16,8 +16,8 @@ This recipe assumes medium eggs.
 
 - Spaghetti: 320 g | 11 oz
 - Eggs: 5
-- Guanciale (cleaned and cubed): 150 g | 5 oz or Smoked Pancetta (cleaned and cubed): 150 g | 5 oz
-- Pecorino Romano (grated)(optional) or Parmigiano-Reggiano (grated)(optional)
+- Guanciale or Smoked Pancetta (cleaned and cubed): 150 g | 5 oz
+- Pecorino Romano or Parmigiano-Reggiano (grated)(optional)
 
 ## Directions
 

@@ -82,7 +82,7 @@ The syntax is:
 - `side`: side dishes such as mash, fries, etc.
 - `snack`
 - `spread`
-- `strict-fast`: for recipes that contain no meat or dairy.
+- `fasting`: for recipes that contain no meat or dairy.
 - `vegan`
 - `vegetarian`
 

@@ -95,7 +95,7 @@ Take a good picture yourself of the actual dish you prepared.
 - If you see a bad or substandard image, you may submit a better one.
 - Images should be in `.webp` format and with as small a file size as possible.
 If you submit an image for say, `chicken-parmesan.md`, it should be added as `pix/chicken-parmesan.webp`.
-- 150Kb is the maximum file size for a single image.
+- 150kB is the maximum file size for a single image.
 - If you would like to add additional directional images, they should be numbered with two digits like `pix/chicken-parmesan-00.webp`, `pix/chicken-parmesan-01.webp`, etc.
 
 ### Bugmanism is banned

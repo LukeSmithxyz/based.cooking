@@ -3,7 +3,7 @@
 Simple method for making a good serving of salmon. Goes well with just about anything.
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 19 min
+- 🍳 Cook time: 19 min
 
 ## Ingredients
 
@@ -20,7 +20,6 @@ Simple method for making a good serving of salmon. Goes well with just about any
 2. Spray or rub in cooking oil on aluminum foil and place on cookie sheet or in baking pan.
 3. Squeeze lemon juice and place a teaspoon of butter on each salmon steak.
 4. Bake at 400°F / 200°C for 19 mins.
-
 
 ## Contribution
 

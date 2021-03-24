@@ -23,7 +23,7 @@ The ingredients below are for 2 hearty portions.
 * Parsley
 * 3-4 bay leaves
 
-## Instructions
+## Directions
 
 1. Chop the onion and cut the pork into small pieces.
 2. Dust the pork with some flour. I sometimes like to do this once I've added
@@ -40,7 +40,6 @@ The ingredients below are for 2 hearty portions.
 8. Once the water is boiling, close the pan with a lid and stew for about 25
    minutes over low heat.
 9. Serve hot and enjoy!
-
 
 Originally published at [https://www.yaroslavps.com/food/merchants-buckwheat/](https://www.yaroslavps.com/food/merchants-buckwheat/)
 

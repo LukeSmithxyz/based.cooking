@@ -1,0 +1,12 @@
+on: pull_request
+
+jobs:
+  check_files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Check files for compliance
+        run: .github/workflows/scripts/check-files.sh
+

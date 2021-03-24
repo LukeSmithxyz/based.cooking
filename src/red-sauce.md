@@ -2,9 +2,9 @@
 
 My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.
 
-- Prep time: 12 mins 
-- Cook time: Simmer all day 
-- Servings: 7 
+- ⏲️ Prep time: 12 mins 
+- 🍳 Cook time: Simmer all day 
+- 🍽️ Servings: 7 
 
 ## Ingredients
 

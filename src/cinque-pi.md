@@ -1,9 +1,11 @@
 # Cinque Pi
 
+![Cinque Pi](pix/cinque-pi.webp)
+
 This is a nice simple dish made up of five ingredients: panna, pomodori, parmigiano, pepe, e prezzemolo
 
 - ⏲️ Prep time: 15 min
-- 🍳Cook time: 15 min
+- 🍳 Cook time: 15 min
 - 🍽️ Servings: 4
 
 ## Ingredients
@@ -20,7 +22,7 @@ This is a nice simple dish made up of five ingredients: panna, pomodori, parmigi
 2. Mix the cream with the purée and bring to a boil.
 3. Turn the heat down to medium and add the grated parmigiano.
 4. Let it cook on medium to low heat until the pasta are done.
-5. Add copped up parsley and pepper.
+5. Add chopped up parsley and pepper.
 6. You can either add the sauce to the pasta ore serve separately.
 7. Serve with some additional parmigiano and a leaf of parsley.
 
@@ -28,4 +30,4 @@ This is a nice simple dish made up of five ingredients: panna, pomodori, parmigi
 
 - **Elias Pahls** - [contact](mailto:pahlse@pm.me)
 
-;tags: italian, pasta, quick
+;tags: italian pasta quick

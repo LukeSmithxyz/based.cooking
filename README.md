@@ -17,8 +17,10 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 
 See [the rules](RULES.md).
 
+If you spot any incompliant recipes, please report and/or fix them.
+
 **If you fail to do these things, I will close your submission and you will have to resubmit.
-I am tired of having to fix more than 50% of submissions.**
+I am tired of having to fix more than 50% of submissions.** - Luke
 
 ## About the site
 

@@ -23,4 +23,4 @@ This recipe cointains instructions for sourdough starter needed for all sourdoug
 
 - Vili Kangas
 
-;tags: bread sourdough
+;tags: bread sourdough basic

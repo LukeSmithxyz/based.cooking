@@ -4,41 +4,41 @@ If you love spicy foods and chicken then this Nashville Hot Chicken sandwich rec
 
 Nashville Hot Chicken was invented by a man named Thorton Prince. It is said that he came home late one night and whipped this dish up randomly. Could you imagine creating this staple of a dish late night after coming home from an evening of festivities, blows my mind. Let’s get into the recipe now. 
 
-- Prep time: 20 min
-- Cook time: 30 min
-- Servings: 4
+- ⏲️ Prep time: 20 min
+- 🍳 Cook time: 30 min
+- 🍽️ Servings: 4
 
 ## Ingredients
 
 Batter
--2 Cups Buttermilk
--1/3 Cup Hot sauce 
+- 2 Cups Buttermilk
+- 1/3 Cup Hot sauce 
 
 Flour
--2 1/2 Cups All-purpose flour
--3 tbsp Cornstarch
--3 tbsp Seasoned salt
--1 tbsp Paprika
--2 tsp Cayenne pepper
--2 tsp Black pepper
--1 tbsp Garlic powder
--1 tbsp Onion powder
--2 tsp Dry mustard powder
+- 2 1/2 Cups All-purpose flour
+- 3 tbsp Cornstarch
+- 3 tbsp Seasoned salt
+- 1 tbsp Paprika
+- 2 tsp Cayenne pepper
+- 2 tsp Black pepper
+- 1 tbsp Garlic powder
+- 1 tbsp Onion powder
+- 2 tsp Dry mustard powder
 
 Nashville Hot Chicken
--2 tbsp Nashville Hot Chicken seasoning
--2 tbsp Adobo honey seasoning
--2 tbsp Dark brown sugar
--1 tsp Chili powder
--1 tsp Garlic powder
--1 tsp Smoked paprika
--1 1/2 Cups Cooking oil Used to fry the chicken
+- 2 tbsp Nashville Hot Chicken seasoning
+- 2 tbsp Adobo honey seasoning
+- 2 tbsp Dark brown sugar
+- 1 tsp Chili powder
+- 1 tsp Garlic powder
+- 1 tsp Smoked paprika
+- 1 1/2 Cups Cooking oil Used to fry the chicken
 
 Sauce For the Buns
--3 tbsp Mayo
--1 tbsp Ketchup
--2 tbsp Sweet relish
--1 tbsp Hot sauce
+- 3 tbsp Mayo
+- 1 tbsp Ketchup
+- 2 tbsp Sweet relish
+- 1 tbsp Hot sauce
 
 ## Directions
 
@@ -52,7 +52,8 @@ Sauce For the Buns
 
 ## Contribution
 
-
 [https://grillnationbbq.com/wprm_print/1538](https://grillnationbbq.com/wprm_print/1538)
 
 - BBQ-Nation _Credit_ [website](https://grillnationbbq.com/wprm_print/1538)
+
+;tags: chicken spicy

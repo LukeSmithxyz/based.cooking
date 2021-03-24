@@ -13,7 +13,7 @@ If you've never made your own sourdough bread, it can be intimidating! But I bel
 * 87g rye or whole wheat flour
 * 7g sea salt
 
-## Instructions
+## Directions
 
 1. Combine sourdough starter with warm water, break apart and dissolve.
 2. Add flour and mix together gently to hydrate. Mixture will be very wet and sticky.

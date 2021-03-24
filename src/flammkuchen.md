@@ -12,7 +12,6 @@ I like the recipe because it takes 10 minutes to prepare and another 10 minutes 
 - 150g bacon (you can replace it with mushrooms or other vegetables)
 - 2 big spoons of sour creme or creme fraiche
 
-
 ## Directions
 
 1. we start by flattening the dough. Even if you buy thin crust that is already sold as superthin you have to make it even thinner. Make it so thin that you can fill 2 baking sheets with it (yes, you will make two large flammkuchen - since they are thin you need one per person) :)  I take two pieces of  parchment paper, put the dough inbetween and flatten it using a bottle (e.g. wine). It has to be as thin as possible (1-2 mm).

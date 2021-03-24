@@ -17,7 +17,7 @@ Potatoes baked in a dish smothered with cheese, what's not to love?
 - 600g Potatoes
 - As much bacon as you want to garnish
 
-## Instructions
+## Directions
 
 1. Preparation:
     1. Preheat to 180C

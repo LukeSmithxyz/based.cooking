@@ -27,7 +27,7 @@ The ingredients here are for about 2-3 portions, depending on your appetite:
 * Cilantro (optional)
 * 2-3 champignon mushrooms (optional)
 
-## Instructions
+## Directions
 
 1. Heat up the frying pan and add some oil.
 2. Cut the potatoes into small pieces and fry them on the frying pan over

@@ -26,7 +26,7 @@ Main Ingredients
 - 2-3 cups Crushed or Pureed Tomatoes
 - 1 ½ lbs Boneless Skinless Chicken Breasts
 
-## Instructions
+## Directions
 
 1. Mince the garlic and dice the onion.
 2. Saute onion and garlic with the butter in a pot.

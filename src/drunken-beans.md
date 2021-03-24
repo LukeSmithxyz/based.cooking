@@ -23,7 +23,6 @@ Pinto beans cooking with beer, what beer you use can change the dish.
 5. When beans are al dente (about 1 hour if using dried), bring to quick boil and evaporate remaining liquid until beans are stew-like.
 6. Remove from the heat and mashup, or skip this step if you want more of a bean stew.
 
-
 ## Contribution
 
 - just a dude who likes cooking

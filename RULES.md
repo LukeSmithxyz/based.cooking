@@ -121,7 +121,7 @@ Soybeans and soy-based food are acceptable.
 
 Only substantial dishes are allowed, no hyper-sugary desserts or junk food.
 
-### Treat your audiance as if they are intelligent
+### Treat your audience as if they are intelligent
 
 - Do not include ubiquitous ingredients like salt and pepper in the ingredients list.
 - Keep your instructions clear and concise.

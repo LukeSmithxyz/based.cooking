@@ -2,7 +2,7 @@
 
 ![Rye Bread Loaf](pix/rye-bread-loaf.webp)
 
-Rye bread is the national food of Finland. This bread is both traditional as well as delicious and serves great variation to the basic wheat breads. Make sure to prepare yourself by making rye based sourdough starter 4-5 days before baking and start the preparations 1 day beforehand .
+Rye bread is the national food of Finland. This bread is both traditional as well as delicious and serves great variation to the basic wheat breads. Make sure to prepare yourself by making rye based sourdough starter 4-5 days before baking and start the preparations 1 day beforehand.
 
 - 🍽️ Servings: 3 medium sized loafs
 

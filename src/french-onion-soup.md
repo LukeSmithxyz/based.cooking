@@ -1,8 +1,8 @@
 # French Onion Soup
 
-Prep time: 30 Minutes
-Cook time: 3 Hours
-Servings: 5
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 3 hr
+- 🍽 Servings: 5
 
 ## Ingredients
 
@@ -33,3 +33,5 @@ Servings: 5
 
 - Joe Powerhouse
 - BTC:1KPxw9js2VukakhMv2wUUFUQZnHQL842ju
+
+;tags: french supper

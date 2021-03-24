@@ -1,16 +1,21 @@
 # Gnocchi
 
-Gnocchi is a pasta based on potato, making it a less bloating alternative to other kinds of pasta.
-They are substantial and can be roasted in butter and other ingredients.
+Gnocchi is a pasta based on potato, making it a less bloating alternative to
+other kinds of pasta. They are substantial and can be roasted in butter and
+other ingredients.
+
+- ⏲ Prep time: 1 hr
+- 🍳 Cook time: 1.5 hr
+- 🍽 Servings: 6
 
 ## Ingredients
 
-- potatoes
-- flour
-- tomato
-- parmesan
-- butter
-- sage or oregano or thyme
+- Potatoes
+- Flour
+- Tomato
+- Parmesan
+- Butter
+- Sage or oregano or thyme
 
 ## Directions
 

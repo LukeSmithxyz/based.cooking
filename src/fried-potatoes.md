@@ -1,5 +1,9 @@
 # Fried Potatoes
 
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 15 min
+- 🍽 Servings: 4-6
+
 ## Ingredients
 
 - Potatoes

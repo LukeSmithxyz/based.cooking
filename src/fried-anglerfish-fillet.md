@@ -2,7 +2,15 @@
 
 ![anglerfish](pix/fried-anglerfish-fillet-00.webp)
 
-This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically to the 'monfish/sea-devil' variant) meat is mild, absorbing the butter and subtle flavours of the herbs. Preparing the anglerfish is an involved process that I'll try and explain to the best of my abilities but watching someone do it would be more then helpful.
+This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically
+to the 'monfish/sea-devil' variant) meat is mild, absorbing the butter and
+subtle flavours of the herbs. Preparing the anglerfish is an involved process
+that I'll try and explain to the best of my abilities but watching someone do it
+would be more then helpful.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 25 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -35,4 +43,4 @@ This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically 
 
 Shou, [website](https://shouganai.xyz)
 
-;tags: fish
+;tags: fish supper

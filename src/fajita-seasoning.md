@@ -2,6 +2,10 @@
 
 Simple seasoning mix similar to Old El Paso. Can be used for any Mexican dishes or plain meats.
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 0 min
+- 🍽 Servings: 10
+
 ## Ingredients
 
 - 1/2 tsp Garlic Powder
@@ -22,6 +26,6 @@ Simple seasoning mix similar to Old El Paso. Can be used for any Mexican dishes 
 
 ## Contribution
 
-- Carl Zimmerman -- [website](https://codingwithcarl.com)
+- Carl Zimmerman -- [website](https://codingwithcarl.com)
 
 ;tags: basic mexican strict-fast

@@ -4,9 +4,9 @@
 
 A very easy recipe for glutenfree Pfannkuchen (german pancakes).
 
-- ⏲️ Prep time: 20 min
+- ⏲ Prep time: 20 min
 - 🍳 Cook time: 10 min
-- 🍽️ Servings: 1
+- 🍽 Servings: 1
 
 ## Ingredients
 
@@ -32,4 +32,4 @@ A very easy recipe for glutenfree Pfannkuchen (german pancakes).
 
 - Lxgr - [github](https://github.com/lxgr-linux)
 
-;tags: basic sweet breakfast german pancake
+;tags: basic breakfast german pancake

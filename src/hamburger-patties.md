@@ -2,6 +2,10 @@
 
 🍽️ Servings: 6 patties
 
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 8 min
+- 🍽 Servings: 6
+
 ## Ingredients
 
 - 1 cup soft bread crumb
@@ -18,9 +22,7 @@
 
 1. Combine all ingredients except fat: mix well; shape into 6 patties.
 2. Heat fat in skillet.
-3. Brown patties on all sides; lower heat; cook to desired degree of
-
-doneness.
+3. Brown patties on all sides; lower heat; cook to desired degree of doneness.
 
 ## Contribution
 

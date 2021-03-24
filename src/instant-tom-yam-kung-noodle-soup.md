@@ -1,10 +1,12 @@
 # Instant Tom Yam Kung noodle soup
 
-Instant noodles with processed spices are quick but not the most healthy. It's important to add fresh veggies and eggs. It's a quick tasty lunch, a life saver when going through a busy period.
+Instant noodles with processed spices are quick but not the most healthy. It's
+important to add fresh veggies and eggs. It's a quick tasty lunch, a life saver
+when going through a busy period.
 
-- Prep time: 10 minutes
-- Cook time: 10 minutes
-- Serves: 2 people
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 2
 
 ## Ingredients
 

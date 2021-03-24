@@ -1,6 +1,11 @@
 # Hellfire Steak
 
-I first learned this recipe from a Bishop I had growing up. It produces quite a good steak despite the unconventional ingredients.
+I first learned this recipe from a Bishop I had growing up. It produces quite a
+good steak despite the unconventional ingredients.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 12-15 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

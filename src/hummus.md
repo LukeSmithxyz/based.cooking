@@ -1,5 +1,9 @@
 # Hummus
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - One can of garbanzo beans (chickpeas)

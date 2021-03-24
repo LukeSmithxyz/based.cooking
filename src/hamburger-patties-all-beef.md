@@ -1,6 +1,8 @@
 # Hamburger Patties
 
-🍽️ Servings: 4 patties
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 8 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

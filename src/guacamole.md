@@ -5,15 +5,19 @@
 A nice recipe that functions as a delicious and fresh appetizer, best eaten with
 some totopos corn chips, especially in a hot summer day.
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 0 min
+- 🍽 Servings: 2
+
 ## Ingredients
 
 Here are the ingredients for about two adult portions:
 
-* 2 Hass avocados
-* 1/4 medium onion
-* 1 small tomato
-* Cilantro
-* 1 lime
+- 2 Hass avocados
+- 1/4 medium onion
+- 1 small tomato
+- Cilantro
+- 1 lime
 
 And of course, some totopos to eat with.
 

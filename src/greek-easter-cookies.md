@@ -2,9 +2,9 @@
 
 A very simple, delicious, and traditional greek recipe for easter cookies.
 
-- ⏲️ Prep time: 30-45 min
+- ⏲ Prep time: 30-45 min
 - 🍳 Cook time: 18-22 min
-- 🍽️ Servings: Five-dozen individual cookies
+- 🍽 Servings: Five-dozen individual cookies
 
 ## Ingredients
 

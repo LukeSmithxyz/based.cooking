@@ -14,7 +14,7 @@ Rye bread is the national food of Finland. This bread is both traditional as wel
 - 20g salt
 - Some yeast if you have low faith in your starter's activity (optional)
 
-## Directions  
+## Directions
 
 1. First make 'raski' by combining 250g of water, 60g of rye sourdough starter and 200g of rye flour. Stir into even gruel.
 2. Cover the bowl with cloth and let it sit in room temperature for 12 hours.

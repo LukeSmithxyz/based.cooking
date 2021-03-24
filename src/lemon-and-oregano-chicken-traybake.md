@@ -2,9 +2,9 @@
 
 ![Lemon and oregano chicken traybake](pix/lemon-and-oregano-chicken-traybake.webp)
 
-- ⏲️ Prep time: 30 min (in 10 minute intervals)
+- ⏲ Prep time: 30 min (in 10 minute intervals)
 - 🍳 Cook time: 60 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 

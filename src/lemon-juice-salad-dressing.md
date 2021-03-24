@@ -2,6 +2,10 @@
 
 A dressing that goes well on lettuce or any other mixed greens.
 
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 0 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - Lemon juice from half a lemon

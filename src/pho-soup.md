@@ -2,11 +2,14 @@
 
 ![Based Beef Pho](pix/pho-soup.webp)
 
-Vietnamese Pho Soup is a tea-like, beef based soup with a flavor profile that differentiates it from the traditional Western pallete. This recipe is designed to be as easy to make as possible, while simultaneously being as based as possible.
+Vietnamese Pho Soup is a tea-like, beef based soup with a flavor profile that
+differentiates it from the traditional Western pallete. This recipe is designed
+to be as easy to make as possible, while simultaneously being as based as
+possible.
 
-- ⏲️ Prep time: 20 min
+- ⏲ Prep time: 20 min
 - 🍳 Cook time: 2 hours
-- 🍽️ Servings:4
+- 🍽 Servings:4
 
 ## Ingredients
 

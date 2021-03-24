@@ -1,10 +1,13 @@
 # Naan Bread
 
-A curry serves best with naan that is unleavened bread. Traditionally made in ‘Tandoor or clay oven' but at home, we will be making it in the oven and/or on the stovetop. Naan is not eaten solely but acts as assortments with meat, veggies, or egg items.
+A curry serves best with naan that is unleavened bread. Traditionally made in
+‘Tandoor or clay oven' but at home, we will be making it in the oven and/or on
+the stovetop. Naan is not eaten solely but acts as assortments with meat,
+veggies, or egg items.
 
-- Prep time: 90 min
-- Cook time: 30 min
-- Servings: 4
+- ⏲ Prep time: 90 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

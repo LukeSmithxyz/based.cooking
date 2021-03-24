@@ -1,10 +1,11 @@
 # Lobster bisque
 
-Creamy french lobster soup perfect for the hollidays, you can optionally replace the lobster with any other shellfish.
+Creamy french lobster soup perfect for the hollidays, you can optionally replace
+the lobster with any other shellfish.
 
-- ⏲️ Prep time: 20
+- ⏲ Prep time: 20 min
 - 🍳Cook time: 30 min
-- 🍽️ Servings: 2 litres
+- 🍽 Servings: 2
 
 ## Ingredients
 

@@ -2,9 +2,9 @@
 
 Perfect for pan pizza in an 11 inch iron skillet.
 
-- ⏲️ Prep time: 5 min
-- 🍳 Cook time: 7-24 hours
-- 🍽️ Servings: 1 pizza
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 7-24 hr
+- 🍽 Servings: 1
 
 ## Ingredients
 

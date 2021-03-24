@@ -4,6 +4,10 @@ Good start for trying to eat more organs.
 It even tastes very nice.
 The last step before eating it raw someday.
 
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 20 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 1lbs./500g liver (chicken, beef, poultry etc.)

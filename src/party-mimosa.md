@@ -1,5 +1,9 @@
 # Party Mimosa
 
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 0 min
+- 🍽 Servings: 1
+
 ## Ingredients
 
 - 1 (12 ounce) can apricot-mango nectar
@@ -10,7 +14,8 @@
 
 ## Directions
 
-1. Stir together apricot nectar, pineapple juice, water, and orange juice concentrate in a large pitcher until combined. Pour in bottle of sparkling wine just before serving.
+1. Stir together apricot nectar, pineapple juice, water, and orange juice concentrate in a large pitcher until combined.
+2. Pour in bottle of sparkling wine just before serving.
 
 ## Contribution
 

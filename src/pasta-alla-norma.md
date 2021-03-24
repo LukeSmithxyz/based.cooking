@@ -1,10 +1,11 @@
 # Pasta Alla Norma
 
-A delicious Sicilian pasta dish, with Aubergines in a tomato sauce topped with fresh basil.
+A delicious Sicilian pasta dish, with Aubergines in a tomato sauce topped with
+fresh basil.
 
-- ⏲️ Prep time: 15 min
+- ⏲ Prep time: 15 min
 - 🍳 Cook time: 40 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 

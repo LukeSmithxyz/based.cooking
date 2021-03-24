@@ -3,38 +3,31 @@
 Oats are great for breakfast. On their own they're pretty bland, but become
 great when you add some things to the bowl. This recipe offers some suggestions
 on what to add, but is by no means a comprehensive overview of what you can do
-with oats.
+with oats. We cover both rolled and steel cut oats. Instant need not apply.
 
-We cover both rolled and steel cut oats. Instant need not apply.
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 2
 
 ## Ingredients
 
-- oats
-- water
-- pinch of salt
-
-Pick and choose additional ingredients:
-
-- chopped banana
-- any berries
-- cinnamon
-- peanut butter
+- Oats
+- Water
+- Pinch of salt
+- Chopped banana (optional)
+- Any berries (optional)
+- Cinnamon (optional)
+- Peanut butter (optional)
 
 ## Directions
 
 1. Bring water (with pinch of salt) to boil.
-2. Add oats. Use a 2:1 water-to-oats ratio (by volume) for rolled oats, 3:1 for
-
-steel cut.
-
-1. Boil on medium heat until most of the water has been absorbed/evaporated.
-
-Rolled oats will be ready quicker than steel cut.
-
-1. Pour over fruit in bowl (if having fruit).
-2. Sprinkle cinnamon (if having cinnamon).
-3. Mix.
-4. Add a spoonful of peanut butter (if having peanut butter).
+2. Add oats. Use a 2:1 water-to-oats ratio (by volume) for rolled oats, 3:1 for steel cut.
+3. Boil on medium heat until most of the water has been absorbed/evaporated. Rolled oats will be ready quicker than steel cut.
+4. Pour over fruit in bowl (if having fruit).
+5. Sprinkle cinnamon (if having cinnamon).
+6. Mix.
+7. Add a spoonful of peanut butter (if having peanut butter).
 
 ## Serving sizes
 

@@ -1,21 +1,28 @@
 # Nashville Chicken Sandwich
 
-If you love spicy foods and chicken then this Nashville Hot Chicken sandwich recipe is just for you. It takes some time with prepping and process but when you take that first bite all the effort will be worth it. It’s unlike any other fried chicken recipe that includes double frying your chicken and using the same cooking oil from your fry as a sauce for the Nashville Hot Chicken spice.
+If you love spicy foods and chicken then this Nashville Hot Chicken sandwich
+recipe is just for you. It takes some time with prepping and process but when
+you take that first bite all the effort will be worth it. It’s unlike any other
+fried chicken recipe that includes double frying your chicken and using the same
+cooking oil from your fry as a sauce for the Nashville Hot Chicken spice.
 
-Nashville Hot Chicken was invented by a man named Thorton Prince. It is said that he came home late one night and whipped this dish up randomly. Could you imagine creating this staple of a dish late night after coming home from an evening of festivities, blows my mind. Let’s get into the recipe now.
+Nashville Hot Chicken was invented by a man named Thorton Prince. It is said
+that he came home late one night and whipped this dish up randomly. Could you
+imagine creating this staple of a dish late night after coming home from an
+evening of festivities, blows my mind. Let’s get into the recipe now.
 
-- Prep time: 20 min
-- Cook time: 30 min
-- Servings: 4
+- ⏲ Prep time: 20 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
-Batter
+### Batter
 
 - 2 Cups Buttermilk
 - 1/3 Cup Hot sauce
 
-Flour
+### Flour
 
 - 2 1/2 Cups All-purpose flour
 - 3 tbsp Cornstarch
@@ -27,7 +34,7 @@ Flour
 - 1 tbsp Onion powder
 - 2 tsp Dry mustard powder
 
-Nashville Hot Chicken
+### Nashville Hot Chicken
 
 - 2 tbsp Nashville Hot Chicken seasoning
 - 2 tbsp Adobo honey seasoning
@@ -37,7 +44,7 @@ Nashville Hot Chicken
 - 1 tsp Smoked paprika
 - 1 1/2 Cups Cooking oil Used to fry the chicken
 
-Sauce For the Buns
+### Sauce For the Buns
 
 - 3 tbsp Mayo
 - 1 tbsp Ketchup

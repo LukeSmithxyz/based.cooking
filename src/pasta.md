@@ -1,14 +1,18 @@
 # Pasta (store bought)
 
-This is a simple outline of how to cook pasta.
-TL;DR: you boil it.
-Pasta is usually eaten with some kind of [pasta sauce](pasta-sauce.html) or used in another dish.
+This is a simple outline of how to cook pasta. TL;DR: you boil it.
+Pasta is usually eaten with some kind of 
+[pasta sauce](pasta-sauce.html) or used in another dish.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
-- pasta
-- basil (optional)
-- butter (optional)
+- Pasta
+- Basil (optional)
+- Butter (optional)
 
 ## Directions
 
@@ -30,4 +34,4 @@ but if you keep it in there for *too* long, it'll become mush.
 
 - Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
 
-;tags: italian pasta quick basic strict-fast
+;tags: italian pasta quick strict-fast

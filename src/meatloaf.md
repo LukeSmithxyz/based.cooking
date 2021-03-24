@@ -2,11 +2,12 @@
 
 ![Meatloaf](pix/meatloaf.webp)
 
-This recipe will result in two or three glass dishes of tasty, moist meatloaf. Great for family suppers.
+This recipe will result in two or three glass dishes of tasty, moist
+meatloaf. Great for family suppers.
 
-- ⏲️ Prep time: 30 min
-- 🍳 Cook time: 1 hour 10 minutes
-- 🍽️ Servings: 6+
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 1 hr 10 min
+- 🍽 Servings: 6
 
 ## Ingredients
 

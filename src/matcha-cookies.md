@@ -1,10 +1,15 @@
 # Matcha Cookies
 
-Matcha is a type of tea leaf powder that has a beautiful vivid green color. However, it’s different from the “green tea” that you drink with Japanese meals. That’s green tea too, but matcha green tea leaves are grown and harvested differently. The leaves are grown under shade.
+Matcha is a type of tea leaf powder that has a beautiful vivid green
+color. However, it’s different from the “green tea” that you drink with Japanese
+meals. That’s green tea too, but matcha green tea leaves are grown and harvested
+differently. The leaves are grown under shade.
+
+- ⏲ Prep time: 20 min
+- 🍳 Cook time: 9 min
+- 🍽 Servings: 13
 
 ## Ingredients
-
-(for 13 cookies, 8 ~ 9cm in diameter)
 
 - 115g Unsalted butter
 - 60g Caster sugar
@@ -13,7 +18,6 @@ Matcha is a type of tea leaf powder that has a beautiful vivid green color. Howe
 - 153g Plain flour
 - 12g Matcha powder
 - 2g Baking soda
-- 1g Salt
 - 3g Vanilla extract
 - 70g White coverture chocolate
 - 45g Macadamia nut

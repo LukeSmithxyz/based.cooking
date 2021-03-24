@@ -77,6 +77,9 @@ If you submit an image for say, `chicken-parmesan.md`, it should be added as `pi
 
 Vegan or vegetarian recipes are fine, but specific bugman food imitating authentic food is disallowed.
 
+You could always substitute any ingredient for any other ingredient, or follow any instruction any way you like whilst you are preparing the dish, for example to swap meat out for a substitute.
+However, do not propose these personal changes to based.cooking.
+
 #### Examples
 
 - soy sausages

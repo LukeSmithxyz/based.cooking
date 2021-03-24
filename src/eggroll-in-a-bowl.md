@@ -1,10 +1,8 @@
 # Egg Roll in a Bowl
 
-Egg rolls, but, you know, in a bowl.
-
-- ⏲️  Prep time: 10 min
+- ⏲ Prep time: 10 min
 - 🍳 Cook time: 15 min
-- 🍽️  Servings: 2
+- 🍽 Servings: 2
 
 ## Ingredients
 
@@ -14,8 +12,8 @@ Egg rolls, but, you know, in a bowl.
 - 2-3 cloves of garlic
 - 1 tbsp fresh ginger
 - 1/4 cup Hoisin sauce
-- soy sauce
-- sesame oil
+- Soy sauce
+- Sesame oil
 
 ## Instructions
 
@@ -28,4 +26,4 @@ Egg rolls, but, you know, in a bowl.
 
 the-birchmen - BAT [GitHub](https://github.com/the-birchmen/)
 
-;tags = quick asian cabbage
+;tags: quick asian cabbage

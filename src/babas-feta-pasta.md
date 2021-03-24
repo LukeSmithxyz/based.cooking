@@ -26,7 +26,7 @@ mid-day meal.
 - Overfilled tablespoon Creme Cheese
 - 1/3 Mug whole milk
 
-## Instructions
+## Directions
 
 Make sure to prepare & chop most ingredients before you start.
 

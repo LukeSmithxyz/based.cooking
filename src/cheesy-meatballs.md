@@ -31,7 +31,7 @@ For the sauce:
 - Basil
 - Black pepper
 
-## Instructions
+## Directions
 
 1. Beat the egg(s) in a large bowl.
 2. Add in the ground beef, and the bread crumbs and mix.

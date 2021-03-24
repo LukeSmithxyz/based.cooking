@@ -13,7 +13,7 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
   or so.
 - Fix errors in recipes or add minor improvements.
 
-## Rules
+## Rules and license
 
 See [the rules](RULES.md).
 

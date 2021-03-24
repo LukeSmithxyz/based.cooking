@@ -36,4 +36,4 @@ This is a recipe for a basic loaf of bread. The dough itself can be used however
 
 Alex Selimov - [Website](https://alexselimov.xyz)
 
-;tags: basic bread strict-fast
+;tags: basic bread fasting

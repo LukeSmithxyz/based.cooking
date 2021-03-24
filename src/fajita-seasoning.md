@@ -24,4 +24,4 @@ Simple seasoning mix similar to Old El Paso. Can be used for any Mexican dishes 
 
 - Carl Zimmerman -- [website](https://codingwithcarl.com)
 
-;tags: basic mexican strict-fast
+;tags: basic mexican fasting

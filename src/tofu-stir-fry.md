@@ -1,6 +1,6 @@
 # Tofu Stir Fry
 
-A vegetarian (or vegan, without eggs) dish that is easy to make and very flavorful. Goes well with rice or noodles
+A vegetarian dish that is easy to make and very flavorful. Goes well with rice or noodles
 
 Serves 3 to 5.
 
@@ -9,7 +9,7 @@ Cooking time: ~10 to 20 minutes
 ## Ingredients
 
 - One block of extra firm tofu
-- Three eggs (unless vegan)
+- Three eggs
 - Vegetables per your choice, recommendations include:
   - Sugar snap peas
   - Chopped cabbage
@@ -37,4 +37,4 @@ Cooking time: ~10 to 20 minutes
 
 - [Kelvin Shadewing](https://odysee.com/@KelvinShadewing:d)
 
-;tags: vegetarian vegan tofu stir fry
+;tags: tofu fasting

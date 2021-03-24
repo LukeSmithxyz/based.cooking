@@ -24,4 +24,4 @@ Easy recipe for cooked chickpeas. Can be add to salads, rice, or almost anything
 
 - Carl Zimmerman -- [website](https://codingwithcarl.com)
 
-;tags: basic beans strict-fast
+;tags: basic beans fasting

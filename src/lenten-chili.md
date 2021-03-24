@@ -41,4 +41,4 @@ Let cool for a few minutes and then serve in bowls.
 
 - Yorge Z -- [github](https://github.com/yorgez)
 
-;tags: strict-fast
+;tags: fasting

@@ -1,5 +1,7 @@
 # Crab salad
 
+![Crab salad](pix/crab-salad.webp)
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min
 - 🍽️ Servings: 3
@@ -17,10 +19,11 @@
 
 ## Directions
 
-1. Chop crab meat and all other ingredients
-2. Combine and mix all ingredients
-3. Add mayonnaise
-4. Chill before serving
+1. Boil rice, eggs and carrot
+2. Chop crab meat and all other ingredients
+3. Combine and mix all ingredients
+4. Add mayonnaise
+5. Chill before serving
 
 ## Contribution
 

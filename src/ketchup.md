@@ -30,4 +30,4 @@
 
 - Anonymous
 
-;tags: basic sauce strict-fast
+;tags: basic sauce fasting

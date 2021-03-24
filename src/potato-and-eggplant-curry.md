@@ -39,4 +39,4 @@ A simple and tasty curry that is easy to customise.
 
 - Luke Chadwick - [website](https://lukechadwick.com)
 
-;tags: indian curry potato strict-fast
+;tags: indian curry potato fasting

@@ -1,24 +1,30 @@
 # Broiled Trevally
 
-Well, it's actually a *giant* trevally, and if you have seen one, that fish looks ugly.
-So here's a recipe to make it look---and taste!---more appealing.
+Well, it's actually a *giant* trevally, and if you have seen one, that fish
+looks ugly.  So here's a recipe to make it look---and taste!---more appealing.
+
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 6
 
 ## Ingredients
-- giant trevally
-- eggplants
-- squash (or zucchini)
-- carrots
-- onion
-- garlic
-- ginger
-- tomatoes
-- bay leaf
-- olive oil
-- thyme
-- basil
-- butter
+
+- Giant trevally
+- Eggplants
+- Squash (or zucchini)
+- Carrots
+- Onion
+- Garlic
+- Ginger
+- Tomatoes
+- Bay leaf
+- Olive oil
+- Thyme
+- Basil
+- Butter
 
 ## Directions
+
 1. Dice carrots, eggplant, squash, tomatoes and onions. Place these on a pan.
 2. Put basil, thyme, bay leaf, salt, and pepper on each of the fish's side. Place the fish above the veggies.
 3. Crush garlic and ginger (with [mortar and pestle, of course](mortar-and-pestle.html)) and place this in and around the fish.
@@ -29,6 +35,7 @@ So here's a recipe to make it look---and taste!---more appealing.
 8. Let everything set for 5 mins. before serving.
 
 ## Contribution
+
 - O.Q. Olarte [website](https://oqolarte.github.io), [donate](https://oqolarte.github.io/support)
 
 ;tags: fish cheesefare

@@ -1,14 +1,16 @@
 # Dried tomato & plum bread spread
 
-Quick and simple bread spread.
+- ⏲ Prep time: 3 min
+- 🍳 Cook time: 5 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
 - 10 dried plums
 - 1 jar of dried tomatoes
 - 1 tsp of smoked paprika
-- pinch of dried coriander (optional)
-- pinch of chilli (optional, if you like it to be spicy)
+- Pinch of dried coriander (optional)
+- Pinch of chilli (optional, if you like it to be spicy)
 
 ## Directions
 

@@ -2,7 +2,9 @@
 
 ![pancake](pix/danish-pancake.webp)
 
-Danish Pancake recipe
+- ⏲ Prep time: 45 min
+- 🍳 Cook time: 15 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -13,6 +15,7 @@ Danish Pancake recipe
 - 4 Eggs
 
 ## Directions
+
 1. Put all the ingredients in a bowl and stir until it's all mixed up.
 2. Preheat a pan with butter or Margarine.
 3. Turn when one side starts turning brown.
@@ -20,6 +23,7 @@ Danish Pancake recipe
 5. Add Butter or Margarine when needed.
 
 ## Served With
+
 - Sugar
 - Syrup
 - Powdered sugar
@@ -30,4 +34,4 @@ Danish Pancake recipe
 Jesper
 XMR: `88cPx6Gzv5RWRRJLstUt6hACF1BRKPp1RMka1ukyu2iuHT7iqzkNfMogYq3YdDAC8AAYRqmqQMkCgBXiwdD5Dvqw3LsPGLU`
 
-;tags: quick breakfast sweet pancake cheesefare
+;tags: quick breakfast sweet pancake

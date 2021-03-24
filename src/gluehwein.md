@@ -1,8 +1,12 @@
 # Glühwein - mulled wine
 
-A recipe for Glühwein/mulled wine a beverage you can find at almost every European christmas market. This recipe is my favorite one - optimized for flavor rather than alcohol content (it still kicks in).
+A recipe for Glühwein/mulled wine a beverage you can find at almost every
+European christmas market. This recipe is my favorite one - optimized for flavor
+rather than alcohol content (it still kicks in).
 
-- 🍽️ Servings:1-4
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 35 min
+- 🍽 Servings: 1-4
 
 ## Ingredients
 
@@ -30,4 +34,4 @@ for 1 liter of Glühwein
 
 - Bernhard Egger -- [website](https://eggerbernhard.ch), [twitter](https://twitter.com/VisionBernie)
 
-;tags: drink quick swiss german french
+;tags: drink quick swiss german

@@ -1,13 +1,18 @@
 # Brigadeiro
 
-A very traditional Brazilian dessert that is present in every Brazilian birthday party! Delicious and super easy to make.
+A very traditional Brazilian dessert that is present in every Brazilian birthday
+party! Delicious and super easy to make.
+
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 20 min
+- 🍽 Servings: 6
 
 ## Ingredients
 
 - One can of condensed milk.
 - Three or four spoons of chocolate powder or cocoa powder.
 - One spoon of butter (Actual butter and preferably unsalted. No margarine!)
-- Sprinkles (Optional)
+- Sprinkles (optional)
 
 ## Directions
 
@@ -17,7 +22,10 @@ A very traditional Brazilian dessert that is present in every Brazilian birthday
 4. If you chose to roll it into balls, you may also roll them around in sprinkles while still hot.
 
 ## Closing remarks
-Depending on how much brigadeiro you want to make, you'll have to add more or less of each ingredient, so be creative! Be careful with the chocolate powder, you definitely do not want to add too much of it!
+
+Depending on how much brigadeiro you want to make, you'll have to add more or
+less of each ingredient, so be creative! Be careful with the chocolate powder,
+you definitely do not want to add too much of it!
 
 ## Contribution
 

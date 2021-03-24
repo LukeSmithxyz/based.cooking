@@ -1,14 +1,18 @@
 # Pasta sauce
 
-This is very simple pasta sauce.
-Unlike modern store-bought sauces, there is no added sugar, only the subtle taste of San Marzano tomatoes.
+This is very simple pasta sauce. Unlike modern store-bought sauces, there is no
+added sugar, only the subtle taste of San Marzano tomatoes.
+
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 6
 
 ## Ingredients
 
-- a can of San Marzano tomatoes (or home-grown with some extra pulp)
-- onion or garlic
-- olive oil
-- oregano or basil (Dried or diced)
+- A can of San Marzano tomatoes (or home-grown with some extra pulp)
+- Onion or garlic
+- Olive oil
+- Oregano or basil (Dried or diced)
 
 ## Directions
 

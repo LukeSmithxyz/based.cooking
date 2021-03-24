@@ -2,9 +2,9 @@
 
 Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds of asian inspired sauted vegetables.
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 10 min
-- 🍽️ Servings: 2
+- 🍽 Servings: 2
 
 ## Ingredients
 
@@ -29,4 +29,5 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 ## Contribution
 
 - mjt91 - [website](https://github.com/mjt91), [donate](https://www.paypal.com/paypalme/mjt91)
+
 ;tags: side quick asian strict-fast

@@ -1,8 +1,8 @@
 # Orange Glorious
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 5 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -15,7 +15,9 @@
 
 ## Directions
 
-1. In a blender, combine orange juice concentrate, milk, water, sugar and vanilla. Add ice cubes and blend until smooth. Pour into glasses and serve.
+1. In a blender, combine orange juice concentrate, milk, water, sugar and vanilla.
+2. Add ice cubes and blend until smooth.
+3. Pour into glasses and serve.
 
 ## Contribution
 

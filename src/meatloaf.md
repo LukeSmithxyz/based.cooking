@@ -2,11 +2,12 @@
 
 ![Meatloaf](pix/meatloaf.webp)
 
-This recipe will result in two or three glass dishes of tasty, moist meatloaf. Great for family suppers.
+This recipe will result in two or three glass dishes of tasty, moist
+meatloaf. Great for family suppers.
 
-- ⏲️ Prep time: 30 min
-- 🍳 Cook time: 1 hour 10 minutes
-- 🍽️ Servings: 6+
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 1 hr 10 min
+- 🍽 Servings: 6
 
 ## Ingredients
 
@@ -38,7 +39,7 @@ This recipe will result in two or three glass dishes of tasty, moist meatloaf. G
 11. Toss your 3 sugar cubes into a bowl with a little bit of hot water to melt them.
 12. Add your tomato soup, 1/4 Cup of ketchup and mustard (each).
 13. Stir sauce until it's a thick, light red color.
-14. Once 1 hour is up, take out all of your meatloaf. *Make sure to cut open the thickest meatloaf and confirm the beef is cooked*. 
+14. Once 1 hour is up, take out all of your meatloaf. *Make sure to cut open the thickest meatloaf and confirm the beef is cooked*.
 15. Coat the top of each of your meatloaves with the sauce, evenly.
 16. Once coated, put back into the oven for 10 minutes.
 17. Take out all of your meatloaf. Once cool, slice it up and serve!

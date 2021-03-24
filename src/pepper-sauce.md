@@ -1,18 +1,17 @@
 # Pepper Sauce
 
-A very basic pepper sauce that is great for steaks and other dishes
+A very basic pepper sauce that is great for steaks and other dishes.
 
-- ⏲️ Prep time: 2 min
+- ⏲ Prep time: 2 min
 - 🍳 Cook time: 20 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 
-- 1 tablespoon freshy ground rose pepper, green pepper and black pepper
-- 1 teaspoon dijon mustard
-- 1dl bouillon
-- 2dl cream
-- Salt if needed
+- 1 tablespoon freshy ground rose pepper, green pepper and black pepper.
+- 1 teaspoon dijon mustard.
+- 1dl bouillon.
+- 2dl cream.
 
 ## Directions
 
@@ -25,4 +24,4 @@ A very basic pepper sauce that is great for steaks and other dishes
 
 - Vili Kangas
 
-;tags: sauce steak
+;tags: sauce steak quick

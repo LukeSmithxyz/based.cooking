@@ -2,10 +2,10 @@
 
 _A tradicional Madeiran-Portuguese Bread_
 
-- ⏲️ Prep time: 1 hour
+- ⏲ Prep time: 1 hour
 - 🍳 Cook time: 45 min
 - 💤 Rest time: 3 days
-- 🍽️ Servings: 10 breads
+- 🍽 Servings: 10 breads
 
 ## Ingredients
 
@@ -18,6 +18,7 @@ __Imperial__
 - 3 teaspoons salt
 
 __Metric__
+
 - 750 g sweet potato
 - 1 kg all-purpose flour
 - 150 ml water (warm at 75F / 35C)

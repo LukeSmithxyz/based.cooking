@@ -1,15 +1,19 @@
 # Pilaf
 
-Popular central asian and middle eastern dish.
-High in nutrition, designed to be prepared and eaten communally.
+Popular central asian and middle eastern dish. High in nutrition, designed to
+be prepared and eaten communally.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 25 min
+- 🍽 Servings: 6-8
 
 ## Ingredients
 
-- long grain [rice](rice.html): 1 kg
-- meat (lamb or any other kind of meat): 1.5 kg
-- carrots
-- onions
-- raisins, cardamom, paprika, coriander, cinnamon, cumin, turmeric (all optional)
+- Long grain [rice](rice.html): 1 kg
+- Meat (lamb or any other kind of meat): 1.5 kg
+- Carrots
+- Onions
+- Raisins, cardamom, paprika, coriander, cinnamon, cumin, turmeric (all optional)
 
 ## Directions
 

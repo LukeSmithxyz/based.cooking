@@ -2,11 +2,13 @@
 
 ![Japanese Noodle Soup](pix/japanese-noodle-soup.webp)
 
-This is a very easy and simple Japanese style ramen noodle soup. This is very cheap to make, and you can really customise this however you wish with the garnish. This is my own spin inspired by other recipes that I found.
+This is a very easy and simple Japanese style ramen noodle soup. This is very
+cheap to make, and you can really customise this however you wish with the
+garnish. This is my own spin inspired by other recipes that I found.
 
-- ⏲️ Prep time: 20 minutes
+- ⏲ Prep time: 20 minutes
 - 🍳 Cook time: 20 minutes
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 

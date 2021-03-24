@@ -1,7 +1,10 @@
 # French Crêpes
+
 Like pancakes, but very thin.
 
-15 crêpes.
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 15
 
 ## Ingredients
 

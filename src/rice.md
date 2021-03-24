@@ -1,14 +1,18 @@
 # Rice
 
-Rice is easy to make in any pot.
-The simple use of different spices can change its use or what it accents.
+Rice is easy to make in any pot. The simple use of different spices can change
+its use or what it accents.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 20 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
-- rice
+- Rice
 - [chicken stock](chicken-stock-bone-broth.html) (optional)
-- onion or garlic (optional)
-- lime and cilantro (optional, for a Mexican taste)
+- Onion or garlic (optional)
+- Lime and cilantro (optional, for a Mexican taste)
 
 ## Directions
 
@@ -23,8 +27,8 @@ The simple use of different spices can change its use or what it accents.
 
 For Mexican rice, you might want to avoid cooking in stock to avoid taste clashes.
 
-6. Dice up some cilantro.
-7. Mix in cilantro to finished rice, along with some squeezes of lime juice.
+1. Dice up some cilantro.
+2. Mix in cilantro to finished rice, along with some squeezes of lime juice.
 
 ## Contribution
 

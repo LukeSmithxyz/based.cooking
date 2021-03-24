@@ -2,9 +2,9 @@
 
 ![Finished bread](pix/no-knead-bread-1.webp)
 
-- ⏲️ Prep time: 13 h 
+- ⏲ Prep time: 13 h
 - 🍳 Cook time: 50 m
-- 🍽️ Servings: 8-12 slices
+- 🍽 Servings: 8-12 slices
 
 ## Ingredients
 
@@ -16,14 +16,16 @@
 
 ## Directions
 
- 1. Mix the dry ingredients then add the hot water. It should come out as a firm dough.
- 2. Leave the dough at room temperature for 12 hours.
-    ![Before baking](pix/no-knead-bread-2.webp)
- 3. Preheat oven and pan to 450 F.
- 4. Bake for 30 minutes covered (e.g. aluminum foil), then 20 minutes uncovered.
+1. Mix the dry ingredients then add the hot water. It should come out as a firm dough.
+2. Leave the dough at room temperature for 12 hours.
+
+![Before baking](pix/no-knead-bread-2.webp)
+
+3. Preheat oven and pan to 450 F.
+4. Bake for 30 minutes covered (e.g. aluminum foil), then 20 minutes uncovered.
 
 ## Contribution
 
- - [By enthdegree.](ebn0.net)
+	- [By enthdegree.](ebn0.net)
 
 ;tags: bread baking

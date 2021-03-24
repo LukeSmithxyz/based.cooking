@@ -1,5 +1,9 @@
 # Tortellini
 
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 3 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - Tortellini

@@ -1,8 +1,8 @@
 # Tiroler Gröstl
 
-- ⏲️  Prep time: 15 min
+- ⏲ Prep time: 15 min
 - 🍳 Cook time: 30 min
-- 🍽️ Servings: 5
+- 🍽 Servings: 5
 
 ## Ingredients
 
@@ -28,6 +28,6 @@
 
 ## Contribution
 
- - Peter Wilbrink -- [printplaatreparatie.nl](https://printplaatreparatie.nl)
+	- Peter Wilbrink -- [printplaatreparatie.nl](https://printplaatreparatie.nl)
 
 ;tags: austrian bacon

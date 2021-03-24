@@ -2,8 +2,9 @@
 
 A delicious syrup that can be eaten on bread and used in a multitude of recipes.
 
-- ⏲️ Prep time: 30 min
-- 🍳 Cook time: 6 hours
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 6 hr
+- 🍽 Servings: 8
 
 ## Ingredients
 

@@ -1,12 +1,16 @@
 # Schinkenfleckerl überbacken, Viennese Mac'n'Cheese
 
-* ⏲️ Prep time: 25 min
-* 🍳 Cook time: 120 min
-* 🍽️ Servings: 8-12
+This is a recipe for a typical Austrian carb and protein bomber. This is
+traditionally made with ham or smoked rolled roast. This is good if you want to
+feed a family or if you just want to be lazy and eat the same thing for 3 or 4
+days.
 
-This is a recipe for a typical Austrian carb and protein bomber. This is traditionally made with ham or smoked rolled roast. This is good if you want to feed a family or if you just want to be lazy and eat the same thing for 3 or 4 days.
+Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4
+Oil-Vinegrette)
 
-Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 Oil-Vinegrette)
+- ⏲ Prep time: 25 min
+- 🍳 Cook time: 2 hr
+- 🍽 Servings: 8-12
 
 ## Ingredients
 
@@ -16,9 +20,8 @@ Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 
 - 500 ml sour cream
 - 1-2 eggs
 - Majoran, Muskat, Pepper
-- Optional:
-  - parmesan
-  - chili flakes
+- parmesan (optional)
+- chili flakes (optional)
 
 ## Directions
 

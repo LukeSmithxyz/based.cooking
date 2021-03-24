@@ -4,9 +4,9 @@
 
 Original Austrian breaded meat, pan-fried in butter.
 
-- ⏲️ Prep time: 15 min
+- ⏲ Prep time: 15 min
 - 🍳 Cook time: 6 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 

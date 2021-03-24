@@ -4,9 +4,9 @@
 
 This recipe results in five slices of easy to make french toast.
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 25 min
-- 🍽️ Servings: 1
+- 🍽 Servings: 1
 
 ## Ingredients
 

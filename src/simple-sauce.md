@@ -1,11 +1,16 @@
 # Simple sauce
 
-This is a simple and well known recipe. It goes by many names and this recipe is a starting point for many sauces, eg '1000 island sauce'.
+This is a simple and well known recipe. It goes by many names and this recipe is
+a starting point for many sauces, eg '1000 island sauce'.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 0 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
-+ Tomato sauce.
-+ Mayonaise
+- Tomato sauce
+- Mayonaise
 
 ## Directions
 

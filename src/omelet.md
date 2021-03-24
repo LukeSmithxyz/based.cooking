@@ -1,21 +1,22 @@
 # Omelet
 
-- ⏲️ Prep time: 10 min
-- 🍳 Cook time: ≈ 30 min
-- 🍽️ Servings: 4 Omelets
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
-* 2 tablespoon quick-cooking tapioca
-* 1/2 teaspoon salt
-* 1/8 teaspoon pepper
-* 3/4 cup milk, scalded
-* 1 tablespoon butter, or margarine
-* 4 egg yolks, beaten until thick
-* 4 egg whites, beaten stiff
-* Cheddar Cheese (optional for Cheese Omelet)
+- 2 tablespoon quick-cooking tapioca
+- 1/2 teaspoon salt
+- 1/8 teaspoon pepper
+- 3/4 cup milk, scalded
+- 1 tablespoon butter, or margarine
+- 4 egg yolks, beaten until thick
+- 4 egg whites, beaten stiff
+- Cheddar Cheese (optional for Cheese Omelet)
 
 ## Directions
+
 1. Add tapioca, salt and pepper to milk; cook in double boiler 15 minutes or until tapioca is clear and mixture thickened, stirring  frequently.
 2. Add butter.
 3. Allow it to cool; combine with egg yolks, stirring occasionally.
@@ -30,8 +31,8 @@
 
 ### For Cheese Omelet
 
-* Add 1/2 cup grated sharp Cheddar Cheese just before folding in egg whites.
-* Before putting omelet in oven, sprinkle top with an additional 1/2 cup of grated cheese.
+- Add 1/2 cup grated sharp Cheddar Cheese just before folding in egg whites.
+- Before putting omelet in oven, sprinkle top with an additional 1/2 cup of grated cheese.
 
 ## Contribution
 

@@ -2,16 +2,20 @@
 
 This is American-style stroganoff.
 
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 15 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
-- beef
+- Beef
 - [chicken stock](chicken-stock-bone-broth.html)
-- onions
-- flour
-- butter
+- Onions
+- Flour
+- Butter
 - Worchestershire sauce or something similar
-- dijon or honey dijon mustard
-- egg noodles
+- Dijon or honey dijon mustard
+- Egg noodles
 
 ## Directions
 

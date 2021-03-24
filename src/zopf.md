@@ -1,9 +1,11 @@
 # Zopf
 
-- ⏲️ Prep time: 30 min (plus one hour rising)
+- ⏲ Prep time: 30 min + 1 hr rinsing
 - 🍳 Cook time: 30 min
+- 🍽 Servings: 4
 
 ## Ingredients
+
 - 1kg white wheat flour
 - ½L milk
 - 125g butter
@@ -12,6 +14,7 @@
 - 1 egg
 
 ## Directions
+
 1. Cut or tear up butter and put in skillet with milk on low heat (This is so the ingredients are not too clod, temperature should not exceed 31 C).
 2. Put the flour in a large bow with the yeast, salt, milk and butter.
 3. Mix and kneed for at least 15 minutes making sure to stretch the dough a lot.
@@ -23,6 +26,7 @@
 9. Wait for the bread to cool before cutting.
 
 ## Contribution
+
 - Thijs Wester - [website](https://twester.tk)
 
 ;tags: swiss bread cheesefare

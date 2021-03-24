@@ -2,9 +2,9 @@
 
 Or "Squash in Coconut Milk". This is a common Filipino dish.
 
-- ⏲️ Prep time: 10 min
+- ⏲ Prep time: 10 min
 - 🍳 Cook time: 30 min
-- 🍽️ Servings: 8
+- 🍽 Servings: 8
 
 ## Ingredients
 

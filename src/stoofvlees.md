@@ -3,9 +3,9 @@
 This is a traditional belgian stew made with cheap, though beef cuts, beer and onions.
 Traditionally eaten with fries and chicory salad.
 
-- ⏲️ Prep time: 30 min
-- 🍳 Cook time: 2 to 4 hours
-- 🍽️ Servings: 4
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 2-4 hr
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -36,6 +36,7 @@ Traditionally eaten with fries and chicory salad.
 11. The cooking time will depend on the quality of your meat, start checking the if your meat is done once its been simmering for about 2 hours.
 12. The meat is done when the pieces hold together when gently stirring the sauce, but are easily cut with a fork or spoon.
 13. Finish the sauce by gently stirring in the vinegar to brighten up the flavors and serve.
+
 ## Contribution
 
 - Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`

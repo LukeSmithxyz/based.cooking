@@ -1,10 +1,12 @@
 # Bolinhos de Coco
 
-This is a Portuguese dish that translates to "coconut cupcakes," though there are probably lots of equivalent dishes from other cultures.
-Its simplicity and short preparation time make it perfect for a snack or dessert.
+This is a Portuguese dish that translates to "coconut cupcakes," though there
+are probably lots of equivalent dishes from other cultures.  Its simplicity and
+short preparation time make it perfect for a snack or dessert.
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 10 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -27,4 +29,4 @@ Its simplicity and short preparation time make it perfect for a snack or dessert
 - A family recipe (not mine)
 - Submitted by Mealwhiles
 
-;tags: portuguese quick sweet dessert cheesefare
+;tags: portuguese quick sweet dessert

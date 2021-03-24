@@ -1,11 +1,14 @@
 # Stuffed Round Squash
 
-![](pix/stuffed-round-squash-02.webp)
+![Stuffed round squash](pix/stuffed-round-squash-02.webp)
 
-Round Squash, Zucchini, or Courguettes can be served as main dish (2 servings per person) or as accompaniment. The amount of squash should be adjusted according to their size. This recipe uses ones the size of a fist.
+Round Squash, Zucchini, or Courguettes can be served as main dish (2 servings
+per person) or as accompaniment. The amount of squash should be adjusted
+according to their size. This recipe uses ones the size of a fist.
 
-- ⏲️ Prep time: 50 min
-- 🍽️ Servings: 4
+- ⏲ Prep time: 50 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -27,4 +30,4 @@ Round Squash, Zucchini, or Courguettes can be served as main dish (2 servings pe
 
 - Marco Fleres
 
-;tags: supper rice vegetables cheesefare strict-fast
+;tags: supper rice vegetables strict-fast

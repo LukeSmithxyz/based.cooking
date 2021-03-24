@@ -1,7 +1,12 @@
 # Maque Choux
 
-An old cajun recipe for stewed corn & tomatoes. Enjoyable at any time of year, but I love to make it on hot summer afternoons as a side to
-a sausage dish. Pairs well with brown ales.
+An old cajun recipe for stewed corn & tomatoes. Enjoyable at any time of year,
+but I love to make it on hot summer afternoons as a side to a sausage
+dish. Pairs well with brown ales.
+
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 45 min
+- 🍽 Servings: 4-6
 
 ## Ingredients
 
@@ -19,7 +24,6 @@ a sausage dish. Pairs well with brown ales.
 2. Mix all ingredients in a bowl excluding the grease. Salt & pepper to taste.
 3. Pour mixture into a pot with hot grease in it at low heat.
 4. Cover pot and cook for 45 minutes, and stir as you get up for more beers.
-5. Serve. (Serves 4-6)
 
 ## Contributors
 

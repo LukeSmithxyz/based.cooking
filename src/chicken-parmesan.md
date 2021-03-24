@@ -2,16 +2,20 @@
 
 The recipe that started this very site.
 
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
-- chicken breasts
-- tomatoes (San Marzano is best)
-- mozzarella cheese
-- parmesan cheese
-- bread crumbs
-- eggs
-- flour
-- [pasta sauce](pasta-sauce.html)
+- Chicken breasts
+- Tomatoes (San Marzano is best)
+- Mozzarella cheese
+- Parmesan cheese
+- Bread crumbs
+- Eggs
+- Flour
+- [Pasta sauce](pasta-sauce.html)
 
 ## Directions
 

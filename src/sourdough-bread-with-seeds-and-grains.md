@@ -2,8 +2,9 @@
 
 ![Sourdough bread with seeds and grains](pix/sourdough-bread-with-seeds-and-grains.webp)
 
-- ⏲️ Prep time: 15 min
+- ⏲ Prep time: 15 min
 - 🍳 Cook time: 120 min
+- 🍽 Servings: 1
 
 ## Ingredients
 

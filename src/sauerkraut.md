@@ -1,6 +1,11 @@
 # Sauerkraut
 
-Sauerkraut is a based lacto-fermented food that is healthy and has a long shelf live.
+Sauerkraut is a based lacto-fermented food that is healthy and has a long shelf
+live.
+
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

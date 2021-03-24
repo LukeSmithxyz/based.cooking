@@ -1,13 +1,13 @@
 # Savory Squash
 
-- Prep Time: 5 mins
-- Cook Time: 1 Hour
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 1 hr
+- 🍽 Servings: 4
 
 ## Ingredients
 
 - 1 Butternut Squash
 - 1/2 Stick of butter
-- Salt, to taste
 - St. Augur Blue Cheese
 - Chives
 
@@ -20,6 +20,7 @@
 5. Garnish with chopped chives on top.
 
 ## Contribution
+
 - Joe Powerhouse, BTC: 1KPxw9js2VukakhMv2wUUFUQZnHQL842ju
 
 ;tags: american side fruit

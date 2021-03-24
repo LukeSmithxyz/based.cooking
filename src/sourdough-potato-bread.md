@@ -2,8 +2,9 @@
 
 ![Potato sourdough bread](pix/sourdough-potato-bread.webp)
 
-- ⏲️ Prep time: 15 min
+- ⏲ Prep time: 15 min
 - 🍳 Cook time: 45 min
+- 🍽 Servings: 1
 
 ## Ingredients
 

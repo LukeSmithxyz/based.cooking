@@ -2,10 +2,9 @@
 
 ![Lenten chili](pix/lenten-chili.webp)
 
-
-- ⏲️ Prep time: 10 min
+- ⏲ Prep time: 10 min
 - 🍳 Cook time: 30 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -41,4 +40,4 @@ Let cool for a few minutes and then serve in bowls.
 
 - Yorge Z -- [github](https://github.com/yorgez)
 
-;tags: strict-fast
+;tags: supper strict-fast

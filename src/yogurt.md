@@ -1,5 +1,9 @@
 # Yogurt
 
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 5-10 min + 12hr wait time
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 2 thermos, ½l capacity each

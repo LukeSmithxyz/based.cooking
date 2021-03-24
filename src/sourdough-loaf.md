@@ -2,16 +2,27 @@
 
 ![Sourdough Table Loaf](pix/sourdough-loaf.webp)
 
-If you've never made your own sourdough bread, it can be intimidating! But I believe it is absolutely worth the time and effort. You can look up videos to explain some of the methods listed, such as the stretch and fold, or different ways to shape your loaf. Fermenting grains has been a tradition of home cooking for millennia, and an art only lost in recent years. Fermenting grains has numerous health benefits, is much easier to digest, and even contains natural preservatives. You can get a sourdough starter from any bakery in your area, or make your own from scratch! Also, if you don't have a scale, get one!
+If you've never made your own sourdough bread, it can be intimidating! But I
+believe it is absolutely worth the time and effort. You can look up videos to
+explain some of the methods listed, such as the stretch and fold, or different
+ways to shape your loaf. Fermenting grains has been a tradition of home cooking
+for millennia, and an art only lost in recent years. Fermenting grains has
+numerous health benefits, is much easier to digest, and even contains natural
+preservatives. You can get a sourdough starter from any bakery in your area, or
+make your own from scratch! Also, if you don't have a scale, get one!
+
+- ⏲ Prep time: 48 hr
+- 🍳 Cook time: 40 min
+- 🍽 Servings: 1
 
 ## Ingredients
 
-* 100g fed [sourdough starter](sourdough-starter.html) (levain)
-* 330g warm water
-* 137g bread flour
-* 250g all-purpose flour (avoid bleached and enriched)
-* 87g rye or whole wheat flour
-* 7g sea salt
+- 100g fed [sourdough starter](sourdough-starter.html) (levain)
+- 330g warm water
+- 137g bread flour
+- 250g all-purpose flour (avoid bleached and enriched)
+- 87g rye or whole wheat flour
+- 7g sea salt
 
 ## Directions
 

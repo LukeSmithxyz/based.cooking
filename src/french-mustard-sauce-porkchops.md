@@ -1,7 +1,10 @@
 # French mustard sauce porkchops (Côtes de porc charcutières)
 
-French bistrot style porkchops with a mustard, white wine and gherkins sauce. Very quick to cook.
-Serves 4
+French bistrot style porkchops with a mustard, white wine and gherkins sauce.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

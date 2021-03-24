@@ -4,6 +4,10 @@ A quick breakfast spaghetti recipe that covers a healthy amount of carbs, fat, a
 and/or bacon can be added to cover some protein, you should cook those while the boiler is cooking
 the spaghetti for time efficiency.
 
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 15 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - Spaghetti (any kind you prefer)

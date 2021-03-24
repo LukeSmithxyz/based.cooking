@@ -1,19 +1,21 @@
 # Ketchup
 
-- Ketchup/Catsup
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 1.5 hr
+- 🍽 Servings: 4
 
 ## Ingredients
 
-* 2 1/2 quart (15 to 17 medium-sized) sliced tomatoes
-* 1 large garlic clove, chopped
-* 1 cup vinegar
-* 1/4 cup chopped onion
-* 1/2 cup sugar
-* 3 - inch piece stick cinnamon
-* 1 1/4 teaspoon salt
-* 1 teaspoon paprika
-* 1 teaspoon whole cloves
-* a dash cayenne pepper
+- 2 1/2 quart (15 to 17 medium-sized) sliced tomatoes
+- 1 large garlic clove, chopped
+- 1 cup vinegar
+- 1/4 cup chopped onion
+- 1/2 cup sugar
+- 3 inch piece stick cinnamon
+- 1 1/4 teaspoon salt
+- 1 teaspoon paprika
+- 1 teaspoon whole cloves
+- a dash cayenne pepper
 
 ## Directions
 

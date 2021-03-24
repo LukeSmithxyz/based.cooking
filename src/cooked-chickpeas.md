@@ -1,10 +1,10 @@
 # Cooked Chickpeas
 
-Easy recipe for cooked chickpeas. Can be add to salads, rice, or almost anything else.
+Easy recipe for cooked chickpeas. Can be added to salads, rice, or almost anything else.
 
-- ⏲️ Prep time: 1 min
+- ⏲ Prep time: 1 min
 - 🍳 Cook time: 15 min
-- 🍽️ Servings: 3
+- 🍽 Servings: 3
 
 ## Ingredients
 
@@ -22,6 +22,6 @@ Easy recipe for cooked chickpeas. Can be add to salads, rice, or almost anything
 
 ## Contribution
 
-- Carl Zimmerman -- [website](https://codingwithcarl.com)
+- Carl Zimmerman -- [website](https://codingwithcarl.com)
 
 ;tags: basic beans strict-fast

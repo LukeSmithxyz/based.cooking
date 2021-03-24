@@ -2,21 +2,21 @@
 
 This is a recipe for making Jordan's Country Crisp-like cereals.
 
-- ⏲️ Prep time: 10 min
-- 🍳Cook time: 2 h
-- 🍽️ Servings: 7
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 2 hr
+- 🍽 Servings: 7
 
 ## Ingredients
 
 - Oat Flakes (270 g - 800 mL)
 - Rice Flour (or any other flour) (20 g - 55mL)
 - Sugar (100 g)
-- Crushed Hazelnuts (20 g) 
+- Crushed Hazelnuts (20 g)
 - Oil (any type) (60 g - 75 mL)
 - Water (50 g)
 - Chocolate (70 g) (optional)
 - Vanilla Extract (1/2 tsp) (optional)
- 
+
 ## Directions
 
 1. Preheat the oven at 120°C.

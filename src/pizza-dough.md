@@ -3,6 +3,10 @@
 Here is a simple pizza dough recipe. Basically you use a 2/1 ratio of
 flour/liquid. If you use other flour like rye, you may need more liquid.
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 400g flour (basic wheat flour)
@@ -20,6 +24,6 @@ flour/liquid. If you use other flour like rye, you may need more liquid.
 
 ## Contribution
 
-BeFe
+- BeFe
 
 ;tags: basic pizza

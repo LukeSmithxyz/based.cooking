@@ -1,13 +1,17 @@
 # Salsa Verde
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 2
+
 ## Ingredients
 
-* 1 pound (450g) tomatillos, husks removed
-* 1 clove garlic
-* 2 jalapeño or serrano chiles
-* 1/2 cup (26g) chopped onion
-* 3 Tbsp (40ml) oil
-* cilantro
+- 1 pound (450g) tomatillos, husks removed
+- 1 clove garlic
+- 2 jalapeño or serrano chiles
+- 1/2 cup (26g) chopped onion
+- 3 Tbsp (40ml) oil
+- cilantro
 
 ## Directions
 
@@ -15,10 +19,8 @@
 2. Transfer tomatillos, garlic, and chiles into a blender or food processor. Add the onion and cilantro. Puree until smooth, then salt to taste, usually a teaspoon (6g) will suffice.
 3. Heat oil in a medium saucepan until hot but not smoking. Pour puree into the pan and cook, stirring occasionally, until thickened somwhat, about 6-8 minutes.
 
-Makes about 2 cups (475mL). Refrigerate leftovers
-
 ## Contribution
 
--Nathan
+- Nathan
 
 ;tags: mexican sauce

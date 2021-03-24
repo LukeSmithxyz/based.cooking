@@ -2,8 +2,9 @@
 
 This recipe cointains instructions for sourdough starter needed for all sourdough breads. The starter can be done with either wheat flour or rye flour for rye breads. Prefer organic flours as they contain most wild yeasts.
 
-- ⏲️ Prep time: 5 min/day
-- ⏲️ Wait time: 4 days
+- ⏲ Prep time: 5 min/day + wait time of 4 days
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 1
 
 ## Ingredients
 

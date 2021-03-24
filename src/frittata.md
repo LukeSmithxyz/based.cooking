@@ -2,9 +2,9 @@
 
 Very filling egg dish that's easy, fast, and can be eaten at any meal. Any other types of vegetables can be added, this is just what I use the most
 
-- ⏲️ Prep time: 10 min
+- ⏲ Prep time: 10 min
 - 🍳 Cook time: 30 min
-- 🍽️ Servings:4-6
+- 🍽 Servings:4-6
 
 ## Ingredients
 
@@ -26,6 +26,7 @@ Very filling egg dish that's easy, fast, and can be eaten at any meal. Any other
 7. Flip out of pan and cool to room temperature to ensure settling.
 
 ## Notes
+
 - Other good vegetables include spinach, tomatoes, mushrooms, broccoli rabe
 - If adding tomatoes, try to keep as much of the juice out to prevent it from being too watery and falling apart
 - An easy way to get it out of the pan is flip upside down on to a plate and then flip again onto another plate/cooling rack

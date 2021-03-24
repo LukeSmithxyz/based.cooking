@@ -18,9 +18,21 @@ Make [based.cooking](https://based.cooking) based again!
 
 ### Freedom
 
+#### License
+
 When you submit anything to [based.cooking](https://based.cooking), you agree to release your work under the CC0 1.0 license.
+Everything in the [based.cooking](https://based.cooking) repository is licensed under the CC0 1.0 license.
+Contributions licensed under any incompatible license will be rejected.
+
+#### Requests for removal
+
 Requests to have your work removed will be ignored.
-Contributions under any incompatible license will be rejected.
+
+#### Attribution
+
+Attribution is unnecessary under the CC0 1.0 license.
+However, you are welcome and recommended to give yourself credit at the bottom of a recipe you submitted, including links to your personal website and to your donation pages.
+**Do not** link to social media sites.
 
 ### Recipe format
 

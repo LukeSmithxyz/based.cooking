@@ -16,7 +16,7 @@ Make [based.cooking](https://based.cooking) based again!
 
 ## Rules
 
-## Freedom
+### Freedom
 
 When you submit anything to [based.cooking](https://based.cooking), you agree to release your work under the CC0 1.0 license.
 Requests to have your work removed will be ignored.

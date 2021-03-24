@@ -32,4 +32,4 @@ Aljotta, 'jo' as in "Yo!", is a light fish soup with roots in french bouillabais
 
 Shou, [website](https://shouganai.xyz)
 
-;tags: fish soup mediterranian
+;tags: fish soup mediterranean

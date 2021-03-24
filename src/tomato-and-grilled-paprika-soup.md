@@ -1,6 +1,6 @@
 # Tomato and Grilled Bell Pepper soup
 
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - 🍽️Servings:12
 
 Can be prepared the night before and kept frozen for a week or two.
@@ -19,7 +19,6 @@ Can be prepared the night before and kept frozen for a week or two.
 - 2T olive oil
 - 2T heavy cream
 
-
 ## Directions
 1. Halve, deseed and grill the bell peppers in an oven or on a grill. Remove skin after grilling.
 2. Skin and quarter tomatoes.
@@ -30,4 +29,4 @@ Can be prepared the night before and kept frozen for a week or two.
 ## Contribution
 - Thijs Wester - [website](https://twester.tk)
 
-;tags: soup
+;tags: soup cheesefare

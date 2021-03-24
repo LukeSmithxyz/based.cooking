@@ -1,6 +1,7 @@
-# Lenten (Vegan) Chili
+# Lenten Chili
 
 ![Lenten chili](pix/lenten-chili.webp)
+
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min

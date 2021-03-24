@@ -9,7 +9,7 @@ Simple seasoning mix similar to Old El Paso. Can be used for any Mexican dishes 
 - 1/2 tsp Paprika
 - 1/2 tsp Smoked Paprika
 - 1/2 tsp Ground Cumin
-- 1/2 tsp Ground Coriander 
+- 1/2 tsp Ground Coriander
 - 1/2 tsp Oregano
 - 1/2 tsp Cayenne Pepper
 - 1 tsp Salt
@@ -18,10 +18,10 @@ Simple seasoning mix similar to Old El Paso. Can be used for any Mexican dishes 
 
 ## Directions
 
-1. Mix seasonings in a bowl. Adjust amounts depending on how much is needed. 
+1. Mix seasonings in a bowl. Adjust amounts depending on how much is needed.
 
 ## Contribution
 
 - Carl Zimmerman -- [website](https://codingwithcarl.com)
 
-;tags: basic mexican
+;tags: basic mexican strict-fast

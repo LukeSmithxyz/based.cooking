@@ -6,25 +6,26 @@ Cacio e Pepe (meaning cheese and pepper) is not only based but also incredibly s
 
 ## Ingredients
 
-- Spaghetti (recipe works with pretty much any type)
-- Grated Parmasean Cheese (or something similar, pic above uses parmasean and fresh mozzarella)
-- Grated Parmesan Cheese (or something similar)
+- Spaghetti
+- Grated Pecorino Romano
+- Peppercorns (you can also use pepper but it will change the flavour)
 
 ## Directions
 
-1. Cook your chosen amount of spaghetti 1-2 minutes under the time on the package
-according to the directions on the package or however you usually do it.
-2. Discard most of the water, leaving about 1/4 to 1/2 cup of water in with the pasta (it depends on how much pasta you're making)
-3. On medium heat, add the grated Parmesan cheese and stir everything so that the cheese melts and evenly coats the pasta.
-How much cheese you need depends on how much spaghetti you're cooking. If it doesn't taste cheesy enough, add more on top at the end.
-4. After 1 minute or so on medium heat, the pasta water and cheese will combine to form a creamy sauce.
-5. Top with more cheese if you need, then add black pepper and salt according to your taste.
-Pasta water and the cheese are already salty, so you may not need to add any extra salt.
-6. It's done!
+1. Cook your chosen amount of spaghetti 3-4 minutes under the time on the package
+   according to the directions on the package or however you usually do it.
+2. Meanwhile place the peppercorns on a cutting board and mash them with a pestle.
+3. Place half of the peppercorns in a pan and toast them at medium heat.
+4. Drain the pasta, place it in the pan and save the boiling water for later use.
+5. Add the pasta with the pepper with 2 spoons of the water previously saved.
+6. Prepare the Pecorino by putting half of it a bowl with a spoon of boiling water; continue mixing the cheese with the water until a cream is formed.
+7. When the pasta is almost cooked, add the cream and mix (you can add more water if the pasta is too dry).
+8. Serve on a plate with the Pecorino left before on top.
 
 ## Contributors
 
 - Some guy called [siedes](https://github.com/siedes)
 - Batu Cam -- Added picture -- XMR: `85eZ4uVd4gkiCsQEeDnsQG9pUbDzdi1r1VSJ9hK5Sx7hKsFZjvmqtWV7gU1ysWUR32jhWutBRGUUq8VAJNUfin9wBCCuTdg`
+- [S0NN1](https://github.com/S0NN1) -- fixed the recipe based on the original italian one -- [website](https://nicolosonnino.it)
 
-;tags: italian quick pasta
+;tags: italian quick pasta cheesefare

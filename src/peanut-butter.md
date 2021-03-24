@@ -1,6 +1,6 @@
 # Peanut Butter
 
-## Ingredient
+## Ingredients
 
 - 1 lb. of raw pre-shelled peanuts
 
@@ -14,4 +14,4 @@
 
 - Jacob Smith - [website](https://jacobwsmith.xyz)
 
-;tags: spread snack basic
+;tags: spread snack basic strict-fast

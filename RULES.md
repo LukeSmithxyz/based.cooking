@@ -133,7 +133,7 @@ Nobody cares about the 1000-page lore and backstory of your recipe's cinematic u
 
 ### No smoothies
 
-Luke says so.
+Milkshakes are fine, but Luke doesn't like smoothies for some reason.
 
 ### Autuentic, traditional, high-quality ingredients and dishes
 

@@ -3,6 +3,7 @@
 ## Rationale
 
 These rules are implemented to ensure:
+- [based.cooking](https://based.cooking) stays free (libre; as in freedom),
 - the repository stays neat and tidy,
 - a consistent Markdown style amongst all recipes,
 - consistent technical details amongst all recipes,
@@ -13,6 +14,12 @@ These rules are implemented to ensure:
 Make [based.cooking](https://based.cooking) based again!
 
 ## Rules
+
+## Freedom
+
+When you submit anything to [based.cooking](https://based.cooking), you agree to release your work under the CC0 1.0 license.
+Requests to have your work removed will be ignored.
+Contributions under any incompatible license will be rejected.
 
 ### Recipe format
 
@@ -78,7 +85,7 @@ If you submit an image for say, `chicken-parmesan.md`, it should be added as `pi
 Vegan or vegetarian recipes are fine, but specific bugman food imitating authentic food is disallowed.
 
 You could always substitute any ingredient for any other ingredient, or follow any instruction any way you like whilst you are preparing the dish, for example to swap meat out for a substitute.
-However, do not propose these personal changes to based.cooking.
+However, do not propose these personal changes to [based.cooking](https://based.cooking).
 
 #### Examples
 

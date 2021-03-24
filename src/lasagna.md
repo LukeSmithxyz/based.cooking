@@ -1,4 +1,4 @@
-# Fresh lasagna
+# Lasagna
 
 ![fresh-lasagna](pix/fresh-lasagna.webp)
 

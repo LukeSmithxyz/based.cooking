@@ -63,12 +63,16 @@ The syntax is:
 - `basic`: for basic recipes that aren't meant to be standalone but are supposed
   to be incorporated in another recipe.
 - `breakfast`
+- `cheesefare`: for recipes that include dairy but no milk.
 - `dessert`
 - `drink`
 - `quick`: for recipes that can be cooked in under ~20 minutes.
 - `side`: side dishes such as mash, fries, etc.
 - `snack`
 - `spread`
+- `strict-fast`: for recipes that contain no meat or dairy.
+- `vegan`
+- `vegetarian`
 
 #### Images
 

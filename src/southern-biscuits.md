@@ -2,6 +2,10 @@
 
 This is Southern (American) Style Biscuits.
 
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 12-15 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 2 cups AP flour

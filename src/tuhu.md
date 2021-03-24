@@ -1,11 +1,12 @@
 # Tuh'u
 
-Tuh'u (Akkadian for possibly "beetroot") is an ancient Mesopotamian spring festival dish, a lamb stew of sorts, extracted by historians at
-Yale Babylonian Collection from tablets from Babylonia, ca. 1740 BC.
+Tuh'u (Akkadian for possibly "beetroot") is an ancient Mesopotamian spring
+festival dish, a lamb stew of sorts, extracted by historians at Yale Babylonian
+Collection from tablets from Babylonia, ca. 1740 BC.
 
-- ⏲️ Prep time: 30 min
+- ⏲ Prep time: 30 min
 - 🍳 Cook time: 60-90 min
-- 🍽️ Servings: 3
+- 🍽 Servings: 3
 
 ## Ingredients
 

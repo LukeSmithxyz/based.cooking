@@ -1,5 +1,9 @@
 # Taco Meat
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 20 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 1 pound (about 500 g) ground beef or turkey

@@ -3,9 +3,9 @@
 An herbaceous pancetta stuffed pork roast with a crispy exterior. Finished with a lemon vinaigrette.
 Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) whose instructions are notoriously bad.
 
-- ⏲️ Prep time: 30 minutes
-- 🍳 Cook time: 2 hours
-- 🍽️ Servings: 6-8 people
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 2 hr
+- 🍽 Servings: 6-8
 
 ## Equipment
 

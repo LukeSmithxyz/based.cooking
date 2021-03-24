@@ -1,6 +1,11 @@
 # Stir Fried Chicken with an Orange Sauce
 
-I could have called this Orange Chicken but I feel like some people wouldn't classify my recipe that way.
+I could have called this Orange Chicken but I feel like some people wouldn't
+classify my recipe that way.
+
+- ⏲ Prep time: 20 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

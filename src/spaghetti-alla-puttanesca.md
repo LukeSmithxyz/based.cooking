@@ -2,9 +2,9 @@
 
 Easy and delicious italian dish. Spaghetti alla puttanesca entice you for the savory sauce that surrounds them: peeled tomatoes, capers, "Gaeta" olives,  and anchovy fillets give these spaghetti a unique taste.
 
-- ⏲️Prep time: ~18 min
+- ⏲ Prep time: 18 min
 - 🍳 Cook time: 6-7 min
-- 🍽️Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -17,7 +17,6 @@ Easy and delicious italian dish. Spaghetti alla puttanesca entice you for the sa
 - 1 bunch of parsley
 - 100g Gaeta olives
 - 2 chopped chillies
-- A pinch of salt
 
 ## Directions
 

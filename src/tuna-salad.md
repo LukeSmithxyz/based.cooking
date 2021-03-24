@@ -2,8 +2,9 @@
 
 ![Tuna Salad](pix/tuna-salad.webp)
 
-- ⏲️ Prep time: 5 min
-- 🍽️ Servings: 3
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 3
 
 ## Ingredients
 

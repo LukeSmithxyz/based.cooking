@@ -1,6 +1,11 @@
 # Tuna Sub
 
-Use the best tuna you can find. I like oil-packed but water is OK. Someone you know has a tuna salad recipe.
+Use the best tuna you can find. I like oil-packed but water is OK. Someone you
+know has a tuna salad recipe.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 10 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

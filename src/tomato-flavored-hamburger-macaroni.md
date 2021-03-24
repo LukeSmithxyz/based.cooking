@@ -1,10 +1,11 @@
 # Tomato Flavored Hamburger and Macaroni
 
-This is a based, easy and relatively quick to make meal. Great for making in large batches with a big pot and eating throughout the week.
+This is a based, easy and relatively quick to make meal. Great for making in
+large batches with a big pot and eating throughout the week.
 
-- ⏲️ Prep time: 10 min
+- ⏲ Prep time: 10 min
 - 🍳 Cook time: 30 min
-- 🍽️ Servings: 6+
+- 🍽 Servings: 6
 
 ## Ingredients
 

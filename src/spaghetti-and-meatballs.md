@@ -1,8 +1,8 @@
 # Spaghetti and Meatballs
 
-- ⏲️Prep time: 20 min
+- ⏲ Prep time: 20 min
 - 🍳 Cook time: 40 min
-- 🍽️Servings: 6
+- 🍽 Servings: 6
 
 ## Ingredients
 
@@ -52,8 +52,8 @@
 
 1. In a large bowl, mix by hand the beef, Italian sausage, basil, parsley, mushrooms, eggs, breadcrumbs, cheese, and 2 tablespoons of salt and pepper.
 	- Do not overmix or the meatballs will be tough.
-3. Use small melon baller (or teaspoon) to form 1-inch round meatballs.
-4. Roll and compress into tight balls.
+2. Use small melon baller (or teaspoon) to form 1-inch round meatballs.
+3. Roll and compress into tight balls.
 
 ### Cook the meatballs
 
@@ -61,7 +61,7 @@
 2. Brown meatballs on all sides for about 2-3 minutes.
 	- Depending on the pan size, you may need to brown two batches of the meatballs. Cook them in a single layer; do not crowd the pan by stacking them.
 	- Do not overcook the meatballs; they will continue to cook in the sauce.
-5. Towards the end of browning the meatballs, add a little bit of red wine to deglaze the pan.
+3. Towards the end of browning the meatballs, add a little bit of red wine to deglaze the pan.
 
 ### Finish and simmer the sauce
 
@@ -84,4 +84,4 @@
 
 - ClosedGL - [GitHub](https://github.com/ClosedGL2)
 
-;tags: italian pasta beef pork cheesefare
+;tags: italian pasta beef pork

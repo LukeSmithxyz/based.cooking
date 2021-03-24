@@ -2,16 +2,16 @@
 
 ![Spanish Tortilla](pix/spanish-tortilla.webp)
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 35 min
-- 🍽️ Servings: 6
+- 🍽 Servings: 6
 
 ## Ingredients
 
-* 8 free-range eggs
-* 1 kg of potatoes
-* 1 white onion
-* Extra virgin olive oil
+- 8 free-range eggs
+- 1 kg of potatoes
+- 1 white onion
+- Extra virgin olive oil
 
 ## Directions
 
@@ -29,7 +29,7 @@
 
 ## Notes
 
-* Things like the slicing of the potato, the amount of salt and how curdled is the inner part of the tortilla depend on your own taste. Don't be afraid to experiment!
+- Things like the slicing of the potato, the amount of salt and how curdled is the inner part of the tortilla depend on your own taste. Don't be afraid to experiment!
 
 ## Contribution
 

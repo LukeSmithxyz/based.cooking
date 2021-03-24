@@ -1,5 +1,9 @@
 # Spatchcock Chicken
 
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 50 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 2 (3 1/2) pound whole chickens, wingtips removed

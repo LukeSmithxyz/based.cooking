@@ -2,9 +2,9 @@
 
 Simple chinese inspired sticky porkchops.
 
-- ⏲️ Prep time: 3 hours
+- ⏲ Prep time: 3 hours
 - 🍳 Cook time: 10 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 

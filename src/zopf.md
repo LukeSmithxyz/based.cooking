@@ -1,7 +1,8 @@
 # Zopf
 
-- ⏲️ Prep time: 30 min (plus one hour rising)
+- ⏲ Prep time: 30 min + 1 hr rinsing
 - 🍳 Cook time: 30 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

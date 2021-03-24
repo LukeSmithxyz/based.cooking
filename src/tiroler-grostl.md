@@ -1,8 +1,8 @@
 # Tiroler Gröstl
 
-- ⏲️  Prep time: 15 min
+- ⏲ Prep time: 15 min
 - 🍳 Cook time: 30 min
-- 🍽️ Servings: 5
+- 🍽 Servings: 5
 
 ## Ingredients
 

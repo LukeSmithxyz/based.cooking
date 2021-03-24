@@ -4,12 +4,16 @@
 
 A simple, tasty, and healthy carb based snack.
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 20 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
-* 1-2 Sweet Pototoes (try different types)
-* Olive Oil
-* Cinnamon
-* Rosemary (optional)
+- 1-2 Sweet Pototoes (try different types)
+- Olive Oil
+- Cinnamon
+- Rosemary (optional)
 
 ## Directions
 
@@ -25,8 +29,8 @@ A simple, tasty, and healthy carb based snack.
 
 ## Notes
 
-* A fast method to cut the the sweet pototoes is first into fourths, slice the fourths, chops the sliced layers while stacked into fries.
-* If you want to experiment with a variety of fats, consider combining the olive oil with grass-fed butter and coconut oil. I believe the issue with coconut oil is it likes being cooked at lower temperatures or else the health quality of the oil will degrade.
+- A fast method to cut the the sweet pototoes is first into fourths, slice the fourths, chops the sliced layers while stacked into fries.
+- If you want to experiment with a variety of fats, consider combining the olive oil with grass-fed butter and coconut oil. I believe the issue with coconut oil is it likes being cooked at lower temperatures or else the health quality of the oil will degrade.
 
 ## Contribution
 

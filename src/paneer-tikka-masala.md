@@ -7,7 +7,7 @@
 - 250g cubes paneer
 - 1 onion
 - 1 capsicum
-- 200ml tomato puree 
+- 200ml tomato puree
 - 1 tsp red chilli powder
 - 1 tsp turmeric powder
 - 1 tsp coriander powder

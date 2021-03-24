@@ -5,7 +5,7 @@
 
 ## Ingredients
 
-- 400g canned tomatoes, preferebly skinned and whole 
+- 400g canned tomatoes, preferebly skinned and whole
 - 150g tomato puré
 - 1 medium sized onion
 - olive oil
@@ -19,7 +19,7 @@
 2. Add chopped garlic and chili pepper (optional) for some minutes.
 3. Mix in tomato puré, salt, pepper, and oregano. Cook until puré gets oily.
 4. Add canned tomatoes, and crush with spatula.
-5. Let it sit on low heat. The longer the better. 
+5. Let it sit on low heat. The longer the better.
 
 ## Contribution
 

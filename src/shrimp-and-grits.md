@@ -22,14 +22,14 @@ This recipe is derived from Smokin' & Grillin' wit AB -- [youtube](https://youtu
 
 ## Directions
 
-1. Add bacon to hot pan. Meanwhile, in separate pot , bring chicken broth to a boil. 
+1. Add bacon to hot pan. Meanwhile, in separate pot , bring chicken broth to a boil.
 2. Add grits to chicken broth and stir. Cover and simmer per instructions on box.
 3. Once grits are done, add butter plus salt and pepper to taste. Stir until combined.
 4. Add cheese. Stir until combined.
 5. Once bacon is done, keep bacon fat in the pan. Add shrimp and fry on medium-high heat
-6. Add Creole seasoning, lemon juice, Worcestershire Sauce, garlic and toss. 
-7. Fry until shrimp turns white on each side which is about 5-7 minutes total. 
-8. In a bowl, serve shrimp and bacon over grits. Top with parsley. 
+6. Add Creole seasoning, lemon juice, Worcestershire Sauce, garlic and toss.
+7. Fry until shrimp turns white on each side which is about 5-7 minutes total.
+8. In a bowl, serve shrimp and bacon over grits. Top with parsley.
 
 ## Contribution
 

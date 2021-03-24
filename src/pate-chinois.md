@@ -15,7 +15,7 @@ This is the most traditional dish that every household eats in Quebec. As a kid,
 * 2 tbsp of butter
 * ½ cup milk
 * 1 tsp of  herbs de Provence or dried parsley
-* (optional) ½ cup of strong cheddar cheese, grated 
+* (optional) ½ cup of strong cheddar cheese, grated
 * Pinch of nutmeg
 * Paprika
 

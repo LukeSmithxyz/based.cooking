@@ -2,23 +2,23 @@
 
 My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.
 
-- ⏲️ Prep time: 12 mins 
-- 🍳 Cook time: Simmer all day 
-- 🍽️ Servings: 7 
+- ⏲️ Prep time: 12 mins
+- 🍳 Cook time: Simmer all day
+- 🍽️ Servings: 7
 
 ## Ingredients
 
-- 1/3 lb salt pork 
+- 1/3 lb salt pork
 - 2 lb chuck roast
 - 3 Cloves of garlic
 - Crushed hot red pepper
 - Sweet onion
 - Large carrot
 - 2 Bay leaves
-- 2 tbsp. Olive oil (she used mazola oil) 
+- 2 tbsp. Olive oil (she used mazola oil)
 - 12 oz. Can tomato paste
-- 29 oz. Diced tomatos 
-- 29 oz. Tomato puree 
+- 29 oz. Diced tomatos
+- 29 oz. Tomato puree
 
 ## Directions
 
@@ -36,4 +36,4 @@ My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.
 
 - Laurent Micheli - [website](https://digitalstatic.xyz)
 
-;tags: italian sauce 
+;tags: italian sauce

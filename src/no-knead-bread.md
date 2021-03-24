@@ -2,7 +2,7 @@
 
 ![Finished bread](pix/no-knead-bread-1.webp)
 
-- ⏲️ Prep time: 13 h 
+- ⏲️ Prep time: 13 h
 - 🍳 Cook time: 50 m
 - 🍽️ Servings: 8-12 slices
 

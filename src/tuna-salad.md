@@ -8,7 +8,7 @@
 ## Ingredients
 
 - 1 (7 oz) can white tuna, drained
-- 6 tablespoons mayonnaise 
+- 6 tablespoons mayonnaise
 - 1 tablespoons sweet pickle relish
 - A pinch of garlic powder (optional)
 - 2 tablespoons white vinegar or lemon juice (optional)

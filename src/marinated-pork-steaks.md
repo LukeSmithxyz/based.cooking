@@ -1,4 +1,4 @@
-# Marinated pork steaks 
+# Marinated pork steaks
 
 A tasty simple marinade that fits well with pork.
 
@@ -8,8 +8,8 @@ A tasty simple marinade that fits well with pork.
 
 ## Ingredients
 
-- 6 tablespoons olive oil 
-- ¼ cup soy sauce 
+- 6 tablespoons olive oil
+- ¼ cup soy sauce
 - ¼ cup of honey
 - Juice from 1 lime
 - 3 peeled cloves garlic

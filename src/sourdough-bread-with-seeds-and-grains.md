@@ -24,7 +24,7 @@
 - 20g sea salt
 - 2tsp bread spice
 - soaked seeds and grains
-  
+
 ## Directions
 
 ### Preparations (the day before)
@@ -36,7 +36,7 @@
 
 ### Bread
 
-1. Remove leftover water from the seeds and grains 
+1. Remove leftover water from the seeds and grains
 2. Stir all ingredients for the bread and knead them well.
 3. Let the dough rest for 5 hours in warm (25-30°C) conditions.
 4. Preheat the oven to 250°C.

@@ -41,7 +41,7 @@ Asian style crispy coated chicken with sweetish sauce recipe. Served with boiled
 
 ## Contribution
 
-- pazu 
+- pazu
 - xmr: 48QiCovstDPbHtMR5DP8tp3fUgguVUcdUX2pjbh6utt88fMe5h233ZnY7PxxdQYCjrVuCBQA2D8JBYU7rH2MdVDHFKd7QJi
 - btc: 17FWEWrKuock7eeZY3DTne7LgES1uKYZK5
 

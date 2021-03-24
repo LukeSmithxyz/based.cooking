@@ -6,7 +6,7 @@ Serve with mashed potatoes.
 
 ## Ingredients
 
-- Lamb shoulder or beef chuck 
+- Lamb shoulder or beef chuck
 - Onion, celery, carrot and garlic
 - Thyme, rosemary and some bay leaves.
 - Beef or [chicken stock](https://based.cooking/chicken-stock-bone-broth.html)

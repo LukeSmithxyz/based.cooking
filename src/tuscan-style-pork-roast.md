@@ -1,5 +1,7 @@
 # Tuscan Style Pork Roast
 
+![tuscan-style-pork-roast](pix/tuscan-style-pork-roast.webp)
+
 An herbaceous pancetta stuffed pork roast with a crispy exterior. Finished with a lemon vinaigrette.
 Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) whose instructions are notoriously bad.
 

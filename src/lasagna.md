@@ -1,6 +1,6 @@
 # Lasagna
 
-![fresh-lasagna](pix/fresh-lasagna.webp)
+![lasagna](pix/lasagna.webp)
 
 A nice recipe for amazing fully home-made lasagna.
 

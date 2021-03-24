@@ -1,15 +1,16 @@
-# Lasagna
+# Lasagne
 
-A classic italian dish, lasagna is a great meal for a cold day when you're in the mood for pasta. 
+A classic italian dish, lasagne is a great meal for a cold day when you're in the mood for pasta. 
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 50-60 min
 - 🍽️ Servings: 4-5
 
 ## Ingredients
+
 - Ricotta cheese. 
 - One or two eggs.
-- Nine or ten oven ready lasagna noodles.
+- Nine or ten oven ready lasagne noodles.
 - Medium sized jar of tomato/pasta sauce.
 - Medium sized bag of mozzarella cheese.
 - Small bag of parmesan cheese.  

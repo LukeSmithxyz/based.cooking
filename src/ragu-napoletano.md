@@ -59,4 +59,4 @@ This recipe is known by Italian-Americans as "Sunday Gravy", which originated fr
 
 - mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`
 
-;tags: tomato sauce italian beef pork veal
+;tags: tomato sauce italian pork veal

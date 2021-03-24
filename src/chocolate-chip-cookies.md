@@ -6,7 +6,8 @@
 - 🍳Cook time: 10 min
 - 🍽️ Servings: 4
 
-## Ingredients 
+## Ingredients
+
 - 230 g melted butter (2 sticks)
 - 330 g bread flour
 - 5 g salt

@@ -28,4 +28,4 @@ A very basic sauce that can be used for various dishes.
 
 - Vili Kangas
 
-;tags: sauce
+;tags: sauce quick

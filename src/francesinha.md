@@ -8,7 +8,9 @@ covered with melted cheese.
 - 🍳 Cook time: 10 min
 - 🍽 Servings: 4
 
-## Base Ingredients
+## Ingredients
+
+### Base Ingredients
 
 - Bread
 - Linguiça (type of Portuguese sausage)

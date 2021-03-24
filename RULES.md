@@ -123,7 +123,9 @@ Only substantial dishes are allowed, no hyper-sugary desserts or junk food.
 
 ### Treat your audience as if they are intelligent
 
-- Do not include ubiquitous ingredients like salt and pepper in the ingredients list.
+- Do not include seasonings like salt and pepper in the ingredients list.
+Instead, add an instruction along the lines of "season to taste" to your recipe.
+- Only include ubiquitous ingredients like salt and pepper if they are a set amount of part of the dish itself, eg. sugar baked into a cake, salt baked into a loaf of bread, or pepper stirred into a sauce.
 - Keep your instructions clear and concise.
 - Do not waffle on or elaborate in unnecessary ways.
 

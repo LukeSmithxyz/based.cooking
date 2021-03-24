@@ -1,6 +1,6 @@
 # Spaghetti all'amatriciana
 
-Ignore the fact that those in the photo are pennette and not spaghetti, that's all i had that day.
+Ignore the fact that those in the photo are pennette and not spaghetti, that's all I had that day.
 
 ![Jebusthebus](pix/spaghetti-all'amatriciana.webp)
 

@@ -1,5 +1,5 @@
 """
-Tag Editor provides an easy interface to edit every reipies' tags sequentially. 
+Tag Editor provides an easy interface to edit every recipes' tags sequentially. 
 
 This is useful if you want to, for example, add gluten-free tags to recipes en masse.
 

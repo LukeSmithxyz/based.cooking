@@ -1,5 +1,9 @@
 # Chicken Biscuit Potpie Recipe
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 25-30 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 1-2/3 cups frozen mixed vegetables, thawed

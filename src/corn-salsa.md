@@ -1,7 +1,8 @@
 # Corn Salsa
 
-- Prep time: 10 Minutes
-- Cook time: 1 Hour+ in fridge
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 1 hr
+- 🍽 Servings: 2
 
 ## Ingredients
 
@@ -11,11 +12,11 @@
 - Few pinches of Cilantro, finely chopped
 - 1-2 Jalepenos, finely chopped (optional)
 - Juice of 2-3 Limes
-- Salt and pepper, to taste
 
 ## Directions
 
-1. Chop everything to pieces smaller than the corn kernals. Mix well and let sit covered in the fridge for at least an hour, even better overnight.
+1. Chop everything to pieces smaller than the corn kernals.
+2. Mix well and let sit covered in the fridge for at least an hour, even better overnight.
 
 ## Contributions
 

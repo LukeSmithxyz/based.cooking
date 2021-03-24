@@ -1,5 +1,9 @@
 # Chicharrones
 
+- ⏲ Prep time: 30 min
+- 🍳 Cook time: 2 hr
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - Pork Butt with fat

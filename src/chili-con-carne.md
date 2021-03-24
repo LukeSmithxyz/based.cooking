@@ -1,5 +1,9 @@
 # Chili Con Carne
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 1 hr
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - Canned Whole Peeled Tomatoes
@@ -17,9 +21,9 @@
 - Cilantro
 - Sugar
 - seasoning
-	- cumin
-	- paprika
-	- chili flakes
+	- Cumin
+	- Paprika
+	- Chili flakes
 
 ## Directions
 

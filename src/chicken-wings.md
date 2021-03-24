@@ -2,6 +2,10 @@
 
 Perfectly cooked fall off the bone buffalo wings.
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 45 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - Chicken wings and drums
@@ -24,4 +28,4 @@ Perfectly cooked fall off the bone buffalo wings.
 
 - **Kyle Steger** -- [GitHub](https://github.com/kyleVsteger) -- _just some dude_
 
-;tags: chicken
+;tags: chicken supper

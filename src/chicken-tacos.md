@@ -1,5 +1,9 @@
 # Slow-cooked Chicken Tacos
 
+- ⏲ Prep time: 20 min
+- 🍳 Cook time: 8 hr
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - chicken breasts

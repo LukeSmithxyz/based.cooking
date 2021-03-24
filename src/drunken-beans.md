@@ -2,6 +2,10 @@
 
 Pinto beans cooking with beer, what beer you use can change the dish.
 
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 1 hr
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 1 small yellow onion

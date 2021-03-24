@@ -2,9 +2,9 @@
 
 Essentially, just a fried burrito. Use whatever your favorite filling is.
 
-- ⏲️ Prep time: 120min
+- ⏲ Prep time: 2 hr
 - 🍳 Cook time: 30 min
-- Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -27,8 +27,8 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 ## Frying
 
-* My preferred method to frying is air frying, place into air fryer and set for about 10 minutes. Just as crunchy with practically no grease from oil
-* For oil frying, I've found using just a film of oil and flipping on to the sides works well with more time.
+- My preferred method to frying is air frying, place into air fryer and set for about 10 minutes. Just as crunchy with practically no grease from oil
+- For oil frying, I've found using just a film of oil and flipping on to the sides works well with more time.
 
 ## Contribution
 

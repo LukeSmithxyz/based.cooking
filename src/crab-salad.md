@@ -1,8 +1,8 @@
 # Crab salad
 
-- ⏲️ Prep time: 10 min
+- ⏲ Prep time: 10 min
 - 🍳 Cook time: 30 min
-- 🍽️ Servings: 3
+- 🍽 Servings: 3
 
 ## Ingredients
 

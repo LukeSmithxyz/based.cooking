@@ -4,13 +4,13 @@
 
 This is a nice simple dish made up of five ingredients: panna, pomodori, parmigiano, pepe, e prezzemolo
 
-- ⏲️ Prep time: 15 min
+- ⏲ Prep time: 15 min
 - 🍳 Cook time: 15 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 
-- pasta: 800g | 1 1/2 lb
+- Pasta: 800g | 1 1/2 lb
 - Cream: 4dl | 1 1/2 cups
 - Tomato purée
 - Parmigiano (grated)

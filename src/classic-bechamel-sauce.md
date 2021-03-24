@@ -2,16 +2,15 @@
 
 Classic French sauce, base for a lot of dishes
 
-- ⏲️ Prep time: 0m
-- 🍳 Cook time: 15-20 min
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 15 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
 - 5 Teaspoons unsalted butter
 - 5 Teaspoons flour
 - 1 litre whole milk
-- Salt to taste
-- Pepper to taste
 - Pinch of nutmeg
 
 ## Directions

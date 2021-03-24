@@ -2,9 +2,9 @@
 
 This is a recipe for making Jordan's Country Crisp-like cereals.
 
-- ⏲️ Prep time: 10 min
-- 🍳Cook time: 2 h
-- 🍽️ Servings: 7
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 2 hr
+- 🍽 Servings: 7
 
 ## Ingredients
 

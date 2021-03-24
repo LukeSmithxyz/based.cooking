@@ -1,5 +1,9 @@
 # Coconut Oil Coffee
 
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 5 min
+- 🍽 Servings: 2
+
 ## Ingredients
 
 - 2 cups hot coffee

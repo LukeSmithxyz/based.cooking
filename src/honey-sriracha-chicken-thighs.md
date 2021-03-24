@@ -19,7 +19,7 @@ Conversely, if you like spicy foods, consider a 1:1 ratio of sriracha and honey.
 * 1/2 teaspoon black pepper
 * Sesame seeds as a garnish (optional)
 
-## Instructions
+## Directions
 
 1. Preheat oven to 350°F
 2. Season the chicken. Rub the thighs with some olive oil and season liberally with salt and pepper.

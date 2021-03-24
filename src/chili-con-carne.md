@@ -21,7 +21,6 @@
 	- paprika
 	- chili flakes
 
-
 ## Directions
 
 1. Brown the beef by adding it to a pot with neutral oil. Start breaking it into small pieces. Allow water to leave the meat. Salt it to expel more water. Once water is gone, the sound will change and it will start to fry. Let it get a dark brown. Remove beef and set aside.

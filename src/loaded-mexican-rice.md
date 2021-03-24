@@ -16,8 +16,7 @@ dish to good good burrito filling. :x
 * 1/2 Cup ground meat (optional)
 * 1/4 Onion diced (optional)
 
-
-## Instructions
+## Directions
 
 1. Cook rice per manufactures instructions.
 2. Pore enough neutral oil in a large pan to cover the bottom entirely, and turn on to medium heat.

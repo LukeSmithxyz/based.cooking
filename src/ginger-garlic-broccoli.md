@@ -3,7 +3,7 @@
 Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds of asian inspired sauted vegetables.
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 10 min
+- 🍳 Cook time: 10 min
 - 🍽️ Servings: 2
 
 ## Ingredients
@@ -13,7 +13,6 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 - Minced ginger (1 tablespoon)
 - Sherry or regular white wine (you cook with what you drink with!) (1 tablespoon)
 - Soy sauce (1-2 tablespoon)
-
 
 ## Directions
 
@@ -27,10 +26,7 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 8. Thicken sauce with corn starch.
 9. Put dry cooked broccoli back in and saute for very short time (you want it nice and crunchy).
 
-
 ## Contribution
 
 - mjt91 - [website](https://github.com/mjt91), [donate](https://www.paypal.com/paypalme/mjt91)
-
-
-;tags: side quick asian
+;tags: side quick asian strict-fast

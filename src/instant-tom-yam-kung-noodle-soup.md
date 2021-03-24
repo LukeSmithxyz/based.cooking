@@ -2,9 +2,9 @@
 
 Instant noodles with processed spices are quick but not the most healthy. It's important to add fresh veggies and eggs. It's a quick tasty lunch, a life saver when going through a busy period.
 
-- Prep time: 10 minutes
-- Cook time: 10 minutes
-- Serves: 2 people
+- ⏲️ Prep time: 10 minutes
+- 🍳 Cook time: 10 minutes
+- 🍽️ Servings: 2 people
 
 ## Ingredients
 
@@ -13,7 +13,7 @@ Instant noodles with processed spices are quick but not the most healthy. It's i
 - 10 small or 5 big mushrooms
 - 2 eggs
 - A few salad leaves (or practically any veggie you have in the fridge)
-- 1 lime 
+- 1 lime
 - Coriander
 
 ## Directions
@@ -30,4 +30,4 @@ Pro tip: Squeeze some remaining lime juice into your drinking water.
 
 - Ting-Yun Huang, Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)
 
-;tags: thai quick soup
+;tags: thai quick soup cheesefare

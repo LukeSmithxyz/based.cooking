@@ -4,7 +4,16 @@ Eggs are great. This page will contain all sorts of "basic" ways of having an
 egg. Feel free to suggest more, as per the instructions on the
 [homepage](index.html).
 
-## Boiled eggs
+## Ingredients
+
+- eggs
+- butter
+- cheese(optional)
+- milk (optional)
+
+## Directions
+
+### Boiled eggs
 
 1. Bring water to boil (about enough to cover the eggs when submerged).
 2. Place eggs in water.
@@ -16,14 +25,14 @@ Tip: if your eggs are cracking when you put them in boiling water, you might
 improve your chances of them not doing so by first warming them up in warm water
 for a few minutes beforehand.
 
-## Sunny-side up
+### Sunny-side up
 
 1. Heat up butter or oil on small pan.
 2. Crack egg(s) into pan.
 3. Cook on low heat for an evenly cooked white and runny yolk.
 4. Serve seasoned with salt and pepper.
 
-## Scrambled
+### Scrambled
 
 1. Heat up butter or oil on pan.
 2. Crack eggs into pan.
@@ -31,7 +40,7 @@ for a few minutes beforehand.
 4. Cook until desired dryness.
 5. Season with salt and pepper.
 
-## Scrambled and fluffy
+### Scrambled and fluffy
 
 1. Prepare as normal.
 2. Crack eggs into pan and let them coagulate maybe twenty or thirty seconds before scrambling.
@@ -49,4 +58,4 @@ of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 - Deven Blake -- [website](http://www.trinity.moe)
 
-;tags: eggs basic
+;tags: eggs basic cheesefare

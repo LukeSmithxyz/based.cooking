@@ -19,4 +19,4 @@ A dressing that goes well on lettuce or any other mixed greens.
 
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 
-;tags: salad basic
+;tags: salad basic strict-fast

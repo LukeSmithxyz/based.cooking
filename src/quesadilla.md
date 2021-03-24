@@ -32,4 +32,4 @@ A quick and easy low-prep meal, able to be taken anywhere.
 - peebowo
 - Zyansheep
 
-;tags: mexican quick
+;tags: mexican quick cheesefare

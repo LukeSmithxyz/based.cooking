@@ -3,7 +3,7 @@
 Mashed potatoes in Belgian style
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - 🍽️ Servings: 4
 
 ## Ingredients
@@ -28,4 +28,4 @@ Mashed potatoes in Belgian style
 
 https://github.com/alpo
 
-;tags: belgian
+;tags: belgian potato potatoes

@@ -3,7 +3,7 @@
 A good way to use up older red onions and goes great with just about anything.
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 10 min
+- 🍳 Cook time: 10 min
 - 🍽️ Servings Varies
 
 ## Ingredients

@@ -3,7 +3,7 @@
 This recipe is derived from Smokin' & Grillin' wit AB -- [youtube](https://youtu.be/cjlDBPlTqS0)
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 20 min
+- 🍳 Cook time: 20 min
 - 🍽️ Servings: 2-3
 
 ## Ingredients

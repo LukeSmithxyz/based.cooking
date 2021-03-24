@@ -1,4 +1,6 @@
-# Traditional bolognese sauce
+# Bolognese Sauce
+
+![Bolognese sauce](pix/bolognese-sauce-1.webp)
 
 Basic bolognese sauce for lasagne or pasta dishes
 
@@ -16,10 +18,10 @@ Basic bolognese sauce for lasagne or pasta dishes
 - 300 grams beef mince
 - 350 grams pork mince
 - 350 grams veal mince (if you cant find veal replace with pork)
-- 140 grams concentrated tomato paste 
+- 140 grams concentrated tomato paste
 - 690 grams diced tomatoes
 - water
-- 1 can peeled tomatoes 
+- 1 can peeled tomatoes
 - 1-2 glasses wine (whatever you have open)
 - 1 glass of milk (optional)
 - 1 glass of beef/vegetable stock (optional)
@@ -31,7 +33,7 @@ Basic bolognese sauce for lasagne or pasta dishes
 3. Put in your diced veggies and pancetta and let it slowly sauté for about 10 minutes until everything is fragrant and soft.
 4. If you are using garlic add it here and let it sweat for a minute
 5. Add in your minced meat and break it up into small clumps about the size of a rice grain with a spoon, keep stiring until all your meat is lightly cooked.
-6. Once all your meat is cooked and looks a bit grey add your wine, add enough to fully deglaze the pan (I usually add a little bit extra for the flavor) 
+6. Once all your meat is cooked and looks a bit grey add your wine, add enough to fully deglaze the pan (I usually add a little bit extra for the flavor)
 stir it through until it has completely evaporated. (If you are using it you can also add the stock at this point)
 6. Once your pan is somewhat dry you can add the tomato paste to the beef, let it cook for a minute to remove the slight metallic taste.
 7. Add your canned and peeled tomatoes and use your spoon to break them up, you don't have to be too thorough since they will soften up while the sauce cooks.
@@ -43,7 +45,6 @@ stir it through until it has completely evaporated. (If you are using it you can
 
 ## Contribution
 
-Yiusa
--eth '0x68f1317c6512f0267fa711cafb6c134ae968fa80'
+- Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
 
 ;tags: sauce italian pasta

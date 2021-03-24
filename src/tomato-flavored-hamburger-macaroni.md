@@ -3,7 +3,7 @@
 This is a based, easy and relatively quick to make meal. Great for making in large batches with a big pot and eating throughout the week. 
 
 - ⏲️ Prep time: 10 min 
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - 🍽️ Servings: 6+
 
 ## Ingredients

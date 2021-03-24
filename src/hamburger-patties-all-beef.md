@@ -1,4 +1,4 @@
-# Hamburger Patties (basic, all-beef)
+# Hamburger Patties
 
 🍽️ Servings: 4 patties
 
@@ -18,5 +18,5 @@
 ## Contribution
 
 - James Hendrie
-            
+
 ;tags: american quick beef basic

@@ -1,7 +1,7 @@
 # Cheesy Pasta Bake
 
 - ⏲️ Prep time: 15 min
-- 🍳Cook time: 1 hr
+- 🍳 Cook time: 1 hr
 - 🍽️ Servings: 4
 
 ## Ingredients
@@ -28,7 +28,6 @@
 11. If using bacon, fry it up and mix into the dish, making sure to include any fat that comes out of the bacon for extra flavour.
 12. Use the rest of the cheese to cover the top.
 13. Bake at gas mark 6 for about 30 minutes.
-
 
 ## Contribution
 

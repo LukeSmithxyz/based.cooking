@@ -5,7 +5,7 @@
 Easy to throw together and transport for the working fellow. High in protein!
 
 - ⏲️ Prep time: 5 min
-- 🍳Cook time: 35 min
+- 🍳 Cook time: 35 min
 - 🍽️ Servings: 4-6
 
 ## Ingredients

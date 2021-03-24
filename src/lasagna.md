@@ -3,7 +3,7 @@
 A classic italian dish, lasagna is a great meal for a cold day when you're in the mood for pasta. 
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 50-60 min
+- 🍳 Cook time: 50-60 min
 - 🍽️ Servings: 4-5
 
 ## Ingredients
@@ -31,4 +31,4 @@ A classic italian dish, lasagna is a great meal for a cold day when you're in th
 
 - Josiah -- [website](https://himiko.cloud), [donate](https://himiko.cloud/donate/)
 
-tags; basic italian
+;tags: basic italian

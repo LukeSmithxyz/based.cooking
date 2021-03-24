@@ -19,7 +19,7 @@ Here are the ingredients for about two hearty adult portions:
 * Cumin
 * Paprika
 
-## Instructions
+## Directions
 
 1. Add olive oil to your frying pan, heat it to medium-high heat.
 2. Chop some onions and add them to the preheated pan.
@@ -38,9 +38,8 @@ Here are the ingredients for about two hearty adult portions:
 9. Cook it over medium/medium-low heat for about 10-15 minutes or until the
    water and juices from the tomatoes have almost completely evaporated.
 10. Once (or if) the pasta and beef is already cooked, add the pasta to the pan
-    and cook for another couple of minutes.
+   and cook for another couple of minutes.
 11. Serve hot and enjoy!
-
 
 Originally published at [https://www.yaroslavps.com/food/navy-style-pasta/](https://www.yaroslavps.com/food/navy-style-pasta/)
 

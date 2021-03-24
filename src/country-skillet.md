@@ -33,7 +33,7 @@ have used, but seldom use.
 * A couple of Champignon 'shrooms**
 * Some slices of bell pepper**
 
-## Instructions
+## Directions
 
 1. Cut the bacon into pieces and fry it on a pan.
 2. Cut the potatoes into small cubes.
@@ -58,12 +58,11 @@ have used, but seldom use.
 \*Personally, I prefer to beat the eggs first in a bowl before adding them to the
 frying pan.
 
-
 Originally published at [https://www.yaroslavps.com/food/country-breakfast-skillet/](https://www.yaroslavps.com/food/country-breakfast-skillet/)
 
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
+- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/),
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

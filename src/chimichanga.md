@@ -3,7 +3,7 @@
 Essentially, just a fried burrito. Use whatever your favorite filling is. 
 
 - ⏲️ Prep time: 120min
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - Servings: 4
 
 ## Ingredients
@@ -33,5 +33,4 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 - AJ XMR: `45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ`
 
-;tags: mexican beef basic 
-
+;tags: mexican beef basic

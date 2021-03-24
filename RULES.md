@@ -8,8 +8,9 @@ These rules are implemented to ensure:
 - a consistent Markdown style amongst all recipes,
 - consistent technical details amongst all recipes,
 - appropriate tags and images representative of the recipes on which they are included,
+- no bloat or soydev code is permitted,
 - recipes are not condescending or verbose, and
-- only authentic, traditional, high-quality food.
+- only authentic, traditional, high-quality food is permitted.
 
 Make [based.cooking](https://based.cooking) based again!
 
@@ -89,13 +90,15 @@ However, do not propose these personal changes to [based.cooking](https://based.
 
 #### Examples
 
-- soy sausages
-- tofu
-- mycoprotein meat substitutes
+- Never use a meat substitute instead of real meat.
+Non-meat pretending to be meat, like soy in the shape of sausages, or mycoprotein meat substitutes, are banned.
+- Tofu is only allowed when used in an authentic dish, and not as a meat substitute.
 
 ### No soyboys
 
-Soy is banned. For the lulz.
+No soydev code, Javascript, WebAssembly, or other bloat is permitted.
+
+Soybeans and soy-based food are acceptable.
 
 ### No meme-tier sweet or unhealthy dishes
 

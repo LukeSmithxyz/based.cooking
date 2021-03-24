@@ -18,14 +18,16 @@ Pasta is usually eaten with some kind of [pasta sauce](pasta-sauce.html) or used
 4. Now add pasta.
 5. Keep it boiling, but decrease heat as it tries to overflow.
 6. Wait until pasta is at the preferred softness (see below), then strain it.
-7. While the pasta is sitting in your strainer, you may add basil leaves or other herbs and aromatics. I also recommend taking a knob or so of room tempurature butter and add it in and stirring it, melting it into the pasta.
+7. While the pasta is sitting in your strainer, you may add basil leaves or other herbs and aromatics. I also recommend taking a knob or so of room temperature butter and add it in and stirring it, melting it into the pasta.
 
 ### How long should pasta be cooked?
 
 The often recommended way to cook most pasta is *al dente*, which often means "slightly undercooked," or with a subtle firmness that makes it still substantial.
 Cooking pasta more than that is no great crime,
-but if you keep it in their for *too* long, it'll become mush.
+but if you keep it in there for *too* long, it'll become mush.
 
 ## Contribution
 
 - Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
+
+;tags: italian pasta quick basic fasting

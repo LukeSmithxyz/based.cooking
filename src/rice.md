@@ -1,12 +1,12 @@
 # Rice
 
 Rice is easy to make in any pot.
-The simple use of different spices can change
+The simple use of different spices can change its use or what it accents.
 
 ## Ingredients
 
 - rice
-- [chicken stock](chicken-stock.html) (optional)
+- [chicken stock](chicken-stock-bone-broth.html) (optional)
 - onion or garlic (optional)
 - lime and cilantro (optional, for a Mexican taste)
 
@@ -29,3 +29,5 @@ For Mexican rice, you might want to avoid cooking in stock to avoid taste clashe
 ## Contribution
 
 - Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
+
+;tags: basic rice side fasting

@@ -25,4 +25,4 @@ a sausage dish. Pairs well with brown ales.
 
 - **Dr. Cat** -- [website](https://github.com/castrated/)
 
-;tags: american corn strict-fast
+;tags: american corn fasting

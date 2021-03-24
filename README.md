@@ -54,7 +54,7 @@ List of special, categorical tags to use if relevant:
 - `snack`
 - `spread`
 
-If your recipe contains no meat or dairy, include the `strict-fast` tag.
+If your recipe contains no meat or dairy, include the `fasting` tag.
 If it includes dairy but no milk, incude the `cheesefare` tag.
 
 ### Images

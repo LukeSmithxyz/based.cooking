@@ -1,12 +1,15 @@
 # Simple Chicken Curry
 
-An easy chicken curry recipe which scales very well (double it, triple it, etc.).  Best served with rice.
+An easy chicken curry recipe which scales very well (double it, triple it,
+etc.). Best served with rice.
 
-Servings: 3-4
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 35 min
+- 🍽 Servings: 3-4
 
 ## Ingredients
 
-Spices
+### Spices
 
 - 1 ½ tsp Coriander
 - 1 tsp Cumin
@@ -19,7 +22,7 @@ Spices
 - ¼ tsp Ground Cloves
 - Sriracha Sauce (optional)
 
-Main Ingredients
+### Main Ingredients
 
 - ¼ cup (½ stick) Butter
 - 1 large Onion

@@ -1,23 +1,23 @@
 # Scandinavian Coffee Cake
 
-* ⏲️ Prep time: 15 min
-* 🍳 Cook time: ≈ 3 hours
-* 🍽️ Servings: 1 cake
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 3 hr
+- 🍽 Servings: 1
 
 ## Ingredients
 
-* 1/2 cup milk
-* 1/2 cup shortening
-* 1/2 cup sugar
-* 1/2 teaspoon salt
-* 1 package active dry yeast
-* 1/4 cup warm (not hot) water
-* 3 cup sifted enriched Flour
-* 2 eggs, beaten
-* melted butter, or margarine
-* 2/3 cup firmly packed brown sugar
-* 2 teaspoon cinnamon
-* chopped walnuts
+- 1/2 cup milk
+- 1/2 cup shortening
+- 1/2 cup sugar
+- 1/2 teaspoon salt
+- 1 package active dry yeast
+- 1/4 cup warm (not hot) water
+- 3 cup sifted enriched Flour
+- 2 eggs, beaten
+- melted butter, or margarine
+- 2/3 cup firmly packed brown sugar
+- 2 teaspoon cinnamon
+- chopped walnuts
 
 ## Directions
 

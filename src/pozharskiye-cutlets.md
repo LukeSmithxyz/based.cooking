@@ -1,7 +1,11 @@
 # Pozharskiye Cutlets
 
-Famous Russian cutlet recipe, favoured by Nicholas I.
-Despite what seems to be a massive amount of butter required, they're rather light, yet creamy.
+Famous Russian cutlet recipe, favoured by Nicholas I. Despite what seems to be
+a massive amount of butter required, they're rather light, yet creamy.
+
+- ⏲ Prep time: 10 min
+- 🍳 Cook time: 20 min
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -9,7 +13,6 @@ Despite what seems to be a massive amount of butter required, they're rather lig
 - Butter (originally, 1 part butter per 2 parts chicken; 1/4 works perfectly fine)
 - Eggs (~1 egg per 500g chicken, plus 3-5 for the breading)
 - A couple white bread loaves (store-bought breadcrumbs also suffice, but require more eggs)
-- Spices/salt (optional, recommended)
 - Non-lard based, non-chunky sauce (optional)
 - Onions (optional)
 
@@ -28,6 +31,6 @@ Despite what seems to be a massive amount of butter required, they're rather lig
 
 ## Contribution
 
-Dick, with love from the Motherland.
+- Dick, with love from the Motherland.
 
 ;tags: russian chicken

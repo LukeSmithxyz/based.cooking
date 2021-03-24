@@ -1,6 +1,11 @@
 # Russian 1000 Islands Sauce
 
-A tasty sauce that goes well with salads or rice. Recipe taken from a Russian monastery.
+A tasty sauce that goes well with salads or rice. Recipe taken from a Russian
+monastery.
+
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 0 min
+- 🍽 Servings: 4
 
 ## Ingredients
 

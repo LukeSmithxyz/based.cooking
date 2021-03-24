@@ -1,11 +1,12 @@
 # Chilli con Carne
 
-Thinly minced and non-lean mince is preferred.
-Spices shall be left to the choice of the cook, if at all desired.
-Mince should be broken up well before cooking.
+Thinly minced and non-lean mince is preferred. Spices shall be left to the
+choice of the cook, if at all desired. Mince should be broken up well before
+cooking.
 
-- ⏲️ Prep time: 5 min
-- 🍳 Cook time: 1-2 hours
+- ⏲ Prep time: 5 min
+- 🍳 Cook time: 1-2 hr
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -18,7 +19,6 @@ Mince should be broken up well before cooking.
 - Olive oil
 - Wine
 - Butter
-- (spices)
 
 ## Directions
 

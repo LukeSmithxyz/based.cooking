@@ -2,9 +2,9 @@
 
 This recipe is derived from Smokin' & Grillin' wit AB -- [youtube](https://youtu.be/cjlDBPlTqS0)
 
-- ⏲️ Prep time: 5 min
+- ⏲ Prep time: 5 min
 - 🍳 Cook time: 20 min
-- 🍽️ Servings: 2-3
+- 🍽 Servings: 2-3
 
 ## Ingredients
 
@@ -33,7 +33,7 @@ This recipe is derived from Smokin' & Grillin' wit AB -- [youtube](https://youtu
 
 ## Contribution
 
-- Carl Zimmerman -- [website](https://codingwithcarl.com)
+- Carl Zimmerman -- [website](https://codingwithcarl.com)
 - Smokin' & Smokin' & Grillin' wit AB -- [youtube channel](https://www.youtube.com/channel/UC6tJ9C5SBvK6b-0cejoc4vg)
 
 ;tags: american fish breakfast

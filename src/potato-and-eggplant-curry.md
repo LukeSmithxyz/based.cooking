@@ -2,6 +2,10 @@
 
 A simple and tasty curry that is easy to customise.
 
+- ⏲ Prep time: 15 min
+- 🍳 Cook time: 30 min
+- 🍽 Servings: 4
+
 ## Ingredients
 
 - 1 large eggplant (aubergine)
@@ -14,13 +18,13 @@ A simple and tasty curry that is easy to customise.
 - 2 tsp ground coriander
 - 400 ml can chopped tomatoes
 - 400 ml can coconut milk
-- rice
+- Rice
 
 ### Optional extras
 
-- carrots
-- red peppers (capsicums)
-- paneer
+- Carrots
+- Red peppers (capsicums)
+- Paneer
 
 ## Directions
 
@@ -30,11 +34,11 @@ A simple and tasty curry that is easy to customise.
 4. Add the garlic, garam masala, turmeric and ground coriander and allow to release aroma for a minute or two.
 5. Tip in the canned tomatos and coconut milk. Add the eggplant, and chunks of potato.
 	- It is possible to add additional vegetables at this step. I have on occasion added carrots and red peppers (capsicums).
-7. Cover and simmer for ~15-20 minutes.
-8. Boil 2 serves of rice
-9. Remove the lid and cook for a further 5 minutes, or until reduced.
+6. Cover and simmer for ~15-20 minutes.
+7. Boil 2 serves of rice
+8. Remove the lid and cook for a further 5 minutes, or until reduced.
 	- A nice optional addition at this point is paneer.
-11. Serve with the rice
+9. Serve with the rice
 
 ## Contribution
 

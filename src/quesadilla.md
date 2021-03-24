@@ -4,8 +4,9 @@
 
 A quick and easy low-prep meal, able to be taken anywhere.
 
-- ⏲️ Prep time: ~5 minutes + ingredients prep time
-- 🍽️ Serves: 1
+- ⏲ Prep time: 3 min
+- 🍳 Cook time: 5 min
+- 🍽 Servings: 1
 
 ## Ingredients
 

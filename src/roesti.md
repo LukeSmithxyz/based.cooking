@@ -1,11 +1,11 @@
 # Rösti
 
-This swiss classic works great together with fried eggs and steamed peas or spinach.
-Can be useful to get rid of leftover potatoes from the day before.
+This swiss classic works great together with fried eggs and steamed peas or
+spinach. Can be useful to get rid of leftover potatoes from the day before.
 
-- ⏲️ Prep time: 20 min
+- ⏲ Prep time: 20 min
 - 🍳 Cook time: 20 min
-- 🍽️ Servings: 4
+- 🍽 Servings: 4
 
 ## Ingredients
 
@@ -14,7 +14,7 @@ Can be useful to get rid of leftover potatoes from the day before.
 - 500g (~1lb) peas or spinach
 - 4 eggs
 - 2 onion (medium size)
-- butter
+- Butter
 
 ## Directions
 

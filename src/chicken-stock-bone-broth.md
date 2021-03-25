@@ -5,7 +5,7 @@ While it is easy to make, it sells for very expensive in the store, so it's a go
 
 ## Ingredients
 
-- a whole raw chicken with organs removed (Drumsticks or thighs along might suffice if a whole chicken is unavailable.)
+- a whole raw chicken with organs removed (Drumsticks or thighs alone might suffice if a whole chicken is unavailable.)
 - onions
 - celery
 - carrots

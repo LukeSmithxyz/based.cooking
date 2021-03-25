@@ -1,6 +1,6 @@
 # Chocolate Chip Cookies 
 
-![Chocolate Chip Cookies ](pix/chocolate-chip-cookies.webp)
+![Chocolate Chip Cookies](pix/chocolate-chip-cookies.webp)
 
 - ⏲️ Prep time: 10 min
 - 🍳Cook time: 10 min

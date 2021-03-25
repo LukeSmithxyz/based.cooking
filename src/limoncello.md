@@ -1,5 +1,7 @@
 # Limoncello
 
+![Limoncello](pix/limoncello.webp)
+
 - ⏲️ Prep time: 10 min
 - 🍳Wait time: 20 days
 - 🍽️ Servings: 22

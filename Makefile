@@ -42,6 +42,10 @@ init:
 	printf '' > templates/tag_index_footer.html
 	printf '' > templates/article_header.html
 	printf '' > templates/article_footer.html
+	printf '<p><i> Recipe tags: ' > templates/tag_link_header.html
+	printf '<a href="$$TAG_LINK">$$TAG_NAME</a>' > templates/tag_link.html
+	printf '</i></p>' > templates/tag_link_footer.html
+
 	printf 'blog\n' > .git/info/exclude
 
 build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICLES)) $(patsubst %,blog/%.xml,$(BLOG_FEEDS))

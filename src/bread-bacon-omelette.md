@@ -1,7 +1,7 @@
 # Bread & Bacon Omelette
 
 ![bread-bacon-omelette](pix/bread-bacon-omelette.webp)
-Very simple dish suitable for a big lunch or lazy sunday meal.
+Very simple dish suitable for a big lunch or lazy Sunday meal.
 
 - ⏲️ Prep time: 2 min
 - 🍳 Cook time: 10 min
@@ -30,4 +30,4 @@ Very simple dish suitable for a big lunch or lazy sunday meal.
 - trgwii - [GitHub](https://github.com/trgwii)
 - trgwii - btc: `18oCu2nzk3EhpLEVb5cg1wTiJAMQtgTUru`
 
-;tags: breakfast lunch quick bacon eggs bread
+;tags: breakfast lunch quick bacon eggs

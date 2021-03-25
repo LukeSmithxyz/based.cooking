@@ -20,7 +20,7 @@ Dangerously easy to make soft and chewy caramel candies. Read through the whole 
 
 ## Contribution
 
-[- github](https://github.com/skovati)
+- [github](https://github.com/skovati)
 - eth: `0x8b1aD37C77D1c500859366319cB9604Ee5328ee0`
 
 ;tags: dessert

@@ -39,4 +39,4 @@ Hybrid beef/pork meatballs perfect for spaghetti and meatballs or a meatball sub
 
 - John Hubberts [github](https://github.com/jhubberts)
 
-;tags: italian
+;tags: basic italian beef pork

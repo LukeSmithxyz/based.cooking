@@ -1,6 +1,6 @@
 # Jalapeno Pickled Eggs
 
-![eggs fermenting in jar](pix/jalapeno-eggs.webp)
+![eggs fermenting in jar](pix/jalapeno-pickled-eggs.webp)
 
 Pickled eggs with a spicy twist.
 

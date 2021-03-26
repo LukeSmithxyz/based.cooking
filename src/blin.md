@@ -1,6 +1,6 @@
 # Blin
 
-Zdravstvuyte tovarischi. A popular delicacy in Russia due to its ease of cooking and excellent taste. The blin takes the form of a thin pancake, similar to a crepe.
+Zdravstvuyte tovarischi. A popular delicacy in Russia due to its ease of cooking and excellent taste. The blin takes the form of a thin pancake, similar to a [crepe](https://based.cooking/french-crepes).
 
 ## Ingredients
 

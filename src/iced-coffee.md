@@ -1,6 +1,6 @@
-# Cold Brew Coffee
+# Iced Coffee
 
-A simple cold brew coffee to enjoy on a warm day!
+A simple iced coffee to enjoy on a warm day!
 
 - ⏲️ Prep time: 2 - 5 min
 - 🍽️ Servings: 1 (maybe 2)

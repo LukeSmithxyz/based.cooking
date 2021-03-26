@@ -20,7 +20,6 @@ Traditional Polish dish. Generally, there are as many recipes as there are famil
 - Allspice
 - Bay leaf
 
-
 ## Directions
 
 1. Dice pork and cut onion into small pieces.
@@ -30,7 +29,7 @@ Traditional Polish dish. Generally, there are as many recipes as there are famil
 5. Cook until most of the water has evaporated. (approx. 30 minutes).
 6. Add drained sauerkraut. A bit water if it's too dry. Mix it up and cook for 15 minutes.
 7. In the meantime, peel, slice and fry the sausage a bit.
-8. Add sausage, pour the wine over, mix up and cook for 45 minutes. Remember to mix regularly. 
+8. Add sausage, pour the wine over, mix up and cook for 45 minutes. Remember to mix regularly.
 9. Now it's ready to eat. If you are not in a rush, the dish can wait 2-3 days (then it will be even better).
 
 ## Contribution

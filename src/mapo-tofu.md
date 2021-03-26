@@ -1,6 +1,6 @@
 # Mapo Tofu (麻婆豆腐)
 
-![Mapo Tofu Over Rice](pix/mapo-doufu-01.webp)
+![Mapo Tofu Over Rice](pix/mapo-tofu-01.webp)
 
 - ⏲️ Prep time: 10 min
 - 🍳Cook time: 15 min
@@ -29,7 +29,7 @@
 
 ## Directions
 
-![Mapo Tofu Simmering](pix/mapo-doufu-02.webp)
+![Mapo Tofu Simmering](pix/mapo-tofu-02.webp)
 1. Marinade the pork in shaoxing cooking wine, a splash of cooking oil, the soy sauce, 
 2. Add cooking oil to a wok and sear the ground pork until browned, chopping it up as it cooks
 3. Add the doubanjiang and let it simmer for about a minute

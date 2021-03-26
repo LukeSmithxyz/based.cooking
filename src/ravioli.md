@@ -50,7 +50,7 @@
 21. If you used a pasta cutter, you are now done, store the raviolis on a floured wax paper sheet or freeze them for later
 ![Finished Ravioli](pix/ravioli-03.webp)
 22. If you don't have a pasta cutter, use a fork to press down the dough around the edges of the cut raviolis to ensure they are firmly closed and no leaks or air bubbles are visible, or else they will explode when cooked
-23. To cook, throw them in boiling water and they will let you know when they're done when they float to the top (1-2 minutes)
+23. To cook, throw them in salted boiling water and they will let you know when they're done when they float to the top (1-2 minutes)
 24. Serve the seafood version with a simple fresh red sauce and basil, or spice it up a bit and go with a base of red sauce with some added heavy cream, and a pinch of red pepper flakes to make a pink sauce for the seafood version
 ![Served Ravioli](pix/ravioli-04.webp)
 
@@ -58,4 +58,4 @@
 
 - mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`
 
-;tags: pasta Italian
+;tags: pasta italian

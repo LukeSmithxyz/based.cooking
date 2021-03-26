@@ -24,7 +24,7 @@ Traditional Polish dish. Generally, there are as many recipes as there are famil
 
 1. Dice pork and cut onion into small pieces.
 2. Fry onion in oil in a large pot (the whole dish must fit there), then add pork and fry it too.
-3. Pour one and half glasses of warm water with salt and pepper (not to much salt!).
+3. Pour one and half glasses of warm water with salt and pepper (not too much salt!).
 4. Season with bay leaf and allspice. Add plums and mushroms if you have them. Mix it up.
 5. Cook until most of the water has evaporated. (approx. 30 minutes).
 6. Add drained sauerkraut. A bit water if it's too dry. Mix it up and cook for 15 minutes.

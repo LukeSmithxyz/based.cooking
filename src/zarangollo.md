@@ -28,4 +28,4 @@ Simple veggie starter/side dish from Murcia (Southeastern Spain)
 
 Enrique: [github](https://github.com/enrique95)
 
-;tags: spanish mediterranian side quick
+;tags: spanish mediterranean side quick

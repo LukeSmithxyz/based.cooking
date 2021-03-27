@@ -26,7 +26,7 @@ Turkey, smoked on a charcoal grill
 6. Add chicken broth until it coats the bottom of the pan.
 7. Cover the pan in foil.
 8. Ignite the charcoal grill; arrange the coals for indirect cooking. Try to maintain a temperature of 300-400°F.
-9. Place the turkey in pan on the grill and cook inderectly for 1 hour.
+9. Place the turkey in pan on the grill and cook indirectly for 1 hour.
 10. Remove the foil, and continue cooking over indirect heat. 
 11. Periodically (every 15-30 minutes) baste the turkey with its own juices. If the bottom of the pan is dry, add chicken broth and reduce heat.
 12. Remove when the turkey reaches an internal temperature of 160°F in the breast.

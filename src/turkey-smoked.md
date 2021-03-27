@@ -13,7 +13,7 @@ Turkey, smoked on a charcoal grill
 - 1 turkey, 5-15 lb. (thawed)
 - 1-2 cups whipped butter (room temperature)
 - 2 cup chicken broth
-- 1-4 tbls garlic powder (optional)
+- 1-4 tbsp garlic powder (optional)
 - 1 lb mixed vegetables (carrots, potatoes, broccoli, etc.) (optional)
 
 ## Directions

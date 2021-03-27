@@ -8,7 +8,7 @@
 
 ## Ingredients
 - Puff Pastry Dough
-- 3-4 Apples
+- 3-4 Peeled Apples
 - 300-500ml Sweet Cream (depending on the volume of the baking dish)
 - 3 Eggs
 - 100g Sugar

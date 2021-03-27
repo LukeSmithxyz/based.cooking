@@ -20,7 +20,6 @@
 - 125ml / 4.22 fluid ounces of Milk
 - 300g /  11 oz Flour
 - 2 Teaspoons of Backing Powder
-- About the tip of a Teaspoon of Salt
 - 125g / 4½ oz Powdered sugar (optional)
 - Half a lemon (optional)
 *If you don't have Butter, you can substitute it with 100g of Oil / 3½ oz of Oil suited for baking. Notice the measurement in grams / ounces and not milliliter and fluid ounces

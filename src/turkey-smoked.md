@@ -29,7 +29,7 @@ Turkey, smoked on a charcoal grill
 9. Place the turkey in pan on the grill and cook inderectly for 1 hour.
 10. Remove the foil, and continue cooking over indirect heat. 
 11. Periodically (every 15-30 minutes) baste the turkey with its own juices. If the bottom of the pan is dry, add chicken broth and reduce heat.
-12. Remove when the turkey reaches an internal temperature of 160 degrees F in the breast.
+12. Remove when the turkey reaches an internal temperature of 160°F in the breast.
 13. Allow to rest for 10 minutes before carving.
 
 ## Contribution

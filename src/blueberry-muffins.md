@@ -43,7 +43,7 @@
 13. Distribute the coating across the top of the muffins and let them cool (optional)
 
 ## Cool Tip:
-Muffins are great for sharing at gatherings, but you don't necessary have to waste time and resources on muffin tins. You can always just pour the dough into a cake tin! However, keep in mind that the baking temperature and time should be adjusted. For me 150 °C / 300 Fahrenheit at 50mins. worked the best. 
+Muffins are great for sharing at gatherings, but you don't necessary have to waste time and resources on muffin tins. You can always just pour the dough into a cake tin! However, keep in mind that the baking temperature and time should be adjusted. For me 150°C / 300°F for 50 mins. worked the best. 
 
 ![blueberry-muffins](/data/pix/blueberry-muffins-01.webp)
 

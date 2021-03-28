@@ -35,7 +35,7 @@
 5. Add the two eggs to the molten butter, no need to separate yolk from the egg white
 6. Add the sugar to the molten butter
 7. Mix the aforementioned ingredients up
-8. For the dry ingredients, add the backing powder and salt to the flour
+8. For the dry ingredients, add the baking powder and salt to the flour
 9. Mix both the liquid ingredients with the dry ingredients, the dough should be thick enough to not be completely fluid but also be just fluid enough to be easily distributed across the muffin tins
 10. The blueberries should have lost most of the water from washing by now, carefully mix them into the dough
 11. Distribute the dough across the muffin tins and put them into the preheated oven (190 °C / 375 Fahrenheit), the muffins should be ready after 20 minutes

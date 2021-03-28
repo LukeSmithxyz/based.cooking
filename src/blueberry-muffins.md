@@ -27,7 +27,7 @@
 
 ## Directions
 
-1. If using a vanilla pod, wash it with water, extract it's vanilla and add it to the molten butter. Put the now empty vanilla pod into the milk. This way every single bit of the vanilla get's extracted
+1. If using a vanilla pod, wash it with water, extract it's vanilla and add it to the molten butter. Put the now empty vanilla pod into the milk. This way every single bit of the vanilla gets extracted
 2. Wash the blueberries
 2. For the liquid ingredients, melt the butter, do not cook it
 3. Add the extracted vanilla / vanilla sugar to the molten butter

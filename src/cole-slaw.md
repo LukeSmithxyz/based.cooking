@@ -8,7 +8,7 @@ This is a cole slaw recipe that I got from a chili restaurant in my neighborhood
 
 ## Ingredients
 
-- 3/4 mayonnaise
+- 3/4 cup mayonnaise
 - 1/2 cup buttermilk
 - 3 tbsp lemon juice
 - 3 tbsp apple cider vinegar

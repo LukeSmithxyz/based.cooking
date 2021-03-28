@@ -23,5 +23,4 @@ A light teriyaki sauce which keeps in the cupboard for months.
 
 - moe@modus.uno - Donate Bitcoin: `bc1q4ux9csqeh55kmagu5vyl6hjejqfpql6kv730yz` - Donate Monero: `49uVPc36BdAMH3uptGPn5U9JJ42hoCptBMfndegAj4Pi3Kfu7pUSFgMgc5oSwdzrXMgX3vpAZ6YbpgN2D5TX1bUVDofS7oN`
 
-;tags: Japanese Teriyaki Sauce Quick
-\n
+;tags: japanese sauce quick basic

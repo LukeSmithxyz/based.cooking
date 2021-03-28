@@ -37,4 +37,4 @@ This recipe is its quick and simple version for a delicious breakfast.
 
 - Jakub Korsak -[website](https://korsak.xyz), [donate](https://korsak.xyz/crypto)
 
-;tags: breakfast, quick
+;tags: breakfast quick

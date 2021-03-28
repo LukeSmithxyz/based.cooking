@@ -1,6 +1,6 @@
 # Blueberry Muffins
 
-![blueberry-muffins](/data/pix/blueberry-muffins.webp)
+![blueberry-muffins](pix/blueberry-muffins.webp)
 
 - ⏲️ Prep time: 20 min
 - 🍳 Baking time: 20 min

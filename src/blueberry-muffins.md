@@ -52,4 +52,4 @@ Muffins are great for sharing at gatherings, but you don't necessary have to was
 - Alexander Platonov - [website](https://alexplatonov.com), [donate](https://alexplatonov/donate.com)
 - Pictures taken by Alexander Platonov
 
-;tags: baking baked sweet cake dessert
+;tags: baking sweet cake dessert

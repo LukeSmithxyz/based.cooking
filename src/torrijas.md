@@ -40,7 +40,3 @@ Traditional Spanish desert, consumed especially during the catholic season calle
 - ![XMR Logo](https://lukesmith.xyz/pix/xmr.svg) `86BjG6aLhRALso4ovSQNBhHTsuZHy1qW8XRdztDm1VMn8NDxS5SbGVn4Hyow9aRiTsaMttuZCzRoq2BKQ2Wy5VVH8SVgrRg`
 
 ;tags: spanish dessert eggs
-
-
-
-

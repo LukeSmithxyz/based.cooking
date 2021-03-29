@@ -30,4 +30,4 @@
 
 **Lázaro Blanc** - [Website](https://blnc.io) | [GitHub](https://github.com/lazaroblanc)
 
-;tags: english lamb pie (see README for tag guidelines)
+;tags: english lamb pie

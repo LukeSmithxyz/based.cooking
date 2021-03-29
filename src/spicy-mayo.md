@@ -24,4 +24,4 @@ This is just a basic guide, adapt this recipe to your liking.
 
 - scary90
 
-;tags: simple sauce japanese
+;tags: basic sauce japanese

@@ -28,7 +28,7 @@ You can also substitute the meatballs with e.g. beans or kebab.
 ## Directions
 
 1. Make the meatballs: mix ingredients by hand and make balls. Leave uncooked for now.
-2. Chrush and dice the garlic and dice the onions. Heat the oil in a cooking pot. Sauté the onion and garlic for a few minutes.
+2. Crush and dice the garlic and dice the onions. Heat the oil in a cooking pot. Sauté the onion and garlic for a few minutes.
 3. Add the rice, water and bouillon cube. Boil for 10 minutes on medium heat. Mix periodically.
 4. Add tomato paste and vinegar.
 5. Add the meatballs in one at a time while carefully mixing. Boil for 15 minutes.

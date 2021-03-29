@@ -61,6 +61,8 @@ check_recipe() {
 }
 
 while IFS= read -r file; do
+	errMsgs=''
+
 	# If the file doesn't exist, then the user probably deleted it, so don't
 	# check it.
 	# This will also ignore things that aren't files, like if someone adds a
@@ -77,12 +79,24 @@ while IFS= read -r file; do
 		example.md) ;;
 		README.md) ;;
 		.github/*.md) ;;
+		LICENSE) ;;
+		Makefile) ;;
+		config) ;;
 
 		*.webp)
 			errMsgs="$(check_image "$file")"
 			;;
 		*.md)
 			errMsgs="$(check_recipe "$file")"
+			;;
+
+		*.*)
+			# Catch any other file with an extension and don't do anything
+			# special
+			;;
+		*)
+			# Catch anything else (ie, any file without an extension)
+			errMsgs="File doesn't have a file extension. If this is a recipe, add '.md' to the end of this filename.";
 			;;
 	esac
 

@@ -6,7 +6,7 @@
 
 ## Ingredients
 
-- 600 gramms (g) of mealy/floury potatoes
+- 600 grams (g) of mealy/floury potatoes
 - 2 onions
 - 2 carrots
 - 4 tablespoons (tbsp.) of oil

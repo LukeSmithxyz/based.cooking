@@ -10,7 +10,7 @@ A simple sauce that is at almost every sushi bar in the United States.
 - mayonnaise
 - sesame oil
 
-# Directions
+## Directions
 
 1. Add 2 parts mayonnaise to 1 part chili sauce in a bowl.
 2. Add 1 tbsp of sesame oil for every cup of mayonnaise you use.

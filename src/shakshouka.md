@@ -1,7 +1,7 @@
 # Shakshouka
 
 Shakshouka is a dish of eggs poached in a sauce of tomatoes, olive oil, peppers, onion and garlic, and commonly spiced with cumin, paprika, cayenne pepper, and nutmeg.
-This recipe is its quick and simple version for a delicious breakfast.
+This recipe is a quick and simple version for a delicious breakfast.
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 10 min

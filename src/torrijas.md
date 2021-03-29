@@ -1,5 +1,7 @@
 # Torrijas (A spanish eastern treat)
 
+![torrijas](pix/torijas.webp)
+
 Traditional Spanish dessert, consumed especially during the catholic season called "Lent". As a curiosity, they used to be given as a gift to parturient women. You will have delicious sweet toasts.  There are many torrijas recipes, but this one is a keeper.
 
 - ⏲️ Prep time: 10 min

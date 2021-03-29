@@ -4,7 +4,7 @@ A simple sauce that is at almost every sushi bar in the United States.
 
 - ⏲️ Prep time: 3 min
 
-## Ingredients 
+## Ingredients
 
 - chili sauce (e.g Sriracha)
 - mayonnaise
@@ -20,7 +20,7 @@ A simple sauce that is at almost every sushi bar in the United States.
 
 This is just a basic guide, adapt this recipe to your liking.
 
-## Contribution 
+## Contribution
 
 - scary90
 

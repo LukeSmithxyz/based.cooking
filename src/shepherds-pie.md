@@ -28,6 +28,6 @@
 
 ## Contribution
 
-**Lázaro Blanc** - [Website](https://blnc.io) | [GitHub](https://github.com/lazaroblanc)
+**Lázaro Blanc** - [Website](https://blnc.io) | [GitHub](https://github.com/lazaroblanc) | [LinkedIn](https://www.linkedin.com/in/lazaroblanc) | [Xing](https://www.xing.com/profile/Lazaro_Blanc)
 
 ;tags: english lamb pie

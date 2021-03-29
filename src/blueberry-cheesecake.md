@@ -32,7 +32,7 @@
 
 ## Directions
 
-1. Preheat oven at 375 F
+1. Preheat oven at 375°F
 2. Wash blueberries, set aside
 3. Mix graham crackers, confectioner's sugar, and butter in large bowl.
 4. Press crust mixture in 8" x 8" x 2" pan, skillet, or something similar.

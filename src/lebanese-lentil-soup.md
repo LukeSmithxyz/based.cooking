@@ -27,7 +27,6 @@ Lebanese-Style Lentil Soup with Swiss Chard and Lemon
 6. Add the chopped cilantro. Stir and cook for about 5 minutes.
 7. Add lemon juice and cumin before serving.
 
-
 ## Contribution
 
 - Skipper Davies [github](https://github.com/ferociousmadman)

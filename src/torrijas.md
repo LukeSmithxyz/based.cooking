@@ -1,6 +1,6 @@
 # Torrijas (A spanish eastern treat)
 
-Traditional Spanish desert, consumed especially during the catholic season called "Lent". As a curiosity, they used to be given as a gift to parturient women. You will have delicious sweet toasts.  There are many torrijas recipes, but this one is a keeper.
+Traditional Spanish dessert, consumed especially during the catholic season called "Lent". As a curiosity, they used to be given as a gift to parturient women. You will have delicious sweet toasts.  There are many torrijas recipes, but this one is a keeper.
 
 - ⏲️ Prep time: 10 min
 - 🍳Cook time: 40 min

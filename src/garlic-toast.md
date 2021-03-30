@@ -14,7 +14,7 @@ Garlic toast, perfect as a substitute for crackers in a cheese platter.
 ## Directions
 
 1. Preheat oven to 180°C (350°F).
-2. Place sliced bread on a baking tray, covered with aluminium foil
+2. Place sliced bread on a baking tray lined with aluminium foil.
 3. Generously coat bread slices with garlic-infused olive oil.
 4. Season with garlic salt, to taste.
 5. Bake for 10-15 minutes or until crunchy throughout.

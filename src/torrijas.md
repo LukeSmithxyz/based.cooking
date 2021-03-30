@@ -35,7 +35,7 @@ Traditional Spanish dessert, consumed especially during the catholic season call
 1. Let the torrijas rest on paper towels to absorb excess oil. In another bowl mix the remaining sugar (1/2 cup) with the cinnamon.
 1. Cover the slices in the cinnamon sugar mixture.
 1. Add the honey (you can add more or less depending on preference).
-1. Refrigerate the torrijas the time you want, or just enjoy them freshly made, **(I recommend to taste them both ways)**.
+1. Refrigerate the torrijas for as long as you want, or just enjoy them freshly made, **(I recommend to taste them both ways)**.
     
 ## Contribution
 

@@ -3,14 +3,13 @@
 A swiss favorite, _Älplermagronen_ combines pretty much everything you have at your disposal in your alpine chalet.
 It's the definition of comfort food for the Swiss.
 
-Serves 5-6.
-
-Cooking time: ~30 minutes
+- 🍳 Cook time: 30 min
+- 🍽️ Servings: 5-6
 
 ## Ingredients
 
 - ~150g (1/3 lb) bacon cubes
-- 3 onions (medium size)
+- 3 medium onions
 - 400g (15 oz) potatoes (firm/waxy)
 - 2L (1/2 gal) milk
 - 200g (7oz) macaroni (dry weight)

@@ -1,1 +1,15 @@
 </ul>
+<script>
+var entries = document.getElementsByClassName('entrylink');
+var randlink = document.getElementById('rand');
+function setbutton() {
+	let rand = entries[Math.floor(Math.random() * entries.length)];
+	randlink.innerHTML = 'Random: ' + rand.innerHTML;
+	randlink.href = rand.href;
+}
+setbutton();
+randlink.onmouseup = function(e){
+	if (e.which != 1)
+		setTimeout(setbutton, 10);
+}
+</script>

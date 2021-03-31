@@ -47,6 +47,10 @@ img[alt="XMR Logo"] {
 	display: inline ;
 }
 
+#rand {
+	color: lightgreen;
+}
+
 @media (prefers-color-scheme: light) {
 	body {
 		background: white ;
@@ -63,6 +67,9 @@ img[alt="XMR Logo"] {
 	}
 	code {
 		color: forestgreen ;
+	}
+	#rand {
+		color: green;
 	}
 }
 

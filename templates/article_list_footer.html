@@ -2,9 +2,10 @@
 <script>
 var entries = document.getElementsByClassName('entrylink');
 var randlink = document.getElementById('rand');
+randlink.style.display = 'revert';
 function setbutton() {
 	let rand = entries[Math.floor(Math.random() * entries.length)];
-	randlink.innerHTML = 'Random: ' + rand.innerHTML;
+	randlink.innerHTML = 'Random: ' + rand.innerHTML + '<br>';
 	randlink.href = rand.href;
 }
 setbutton();

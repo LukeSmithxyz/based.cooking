@@ -12,7 +12,7 @@ search.addEventListener('change', e => {
   let res = [] // empty array for results
   rec.forEach(el => {
     // for each memeber of rec(full recipes) array
-    // search for out word
+    // search for our word
     if(el.innerText.toLowerCase().indexOf(e.target.value.toLowerCase()) > -1) res.push(el)
   })
   // empty recipes list first

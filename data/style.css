@@ -53,7 +53,8 @@ input#search {
   color: #fff;
   padding: 0.7rem 1rem;
   border-radius: 5px;
-  min-width: 50vh;
+  width: 400px;
+  max-width: 75vw;
   margin: 1rem auto 2rem;
   display: block;
 }

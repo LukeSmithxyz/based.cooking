@@ -53,10 +53,30 @@ input#search {
   color: #fff;
   padding: 0.7rem 1rem;
   border-radius: 5px;
+  width: 100%;
+}
+
+.search {
   width: 400px;
-  max-width: 75vw;
-  margin: 1rem auto 2rem;
-  display: block;
+  max-width: 85vw;
+  position: relative;
+  margin: 0.5rem auto 1.2rem;
+  display: flex;
+}
+
+button.clear-search {
+  all: unset;
+  position: absolute;
+  right: 4px;
+  top: 5px;
+  height: 30px;
+  width: 30px;
+  color: #888;
+  cursor: pointer;
+  transition: color 180ms ease-in-out;
+}
+button.clear-search:hover {
+  color: #eee;
 }
 
 @media (prefers-color-scheme: light) {

@@ -4,7 +4,7 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 
 - ⏲️ Prep time: 30 min
 - 🍳 Cook time: 20 min
-- 🍽️ Servings: 2
+- 🍽️ Servings: 3
 
 ## Ingredients
 
@@ -16,7 +16,6 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 - Ginger
 - Garlic
 - 2 medium onions
-- Coriander seeds
 - Green chillies
 - Garam masala
 - 2/3 Cardamom pods

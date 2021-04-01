@@ -17,8 +17,8 @@
 
 1. Grate the cheese.
 2. Chop up the bacon into roughly 2cm x 2cm squares.
-3. Start boiling some water, when boiling, add the pasta.
-4. While the water is boiling, start melting the butter in another saucepan.
+3. Start [cooking the pasta](pasta.html).
+4. Start melting the butter in another saucepan.
 5. Once melted, add flour and mix until the mixture forms a paste that does not stick to the sides. The quantity of flour required may vary.
 6. Now start adding the milk slowly, while mixing, as to avoid lumps.
 7. Heat on low heat while stirring until the sauce becomes thick. If unsure, taste the sauce, and if you cannot taste the flour, it is ready for the next step.

@@ -8,9 +8,9 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 
 ## Ingredients
 
-- 500 gm boneless chicken breast
-- 250 gm fat free yoghurt
-- 250 gm coriander leaves
+- 500g boneless chicken breast
+- 250g fat free yoghurt
+- 250g coriander leaves
 - Mustard oil / Sunflower oil
 - Sugar
 - Ginger

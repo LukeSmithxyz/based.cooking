@@ -25,7 +25,7 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 ## Directions
 
 1. Cut the boneless chicken into small bite sized pieces.
-2. In a mixer, put 250 gm coriander leaves, 2/3 green chillies, 250 gm yoghurt, 20 gm ginger, 9/10 cloves of garlic and mix well.
+2. In a mixer, put 250 gm coriander leaves, 2/3 green chillies, 250 gm yoghurt, 20 gm ginger, 9/10 cloves of garlic, 2 medium sized onions and mix well.
 3. Add the green chillies according to the your taste.
 4. Pour half of the mixture from step 2 into a bowl and mix it thouroughly with the chicken.
 5. Into this chicken mixture add 1 tbsp Garam Masala and salt to taste.

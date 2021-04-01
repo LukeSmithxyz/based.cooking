@@ -1,2 +1,26 @@
 <h2>Recipes</h2>
+<input type="text" id="search" placeholder="Search...">
+
+<script>
+const recUL = document.querySelector('#artlist')
+const rec = document.querySelectorAll('#artlist li')
+const search = document.querySelector('#search')
+
+// add event that fires whenever a user finish
+// typing in the search bar
+search.addEventListener('change', e => {
+  let res = [] // empty array for results
+  rec.forEach(el => {
+    // for each memeber of rec(full recipes) array
+    // search for out word
+    if(el.innerText.toLowerCase().indexOf(e.target.value.toLowerCase()) > -1) res.push(el)
+  })
+  // empty recipes list first
+  recUL.innerHTML = ''
+  // update recipes list elements with our results
+  res.forEach(el => {
+    recUL.innerHTML += '<li>' + el.innerHTML + '</li>'
+  })
+})
+</script>
 <ul id=artlist>

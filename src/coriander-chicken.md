@@ -37,7 +37,7 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 11. On medium heat, add the marinated chicken mixture and cook till oil starts separating from the chicken.
 12. Add salt to taste and keep stirring the chicken to make sure it does not burn or stick to the bottom of the pan.
 13. Once the oil separates, add the remaining mixture which was left behind after step 4.
-14. Stir until it has a thick consistemncy. Serve with [naan](naan-bread.html) or [rice](rice.html).
+14. Stir until it has a thick consistency. Serve with [naan](naan-bread.html) or [rice](rice.html).
 
 ## Contribution
 

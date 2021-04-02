@@ -1,5 +1,7 @@
 # Spaghetti and Meatballs
 
+![Spaghetti and Meatballs](pix/spaghetti-and-meatballs.webp)
+
 - ⏲️Prep time: 20 min
 - 🍳 Cook time: 40 min
 - 🍽️Servings: 6
@@ -8,7 +10,7 @@
 
 ### For the sauce
 
-- ½ chopped sweet yellow onion
+- ½ cup chopped sweet yellow onion
 - 3 cloves chopped garlic
 - 1 cup finely chopped carrots
 - 1 cup chopped cremini brown mushrooms
@@ -82,6 +84,6 @@
 
 ## Contribution
 
-- ClosedGL - [GitHub](https://github.com/ClosedGL2)
+- ClosedGL -- [GitHub](https://github.com/ClosedGL2), [PeerTube](https://truetube.media/https://truetube.media/video-channels/cgl/videos)
 
 ;tags: italian pasta beef pork cheesefare

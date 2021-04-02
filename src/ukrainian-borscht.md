@@ -32,7 +32,7 @@ Depending on the recipe, borscht may be purely vegetarian; it may be served eith
 5. Add sliced potatoes and sliced carrots then cook for 10-15 minutes or until easily pierced with a fork.
 6. While potatoes are cooking, place a large skillet over medium/high heat and add 2 Tbsp oil. 
 7. Add chopped onion, celery and bell pepper. Saute stirring occasionally until softened and lightly golden (7-8 minutes). 
-8. Add 4 Tbsp Ketchup and stir fry 30 seconds then transfer to the soup pot to continue cooking with the potatoes.
+8. Add 4 Tbsp Ketchup and stir fry for 30 seconds then transfer to the soup pot to continue cooking with the potatoes.
 9. When potatoes and carrots reach desired softness, add optional ingredients from the list.
 10. Simmer for an additional 2-3 minutes and add more spices to taste.
 11. Serve with a dollop of sour cream on top.

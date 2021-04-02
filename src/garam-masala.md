@@ -13,7 +13,7 @@ A spice mixture for most Indian dishes
 - 5/6 Bayleaf
 - 5/6 Black pepper pods
 - 1 Star anise (Optional)
-- 0.25 Mace (Optional)
+- Mace (Optional): Mace is a dried flower originating from the Nutmeg plant. Use no more than 3 strands of this flower.
 
 ## Directions
 

@@ -23,7 +23,7 @@ A spice mixture for most Indian dishes
 4. Wash all the dry spices really well.
 5. If you live in a place which is very sunny, sun dry your washed spices for about 1 day. If not then on a frying pan with a heavy bottom, place all the spices and dry roast them until aromatic.
 6. Cool the dry spices and put them into a mixer. Mix thoroughly.
-7. Sieve the powder and add the larger pieces into the mixer once again and mix it again till everything turns into a fine powder. This step might need to be repeated a few times.
+7. Sieve the powder and add the larger pieces into the mixer once again and mix it again until everything turns into a fine powder. This step might need to be repeated a few times.
 8. The resulting mixture is garam masala. Store it in airtight glass jars.
 9. You can store this mixture for about 2/3 months in a cool dry place.
 

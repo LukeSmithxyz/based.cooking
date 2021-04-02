@@ -1,6 +1,6 @@
 # Hoisin Pork Belly
 
-[Spicy Glazed Hoisin Pork Belly](pix/hoisin-pork-belly.webp)
+![Spicy Glazed Hoisin Pork Belly](pix/hoisin-pork-belly.webp)
 
 Melt-in-mouth fatty pork in a sweet and spicy glaze.
 

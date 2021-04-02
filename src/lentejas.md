@@ -24,7 +24,7 @@ Traditional-spanish dish. Typical spanish!
 
 ## Directions
 
-1. Heat olive oil in a large pot over medium heat. 
+1. Heat olive oil in a large pot over medium heat.
 2. Add the onion, carrot, and bell pepper; cook and stir until vegetables begin to soften, about 5 minutes.
 3. Stir in the garlic, tomatoes, chorizo and bay leaf; cook about 4 minutes.
 4. Add lentils and water (water should be about an inch deeper than the level of the lentils).
@@ -34,4 +34,4 @@ Traditional-spanish dish. Typical spanish!
 
 - [Ignacio Ferrer - Nacchofer31](https://github.com/Nacchofer31)
 
-;tags: spanish traditional
+;tags: spanish

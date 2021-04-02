@@ -84,6 +84,6 @@
 
 ## Contribution
 
-- ClosedGL -- [GitHub](https://github.com/ClosedGL2), [PeerTube](https://truetube.media/https://truetube.media/video-channels/cgl/videos)
+- ClosedGL -- [GitHub](https://github.com/ClosedGL2), [PeerTube](https://truetube.media/video-channels/cgl/videos)
 
 ;tags: italian pasta beef pork cheesefare

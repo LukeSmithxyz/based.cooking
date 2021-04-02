@@ -23,16 +23,15 @@ Easy and delicious italian dish. Spaghetti alla puttanesca entice you for the sa
 1. Wash capers from salt, then cut them
 2. Pit and crush Gaeta olives
 3. Wash and chop the bunch of parsley
-4. Put a pot of water on the fire, it'll be used for cooking the pasta. Let it boil and then add salt
+4. Start [cooking the pasta](pasta.html) until al dente.
 5. Pour the oil, the peeled garlic cloves and the chopped dry chilli peppers into a large pan
 6. Add the anchovy fillets and capers
 7. Brown over medium heat for 5 minutes, stirring often, so the anchovies will melt 
 8. Now add peeled tomatoes "sugo"; mix it with a spoon and cook for another 10 minutes over medium heat
-9. Let's now cook spaghetti after the water is boiled for 6/7 minutes (al dente cooking)
-10. When the sauce is ready, remove the garlic cloves
-11. Add crushed olives and chopped parsley
-12. Drain spaghetti directly in the pan and sauté it for half a minute
-13. The dish is ready
+9. When the sauce is ready, remove the garlic cloves
+10. Add crushed olives and chopped parsley
+11. Drain spaghetti directly in the pan and sauté it for half a minute
+12. The dish is ready
 
 ## Contribution
 

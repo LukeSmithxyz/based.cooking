@@ -18,7 +18,7 @@ Baked pasta cooked in dish with spicy sauce
 
 ## Directions
 
-1. Bring a pot to a boil and cook pasta for 6 minutes (very al dante).
+1. Bring a pot to a boil and [cook pasta](pasta.html) for 6 minutes (very al dante).
 2. Put pasta and sauce in baking dish(es) and mix well.
 3. Cover pasta and sauce generously with grated cheese until you can't see the pasta.
 4. Bake at 350°F / 175°C for 20 minutes

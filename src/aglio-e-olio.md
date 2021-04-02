@@ -15,14 +15,13 @@ Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greate
 
 ## Directions
 
-1. Heat a large skillet on medium-high heat and put a large pot of water to a boil.
+1. Heat a large skillet on medium-high heat, start [cooking the pasta](pasta.html).
 2. Finely slice or mince the garlic and finely chop the parsley.
 3. Add the oil and garlic to the skillet and gently cook it until it's lightly golden brown.
-4. Once the water is boiling add a few generous pinches of salt and drop in the pasta until it is al dente (firm to the bite).
-5. Add the red pepper flakes to the skillet and turn down the heat to let its flavor infuse the oil.
-6. When the pasta has finished cooking, drain it, and reserve at least around a cup of the cooking water.
-7. Now add the drained pasta with some of the cooking water to the skillet and toss vigorously. The starch in the pasta water will help the sauce emulsify and get it to the right consistency.
-8. At the very last second add the parsley, to preserve its freshness. Adjust the seasoning to taste if necessary.
+4. Add the red pepper flakes to the skillet and turn down the heat to let its flavor infuse the oil.
+5. When the pasta has finished cooking, drain it, and reserve at least around a cup of the cooking water.
+6. Now add the drained pasta with some of the cooking water to the skillet and toss vigorously. The starch in the pasta water will help the sauce emulsify and get it to the right consistency.
+7. At the very last second add the parsley, to preserve its freshness. Adjust the seasoning to taste if necessary.
 
 ## Contribution
 

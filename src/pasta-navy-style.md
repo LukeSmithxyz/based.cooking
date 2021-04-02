@@ -27,7 +27,7 @@ Here are the ingredients for about two hearty adult portions:
    a bit with the onions in the pan.
 4. When the meat is almost done, mince the garlic and add it together with the
    cumin and paprika to the pan.
-5. Cook the pasta in a pot until its done al dente while the beef is being
+5. [Cook the pasta](pasta.html) in a pot until its done al dente while the beef is being
    cooked.
 6. Grate the tomatoes over the pan using a grater with small-sized slots, in
    such a way that the tomato paste and juice falls right away from the grater

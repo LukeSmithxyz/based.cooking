@@ -28,4 +28,4 @@ Mashed potatoes in Belgian style
 
 https://github.com/alpo
 
-;tags: belgian potato potatoes
+;tags: belgian potato

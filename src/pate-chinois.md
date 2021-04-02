@@ -55,4 +55,4 @@ add the cheese. Season with salt and pepper and set aside.
 
 - Julien [contact](mailto:levesquej@protonmail.com)
 
-;tags: quebec beef pie potatoes
+;tags: quebec beef pie potato

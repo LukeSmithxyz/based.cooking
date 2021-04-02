@@ -25,7 +25,7 @@ PS: the biriyani tastes better the longer it's allowed to soak in it's flavour a
 - 1 Green chilli (Optional)
 - 10 Garlic pearls
 - 5cm piece of Ginger
-- 1/2 Tbsp of Garam Masala
+- 1/2 Tbsp of [Garam Masala](garam-masala.html)
 - 1 Tbsp of Chilli Powder or Hungarian Smoked Paprika
 - Juice of 1/2 Lemon or 1 tsp of Vinegar
 - Dash of Tumeric Powder

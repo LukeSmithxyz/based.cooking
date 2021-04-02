@@ -19,7 +19,6 @@ The following ingredients should yield about 15 bliny.
 * Butter
 * Boiling water
 * Sugar
-* Salt
 
 ## Directions
 
@@ -29,11 +28,11 @@ The following ingredients should yield about 15 bliny.
    not too liquid. It should be more liquid than bread batter, but not too
    liquid so that it doesn't drip too fast.
 3. Add a little bit of boiling water and oil or butter and mix the batter
-   until it becomes homogeneous. If you feel its too liquid, add a little bit of
+   until it becomes homogeneous. If you feel it's too liquid, add a little bit of
    flour, if it's not liquid enough, then add a little bit more milk.
 4. Heat up a frying pan to medium heat, cover with a thin layer of melted
    butter, you can use a paper napkin or towel for that.
-5. Slowly pour the batter to the pan rotating it a little bit while you do this,
+5. Slowly pour the batter into the pan rotating it a little bit while you do this,
    such that you end up with a thin layer of batter that covers all the pan.
 6. Cook until you see little bubbles or pores forming in the batter, then flip,
    and cook for another couple of minutes.

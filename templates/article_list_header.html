@@ -7,25 +7,27 @@
 </div>
 
 <script>
-const rec = document.querySelectorAll('#artlist li')
-const search = document.querySelector('#search')
-const clearSearch = document.querySelector('.clear-search')
-
-search.addEventListener('change', e => {
-  // grab search input value
-  const searchText = e.target.value.toLowerCase()
-  // for each receipe hide all but matched
-  rec.forEach(el => {
-    const recipeName = el.innerText.toLowerCase()
-    const isMatch = recipeName.includes(searchText)
-
-    el.hidden = !isMatch
-  })
-})
+document.addEventListener('DOMContentLoaded', () => {
+  const rec = document.querySelectorAll('#artlist li')
+  const search = document.querySelector('#search')
+  const clearSearch = document.querySelector('.clear-search')
   
-clearSearch.addEventListener('click', e => {
-  search.value = ''
-  rec.forEach(el => el.hidden = false)
+  search.addEventListener('change', e => {
+    // grab search input value
+    const searchText = e.target.value.toLowerCase()
+    // for each receipe hide all but matched
+    rec.forEach(el => {
+      const recipeName = el.innerText.toLowerCase()
+      const isMatch = recipeName.includes(searchText)
+
+      el.hidden = !isMatch
+    })
+  })
+
+  clearSearch.addEventListener('click', e => {
+    search.value = ''
+    rec.forEach(el => el.hidden = false)
+  })
 })
 </script>
 <ul id=artlist>

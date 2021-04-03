@@ -19,7 +19,7 @@ prefer butter, and after testing - less sugar was still perfectly fine in terms 
 - 1 cup fat milk
 - 3 sp. high quality jam of choice
 
-## Recipe
+## Directions
 - Heat the oven to 180 C/356 F
 - Mix wet ingredients
 - Add dry ingredients

@@ -89,7 +89,7 @@ blog/index.html: index.md $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsu
 		"$$first" || envsubst < templates/article_separator.html; \
 		URL="`printf '%s' "\$$FILE" | sed 's,^$(BLOG_SRC)/\(.*\).md,\1,'`.html" \
 		DATE="$$DATE" \
-		TITLE="`head -n1 "\$$FILE" | sed -e 's/^# //g'`" \
+		TITLE="`grep -q "(pix/[^.]\+\.webp" "\$$FILE" && echo "📷 "``head -n1 "\$$FILE" | sed -e 's/^# //g'`" \
 		envsubst < templates/article_entry.html; \
 		first=false; \
 	done >> $@; \
@@ -124,7 +124,7 @@ blog/@%.html: $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header tag_in
 		"$$first" || envsubst < templates/article_separator.html; \
 		URL="`printf '%s' "\$$FILE" | sed 's,^$(BLOG_SRC)/\(.*\).md,\1,'`.html" \
 		DATE="$$DATE" \
-		TITLE="`head -n1 "\$$FILE" | sed -e 's/^# //g'`" \
+		TITLE="`grep -q "(pix/[^.]\+\.webp" "\$$FILE" && echo "📷 "``head -n1 "\$$FILE" | sed -e 's/^# //g'`" \
 		envsubst < templates/article_entry.html; \
 		first=false; \
 	done >> $@; \

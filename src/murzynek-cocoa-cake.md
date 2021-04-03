@@ -13,17 +13,17 @@ prefer butter, and after testing - less sugar was still perfectly fine in terms 
 - 2 cups flour
 - 0.5 cup of sugar
 - 1 tsp. baking soda (sodium bicarbonate)
-- 2 sp. cocoa powder
+- 2 tbsp. cocoa powder
 - 2 whole eggs
 - 100 grams of butter
 - 1 cup fat milk
-- 3 sp. high quality jam of choice
+- 3 tbsp. high quality jam of choice
 
 ## Directions
-- Heat the oven to 180 C/356 F
+- Heat the oven to 180°C/356°F
 - Mix wet ingredients
 - Add dry ingredients
-- Mix until the consistence is nice and smooth
+- Mix until the consistency is nice and smooth
 - Pour into 20x20 cm baking mold
 - Bake for 40-50 mins
 - Cover with chocolate glaze

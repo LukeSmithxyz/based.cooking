@@ -27,4 +27,4 @@ Aioli is just mayonnaise with garlic. This recipe uses raw eggs, so if that is s
 
 - brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`
 
-;tags: mayonnaise aioli
+;tags: sauce basic aioli

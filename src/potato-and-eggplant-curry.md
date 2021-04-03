@@ -9,7 +9,7 @@ A simple and tasty curry that is easy to customise.
 - 3 tbsp olive oil
 - 2 onions (finely sliced)
 - 2 garlic cloves (crushed)
-- 2 tsp garam masala
+- 2 tsp [garam masala](garam-masala.html)
 - 2 tsp turmeric
 - 2 tsp ground coriander
 - 400 ml can chopped tomatoes

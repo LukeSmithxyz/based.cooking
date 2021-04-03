@@ -18,7 +18,7 @@ Butter chicken Masala is one of India's most popular chicken recipes, a mild cur
 - Lemon juice 1 tbsp
 - Garlic cloves 3, minced/crushed
 - Ginger 1tbsp, minced/paste
-- Garam Masala/Chicken Masala 1 tbsp
+- [Garam Masala](garam-masala.html)/Chicken Masala 1 tbsp
 - Cream 4tbsp (or cashew paste)
 - Chilli Powder 1 tbsp
 - Turmeric powder 1/4 tbsp

@@ -17,7 +17,7 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 - Garlic
 - 2 medium onions
 - Green chillies
-- Garam masala
+- [Garam masala](garam-masala.html)
 - 2/3 Cardamom pods
 - 1 Bayleaf
 - 1 Cinnamom stick
@@ -33,7 +33,7 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 7. In a frying pan add 3 tbsp of either mustard oil or sunflower oil.
 8. Once the oil is hot, add 1 tbsp sugar and cook until the sugar melts into the oil.
 9. Add 2/3 cardamom pods, 1 small cinnamon stick, and 1 bayleaf into the hot oil.
-10. Simmer for aboout 1 minute, then lower the heat to medium.
+10. Simmer for about 1 minute, then lower the heat to medium.
 11. On medium heat, add the marinated chicken mixture and cook till oil starts separating from the chicken.
 12. Add salt to taste and keep stirring the chicken to make sure it does not burn or stick to the bottom of the pan.
 13. Once the oil separates, add the remaining mixture which was left behind after step 4.

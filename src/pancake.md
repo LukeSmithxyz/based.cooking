@@ -30,4 +30,4 @@ Here is a simple Pancake recipe
 - BeFe (original)
 - Lxgr (gluten-free) - [github](https://github.com/lxgr-linux)
 
-;tags: quick basic breakfast sweet pancake cheesefare
+;tags: quick breakfast sweet pancake cheesefare

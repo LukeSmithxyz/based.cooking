@@ -7,6 +7,7 @@
 - 🍽️ Servings: 45
 
 ## Ingredients 
+
 - 18 ounces potatoes
 - salt and freshly ground black pepper
 - 3 cups all-purpose flour
@@ -19,6 +20,7 @@
 - 3 ½ cups finely chopped button mushrooms
 
 ## Directions
+
 1. Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 25 minutes. Drain potatoes and mash; season with salt and pepper.
 2. Combine flour and 1 teaspoon salt in a large bowl while potatoes are cooking. Stir sour cream and baking soda together in a second bowl. Add water to flour mixture and blend in, followed by sour cream mixture. Knead into a smooth dough, cover with plastic wrap, and refrigerate for 10 to 15 minutes.
 3. Melt butter in a skillet over medium heat and cook onions until browned, 5 to 10 minutes. Add mushrooms and cook until browned, about 5 minutes. Add to mashed potatoes.

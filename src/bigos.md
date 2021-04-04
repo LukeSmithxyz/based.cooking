@@ -1,6 +1,6 @@
-# Polish Bigos
+# Bigos
 
-![polish-bigos](pix/polish-bigos.webp)
+![bigos](pix/bigos.webp)
 
 Traditional Polish dish. Generally, there are as many recipes as there are families in Poland, so feel free to modify as you feel :)
 

@@ -1,6 +1,6 @@
 # Ukrainian Vareniki
 
-(Vareniki/Dumplings) Vareniki are popular all over the world, but aboard they have different names. 
+(Vareniki/Dumplings) Vareniki are popular all over the world, but abroad they have different names.
 
 - ⏲️ Prep: 30 mins
 - 🍳 Cook time: 25 mins  

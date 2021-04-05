@@ -5,9 +5,9 @@
 
 ## Ingredients
 
-- 600g or 5 cups Bread Flour (or All-Purpose if not available)
-- 1 packet (appr. 2 1/4 tsp or 7g) Active Dry Yeast
-- Olive Oil for greasing
+- 600g or 5 cups bread flour (or all-purpose if not available)
+- 1 packet (appr. 2 1/4 tsp or 7g) active dry yeast
+- olive oil for greasing
 
 ## Directions
 

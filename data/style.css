@@ -6,6 +6,7 @@ body {
 	padding: 0 16px ;
 	margin-bottom: 500px ;
 	font-family: sans-serif ;
+	border: 1px solid #4CAF50;
 }
 
 a {
@@ -17,10 +18,12 @@ a:visited {
 }
 
 h1 {
+	border: 1px solid #4CAF50;
 	text-align: center ;
 }
 
 h2 {
+	border: 1px solid #4CAF50;
 	color: tomato ;
 }
 

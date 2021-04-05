@@ -31,4 +31,4 @@
 
 - [Vlad](https://github.com/VladPetryshyn)
 
-;tags: ukrinian vareniki dumplings potato
+;tags: ukrainian dumpling potato

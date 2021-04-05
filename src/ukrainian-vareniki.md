@@ -6,7 +6,7 @@
 - 🍳 Cook time: 25 mins
 - 🍽️ Servings: 45
 
-## Ingredients 
+## Ingredients
 
 - 18 ounces potatoes
 - 3 cups all-purpose flour

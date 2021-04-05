@@ -12,7 +12,7 @@ can be used as a generic sweet spread.
 ## Directions
 
 1. Zest all fruit.
-2. Peel of the albedo.
+2. Peel off the albedo (the white part under the skin).
 3. Blend the fruit (not too much, it doesn't need to become an even mush, just
    cut up into small pieces).
 4. Combine the blended fruit, zest, and sugar in a pot.

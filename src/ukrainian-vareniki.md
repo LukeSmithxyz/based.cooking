@@ -11,7 +11,6 @@
 - 18 ounces potatoes
 - salt and freshly ground black pepper
 - 3 cups all-purpose flour
-- 1 teaspoon salt
 - ¼ cup sour cream
 - ½ teaspoon baking soda
 - ½ cup water

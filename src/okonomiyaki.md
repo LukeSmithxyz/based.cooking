@@ -23,7 +23,6 @@ Okonomiyaki is a Japanese savory pancake.  Instead of using air bubbles to light
   - Katsuobushi (Dried bonito flakes)
   - Nori (Dried roasted seaweed)
 
-
 ## Directions
 
 1. Chop cabbage into thin strips.

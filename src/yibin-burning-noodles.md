@@ -1,5 +1,7 @@
 # Yibin Burning Noodles
 
+This is a dry noodle dish from the town of Yibin in Sichuan, China.
+
 ## Ingredients
 
 ### Yibin Chili Oil

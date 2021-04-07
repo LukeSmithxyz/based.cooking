@@ -30,13 +30,14 @@ Hybrid beef/pork meatballs perfect for spaghetti and meatballs or a meatball sub
 1. Either halfway through the packing process or after forming all meatballs, heat a large skillet to medium-high heat
 1. Add 1-2 tbsp of oil to the skillet (enough to evenly coat the skillet), and bring to heat
 1. Fill the skillet with meatballs, start by browning one face, flip once at after 2-3 minutes, and then remove to the baking sheet after another 2-3 minute. Continue in batches until all meatballs have been browned
-    * It is OK and expected for the metaballs to lose some of their spherical shape at this point
+    * It is OK and expected for the meatballs to lose some of their spherical shape at this point
     * You can skip this step and go straight the oven if you want to cut corners
 1. Transfer to the oven, and cook until the inside registers 140F on an instant read thermometer. This should be about 20 minutes for large meatballs (16 per batch), maybe 10 for small (48 per batch)
-1. Serve with pasta or on a metaball sub
+1. Serve with pasta or on a meatball sub
 
 ## Contribution
 
-- John Hubberts [github](https://github.com/jhubberts)
+- John Hubberts - [github](https://github.com/jhubberts)
+- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: basic italian beef pork

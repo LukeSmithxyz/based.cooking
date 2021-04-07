@@ -11,7 +11,7 @@ Note: You may also need a blender / food processor.
 - Two medium sized onions
 - 250g or 1/2lbs of *fresh* spinach
 - Curry powder of your favourite variety
-- Red chillis (or red chilli paste)
+- Red chilies (or red chilli paste)
 - Any extra herbs or spices to your taste
 
 ## Directions
@@ -26,5 +26,6 @@ Note: You may also need a blender / food processor.
 ## Contribution
 
 - Luke Goule - [GitHub](https://github.com/LukeGoule), [XMR Donation QR](https://ergine.cc/xmr.png)
+- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: curry chicken

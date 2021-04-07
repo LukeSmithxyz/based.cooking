@@ -19,12 +19,13 @@ Aioli is just mayonnaise with garlic. This recipe uses raw eggs, so if that is s
 ## Directions
 
 1. Place egg, vinegar, mustard a pinch of salt and pepper in a beaker or narrow and tall container. Add diced garlic for aioli.
-2. Add oil as the very last ingredient. It should be on the top of the other ingredients, or the mayonnaise/aioli could seperate.
-3. Place hand blender at the very bottom. Dont start it yet.
+2. Add oil as the very last ingredient. It should be on the top of the other ingredients, or the mayonnaise/aioli could separate.
+3. Place hand blender at the very bottom. Don't start it yet.
 4. Use full power, and work your way upwards slowly until all the oil is mixed in
 
 ## Contribution
 
 - brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`
+- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: sauce basic aioli

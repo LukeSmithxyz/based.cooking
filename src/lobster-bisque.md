@@ -1,6 +1,6 @@
 # Lobster bisque
 
-Creamy french lobster soup perfect for the hollidays, you can optionally replace the lobster with any other shellfish.
+Creamy french lobster soup perfect for the holidays, you can optionally replace the lobster with any other shellfish.
 
 - ⏲️ Prep time: 20
 - 🍳Cook time: 30 min
@@ -34,7 +34,7 @@ Creamy french lobster soup perfect for the hollidays, you can optionally replace
 4. Place a stockpot on medium high heat and heat up enough oil to cover the bottom of the pan, add the lobster shells and cook them until they are bright red.
 5. Remove the oil from the pan and discard it, add your butter to the shells.
 6. Add all diced vegetables and let it sauté for 2 minutes, add a dash of cognac and flambé, lower the heat to medium low.
-7. Rougly dice the tomatoes and add them together with the tomato puree, once again let it sauté for 2 minutes.
+7. Roughly dice the tomatoes and add them together with the tomato puree, once again let it sauté for 2 minutes.
 8. Add the flour and give it all a stir, let it dry up in the pan.
 9. Deglaze the pan with the white wine and once the wine has dried up a bit add the fish stock.
 10. Tie up your herbs using kitchen twine and add them to your pot.
@@ -47,5 +47,6 @@ Creamy french lobster soup perfect for the hollidays, you can optionally replace
 ## Contribution
 
 - Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
+- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: french seafood soup

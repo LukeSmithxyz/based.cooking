@@ -21,7 +21,7 @@ This is a recipe for making Jordan's Country Crisp-like cereals.
 
 1. Preheat the oven at 120°C.
 2. Prepare the cooking support with for example, a parchment paper on a cooking plate.
-3. Mix the sugar and the water, until the sugar disolves.
+3. Mix the sugar and the water, until the sugar dissolves.
 4. In a large container (like a salad bowl) introduce the Flour, the Oat Flakes, and the Crushed Hazelnuts (and optionally the Vanilla Extract), and mix.
 5. Introduce in the previous mixture, the Sugar Syrup and the Oil, and mix again.
 6. Deposit the paste obtained on the cooking plate without exceeding 2 cm in height.
@@ -32,5 +32,6 @@ This is a recipe for making Jordan's Country Crisp-like cereals.
 ## Contribution
 
 Recipe translated from french and tested by [Pr.Walter Bulbazor](https://prwalterbulbazor.868center.tech), from [this blog article](https://vegebon.wordpress.com/2010/07/27/country-crisp-au-chocolat-la-recette-maison/)
+- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: breakfast cereals english

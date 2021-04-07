@@ -24,12 +24,13 @@ A quick and easy low-prep meal, able to be taken anywhere.
 3. Add the ingredients onto one half of the tortilla if using 1, or the entire surface if using 2.
 4. Fold empty half of the tortilla in the pan onto itself if you are only using one tortilla.
    - If you are using 2 simply place the second on top of the first.
-5. Periodically flip the torilla until both sides are golden brown.
+5. Periodically flip the tortilla until both sides are golden brown.
    - This may be hard if using 2 tortillas, so try your best or transfer it to a plate, flip it with your hands, and transfer it back to the pan. 
 
 ## Contributors
 
 - peebowo
 - Zyansheep
+- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: mexican quick cheesefare

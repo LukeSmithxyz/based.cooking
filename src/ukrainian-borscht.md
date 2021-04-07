@@ -1,4 +1,4 @@
-# Ukranian Borscht
+# Ukrainian Borscht
 
 ![Borscht in a bowl](pix/borscht.webp)
 

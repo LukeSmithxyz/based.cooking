@@ -6,7 +6,7 @@ Borscht is a beet soup that originates from Ukraine and is common in Eastern Eur
 Depending on the recipe, borscht may be purely vegetarian; it may be served either hot or cold; and it may range from a hearty one-pot meal to a clear broth or a smooth drink.
 
 - ⏲️ Prep time: 25 mins 
-- 🍳Cook time: 40 mins  
+- 🍳 Cook time: 40 mins  
 - 🍽️ Servings: 10
 
 ## Ingredients

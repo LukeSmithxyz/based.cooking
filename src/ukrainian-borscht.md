@@ -1,10 +1,12 @@
-# Ukrainian Borscht
+# Ukranian Borscht
 
-Borsch is a beet soup that originates from Ukraine and is common in Eastern Europe and North Asia.
+![Borscht in a bowl](pix/borscht.webp)
+
+Borscht is a beet soup that originates from Ukraine and is common in Eastern Europe and North Asia.
 Depending on the recipe, borscht may be purely vegetarian; it may be served either hot or cold; and it may range from a hearty one-pot meal to a clear broth or a smooth drink.
 
 - ⏲️ Prep time: 25 mins 
-- 🍳 Cook time: 40 mins  
+- 🍳Cook time: 40 mins  
 - 🍽️ Servings: 10
 
 ## Ingredients
@@ -22,6 +24,7 @@ Depending on the recipe, borscht may be purely vegetarian; it may be served eith
 - 2 bay leaves (optional)
 - 1 pressed garlic clove (optional) 
 - 1 cup sour cream (optional)
+- fresh dill to taste (optional)
 
 ## Directions
 
@@ -40,5 +43,6 @@ Depending on the recipe, borscht may be purely vegetarian; it may be served eith
 ## Contributors
 
 - **Stanislav** – [link](http://git.io/monesonn)
+- **Tait Hoyem** - [link](https://tait.tech)
 
-;tags: ukrainian soup beetroot
+;tags: ukrainian soup beetroot russian

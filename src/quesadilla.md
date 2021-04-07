@@ -31,6 +31,5 @@ A quick and easy low-prep meal, able to be taken anywhere.
 
 - peebowo
 - Zyansheep
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: mexican quick cheesefare

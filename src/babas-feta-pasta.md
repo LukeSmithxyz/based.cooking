@@ -44,6 +44,5 @@ Make sure to prepare & chop most ingredients before you start.
 
 - peepopoggers - [github](https://github.com/peepopoggers)
 - Original recipe.
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: greek feta pasta supper

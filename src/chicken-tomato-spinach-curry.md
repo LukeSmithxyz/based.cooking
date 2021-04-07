@@ -26,6 +26,5 @@ Note: You may also need a blender / food processor.
 ## Contribution
 
 - Luke Goule - [GitHub](https://github.com/LukeGoule), [XMR Donation QR](https://ergine.cc/xmr.png)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: curry chicken

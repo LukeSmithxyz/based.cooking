@@ -78,6 +78,5 @@
 ## Contribution
 
 - ClosedGL - [GitHub](https://github.com/ClosedGL2)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: italian pasta beef pork cheesefare

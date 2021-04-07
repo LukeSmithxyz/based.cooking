@@ -35,6 +35,5 @@ My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.
 ## Contribution
 
 - Laurent Micheli - [website](https://digitalstatic.xyz)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: italian sauce 

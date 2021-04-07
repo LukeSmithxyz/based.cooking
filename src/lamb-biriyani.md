@@ -52,6 +52,5 @@ PS: the biriyani tastes better the longer it's allowed to soak in it's flavour a
 ## Contribution
 
 - Ram Pari - [website](https://github.com/ramkpari) - Donate -> ETH: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w`
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: lamb mutton indian

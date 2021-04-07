@@ -39,6 +39,5 @@ Vietnamese Pho Soup is a tea-like, beef based soup with a flavor profile that di
 
 - Jon Burga - [website](https://jonburga.com),
 [donate-btc]( `bc1qqsj592ls8xdhxpf5h4e8wj2w3v9uvv6mc6gz7f`)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: vietnamese beef

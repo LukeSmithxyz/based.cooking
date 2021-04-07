@@ -32,6 +32,5 @@ This is a recipe for making Jordan's Country Crisp-like cereals.
 ## Contribution
 
 Recipe translated from french and tested by [Pr.Walter Bulbazor](https://prwalterbulbazor.868center.tech), from [this blog article](https://vegebon.wordpress.com/2010/07/27/country-crisp-au-chocolat-la-recette-maison/)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: breakfast cereals english

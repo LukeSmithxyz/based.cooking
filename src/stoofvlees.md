@@ -39,6 +39,5 @@ Traditionally eaten with fries and chicory salad.
 ## Contribution
 
 - Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
-- Tait Hoyem, [website](https://tait.tech)
 
 ;tags: beef stew belgian

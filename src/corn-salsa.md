@@ -19,6 +19,5 @@
 
 ## Contributions
 - Joe Powerhouse - BTC:1KPxw9js2VukakhMv2wUUFUQZnHQL842ju
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: sauce mexican

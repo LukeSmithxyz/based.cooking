@@ -37,6 +37,5 @@ There you have it, an idiot-proof carb and protein bomber that should taste reas
 ## Contribution
 
 - Martin Stohanzl - [website](https://loesmartin.at), [youtube](https://www.youtube.com/channel/UCJkTyM5-fcVBkhi7DypoNsg)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: austrian ham noodles

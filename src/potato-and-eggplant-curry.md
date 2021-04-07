@@ -38,6 +38,5 @@ A simple and tasty curry that is easy to customise.
 ## Contribution
 
 - Luke Chadwick - [website](https://lukechadwick.com)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: indian curry potato fasting

@@ -20,6 +20,5 @@ Makes about 2 cups (475mL). Refrigerate leftovers
 ## Contribution
 
 - Nathan
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: mexican sauce

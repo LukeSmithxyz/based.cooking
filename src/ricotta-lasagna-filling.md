@@ -22,6 +22,5 @@ A quick and easy filling for lasagna based on ricotta
 ## Contribution
 
 - Josiah - [website](https://himiko.cloud), [donate](https://himiko.cloud/donate/)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: basic italian cheese

@@ -24,6 +24,5 @@ Perfect for pan pizza in an 11 inch iron skillet.
 ## Contribution
 
 - brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: basic pizza dough

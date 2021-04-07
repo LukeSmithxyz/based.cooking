@@ -29,6 +29,5 @@
 ## Contribution
 
 - digi - [sourcehut](https://git.sr.ht/~digi/)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: turkish rice soup 

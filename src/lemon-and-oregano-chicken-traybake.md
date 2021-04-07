@@ -27,6 +27,5 @@
 ## Contribution
 
 - Isaac Hill (recipe/photo credit) - [website](https://isaachill.co.uk)
-- Tait Hoyem (spelling) - [website](https://tait.tech)
 
 ;tags: mediterranean chicken traybake

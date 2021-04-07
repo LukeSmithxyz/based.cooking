@@ -47,6 +47,5 @@ Creamy french lobster soup perfect for the holidays, you can optionally replace 
 ## Contribution
 
 - Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: french seafood soup

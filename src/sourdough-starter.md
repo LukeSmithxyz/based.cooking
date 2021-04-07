@@ -22,6 +22,5 @@ This recipe contains instructions for sourdough starter needed for all sourdough
 ## Contribution
 
 - Vili Kangas
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: bread sourdough basic

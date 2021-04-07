@@ -35,6 +35,5 @@ Turkey, smoked on a charcoal grill
 ## Contribution
 
 - Daddy Warcrimes - [website](https://daddywarcrimes.blogspot.com/), [donate](https://daddywarcrimes.blogspot.com/2018/05/why-im-asking-for-money.html)
-- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: basic american turkey

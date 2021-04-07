@@ -10,7 +10,7 @@ This recipe will result in two or three glass dishes of tasty, moist meatloaf. G
 
 ## Ingredients
 
-- 2kg Ground beef
+- 4 1/2 pounds Ground beef
 - 1 Onion
 - 2 Slices of bread
 - 4 Eggs

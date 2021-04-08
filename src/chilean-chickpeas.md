@@ -28,4 +28,4 @@ Traditional chilean dish.
 7. Add chickpeas and the sweet potato squash to the pressure cooker. Then fill with water until the preparation is covered. 
 8. Cook for 25 minutes in the pressure cooker.
 
-;tags: beans 
+;tags: beans simple 

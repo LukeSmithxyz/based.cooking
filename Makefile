@@ -73,7 +73,7 @@ blog/index.html: index.md $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsu
 	first=true; \
 	for t in $(shell cat $(TAGFILES) | sort -u); do \
 		"$$first" || envsubst < templates/tag_separator.html; \
-		NAME="$$t" \
+		NAME="$$(./getTagEmoji.sh "$$t")$$t" \
 		URL="@$$t.html" \
 		envsubst < templates/tag_entry.html; \
 		first=false; \
@@ -152,7 +152,7 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	sed -e '/^;/d' < $< | markdown -f fencedcode >> $@; \
 	envsubst < templates/tag_link_header.html >> $@; \
 	for i in $${TAGS} ; do \
-		TAG_NAME="$$i" \
+		TAG_NAME="$$(./getTagEmoji.sh "$$i")$$i" \
 		TAG_LINK="./@$$i.html" \
 		envsubst < templates/tag_link.html >> $@; \
 	done; \

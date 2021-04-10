@@ -17,19 +17,19 @@ A springform pan is optimal, however a 9"x13" baking pan suffices.
 
 ## Directions
 
-1 Preheat oven to 300°F (150°C)
-2 Butter the pan
-3 mix graham crackers, melted butter, and 1 tbsp sugar in bowl
-4 Press into pan
-5 Beat in 1 egg at a time into the cream cheese
-6 Stir in 3/4 cup sugar and vanilla extract
-7 Pour mixture into pan
-8 Bake for an hour
-9 For topping, mix sour cream and 3/4 cup sugar
-10 Remove cake from oven and let it stand for 15 mins
-11 Raise temp. to 350°F (175°C)
-12 Spread topping and bake for another 15 mins
-13 Chill cake for several hours & enjoy!
+1. Preheat oven to 300°F (150°C)
+2. Butter the pan
+3. mix graham crackers, melted butter, and 1 tbsp sugar in bowl
+4. Press into pan
+5. Beat in 1 egg at a time into the cream cheese
+6. Stir in 3/4 cup sugar and vanilla extract
+7. Pour mixture into pan
+8. Bake for an hour
+9. For topping, mix sour cream and 3/4 cup sugar
+10. Remove cake from oven and let it stand for 15 mins
+11. Raise temp. to 350°F (175°C)
+12. Spread topping and bake for another 15 mins
+13. Chill cake for several hours & enjoy!
 
 ## Contribution
 

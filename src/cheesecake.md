@@ -19,7 +19,7 @@ A springform pan is optimal, however a 9"x13" baking pan suffices.
 
 1. Preheat oven to 300°F (150°C)
 2. Butter the pan
-3. mix graham crackers, melted butter, and 1 tbsp sugar in bowl
+3. Mix graham crackers, melted butter, and 1 tbsp sugar in bowl
 4. Press into pan
 5. Beat in 1 egg at a time into the cream cheese
 6. Stir in 3/4 cup sugar and vanilla extract
@@ -35,19 +35,4 @@ A springform pan is optimal, however a 9"x13" baking pan suffices.
 
 - Thomas Fasano --[website](https://tomfasano.xyz), [donate](https://tomfasano.xyz/donate/donate.html)
 
-;tags dessert sweet
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+;tags: dessert sweet

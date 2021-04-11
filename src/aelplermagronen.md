@@ -14,7 +14,7 @@ It's the definition of comfort food for the Swiss.
 - 3 onions (medium size)
 - 400g (15 oz) potatoes (firm/waxy)
 - 1 - 2L (1/4 - 1/2 gal) milk
-- 400g (7oz) macaroni (dry weight)
+- 400g (15 oz) macaroni (dry weight)
 - ~150g (1/3 lb) medium soft cheese. Appenzeller works best. Gruyère would be my go-to alternative.
 - a jar of apple sauce
 

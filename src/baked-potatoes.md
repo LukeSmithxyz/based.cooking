@@ -6,22 +6,18 @@
 
 ## Ingredients
 
-- 6-7 Yukon pototoes (you can use any potatoes you like)
-- 1/3 cup of any vegitable oil
-- 1 teaspoon salt
-- Black pepper
-- Any seasoning you like
+- 6-7 Yukon potatoes (you can use any potatoes you like)
+- 1/3 cup of any vegetable oil
 
 ## Directions
-1. Preheat the oven to 425F/220C
-2. Wash potatoes and slice into 5mm slices
-3. Put the sliced poptatoes into a bowl
+1. Preheat the oven to 425°F/220°C
+2. Wash potatoes and cut into into 5mm slices
+3. Put the sliced potatoes into a bowl
 4. Add salt, pepper and any other seasoning you like
-5. Add 1/3 cup of a vegitable oil
-6. Mix everything and put it on the baking pan
+5. Add 1/3 cup of a vegetable oil
+6. Mix everything and put it on a baking sheet (optionally lined with baking paper to make cleanup easier) for 20 to 25 minutes.
 
-I preffer to use baking paper, it makes everything cleaner and easier. Put your potatoes on the
-baking pan and put it on the oven for 20-25 minutes.
+I preffer to use baking paper, it makes everything cleaner and easier. Put your potatoes on the baking pan and put it on the oven for 20-25 minutes.
 
 ## Contribution
 - Stanislav Kozin - [website](https://kozin.cc)

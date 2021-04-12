@@ -2,7 +2,7 @@
 
 A kind of braided bread preperation.
 
-- ⏲️ Prep time: 120 min
+- ⏲️ Prep time: 20 min
 - 🍳 Cook time: 40 min
 
 NOTE: Prep time does not account for the 3-4 hours the dough must be left to rise and cool (see directions 5, 10, & 12).

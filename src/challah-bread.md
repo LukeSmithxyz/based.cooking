@@ -37,4 +37,4 @@ NOTE: Prep time does not account for the 3-4 hours the dough must be left to ris
 
 http://jacobsiggins.co.uk
 
-;tags: israel, bread
+;tags: israel bread

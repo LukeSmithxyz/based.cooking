@@ -15,7 +15,8 @@
 3. Put the sliced potatoes into a bowl
 4. Add salt, pepper and any other seasoning you like
 5. Add 1/3 cup of a vegetable oil
-6. Mix everything and put it on a baking sheet (optionally lined with baking paper to make cleanup easier) for 20 to 25 minutes.
+6. Add salt, pepper and any other seasonings you like
+7. Mix everything and put it on a baking sheet (optionally lined with baking paper to make cleanup easier) for 20 to 25 minutes.
 
 I preffer to use baking paper, it makes everything cleaner and easier. Put your potatoes on the baking pan and put it on the oven for 20-25 minutes.
 

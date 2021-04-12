@@ -1,6 +1,6 @@
 # Challah Bread
 
-A kind of braided bread preperation.
+A kind of braided bread preparation.
 
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 40 min
@@ -29,12 +29,12 @@ NOTE: Prep time does not account for the 3-4 hours the dough must be left to ris
 7. Knead each half, adding flour as needed to keep the dough non-sticky.
 8. Divide each half into thirds and roll into a long snake about 4cm (1.5in) in girth.
 9. Pinch the ends of the each three snakes together firmly and plait them together, making two items of braided dough.
-10. Grease two baking trays or use baking paper, cover with dry cloth and let rise for one hour. Preheat oven to 190 C / Gas mark 5.
+10. Grease two baking trays or use baking paper, cover with dry cloth and let rise for one hour. Preheat oven to 190°C / Gas mark 5.
 11. Whisk an egg and brush onto each plait, sprinkle with seeds.
 12. Bake until bread has a hollow sound when tapped, cool on a rack for an hour before slicing.
 
 ## Contribution
 
-http://jacobsiggins.co.uk
+- siggines - [website](http://jacobsiggins.co.uk)
 
-;tags: israel bread
+;tags: israeli bread

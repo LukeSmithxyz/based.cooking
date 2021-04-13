@@ -32,7 +32,7 @@ Originally published at [https://www.yaroslavps.com/food/fresh-guacamole/](https
 
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/),
+- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/),
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

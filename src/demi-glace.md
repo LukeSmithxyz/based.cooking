@@ -2,7 +2,7 @@
 
 This is a take on a traditional demi-glace without needing to buy an astronomically large amount of veal bones. Use this as your main base for pan sauces, an extra flavor bomb, or a replacement for recipes that call for broth or stock.
 
-These are the basic proportions — multiply as needed. I typically multiply by six to give me several weeks worth of demi-glace ice cubes.
+These are the basic proportions -- multiply as needed. I typically multiply by six to give me several weeks worth of demi-glace ice cubes.
 
 ## Ingredients
 

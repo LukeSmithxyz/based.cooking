@@ -8,7 +8,7 @@
 
 - 420ml quark (plain yoghurt can be used as a replacement)
 - 2 eggs
-- 6/7 spoons of sugar
+- 6 or 7 tbsp of sugar
 - 2 packets of vanilla sugar
 - 400g flour (500g if using yoghurt)
 - 2 packets of baking powder

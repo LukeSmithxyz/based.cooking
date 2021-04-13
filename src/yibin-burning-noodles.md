@@ -38,7 +38,7 @@ This is a dry noodle dish from the town of Yibin in Sichuan, China.
 5. Simmer for 10 minutes.
 6. Ensure the oil is approximately 150°C
 7. Pour oil through a strainer onto the ground chilies.
-8. Stir thouroughly.
+8. Stir thoroughly.
 9. Add the melted pork lard.
 10. Stir thouroughly.
 

@@ -10,7 +10,7 @@
 - 2 eggs
 - 40g sugar (3 tbsp)
 - 20g honey (1 tbsp)
-- 60ml milk (4 tbsp) (or you can use water instead)
+- 60ml milk (4 tbsp) (you can use water instead)
 - 120g oat flour (1 cup)
 - 1 tsp baking powder (or baking soda + some acid to activate it)
 - Raspberry jam (optional)

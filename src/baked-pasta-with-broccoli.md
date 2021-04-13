@@ -8,11 +8,11 @@
 
 ## Ingredients 
 
-- 500g x pasta
-- 500g x broccoli
-- 4 x eggs 
-- 200g x scamorza cheese
-- 400g x béchamel 
+- 500g pasta
+- 500g broccoli
+- 4 eggs 
+- 200g scamorza cheese
+- 400g béchamel 
 - sage (optional)
 - parmesan cheese (optional)
 

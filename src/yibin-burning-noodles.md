@@ -40,7 +40,7 @@ This is a dry noodle dish from the town of Yibin in Sichuan, China.
 7. Pour oil through a strainer onto the ground chilies.
 8. Stir thoroughly.
 9. Add the melted pork lard.
-10. Stir thouroughly.
+10. Stir thoroughly.
 
 ### Noodles
 

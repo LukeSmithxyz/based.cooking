@@ -12,7 +12,7 @@
 - 2 packets of vanilla sugar
 - 400g flour (500g if using yoghurt)
 - 2 packets of baking powder
-- 1l sunflower oil for frying
+- 1L sunflower oil for frying
 - (Optional) icing sugar
 - (Optional) Alcohol by eye so that they do not soak up so much oil
 

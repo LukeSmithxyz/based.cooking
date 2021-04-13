@@ -18,7 +18,7 @@
 
 ## Directions 
 
-1. Boil water and add salt (10 g every liter), put pasta inside;
+1. Boil water and add salt (a handful for every liter), put pasta inside;
 2. boil broccoli and eggs for 10 minutes;
 3. While everything is boiling dice scamorza cheese, prepare a pan;
 4. Put a layer of béchamel;

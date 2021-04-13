@@ -1,6 +1,6 @@
 # Baked pasta with broccoli, boiled eggs and scamorza cheese
 
-![Picture](baked-pasta-final.webp)
+![Picture](pix/baked-pasta-final.webp)
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 20~30 min

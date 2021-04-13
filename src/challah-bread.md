@@ -4,6 +4,7 @@ A kind of braided bread preparation.
 
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 40 min
+- 🍽️ Servings: 2-4
 
 NOTE: Prep time does not account for the 3-4 hours the dough must be left to rise and cool (see directions 5, 10, & 12).
 
@@ -12,7 +13,7 @@ NOTE: Prep time does not account for the 3-4 hours the dough must be left to ris
 - 600ml ( 1 Pint ) warm water
 - 1 tablespoon dry active baking yeast
 - 7 tablespoons honey
-- 1kg flour
+- 1.5kg flour
 - 3 eggs 
 - 1 tablespoon salt
 - 1 tablespoon poppy seeds

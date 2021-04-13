@@ -6,7 +6,7 @@
 - 🍳 Cook time: 20~30 min
 - 🍽️ Servings: 4
 
-## Ingredients 
+## Ingredients
 
 - 500g pasta
 - 500g broccoli

@@ -16,7 +16,7 @@
 - sage (optional)
 - parmesan cheese (optional)
 
-## Directions 
+## Directions
 
 1. Boil water and add salt (a handful for every liter), put pasta inside.
 2. Boil broccoli and eggs for 10 minutes.

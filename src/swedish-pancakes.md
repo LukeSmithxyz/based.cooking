@@ -29,4 +29,4 @@
 
 - Matt Bogenhagen
 
-;tags: breakfast swedish
+;tags: breakfast swedish pancake

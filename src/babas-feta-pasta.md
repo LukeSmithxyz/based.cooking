@@ -40,7 +40,7 @@ Make sure to prepare & chop most ingredients before you start.
 8. Turn down the main mix again slightly and add the 1/3 Mug of Whole milk to the mix.
 9. Strain and serve your pasta and cover with the sauce. Enjoy!
 
-## Credit
+## Contribution
 
 - peepopoggers - [github](https://github.com/peepopoggers)
 - Original recipe.

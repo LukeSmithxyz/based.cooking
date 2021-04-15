@@ -28,7 +28,7 @@ Asian style crispy coated chicken with sweetish sauce recipe. Served with boiled
 
 ## Directions
 
-1. Prepare the sauce by mixing the indgredients together in a bowl.
+1. Prepare the sauce by mixing the ingredients together in a bowl.
 2. Cut the chicken into bite sized pieces.
 3. Place all-purpose flour in a shallow bowl. Mix in garlic powder as well as salt and pepper, 1/2 tsp each.
 4. Place lightly beaten egg in another shallow bowl.
@@ -41,8 +41,6 @@ Asian style crispy coated chicken with sweetish sauce recipe. Served with boiled
 
 ## Contribution
 
-- pazu 
-- xmr: 48QiCovstDPbHtMR5DP8tp3fUgguVUcdUX2pjbh6utt88fMe5h233ZnY7PxxdQYCjrVuCBQA2D8JBYU7rH2MdVDHFKd7QJi
-- btc: 17FWEWrKuock7eeZY3DTne7LgES1uKYZK5
+- pazu - xmr: 48QiCovstDPbHtMR5DP8tp3fUgguVUcdUX2pjbh6utt88fMe5h233ZnY7PxxdQYCjrVuCBQA2D8JBYU7rH2MdVDHFKd7QJi - btc: 17FWEWrKuock7eeZY3DTne7LgES1uKYZK5
 
 ;tags: asian chicken

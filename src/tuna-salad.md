@@ -23,6 +23,7 @@
 
 ## Contribution
 
-scary90, TTWNO
+- scary90
+- Tait Hoyem - [website](https://tait.tech)
 
 ;tags: quick basic tuna fish

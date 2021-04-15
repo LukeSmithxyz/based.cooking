@@ -1,6 +1,6 @@
 # Bolo do Caco (Caco Bread)
 
-_A tradicional Madeiran-Portuguese Bread_
+_A traditional Madeiran-Portuguese Bread_
 
 - ⏲️ Prep time: 1 hour
 - 🍳 Cook time: 45 min

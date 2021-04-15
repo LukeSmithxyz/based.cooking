@@ -20,7 +20,7 @@ Aioli is pretty much just mayonnaise with garlic, although traditional aioli onl
 
 1. Place egg, vinegar, mustard a pinch of salt and pepper in a beaker or narrow and tall container. Add diced garlic for aioli.
 2. Add oil as the very last ingredient. It should be on the top of the other ingredients, or the mayonnaise/aioli could seperate.
-3. Place hand blender at the very bottom. Dont start it yet.
+3. Place hand blender at the very bottom. Don't start it yet.
 4. Use full power, and work your way upwards slowly until all the oil is mixed in.
 5. Feel free to taste and mix in extra spices and vinegar afterwards.
 

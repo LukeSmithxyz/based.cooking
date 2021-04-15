@@ -4,7 +4,7 @@
 
 A nice recipe for amazing fully home-made lasagna.
 
-- ⏲️ Prep time: 4 hours 30 minutes
+- ⏲️ Prep time: 1 hour
 - 🍳 Cook time: 45 min
 - 🍽️ Servings: 6
 

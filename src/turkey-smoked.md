@@ -22,7 +22,7 @@ Turkey, smoked on a charcoal grill
 2. Remove giblets and other materials from the turkey cavity.
 3. Rinse the turkey and pat dry with a towel.
 4. Liberally coat the turkey with the whipped butter mixture. Ensure the entire surface is coated.
-5. Place turkey in a foil baking pan with mixed vegatbles. If available, use a rack to elevate the turkey from the bottom of the pan.
+5. Place turkey in a foil baking pan with mixed vegetables. If available, use a rack to elevate the turkey from the bottom of the pan.
 6. Add chicken broth until it coats the bottom of the pan.
 7. Cover the pan in foil.
 8. Ignite the charcoal grill; arrange the coals for indirect cooking. Try to maintain a temperature of 300-400°F.

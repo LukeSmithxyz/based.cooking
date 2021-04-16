@@ -14,7 +14,7 @@ I like the recipe because it takes 10 minutes to prepare and another 10 minutes 
 
 ## Directions
 
-1. we start by flattening the dough. Even if you buy thin crust that is already sold as superthin you have to make it even thinner. Make it so thin that you can fill 2 baking sheets with it (yes, you will make two large flammkuchen - since they are thin you need one per person) :)  I take two pieces of  parchment paper, put the dough inbetween and flatten it using a bottle (e.g. wine). It has to be as thin as possible (1-2 mm).
+1. we start by flattening the dough. Even if you buy thin crust that is already sold as 'super thin' you have to make it even thinner. Make it so thin that you can fill 2 baking sheets with it (yes, you will make two large flammkuchen - since they are thin you need one per person) :)  I take two pieces of  parchment paper, put the dough in between and flatten it using a bottle (e.g. wine). It has to be as thin as possible (1-2 mm).
 2. once the dough is flat, put it on your baking tray and preheat the oven at 450 to 500 Fahrenheit
 3. distribute the sour cream evenly (it should be a very thin layer, just barely covering the dough
 4. cut the onion and bacon into small pieces and distribute onion, bacon/vegetables (also in small pieces) evenly
@@ -25,6 +25,6 @@ I usually take it down from the baking tray and let it cool down for 2-5 minutes
 
 ## Contributors
 
-- Bernhard Egger -- [website](https://eggerbernhard.ch), [twitter](https://twitter.com/VisionBernie)
+- Bernhard Egger - [website](https://eggerbernhard.ch), [twitter](https://twitter.com/VisionBernie)
 
 ;tags: french pork quick

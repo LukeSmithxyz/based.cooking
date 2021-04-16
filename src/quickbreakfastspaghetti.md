@@ -7,7 +7,7 @@ the spaghetti for time efficiency.
 ## Ingredients
 
 - Spaghetti (any kind you prefer)
-- Ground spices (I like to use cumin, tumeric, paprika, and garlic)
+- Ground spices (I like to use cumin, turmeric, paprika, and garlic)
 - Tomato Paste/Sauce (preferably one with basil and without preservative)
 - Extra Virgin Olive Oil
 
@@ -27,5 +27,6 @@ the spaghetti for time efficiency.
 ## Contribution
 
 - Sadoon AlBader - [website](https://soulserv.xyz)
+- Tait hoyem - [website](https://tait.tech)
 
 ;tags: breakfast pasta

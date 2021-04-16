@@ -2,7 +2,7 @@
 
 ![Yorkshire Puddings](pix/yorkshire-puddings.webp)
 
-Basically the northern England version of the french pancake ( a means to make use of extra flour when you didn't have enough for bread ). They go well with Sunday Roasts.
+Basically the northern England equivalent of the french pancake ( a means to make use of extra flour when you didn't have enough for bread ). They go well with Sunday Roasts.
 Puddings may be preserved in freezer for up to a month.
 
 - ⏲️ Prep time: 5 min

@@ -27,4 +27,4 @@ This dish was a pandemic leftover invention loosely inspired by Ethiopian gomen.
 
 - Jayson
 
-;tags: vegetables sides duck
+;tags: vegetables side duck

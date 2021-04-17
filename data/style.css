@@ -96,6 +96,10 @@ button.clear-search:hover {
 	code {
 		color: forestgreen ;
 	}
+	input#search {
+	  background: #eee;
+	  color: #222;
+	}
 }
 
 @media print {

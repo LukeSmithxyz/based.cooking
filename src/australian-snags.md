@@ -1,7 +1,7 @@
 # Australian snags
 
 An australian BBQ classic tridation that is simple and very easy to make. Great for parties and outdoor events
-especially national events. Sometimes served at hardware chains
+especially national events. Sometimes served at hardware chains.
 
 - ⏲️ Prep time: 2 min
 - 🍳 Cook time: 20 min
@@ -28,3 +28,5 @@ especially national events. Sometimes served at hardware chains
 6. When the sausages are cooked, butter the bread then add a sausage
 7. Add tomato sauce and onions on top
 8. Enjoy and serve to everyone
+
+;tags: basic snack traditional

@@ -1,6 +1,6 @@
 # Australian snags
 
-An australian BBQ classic tridation that is simple and very easy to make. Great for parties and outdoor events
+An australian BBQ classic tradition that is simple and very easy to make. Great for parties and outdoor events
 especially national events. Sometimes served at hardware chains.
 
 - ⏲️ Prep time: 2 min

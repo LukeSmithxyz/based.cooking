@@ -65,8 +65,10 @@ blog/index.html: index.md $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsu
 	mkdir -p blog
 	TITLE="$(BLOG_TITLE)"; \
 	PAGE_TITLE="$(BLOG_TITLE)"; \
+	PAGE_DESCRIPTION="$(BLOG_DESCRIPTION)"; \
 	export TITLE; \
 	export PAGE_TITLE; \
+	export PAGE_DESCRIPTION; \
 	envsubst < templates/header.html > $@; \
 	envsubst < templates/index_header.html >> $@; \
 	envsubst < templates/tag_list_header.html >> $@; \
@@ -108,11 +110,13 @@ tagpages: $(TAGFILES)
 blog/@%.html: $(TAGFILES) $(addprefix templates/,$(addsuffix .html,header tag_index_header tag_list_header tag_entry tag_separator tag_list_footer article_list_header article_entry article_separator article_list_footer tag_index_footer footer))
 	mkdir -p blog
 	PAGE_TITLE="Articles tagged $* — $(BLOG_TITLE)"; \
+	PAGE_DESCRIPTION="$(BLOG_DESCRIPTION)"; \
 	TAGS="$*"; \
 	TITLE="$(BLOG_TITLE)"; \
 	export PAGE_TITLE; \
 	export TAGS; \
 	export TITLE; \
+	export PAGE_DESCRIPTION; \
 	envsubst < templates/header.html > $@; \
 	envsubst < templates/tag_index_header.html >> $@; \
 	envsubst < templates/article_list_header.html >> $@; \
@@ -147,6 +151,8 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	export DATE_EDITED; \
 	TAGS="$(shell grep -i '^; *tags:' "$<" | cut -d: -f2- | paste -sd ',')"; \
 	export TAGS; \
+	PAGE_DESCRIPTION="$(shell grep -m1 "^[^#\!-;]" $< | sed 's/"//g')"; \
+	export PAGE_DESCRIPTION; \
 	envsubst < templates/header.html > $@; \
 	envsubst < templates/article_header.html >> $@; \
 	sed -e '/^;/d' < $< | markdown -f fencedcode >> $@; \

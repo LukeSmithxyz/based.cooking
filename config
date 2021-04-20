@@ -1,4 +1,5 @@
 BLOG_TITLE:=Based Cooking
+BLOG_DESCRIPTION:=Only Based cooking. No ads, no tracking, nothing but based cooking.
 BLOG_REMOTE:=/var/www/based.cooking
 BLOG_DATE_FORMAT_INDEX:=%F
 BLOG_DATE_FORMAT:=%F

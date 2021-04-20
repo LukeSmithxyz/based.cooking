@@ -14,8 +14,8 @@ would always have this option for breakfast (or in general).
 - Black Ceylon Tea (Preferably, you want a dark, herbal flavor from your tea. I have some from Dar es Salaam,
 but when I tried researching, I couldn't find out what kind of tea it is. No, they didn't list the ingredients on
 the box lol)
--Milk/Sweet Cream
--Sweetener (Sugar, Syrup, Monk Fruit extract, etc.) (optional, but recommended)
+- Milk/Sweet Cream
+- Sweetener (Sugar, Syrup, Monk Fruit extract, etc.) (optional, but recommended)
 
 ## Directions
 

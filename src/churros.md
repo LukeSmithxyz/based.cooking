@@ -3,6 +3,10 @@
 Spanish Doughnut
 Please be warned, this recipe has high difficulty and involves deep frying. Please don face-mask and glasses/shades to protect your face from hot oil in the event of Churro explosion! These Churros are not worth your beauty and/or capacity for sight. Thank-you
 
+- ⏲️ Prep time: 20-30 min
+- 🍳 Cook time: 1 hour
+- 🍽️ Servings 20
+
 ## Ingredients
 
 - Butter 50g

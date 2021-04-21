@@ -6,7 +6,7 @@
 
 - Red Lentils
 - Kidney Beans
-- Basil; Bay Leaves; Rosemary; Thyme; Paprika
+- Basil, Bay-Leaves, Rosemary, Thyme, Paprika
 - Kosher Salt
 - Spicy Chorizo Sausage
 - Vegetable Oil

@@ -1,4 +1,4 @@
-# Churros
+ Churros
 
 Spanish Doughnut
 Please be warned, this recipe has high difficulty and involves deep frying. Please don face-mask and glasses/shades to protect your face from hot oil in the event of Churro explosion! These Churros are not worth your beauty and/or capacity for sight. Thank-you
@@ -39,6 +39,8 @@ For the Cinnamon-sugar:
 
 ## Contribution
 
-Siggines
+Originally Published at: https://www.bbcgoodfood.com/recipes/churros-chocolate-dipping-sauce
+
+- siggines - [website](http://jacobsiggins.co.uk)
 
 ;tags: spanish sweet dessert

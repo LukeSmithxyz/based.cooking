@@ -2,7 +2,6 @@
 
 ![Creamy Spaghetti Aglio e Olio](pix/creamy-spaghetti-aglio-e-olio.webp)
 
-
 Took the classic aglio e olio spaghetti recipe and added some eggs and parmesan cheese.
 
 - 🍳 Cook time: 15 min

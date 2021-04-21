@@ -1,4 +1,4 @@
- Churros
+# Churros
 
 Spanish Doughnut
 Please be warned, this recipe has high difficulty and involves deep frying. Please don face-mask and glasses/shades to protect your face from hot oil in the event of Churro explosion! These Churros are not worth your beauty and/or capacity for sight. Thank-you
@@ -6,9 +6,9 @@ Please be warned, this recipe has high difficulty and involves deep frying. Plea
 ## Ingredients
 
 - Butter 50g
-- Vanilla-extract 1/2 tsp
+- Vanilla-extract 1/2 Tsp
 - Flour 250g ( it should be from an unopened fresh bag so liquid absorption is well permitted )
-- Bicarbonate-of-soda 1 tsp
+- Bicarbonate-of-soda 1 Tsp
 - Sunflower oil 1 litre!
 - Bread chunks ( for testing oil heat )
 
@@ -16,12 +16,12 @@ For the Sauce:
 - Dark chocolate, broken into chunks 200g
 - Double Cream 100ml
 - Milk 100ml
-- Golden Syrup 3 tbsp
-- Vanilla Extract 1/2 tsp
+- Golden Syrup 3 TBsp
+- Vanilla Extract 1/2 Tsp
 
 For the Cinnamon-sugar:
 - Caster sugar 100g
-- Cinnamon 2 tsp
+- Cinnamon 2 Tsp
 
 ## Directions
 

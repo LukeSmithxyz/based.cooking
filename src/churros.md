@@ -41,5 +41,4 @@ For the Cinnamon-sugar:
 
 Siggines
 
-;tags: Spanish sweet dessert
-
+;tags: spanish sweet dessert

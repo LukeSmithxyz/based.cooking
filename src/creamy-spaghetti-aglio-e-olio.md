@@ -10,7 +10,7 @@ Took the classic aglio e olio spaghetti recipe and added some eggs and parmesan 
 ## Ingredients
 
 - 57 grams of Linguine spaghetti
-- 1/4 cup extra virgin olive oil
+- 1/4 cup (60ml) extra virgin olive oil
 - 2 cloves of garlic
 - One fresh red chili pepper
 - A bunch of fresh parsley
@@ -20,7 +20,7 @@ Took the classic aglio e olio spaghetti recipe and added some eggs and parmesan 
 ## Directions
 
 1. Start by boiling water in a pan for the pasta to cook in. Add about 2-3 teaspoons of salt per liter of water.
-2. Mince the garlic gloves and chop the parsley finely. Also chop the red chili pepper in small round chunks (keep the seeds if you like it spicy).
+2. Mince the garlic cloves and chop the parsley finely. Also chop the red chili pepper in small round chunks (keep the seeds if you like it spicy).
 3. Add the eggs in a bowl with a teaspoon of parmesan cheese and whisk them with the eggs. (add ground pepper for taste)
 4. Add the oil and garlic to a cold skillet or pan.
 5. Put the pan on high heat and wait till the garlic start bubbling in the oil.

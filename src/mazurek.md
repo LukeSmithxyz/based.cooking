@@ -35,4 +35,4 @@ different toppings are possible.
 
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 
-;tags: polish easter traditional dessert
+;tags: polish easter dessert

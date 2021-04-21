@@ -45,4 +45,4 @@ Originally published at [https://www.taste.com.au/recipes/cheesy-potato-bake/974
 
 - Kyle Johnson and Sabina Mortensen -- [website](https://www.kylecjohnson.site/)
 
-;tags: american cheese baked potato
+;tags: american cheese potato

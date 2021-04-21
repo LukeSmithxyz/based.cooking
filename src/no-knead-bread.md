@@ -26,4 +26,4 @@
 
  - [By enthdegree.](https://ebn0.net)
 
-;tags: bread baking
+;tags: bread

@@ -17,7 +17,6 @@ Took the classic aglio e olio spaghetti recipe and added some eggs and parmesan 
 - A bunch of fresh parsley
 - Two eggs
 - Parmesan cheese (grated)
-- Some salt
 
 ## Directions
 

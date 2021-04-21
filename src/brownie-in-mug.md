@@ -22,7 +22,7 @@ Simple recipe for a brownie microwaved and consumed in a mug.
 
 ## Directions
 
-1. Add the dry ingredients to a regular sized coffee mug, preferable in the order they are listed in (easier to mix).
+1. Add the dry ingredients to a regular sized coffee mug, preferably in the order they are listed in (easier to mix).
 2. Add first the oil, and then the water.
 3. Mix ingredients to a smooth paste with a tea spoon. Use the measurement cup, or another tea spoon, to put back any ingredients that stick to the spoon.
 4. Put the cup in the microwave for 1 minute 40 seconds.

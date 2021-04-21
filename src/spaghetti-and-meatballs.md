@@ -46,7 +46,7 @@
 5. Add the tomato paste, stir to blend, and cook for a minute longer.
 6. Add the canned tomatoes, basil, and parsley.
 7. Mash and stir the tomatoes with a potato masher until the sauce starts to thicken, about 5 minutes over medium-high heat.
-8. Reduce heat to low and simmer gently while prepating meatballs, stirring occasionally.
+8. Reduce heat to low and simmer gently while preparing meatballs, stirring occasionally.
 
 ### Form the meatballs
 

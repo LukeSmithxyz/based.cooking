@@ -1,5 +1,5 @@
 # Breton Crêpes (Breton Galettes)
-Buckwheat crêpes eaten as dishes, traditionaly garnished with ham, eggs and cheese (galette complète).
+Buckwheat crêpes eaten as dishes, traditionally garnished with ham, eggs and cheese (galette complète).
 
 ~15/20 galettes.
 
@@ -22,5 +22,6 @@ It will then be easier to spread the dough.
 ### Contributor
 
 - Aeredren - [GitHub](https://github.com/Aeredren)
+- Tait Hoyen - [website](https://tait.tech)
 
 ;tags: french cheesefare

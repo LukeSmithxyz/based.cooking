@@ -9,7 +9,7 @@ A delicious syrup that can be eaten on bread and used in a multitude of recipes.
 
 - 7 pears (Quality doesn't matter; you can argue that overripe pears are better because they have more sugar content.)
 - 3 apples
-- a small handful of dates, raisins, dried apricots or prunes (optional — you can experiment with these; they can bring out some nice flavors.)
+- a small handful of dates, raisins, dried apricots or prunes (optional -- you can experiment with these; they can bring out some nice flavors.)
 - 150 grams sugar
 - 1 glass of water
 - find sieve or cheese cloth

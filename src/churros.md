@@ -49,4 +49,4 @@ Originally Published at: https://www.bbcgoodfood.com/recipes/churros-chocolate-d
 
 - siggines - [website](http://jacobsiggins.co.uk)
 
-;tags: spanish sweet dessert
+;tags: spanish sweet dessert deepfry

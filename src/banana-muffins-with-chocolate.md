@@ -1,5 +1,7 @@
 # Banana Muffins with Chocolate
 
+![banana-muffins](pix/banana-muffins.webp)
+
 ## Ingredients
 
 - 3 bananas

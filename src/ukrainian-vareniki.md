@@ -12,7 +12,7 @@
 - 3 cups ( 400g ) all-purpose flour
 - ¼ cup sour cream
 - ½ teaspoon baking soda
-- ½ ( 120ml ) cup water
+- ½ cup ( 120ml ) water
 - ¼ cup ( 60g ) butter
 - 2 onions, finely diced
 - 3 ½ cups finely chopped button mushrooms

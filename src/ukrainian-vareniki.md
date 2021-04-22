@@ -9,11 +9,11 @@
 ## Ingredients
 
 - 18 ounces potatoes
-- 3 cups all-purpose flour
+- 3 cups ( 375ml ) all-purpose flour
 - ¼ cup sour cream
 - ½ teaspoon baking soda
-- ½ cup water
-- ¼ cup butter
+- ½ ( 120ml ) cup water
+- ¼ cup ( 60g ) butter
 - 2 onions, finely diced
 - 3 ½ cups finely chopped button mushrooms
 

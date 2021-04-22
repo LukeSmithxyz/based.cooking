@@ -7,7 +7,7 @@ can be used as a generic sweet spread.
 
 * 4 medium sized oranges
 * 1 lemon
-* 1 1/2 cup sugar
+* 1 1/2 ( 350ml ) cup sugar
 
 ## Directions
 
@@ -25,4 +25,4 @@ can be used as a generic sweet spread.
 
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 
-;tags: jam fruit sweet spread
+;tags: fruit sweet spread

@@ -66,11 +66,12 @@ Do this until the egg is mostly homogenous and somewhat bubbly.
 4. Cook as per "Scrambled and fluffy".
 
 Tips:
- - Don't overdo the whisking. Too much whisking can pop the bubbles and lead to a less fluffy egg.
- - In addition to mixing in things in the pan, consider adding things into the bowl for mix-ins that are
- coated in a fine layer of yolk and albumin.
- - There is debate as to whether the slight expansion afforded by milk offsets the dilution of the egg's flavour.
- If you don't want it, don't bother.
+
+- Don't overdo the whisking. Too much whisking can pop the bubbles and lead to a less fluffy egg.
+- In addition to mixing in things in the pan, consider adding things into the bowl for mix-ins that are
+coated in a fine layer of yolk and albumin.
+- There is debate as to whether the slight expansion afforded by milk offsets the dilution of the egg's flavour.
+If you don't want it, don't bother.
 
 ### Over-easy
 
@@ -91,12 +92,13 @@ will slow down when this is possible.
 7. Season as desired.
 
 Tips:
- - Crack the egg close to the pan to prevent the yolk from breaking on impact.
- - When attempting to release the egg, take the opportunity to push oil/melted butter
- underneath the egg, to help with the release process.
- - Cook on as low a heat possible. On gas ranges, the lowest heat on the smallest burner is
- generally sufficient. If the egg starts audibly sizzling, take it off heat immediately.
- Unless you like your eggs crispy. You do you.
+
+- Crack the egg close to the pan to prevent the yolk from breaking on impact.
+- When attempting to release the egg, take the opportunity to push oil/melted butter
+underneath the egg, to help with the release process.
+- Cook on as low a heat possible. On gas ranges, the lowest heat on the smallest burner is
+generally sufficient. If the egg starts audibly sizzling, take it off heat immediately.
+Unless you like your eggs crispy. You do you.
 
 ## Contribution
 

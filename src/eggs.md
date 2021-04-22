@@ -53,6 +53,25 @@ The more you scramble the less fluffy the egg will be.
 Scrambled eggs are easy to customize. E.g. start by frying any of: onions, bits
 of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
 
+### Scrambled and fluffier
+
+Scrambled eggs can be made fluffier, at the tradeoff of one more bowl to clean,
+and a more homogenous scrambled egg.
+
+1. Crack eggs into a bowl of appropriate size.
+2. Whisk eggs. If you don't have (or want to use) a whisk,
+use a fork and stir in a horizontal "rolling" motion to introduce air into the eggs.
+Do this until the egg is mostly homogenous and somewhat bubbly.
+3. Optionally, add a splash of milk. This helps with expanding the eggs slightly.
+4. Cook as per "Scrambled and fluffy".
+
+Tips:
+ - Don't overdo the whisking. Too much whisking can pop the bubbles and lead to a less fluffy egg.
+ - In addition to mixing in things in the pan, consider adding things into the bowl for mix-ins that are
+ coated in a fine layer of yolk and albumin.
+ - There is debate as to whether the slight expansion afforded by milk offsets the dilution of the egg's flavour.
+ If you don't want it, don't bother.
+
 ### Over-easy
 
 Over-easy eggs are similar to sunny-side up eggs, but ensure evenly cooked whites

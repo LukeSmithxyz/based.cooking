@@ -4,12 +4,12 @@ This is Southern (American) Style Biscuits.
 
 ## Ingredients
 
-- 2 cups ( 280g ) AP flour
+- 2 cups AP flour
 - 1 tsp white sugar
 - 1 tbsp baking powder
 - 1 tsp kosher salt
 - 8 tbsp sweet butter
-- 3/4 cup ( 180ml ) whole milk
+- 3/4 cup whole milk
 
 ## Directions
 

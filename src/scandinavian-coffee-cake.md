@@ -6,17 +6,17 @@
 
 ## Ingredients
 
-* 1/2 cup ( 120ml ) milk
-* 1/2 cup ( 100g ) shortening
-* 1/2 cup ( 100g ) sugar
-* 1/2 Tea-spoon salt
+* 1/2 cup milk
+* 1/2 cup shortening
+* 1/2 cup sugar
+* 1/2 teaspoon salt
 * 1 package active dry yeast
-* 1/4 cup (  ) warm (not hot) water
+* 1/4 cup warm (not hot) water
 * 3 cup sifted enriched Flour
 * 2 eggs, beaten
 * melted butter, or margarine
-* 2/3 cup ( 130g ) firmly packed brown sugar
-* 2 Tea-spoon cinnamon
+* 2/3 cup firmly packed brown sugar
+* 2 teaspoon cinnamon
 * chopped walnuts
 
 ## Directions

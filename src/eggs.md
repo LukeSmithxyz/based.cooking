@@ -61,17 +61,9 @@ and a more homogenous scrambled egg.
 1. Crack eggs into a bowl of appropriate size.
 2. Whisk eggs. If you don't have (or want to use) a whisk,
 use a fork and stir in a horizontal "rolling" motion to introduce air into the eggs.
-Do this until the egg is mostly homogenous and somewhat bubbly.
+Do this until the egg is mostly homogenous and somewhat bubbly. Avoid over whisking.
 3. Optionally, add a splash of milk. This helps with expanding the eggs slightly.
 4. Cook as per "Scrambled and fluffy".
-
-Tips:
-
-- Don't overdo the whisking. Too much whisking can pop the bubbles and lead to a less fluffy egg.
-- In addition to mixing in things in the pan, consider adding things into the bowl for mix-ins that are
-coated in a fine layer of yolk and albumin.
-- There is debate as to whether the slight expansion afforded by milk offsets the dilution of the egg's flavour.
-If you don't want it, don't bother.
 
 ### Over-easy
 
@@ -83,7 +75,7 @@ while retaining runny yolks.
 3. Cook on low heat until the white of the egg's bottom is opaque.
 4. Release the egg from the pan by gently slipping a spatula under the opaque white.
 If the white breaks and exposes the pan underneath it, take the spatula out and try again
-a little later.
+a little later. Push hot oil under the egg to help with this.
 5. Gently slip the spatula under the yolk and in one confident motion, flip the egg over.
 Don't worry if the white ends up folding on itself, the important thing is that the white
 around the yolk is cooked all around.
@@ -94,10 +86,7 @@ will slow down when this is possible.
 Tips:
 
 - Crack the egg close to the pan to prevent the yolk from breaking on impact.
-- When attempting to release the egg, take the opportunity to push oil/melted butter
-underneath the egg, to help with the release process.
-- Cook on as low a heat possible. On gas ranges, the lowest heat on the smallest burner is
-generally sufficient. If the egg starts audibly sizzling, take it off heat immediately.
+- Cook on as low a heat possible. If the egg starts audibly sizzling, take it off heat immediately.
 Unless you like your eggs crispy. You do you.
 
 ## Contribution

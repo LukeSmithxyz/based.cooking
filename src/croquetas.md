@@ -1,6 +1,6 @@
 # Croquetas
 
-![Croquet](pix/croquet.webp)
+![Croqueta](pix/croqueta.webp)
 
 Deep fried meat balls. 
 You might replace the ham/chorizo with chicken if that is your desire.

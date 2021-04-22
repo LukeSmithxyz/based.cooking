@@ -9,7 +9,7 @@
 ## Ingredients
 
 - 18 ounces potatoes
-- 3 cups ( 375ml ) all-purpose flour
+- 3 cups ( 400g ) all-purpose flour
 - ¼ cup sour cream
 - ½ teaspoon baking soda
 - ½ ( 120ml ) cup water

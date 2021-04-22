@@ -13,7 +13,7 @@ This is the most traditional dish that every household eats in Quebec. As a kid,
 ### Mashed potatoes layer
 * 1½ lb of potatoes or around 6 big one, peeled and diced
 * 2 tbsp of butter
-* ½ cup milk
+* ½ cup ( 120ml ) milk
 * 1 tsp of  herbs de Provence or dried parsley
 * (optional) ½ cup of strong cheddar cheese, grated 
 * Pinch of nutmeg

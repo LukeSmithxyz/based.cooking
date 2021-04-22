@@ -53,9 +53,36 @@ The more you scramble the less fluffy the egg will be.
 Scrambled eggs are easy to customize. E.g. start by frying any of: onions, bits
 of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
 
+### Over-easy
+
+Over-easy eggs are similar to sunny-side up eggs, but ensure evenly cooked whites
+while retaining runny yolks.
+
+1. Heat up butter or oil on small pan.
+2. Crack egg(s) into pan.
+3. Cook on low heat until the white of the egg's bottom is opaque.
+4. Release the egg from the pan by gently slipping a spatula under the opaque white.
+If the white breaks and exposes the pan underneath it, take the spatula out and try again
+a little later.
+5. Gently slip the spatula under the yolk and in one confident motion, flip the egg over.
+Don't worry if the white ends up folding on itself, the important thing is that the white
+around the yolk is cooked all around.
+6. Cook until the egg can be released from the pan, as per step 4. Bubbling around the edges
+will slow down when this is possible.
+7. Season as desired.
+
+Tips:
+ - Crack the egg close to the pan to prevent the yolk from breaking on impact.
+ - When attempting to release the egg, take the opportunity to push oil/melted butter
+ underneath the egg, to help with the release process.
+ - Cook on as low a heat possible. On gas ranges, the lowest heat on the smallest burner is
+ generally sufficient. If the egg starts audibly sizzling, take it off heat immediately.
+ Unless you like your eggs crispy. You do you.
+
 ## Contribution
 
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 - Deven Blake -- [website](http://www.trinity.moe)
+- Rudy Dellomas -- [website](https://dther.xyz)
 
 ;tags: eggs basic cheesefare

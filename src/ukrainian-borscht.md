@@ -13,7 +13,7 @@ Depending on the recipe, borscht may be purely vegetarian; it may be served eith
 
 - 3 red beetroots
 - 4 Tbsp extra virgin olive oil
-- 8 cups chicken broth + 2 cups water
+- 8 cups ( 2L ) chicken broth + 2 cups ( .5L ) water
 - 3 yukon potatoes
 - 2 carrots
 - 2 celery ribs

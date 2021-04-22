@@ -1,6 +1,9 @@
 # Croquetas
 
-Deep fried Chorizo balls.
+![Croquet](pix/croquet.webp)
+
+Deep fried meat balls. 
+You might replace the ham/chorizo with chicken if that is your desire.
 
 ## Ingredients
 
@@ -13,16 +16,16 @@ For the Filling:
 - Vegetable oil 4 TBsp
 - 1/2 leek
 - Flour 60g
-- Chorizo
 - Vegetable or ham stock 75ml
 - Milk 325ml
+- Chorizo and ham
 - Grated Nutmeg (optional)
 
 ## Directions
 
 1. Dice leek to very small pieces.
 2. Heat oil in pan until it starts to shimmer, add leek and fry until soft.
-3. Add Chorizo and stir. Fry for 1 min.
+3. Dice chorizo and ham, add to pan and stir. Fry for 1 min.
 4. Stir in 60g flour. Fry for about 5 min, until mixture is golden but not burnt.
 5. Combine stock and milk into pot and heat until steaming but not boiling. Season with nutmeg.
 6. Gradually add the milk stock into pan a few TBsp at a time, stirring constantly.

@@ -6,6 +6,7 @@ body {
 	padding: 0 16px ;
 	margin-bottom: 500px ;
 	font-family: sans-serif ;
+	scrollbar-color: white #151515;
 }
 
 a {
@@ -51,6 +52,7 @@ img[alt="XMR Logo"] {
 	body {
 		background: white ;
 		color: black ;
+		scrollbar-color: black white;
 	}
 	a {
 		color: blue ;

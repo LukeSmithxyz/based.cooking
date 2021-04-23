@@ -8,6 +8,13 @@ body {
 	font-family: sans-serif ;
 	scrollbar-color: white #151515;
 }
+::-webkit-scrollbar {
+	width: .66vw;
+	background-color: #151515;
+}
+::-webkit-scrollbar-thumb {
+	background-color: white;
+}
 
 a {
 	color: lightblue ;
@@ -53,6 +60,12 @@ img[alt="XMR Logo"] {
 		background: white ;
 		color: black ;
 		scrollbar-color: black white;
+	}
+	::-webkit-scrollbar {
+		background-color: white;
+	}
+	::-webkit-scrollbar-thumb {
+		background-color: black;
 	}
 	a {
 		color: blue ;

@@ -6,14 +6,14 @@ body {
 	padding: 0 16px ;
 	margin-bottom: 500px ;
 	font-family: sans-serif ;
-	scrollbar-color: white #151515;
+	scrollbar-color: gray #151515;
 }
 ::-webkit-scrollbar {
 	width: .66vw;
 	background-color: #151515;
 }
 ::-webkit-scrollbar-thumb {
-	background-color: white;
+	background-color: gray;
 }
 
 a {
@@ -59,13 +59,13 @@ img[alt="XMR Logo"] {
 	body {
 		background: white ;
 		color: black ;
-		scrollbar-color: black white;
+		scrollbar-color: gray white;
 	}
 	::-webkit-scrollbar {
 		background-color: white;
 	}
 	::-webkit-scrollbar-thumb {
-		background-color: black;
+		background-color: gray;
 	}
 	a {
 		color: blue ;

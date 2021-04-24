@@ -14,6 +14,7 @@ body {
 }
 ::-webkit-scrollbar-thumb {
 	background-color: gray;
+	border-radius: 5px;
 }
 
 a {

@@ -29,7 +29,8 @@ footer {
 }
 
 img {
-	max-width: 600px ;
+	padding-left: 120px;
+	max-width: 250px ;
 	width: 100% ;
 	margin: auto ;
 	display: block ;

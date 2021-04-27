@@ -29,4 +29,4 @@ especially national events. Sometimes served at hardware chains.
 7. Add onions then tomato sauce on top
 8. Enjoy and serve to everyone
 
-;tags: basic snack traditional australian
+;tags: basic snack australian

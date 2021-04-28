@@ -6,7 +6,7 @@ A tasty gingerbread-like cookie from Mexico.
 - 1 1/4 cups brown sugar
 - 1/4 cup ( ~40g ) shortening 
 - 1 egg 
-- 1/4 cup milk 
+- 1/4 cup ( 60ml ) milk 
 - 1 1/2 teaspoons vanilla extract 
 - 1 1/2 teaspoons baking soda 
 - 1 1/2 teaspoons ground cinnamon 

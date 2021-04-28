@@ -6,7 +6,7 @@ Very easy, high protein.
 
 ## Ingredients
 
-- 1/2 cup brown rice
+- 1/2 cup ( 100g ) brown rice
 - 1/2 cup ( 70g ) frozen peas
 - 1 head broccoli (you can use really any amount of broccoli)
 - 2 chicken breasts

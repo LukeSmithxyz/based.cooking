@@ -1,4 +1,4 @@
-# Chorizo & Chickpea Stew
+# Chorizo & Chickpea Soup
 
 Recommend serving with corn bread.
 
@@ -7,25 +7,24 @@ Recommend serving with corn bread.
 ## Ingredients
 
 - Chorizo Sausage(s)
-- 1 Red onion
 - 2 Garlic cloves
-- Paprika, 1 Tsp
+- Ginger
+- Paprika, 2 Tsp
 - Cumin, Parsley
-- Can of Cherry or Plum Tomatoes. Or just chopped Tomatoes.
-- Juice from half to whole of a Lemon
+- Juice from whole Lemon
 - Chickpeas, 400g ( DRY )
-- Butter or oil, for frying
+- Butter and sunflower oil, for frying
 
 ## Directions
 
-1. Fry the sliced Chorizo in butter/oil, alongwith diced Onion and Garlic
-2. Pour in Tomatoes, lemon-juice, chickpeas, and Cumin & Paprika.
-3. Allow to boil for 5 or so min, until is thickened slightly. Add Parsley and then salt to taste.
+1. Fry the sliced Chorizo in butter, alongwith diced Ginger and Garlic. Add oil after a couple mins.
+2. Pour in Lemon-juice, Chickpeas, and Cumin & Paprika. Then 100ml of water.
+3. Allow to boil for 5 or so min. Add Parsley and then salt to taste.
 
 ## Contribution
 
-Recipe originally published at: ( https://www.bbcgoodfood.com/recipes/chorizo-chickpea-stew )
+Recipe modified from original published at: ( https://www.bbcgoodfood.com/recipes/chorizo-chickpea-stew )
 
 - Siggines - [website](http://jacobsiggins.co.uk)
 
-;tags: pork stew spanish quick
+;tags: pork soup spanish quick

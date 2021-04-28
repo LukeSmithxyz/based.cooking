@@ -10,7 +10,7 @@ A tasty gingerbread-like cookie from Mexico.
 - 1 1/2 teaspoons vanilla extract 
 - 1 1/2 teaspoons baking soda 
 - 1 1/2 teaspoons ground cinnamon 
-- 1 cup molasses
+- 1 cup ( 280g ) molasses
 - 6 cups all-purpose flour 
 - 1 egg (beaten)
 

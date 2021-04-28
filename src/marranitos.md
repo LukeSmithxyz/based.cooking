@@ -22,3 +22,5 @@ A tasty gingerbread-like cookie from Mexico.
 - Let the cookies cool for 5-7 minutes. Enjoy!
 
 - Riverside Rocks - [website](https://riverside.rocks)
+
+;tags: dessert

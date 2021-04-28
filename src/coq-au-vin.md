@@ -9,7 +9,7 @@
 - 1 Large Onion (or a bunch of Pearl Onions)
 - 6 Bone-in Skin-on Chicken Thighs
 - Some mushrooms (roughly same amount as onion by volume)
-- 1 Cup of Chicken Stock
+- 1 Cup (235ml) of dissolved Chicken Stock
 - Garlic (optional)
 - 1/3 of a bottle of Red Wine
 - Lardons (Sliced Pork), could be any of:

@@ -12,13 +12,13 @@ Recommend serving with corn bread.
 - Paprika, 2 Tsp
 - Cumin, Parsley
 - Juice from whole Lemon
-- Chickpeas, 400g ( DRY )
+- Chickpeas, 400g ( Drained )
 - Butter and sunflower oil, for frying
 
 ## Directions
 
 1. Fry the sliced Chorizo in butter, alongwith diced Ginger and Garlic. Add oil after a couple mins.
-2. Pour in lemon-juice, chickpeas, and Cumin & Paprika. Then 100ml of water.
+2. Pour in Lemon-juice, Chickpeas, and Cumin & Paprika. Then 100ml of water.
 3. Allow to boil for 5 or so min. Add Parsley and then salt to taste.
 
 ## Contribution

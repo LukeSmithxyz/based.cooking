@@ -15,6 +15,7 @@ A tasty gingerbread-like cookie from Mexico.
 - 1 egg (beaten)
 
 # Directions
+
 - Preheat your oven to 350F (175C)
 - In a large bowl, cream together brown sugar and shortening until smooth. Mix in 1 egg, milk, and vanilla until smooth. Stir in the baking soda, cinnamon, and molasses. Mix in flour until the dough is stiff enough to roll out.
 - Roll dough out on a lightly floured surface to 1/4 inch thickness. Cut into cookies using a pig shaped cookie cutter. Place cookies 2 inches apart on the prepared baking sheets. Brush the remaining beaten egg over the tops of the cookies.

@@ -7,7 +7,7 @@ Very easy, high protein.
 ## Ingredients
 
 - 1/2 cup brown rice
-- 1/2 cup frozen peas
+- 1/2 cup ( 70g ) frozen peas
 - 1 head broccoli (you can use really any amount of broccoli)
 - 2 chicken breasts
 - 1 tbsp honey
@@ -30,4 +30,3 @@ and garlic. Cook for another 5 minutes. Begin boiling broccoli water.
 - Connor McLean
 
 ;tags: chicken broccoli rice quick
-

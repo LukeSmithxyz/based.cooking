@@ -23,4 +23,4 @@ A tasty gingerbread-like cookie from Mexico.
 
 - Riverside Rocks - [website](https://riverside.rocks)
 
-;tags: dessert
+;tags: dessert mexican

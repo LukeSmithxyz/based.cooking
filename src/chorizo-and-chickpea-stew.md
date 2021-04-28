@@ -28,4 +28,4 @@ Recipe originally published at: ( https://www.bbcgoodfood.com/recipes/chorizo-ch
 
 - Siggines - [website](http://jacobsiggins.co.uk)
 
-;tags: pork soup spanish quick
+;tags: pork stew spanish quick

@@ -4,7 +4,7 @@ A tasty gingerbread-like cookie from Mexico.
 
 # Ingredients
 - 1 1/4 cups brown sugar
-- 1/4 cup shortening 
+- 1/4 cup ( ~40g ) shortening 
 - 1 egg 
 - 1/4 cup milk 
 - 1 1/2 teaspoons vanilla extract 

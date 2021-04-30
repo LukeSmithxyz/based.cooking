@@ -31,4 +31,4 @@ Servings: 4
 ## Contribution
 - Aayla Semyonova - [website](https://aayla.dev)
 
-;tags: russian soup
+;tags: russian soup fasting

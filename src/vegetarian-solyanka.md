@@ -5,6 +5,7 @@ Cook time: 25 Hours
 Servings: 4
 
 ## Ingredients
+
 - Olive oil
 - 1 medium onion, diced
 - 1 large carrot, sliced
@@ -20,6 +21,7 @@ Servings: 4
 - 1 tbsp lemon juice
 
 ## Directions
+
 1. Heat olive oil in a large pot over medium heat until oil begins to shimmer.
 2. Add onion and carrot anbd saute for 7-8 minutes stirring occasionally.
 3. Add the garlic and stir for another minute.
@@ -29,6 +31,7 @@ Servings: 4
 7. Add salt and pepper to taste, then serve.
 
 ## Contribution
+
 - Aayla Semyonova - [website](https://aayla.dev)
 
 ;tags: russian soup fasting

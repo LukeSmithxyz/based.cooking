@@ -18,11 +18,10 @@ Servings: 4
 - 1/2 cup olives, chopped
 - 2 tbsp pickle juice
 - 1 tbsp lemon juice
-- Salt and pepper to taste
 
 ## Directions
 1. Heat olive oil in a large pot over medium heat until oil begins to shimmer.
-2. Add onion and carrot anbd saute for 7-8 minutes stirring occasionally. Remember, no salt in soup before all components regroup.
+2. Add onion and carrot anbd saute for 7-8 minutes stirring occasionally.
 3. Add the garlic and stir for another minute.
 4. Add broth, potatoes, and tomato paste. Bring the soup to a boil, then reduce to low heat and simmer for 10 minutes.
 5. Add the kidney beans and dill pickles, then simmer for another 5 minutes.

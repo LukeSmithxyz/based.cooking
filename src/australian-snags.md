@@ -28,4 +28,4 @@ especially national events. Sometimes served at hardware chains.
 6. When the sausages are cooked, butter the bread then add a sausage (optionally split)
 7. Add onions then tomato sauce on top
 
-;tags: basic snack australian
+;tags: basic snack australian pork

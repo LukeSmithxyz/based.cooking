@@ -19,7 +19,7 @@ French bistrot style porkchops with a mustard, white wine and gherkins sauce. Ve
 
 1. Cut the shallots into small dices.
 2. Cut the gherkins into long strips.
-3. Sear the porkchops on high heat on cast iron or stainless steel pan until golden brown on each side, and cook them through on lower heat..
+3. Sear the porkchops on high heat on cast iron or stainless steel pan until golden brown on each side, and cook them through on lower heat.
 4. Once the porkchops are cooked, set them aside in a warm environment.
 5. Sweat the shallots in the same pan.
 6. Deglaze with white wine, let it reduce until there's about two teaspoons left.

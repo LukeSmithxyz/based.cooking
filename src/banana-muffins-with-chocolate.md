@@ -2,6 +2,9 @@
 
 ![banana-muffins](pix/banana-muffins.webp)
 
+- ⏲️ Prep time: 15 min
+- 🍳 Cook time: 30 min
+
 ## Ingredients
 
 - 3 bananas
@@ -21,9 +24,10 @@
 3. Melt the butter, cut the chocolate into smaller pieces, and whip the eggs.
 4. Pour the butter into the bananas, then add the flour, then the cooking powder, the chocolate, the whipped eggs and sugar, and the optional vanilla sugar; stirring it all the time.
 5. Pour the mass into your muffin dish.
-6. Heat up the oven to 160 °C / 320 °F and bake the muffins for around 20-30 minutes in 170 °C / 340 °F.
+6. Heat up the oven to 160 °C / 320 °F and bake the muffins for around 20-30 minutes at 170 °C / 340 °F.
 
 ## Contribution
 
 - Łukasz Drukała - [website](https://masflam.com), [donate](https://masflam.com/#donate)
+
 ;tags: dessert sweet snack cake fasting

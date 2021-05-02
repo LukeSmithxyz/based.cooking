@@ -27,6 +27,5 @@ especially national events. Sometimes served at hardware chains.
 5. When the onions are golden brown turn off the hotplate
 6. When the sausages are cooked, butter the bread then add a sausage (optionally split)
 7. Add onions then tomato sauce on top
-8. Enjoy and serve to everyone
 
 ;tags: basic snack australian

@@ -11,13 +11,13 @@ Very filling with a sweet and spicy flavour.
 - vegetable oil
 - 3/4 pounds chorizo (mexican chorizo is preferred)
 - 8 flour tortillas
-- 1.5 cups grated cheddar or other cheese
+- 1.5 cups ( 120g ) grated cheddar or other cheese
 - 4 green onions
 - enchilada sauce:
 	- 2 tbsp vegetable oil
 	- 2 tbsp all-purpose flour
 	- 2 tbsp chili powder
-	- 2 cups water
+	- 2 cups ( 475ml ) water
 	- 3 oz. tomato paste
 	- 1/2 tsp cumin
 	- 1/2 tsp garlic powder

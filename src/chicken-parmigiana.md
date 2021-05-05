@@ -51,4 +51,4 @@ Multiple variations can be made depending on available ingredients (this is pub 
 
 - Anonymous
 
-;tags: australian
+;tags: australian chicken

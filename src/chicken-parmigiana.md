@@ -2,7 +2,7 @@
 
 ![Chicken Parmigiana](pix/chicken-parmigiana.webp)
 
-![Chicken Parmigiana](pix/chicken-parmigiana.webp)
+Staple Australian pub food (aka Chicken Parma).
 
 - Prep time: 10 min
 - Cook time: 30 min

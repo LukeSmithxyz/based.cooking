@@ -1,4 +1,4 @@
-# Chicken Parmigiana
+# Chicken Parmigianaside	
 
 Staple Australian pub food (aka Chicken Parma).
 
@@ -13,10 +13,10 @@ Staple Australian pub food (aka Chicken Parma).
 - 1 boneless/skinless chicken breast
 - 1 cup plain flour
 - 2 eggs
-- 1 cup breadcumbs
-- 1/2 cup grated parmesan cheese
+- 1 cup breadcrumbs
+- half cup grated parmesan cheese
 - italian mixed herbs
-- several tablespoons olive oil
+- 4 TBsp olive oil
 - 4 TBsp parmigiana sauce
 - 200g sliced mozzarella
 - 100g sliced ham off the bone
@@ -38,13 +38,13 @@ Staple Australian pub food (aka Chicken Parma).
 
 ## Note
 
-Once the initial breaded chicken is cooked, you can delay the final cooking (with topping) for several hours if need be (just keep it in the fridge), to allow preparation beforehand.
+- Once the initial breaded chicken is cooked, you can delay the final cooking (with topping) for several hours if need be (just keep it in the fridge), to allow preparation beforehand.
 
 Multiple variations can be made depending on available ingredients (this is pub grub, use what you have to make it work):
-- bread crumbs- can use panko, crushed corn flakes etc
-- italian herbs can be added at any stage (i.e. basil leaf on top of mozzarella)
-- mozzarella can be grated, you can also just use any grated cheese if needed
-- parmigiana sauce- if you're feeling fancy, you can make this yourself with tomato passata/onion/garlic/broth/herbs etc- ideally use a pre-made variant for simplicity
+- bread crumbs: can use panko, crushed corn flakes etc
+- italian herbs: can be added at any stage (i.e. basil leaf on top of mozzarella)
+- mozzarella: can be grated, you can also just use any grated cheese if needed
+- parmigiana sauce: can make this yourself, ideally use a pre-made variant for simplicity
 
 
 ## Contribution

@@ -13,7 +13,7 @@ Staple Australian pub food (aka Chicken Parma).
 - 1 boneless/skinless chicken breast
 - 1 cup ( 125g ) plain flour
 - 2 eggs
-- 1 cup breadcrumbs
+- 1 cup ( 100g ) breadcrumbs
 - half cup grated parmesan cheese
 - italian mixed herbs
 - 4 TBsp olive oil

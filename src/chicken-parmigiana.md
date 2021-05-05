@@ -1,6 +1,6 @@
 # Chicken Parmigiana
 
-Staple Australian pub food (aka Chicken Parma).
+![Chicken Parmigiana](pix/chicken-parmigiana.webp)
 
 ![Chicken Parmigiana](pix/chicken-parmigiana.webp)
 

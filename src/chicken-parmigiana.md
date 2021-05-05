@@ -1,4 +1,4 @@
-# Chicken Parmigianaside	
+# Chicken Parmigiana
 
 Staple Australian pub food (aka Chicken Parma).
 

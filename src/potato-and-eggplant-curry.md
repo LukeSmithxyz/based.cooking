@@ -9,7 +9,7 @@ A simple and tasty curry that is easy to customise.
 - 3 tbsp olive oil
 - 2 onions (finely sliced)
 - 2 garlic cloves (crushed)
-- 2 tsp garam masala
+- 2 tsp [garam masala](garam-masala.html)
 - 2 tsp turmeric
 - 2 tsp ground coriander
 - 400 ml can chopped tomatoes
@@ -27,7 +27,7 @@ A simple and tasty curry that is easy to customise.
 2. Cut the eggplant into 1 cm (⅓") slices and place on a tray. Cover with a layer of oil and bake for 20 minutes.
 3. Cook the sliced onions with oil until soft on medium (about 5-6 minutes).
 4. Add the garlic, garam masala, turmeric and ground coriander and allow to release aroma for a minute or two.
-5. Tip in the canned tomatos and coconut milk. Add the eggplant, and chunks of potato.
+5. Tip in the canned tomatoes and coconut milk. Add the eggplant, and chunks of potato.
   - It is possible to add additional vegetables at this step. I have on occasion added carrots and red peppers (capsicums).
 7. Cover and simmer for ~15-20 minutes.
 8. Boil 2 serves of rice

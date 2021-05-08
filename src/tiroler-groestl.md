@@ -30,4 +30,4 @@
 
  - Peter Wilbrink -- [printplaatreparatie.nl](https://printplaatreparatie.nl)
 
-;tags: austrian bacon
+;tags: austrian bacon potato

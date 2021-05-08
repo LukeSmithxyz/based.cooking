@@ -15,12 +15,12 @@ A quick and easy filling for lasagna based on ricotta
 
 ## Directions
 
-1. Mix the ricotta cheese together with a handfull of finely grated parmesan.
+1. Mix the ricotta cheese together with a handful of finely grated parmesan.
 2. Add the oregano and the egg and mix.
 3. Add salt and pepper to taste.
 
 ## Contribution
 
-- Josiah -- [website](https://himiko.cloud), [donate](https://himiko.cloud/donate/)
+- Josiah - [website](https://himiko.cloud), [donate](https://himiko.cloud/donate/)
 
 ;tags: basic italian cheese

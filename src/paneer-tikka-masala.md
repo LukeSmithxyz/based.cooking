@@ -11,7 +11,7 @@
 - 1 tsp red chilli powder
 - 1 tsp turmeric powder
 - 1 tsp coriander powder
-- 1/2 tsp garam masala powder
+- 1/2 tsp [garam masala](garam-masala.html) powder
 - 100ml thick yogurt
 - 1 tsp fenugreek powder
 - dry fenugreek leaves

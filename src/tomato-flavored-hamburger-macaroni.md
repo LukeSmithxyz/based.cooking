@@ -10,7 +10,7 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 
 - 1kg Med ground beef
 - 900g Elbow macaroni
-- 4 Cans of Campbell's Tomato soup (Or your preferred brand)
+- 4 Cans of tomato soup
 - Diced half or full onion
 - Diced half or full bell pepper
 - Oregano leaves
@@ -40,7 +40,6 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 9. Throw in some cheese which should melt nicely. (optional)
 10. Pour in the cans of tomato soup.
 11. *Important* Stir everything together, make sure the hamburger gets evenly distributed in the macaroni. Make sure to stir right to the bottom so the sauce can reach there too.
-12. Ready to eat. If you don't come back for seconds, you didn't do it right. 😉
 
 ## Contribution
 

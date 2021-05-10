@@ -29,7 +29,6 @@ Dairy dessert with few ingredients.
 6. Continue whisking until the mixture thickens.
 7. Pour the mixture into a casserole.
 8. Let it come down to room temperature and then refrigerate.
-
 9. Pour 80 g (2⅘ oz) of granulated sugar into a pan.
 10. Let it caramelize over medium/low heat - do not stir or add water at this point.
 11. In a bowl, mix the maize starch with 200 ml (⅘ cup) of water.
@@ -38,7 +37,6 @@ Dairy dessert with few ingredients.
 14. Add the starch mixture.
 15. If desired, add the cinnamon powder, along with a little bit of spiced rum.
 16. Stir and cook until the caramel thickens.
-
 17. Pour the caramel over the refrigerated milk pudding and cover the surface.
 18. Refrigerate and serve cold.
 

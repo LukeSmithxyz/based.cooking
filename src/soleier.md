@@ -27,7 +27,7 @@ Soleier are a german pub dish. They are typically enjoyed between two beers.
 ## Directions
 
 1. Put 750mL of water and the peels of five onions in a pot and let them cook for five minutes. Remove the peels about twenty minutes later.
-2. Put the eggs, one teaspoons of sugar, two tablespoons of salt and all spices (but vinegar and garlic) in the pot and boil them for eight minutes.
+2. Put the eggs, one teaspoon of sugar, two tablespoons of salt and all spices (but vinegar and garlic) in the pot, bring it to a boil and cook them for seven minutes.
 3. Use a spoon to remove the eggs from the pot and crack them all around. Do not remove the eggshell!
 4. Place the eggs and the garlic in a jar, fill it with the spiced water and add the vinegar. Add water, if needed, so that the eggs are covered.
 5. Let them rest for at least three days and at most two weeks at room temperature or slightly below.

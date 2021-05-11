@@ -21,7 +21,7 @@ Soleier are a german pub dish. They are typically enjoyed between two beers.
 - 1tsp of Szechuan pepper (optional)
 - 1tsp lovage (optional)
 - 1tsp nutmeg (optional)
-- 100ml vinegar
+- 100mL vinegar
 - 3 cloves of garlic
 
 ## Directions

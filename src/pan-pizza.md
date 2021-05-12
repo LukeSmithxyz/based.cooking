@@ -2,7 +2,7 @@
 
 ![Pan pizza](pix/pan-pizza.webp)
 
-Pan pizza gives a thicc and crispy crust 🍕. For this recipe, start early with the dough, preferably the night before. It takes a lot of time, but little effort and gives a fantastic result.
+Pan pizza gives a thick and crispy crust 🍕. For this recipe, start early with the dough, preferably the night before. It takes a lot of time, but little effort and gives a fantastic result.
 
 - ⏲️ Prep time: 30 min
 - 🍳 Cook time: 8 hours
@@ -33,4 +33,4 @@ Pan pizza gives a thicc and crispy crust 🍕. For this recipe, start early with
 
 - brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`
 
-;tags: basic pizza sauce
+;tags: basic pizza

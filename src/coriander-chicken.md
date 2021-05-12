@@ -43,8 +43,6 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 
 - Chetan Basuray
     - [website](https://github.com/chetanbasuray)
-    - btc: `199H7ee5t3D2N1fnpUmFEqfVMqe3aq4eMr`
-    - eth: `0x911f88ac1e699f111a22a1b4049e44ef8e8b08cb`
-    - monero: `84PTQNJeyUuTVHN3daWwmPLBCL5GLt4WB14e2ZqFMu5kiPZDgst5hVUPVjVmdJJCvpPdi3Tt6KU853JxSQY3xCHPUtLECbt`
+    - [donate](http://chetanbasuray.tk/)
 
 ;tags: indian lunch spicy

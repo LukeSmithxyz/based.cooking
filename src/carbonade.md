@@ -1,7 +1,10 @@
 # Carbonade Flamande (Traditional Flemish beef stew)
 
-This one is a delicious slow cooked beef stewed in beer. Serves about 4.
+This one is a delicious slow cooked beef stewed in beer.
 The smoked bacon is not in the traditional recipe but it's good. Don't add it if you want the real deal.
+
+- 🍳 Cook time: 4-8 hours
+- 🍽️ Servings: 4
 
 ## Ingredients
 

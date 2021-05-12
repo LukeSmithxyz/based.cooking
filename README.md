@@ -17,7 +17,7 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 
 - Model submission files after [example.md](example.md). Put them in `src/`.
 - Recipes should start with a title, with a single `#`, *on the first line*. No
-  empty line at the top, not trailing line at the end. The file needs to be `\n`
+  empty line at the top, no trailing line at the end. The file needs to be `\n`
   terminated in linux-fashion (if you're on linux you don't need to care, it
   should be automatic).
 - File names should be the name of the dish with words separated by hyphens

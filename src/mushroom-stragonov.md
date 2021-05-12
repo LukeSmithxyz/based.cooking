@@ -1,4 +1,4 @@
-# Mushroom Stragonov
+# Mushroom Stroganov
 
 Prep time: 10 Minutes
 Cook time: 20 Minutes

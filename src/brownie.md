@@ -1,6 +1,4 @@
-# This is the dish title
-
-Brownie
+# Brownie
 
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 20-30 min

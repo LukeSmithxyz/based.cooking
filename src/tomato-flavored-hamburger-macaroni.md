@@ -1,9 +1,11 @@
 # Tomato Flavored Hamburger and Macaroni
 
+![Tomato Flavored Hamburger and Macaroni](pix/tomato-flavored-hamburger-macaroni.webp)
+
 This is a based, easy and relatively quick to make meal. Great for making in large batches with a big pot and eating throughout the week.
 
-- ⏲️ Prep time: 10 min
-- 🍳 Cook time: 30 min
+- ⏲️ Prep time: 15 min
+- 🍳 Cook time: 1 hour
 - 🍽️ Servings: 6+
 
 ## Ingredients

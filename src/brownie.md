@@ -11,7 +11,7 @@
 - Oats: 1/2dl
 - Butter: 250g
 - 4 eggs
-- Cacao powder: 4tablespoons
+- Cacao powder: 4 tablespoons
 - Baking soda: 1/2 teaspoon
 - Vanilla sugar: 1 teaspoon
 

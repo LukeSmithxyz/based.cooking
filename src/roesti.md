@@ -1,10 +1,13 @@
 # Rösti
 
+![Rösti](pix/roesti.webp)
+Used two serving sizes for this Rösti
+
 This swiss classic works great together with fried eggs and steamed peas or spinach.
 Can be useful to get rid of leftover potatoes from the day before.
 
 - ⏲️ Prep time: 20 min
-- 🍳Cook time: 20 min
+- 🍳 Cook time: 20 min
 - 🍽️ Servings: 4
 
 ## Ingredients
@@ -13,7 +16,7 @@ Can be useful to get rid of leftover potatoes from the day before.
 - 2 carrots
 - 500g (~1lb) peas or spinach
 - 4 eggs
-- 2 onion (medium size)
+- 2 onions (medium size)
 - butter
 
 ## Directions
@@ -36,4 +39,4 @@ Can be useful to get rid of leftover potatoes from the day before.
 - **Alexander Bocken** -- [contact](mailto:alexander@bocken.org)
 - **Elias Pahls** -- [contact](mailto:pahlse@pm.me)
 
-;tags: swiss potato side
+;tags: swiss potato side cheesefare

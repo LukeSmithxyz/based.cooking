@@ -27,4 +27,4 @@ I could have called this Orange Chicken but I feel like some people wouldn't cla
 
 - Jacob Smith - [website](https://jacobwsmith.xyz)
 
-;tags asian chicken 
+;tags: asian chicken

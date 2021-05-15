@@ -29,7 +29,7 @@ For the sauce:
 * Basil
 * Black pepper
 
-## Instructions
+## Directions
 
 1. Beat the egg(s) in a large bowl.
 2. Add in the ground beef, and the bread crumbs and mix.
@@ -51,13 +51,12 @@ For the sauce:
     that they get completely bathed in tomato sauce.
 12. Serve with some side dish and enjoy!
 
-
 Originally published at [https://www.yaroslavps.com/food/cheesy-meatballs/](https://www.yaroslavps.com/food/cheesy-meatballs/)
 
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
+- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: beef
+;tags: beef cheese

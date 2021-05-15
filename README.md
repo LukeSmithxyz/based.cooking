@@ -3,7 +3,7 @@
 [https://based.cooking](https://based.cooking)
 
 This is a simple cooking website where users can submit recipes here for credit.
-There are no ads, trackers, cookies (unless reciples thereof) or javascript.
+There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 
 ## Ways to contribute
 
@@ -17,7 +17,7 @@ There are no ads, trackers, cookies (unless reciples thereof) or javascript.
 
 - Model submission files after [example.md](example.md). Put them in `src/`.
 - Recipes should start with a title, with a single `#`, *on the first line*. No
-  empty line at the top, not trailing line at the end. The file needs to be `\n`
+  empty line at the top, no trailing line at the end. The file needs to be `\n`
   terminated in linux-fashion (if you're on linux you don't need to care, it
   should be automatic).
 - File names should be the name of the dish with words separated by hyphens
@@ -49,11 +49,13 @@ List of special, categorical tags to use if relevant:
   to be incorporated in another recipe.
 - `breakfast`
 - `dessert`
-- `drink`
 - `quick`: for recipes that can be cooked in under ~20 minutes.
 - `side`: side dishes such as mash, fries, etc.
 - `snack`
 - `spread`
+
+If your recipe contains no meat or dairy, include the `fasting` tag.
+If it includes dairy but no milk, incude the `cheesefare` tag.
 
 ### Images
 

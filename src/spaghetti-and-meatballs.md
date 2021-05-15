@@ -1,7 +1,7 @@
 # Spaghetti and Meatballs
 
 - ⏲️Prep time: 20 min
-- 🍳Cook time: 40 min
+- 🍳 Cook time: 40 min
 - 🍽️Servings: 6
 
 ## Ingredients
@@ -46,7 +46,7 @@
 5. Add the tomato paste, stir to blend, and cook for a minute longer.
 6. Add the canned tomatoes, basil, and parsley.
 7. Mash and stir the tomatoes with a potato masher until the sauce starts to thicken, about 5 minutes over medium-high heat.
-8. Reduce heat to low and simmer gently while prepating meatballs, stirring occasionally.
+8. Reduce heat to low and simmer gently while preparing meatballs, stirring occasionally.
 
 ### Form the meatballs
 
@@ -70,17 +70,13 @@
 
 ### Cook the spaghetti
 
-17. Fill a large pot with 4 quarts of water. Add 2 tablespoons of salt and bring it to a boil.
-18. When the water is boiling, add the dry spaghetti to the pot.
-19. Boil the spaghetti for 8-10 minutes, or to al dente.
-20. Drain the spaghetti in a collander.
-
+17. [Cook the pasta](pasta.html) and optionally add 1/3 cup of pasta water to the sauce.
 ### Serve
 
-21. Place a thin layer of sauce on a plate. Add pasta, sauce and meatballs.
+18. Place a thin layer of sauce on a plate. Add pasta, sauce and meatballs.
 
 ## Contribution
 
 - ClosedGL - [GitHub](https://github.com/ClosedGL2)
 
-;tags: italian pasta beef pork
+;tags: italian pasta beef pork cheesefare

@@ -3,12 +3,12 @@
 Essentially, just a fried burrito. Use whatever your favorite filling is. 
 
 - ⏲️ Prep time: 120min
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 - Servings: 4
 
 ## Ingredients
 
-- 1/2 lb. Lean ground beef or chicken
+- [taco-meat](taco-meat.html)
 - 1 Onion
 - Diced Tomatoes
 - 1 Bell Pepper
@@ -31,7 +31,6 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 ## Contribution
 
-- AJ XMR: '45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ'
+- AJ XMR: `45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ`
 
-;tags: mexican beef basic 
-
+;tags: mexican beef basic

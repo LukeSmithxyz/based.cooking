@@ -1,4 +1,7 @@
 # Pancake
+
+![Pancakes made at home](pix/pancake.webp)
+
 Here is a simple Pancake recipe
 
 ## Ingredients
@@ -19,4 +22,4 @@ Here is a simple Pancake recipe
 
 BeFe
 
-;tags: quick basic breakfast sweet cake
+;tags: quick breakfast sweet pancake cheesefare

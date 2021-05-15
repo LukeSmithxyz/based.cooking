@@ -16,4 +16,4 @@
 ## Contribution
 themisch - [website](http://k63fspwi7eekmjy7i3ofk425lseyftfrbikyjs5ndgrvzasxlh6hoiid.onion), [donate](http://k63fspwi7eekmjy7i3ofk425lseyftfrbikyjs5ndgrvzasxlh6hoiid.onion/donate.html)
 
-;tags: potato quick side
+;tags: potato quick side fasting

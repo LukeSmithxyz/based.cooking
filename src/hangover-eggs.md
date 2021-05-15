@@ -35,4 +35,4 @@ bite.
 
 - **Dr. Cat** -- [website](https://github.com/castrated)
 
-;tags: eggs snack quick
+;tags: eggs snack quick cheesefare

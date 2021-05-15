@@ -1,10 +1,12 @@
 # Butter Chicken Masala Curry
 
+![Butter Chicken Masala](pix/butter-chicken-masala.webp)
+
 Butter chicken Masala is one of India's most popular chicken recipes, a mild curry with a tomato-onion-cream base and boneless chicken pieces cooked in it to perfection.
 
-- Prep time: 30 min
-- Cook time: 30 min
-- Servings: 2
+- ⏲️ Prep time: 30 min
+- 🍳 Cook time: 30 min
+- 🍽️ Servings: 2
 
 ## Ingredients
 
@@ -16,7 +18,7 @@ Butter chicken Masala is one of India's most popular chicken recipes, a mild cur
 - Lemon juice 1 tbsp
 - Garlic cloves 3, minced/crushed
 - Ginger 1tbsp, minced/paste
-- Garam Masala/Chicken Masala 1 tbsp
+- [Garam Masala](garam-masala.html)/Chicken Masala 1 tbsp
 - Cream 4tbsp (or cashew paste)
 - Chilli Powder 1 tbsp
 - Turmeric powder 1/4 tbsp

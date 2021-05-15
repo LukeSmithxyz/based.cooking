@@ -1,8 +1,8 @@
 # Banana Pancakes
 
-- Prep time: 10 minutes
-- Cook time: 10 minutes
-- Serves: 4 people
+- ⏲️ Prep time: 10 minutes
+- 🍳 Cook time: 10 minutes
+- 🍽️ Servings: 4 people
 
 ## Ingredients
 
@@ -27,4 +27,4 @@ Either eat the pancakes as they get ready or put a plate in a preheated oven (lo
 
 - Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)
 
-;tags: breakfast quick sweet cake
+;tags: breakfast quick sweet pancake cheesefare

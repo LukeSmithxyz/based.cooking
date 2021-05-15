@@ -28,5 +28,6 @@ jobs:
         port: ${{ secrets.based_port }}
         script: |
           cd repo
+          git stash
           git pull --force origin master
-          make clean deploy
+          make deploy

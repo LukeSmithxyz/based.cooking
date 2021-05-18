@@ -34,4 +34,4 @@
 
 - Fiddelate
 
-;tags: dessert
+;tags: dessert snack

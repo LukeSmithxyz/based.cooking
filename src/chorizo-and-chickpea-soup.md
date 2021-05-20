@@ -1,4 +1,4 @@
-# Chorizo & Chickpea Soup
+# Chorizo &amp; Chickpea Soup
 
 Recommend serving with corn bread.
 

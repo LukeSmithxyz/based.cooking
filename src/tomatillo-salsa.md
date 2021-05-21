@@ -1,6 +1,6 @@
 # Tomatillo Salsa
 
-![Tomatillo Salsa](pix/tomatillo_salsa.webp)
+![Tomatillo Salsa](pix/tomatillo-salsa.webp)
 
 This is a very simple salsa
 

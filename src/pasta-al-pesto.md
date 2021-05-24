@@ -22,9 +22,9 @@ A traditional Ligurian dish.
 
 ## Directions
 
-1. Preferably using a stone or wooden mortar and pestle, grind the garlic
+1. Preferably using a stone mortar and pestle, grind the garlic
    together with the basil leaves, the nuts, and a generous pinch of coarse salt.
-   1. Note: the salt crystals help with mincing.
+   1. Note: the salt crystals help with grinding.
    2. A food processor also works, but it is not necessarily as much fun.
 2. Add the grated cheese.
 3. Add olive oil until getting a creamy consistence. Set aside.

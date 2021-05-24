@@ -32,7 +32,7 @@ A traditional Ligurian dish.
 5. Add the sliced potato to a pot of cold water (3 to four liters should do),
    and bring to a rolling boil.
    1. Note: the starch from the potato gives the dish a smooth, creamy texture.
-6. Add a tablespoon of coarse salt to the boiling water.
+6. Add a tablespoon of salt to the boiling water.
 7. Add the pasta. If you use fresh Trofie, be ready to drain the pasta in a
    colander as soon as it raises to the surface (3 to five minutes). If you are
    using dry pasta, cook until "al dente" before draining.
@@ -44,6 +44,6 @@ A traditional Ligurian dish.
 
 ## Contribution
 
-- Rico -        btc: `17sF6JgxYeHLytnXaCCwbjpReW8utP9F7H`
+- Rico - btc: `17sF6JgxYeHLytnXaCCwbjpReW8utP9F7H`
 
 ;tags: pasta italian ligurian mediterranean cheesefare

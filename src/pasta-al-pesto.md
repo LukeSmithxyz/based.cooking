@@ -25,14 +25,14 @@ A traditional Ligurian dish.
 1. Peel the garlic.
 2. Preferably using a stone or wooden mortar and pestle, grind the garlic
    together with the basil leaves, the nuts, and a generous pinch of coarse salt.
-   2. Note: the salt crystals help with mincing.
+   1. Note: the salt crystals help with mincing.
    2. A food processor also works, but it is not necessarily as much fun.
 3. Add the grated cheese.
 4. Add olive oil until getting a creamy consistence. Set aside.
 5. Slice the potato fairly thin.
 6. Add the sliced potato to a pot of cold water (3 to four liters should do),
    and bring to a rolling boil.
-   6. Note: the starch from the potato gives the dish a smooth, creamy texture.
+   1. Note: the starch from the potato gives the dish a smooth, creamy texture.
 7. Add a tablespoon of coarse salt to the boiling water.
 8. Add the pasta. If you use fresh Trofie, be ready to drain the pasta in a
    colander as soon as it raises to the surface (3 to five minutes). If you are

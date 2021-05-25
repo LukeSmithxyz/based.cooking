@@ -16,7 +16,7 @@ Works great in any recipes that use taco seasoning. Makes about one store-bought
 
 ## Directions
 
-1. Mix ingredients in a bowl
+1. Combine ingredients in a small bowl.
 
 ## Contribution
 

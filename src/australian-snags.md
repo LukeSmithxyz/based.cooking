@@ -1,6 +1,6 @@
-# Australian snags (sausage sizzle)
+# Aussie Snags (sausage sizzle)
 
-An australian BBQ classic tradition that is simple and very easy to make. Great for parties and outdoor events
+An Australian BBQ classic tradition that is simple and very easy to make. Great for parties and outdoor events
 especially national events. Sometimes served at hardware chains.
 
 - ⏲️ Prep time: 2 min
@@ -13,7 +13,7 @@ especially national events. Sometimes served at hardware chains.
 - Onions (4g per sausage)
 - Tomato sauce
 - Mustard (optional)
-- Bread
+- White sliced bread
 - Butter
 - Oil
 - Wood chips (optional, fuel for smokey flavour)
@@ -25,7 +25,7 @@ especially national events. Sometimes served at hardware chains.
 3. Add oil of your choice to the hotplate then add the onions
 4. Use your tongs to toss the onions until they are golden brown
 5. When the onions are golden brown turn off the hotplate
-6. When the sausages are cooked, butter the bread then add a sausage (optionally split)
-7. Add onions then tomato sauce on top
+6. When the sausages are cooked, butter the bread, then the onions, and add a sausage (optionally split)
+7. Finally tomato sauce on top
 
 ;tags: basic snack australian pork

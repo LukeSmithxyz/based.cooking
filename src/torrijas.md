@@ -31,6 +31,6 @@ It is said they were first cooked using the leftovers from the Lent.
 
 ## Contribution
 
-- **danoloan** - [webpage](https://danoloan.es)
+- **danoloan** - [webpage](https://danoloan.es), xmr: `45Zhy22Aoiq2sZVBuddmmMQKPGQJRukimHG5ZHugwedwXZjWhfC4Mqw5fSRkspdu1hPEiVNhwAnTND5FvtrLFeb9JkVSktG`
 
 ;tags: spanish dessert quick easter

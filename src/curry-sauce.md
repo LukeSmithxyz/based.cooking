@@ -25,7 +25,7 @@ I like to make double this amount and freeze the rest.
 
 1. Melt the butter in a large saucepan over medium heat.
 2. Add in the sliced onion, sliced garlic, and ginger.
-3. Fry for 15 min, until the onion soft.
+3. Fry for 15 min, until the onion is soft.
 4. Add the curry powder, turmeric, vinegar, and star anise.
 5. Fry for 1 minute.
 6. Pour in the stock.

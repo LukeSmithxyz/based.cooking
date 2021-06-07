@@ -21,6 +21,6 @@
 
 ## Contribution
 
-- Elias Howell -- [website](https://snarf.top)
+- Elias Howell -- [website](https://sed11q.net)
 
 ;tags: mexican beef

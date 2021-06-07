@@ -1,0 +1,20 @@
+name: Check PR
+on:
+  - pull_request
+
+jobs:
+    check:
+        runs-on: ubuntu-latest
+        steps:
+          - uses: actions/checkout@v2
+          - name: Download dependencies 📥
+            run: sudo apt-get install discount
+          - name: Compile based.cooking 🎲
+            run: |
+                make build
+          - name: Upload build artifacts 📤
+            uses: actions/upload-artifact@v2
+            with:
+                name: Build Artifact
+                path: blog/
+                retention-days: 7

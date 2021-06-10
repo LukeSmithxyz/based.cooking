@@ -28,7 +28,7 @@ Simple timeless pancake recipe with easy ratios and staple ingredients
 2. Baking powder, not soda. Baking powder is sodium bicarbonate with a raising agent added
 3. You can add more salt (than is in the salted butter) or sugar to taste
 4. Batter viscosity (amount of milk used) is personal preference, more milk equals runnier batter equals thinner, flatter pancake
-5. Pork lard can be used in the place of butter for steps 6 and 8 if a crispy fried finish is desired, however butter > pork lard in terms of human health (according to Ray Peat) [1] [2]
+5. Pork lard can be used in the place of butter for steps 6 and 9 if a crispy fried finish is desired, however butter is better than pork lard in terms of human health (according to Ray Peat) [1] [2]
 6. If you do try pork lard, experiment with a higher temperature and shorter cook time per side
  
 ## Contribution

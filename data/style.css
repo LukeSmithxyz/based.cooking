@@ -49,14 +49,14 @@ img[alt="XMR Logo"] {
 
 @media (prefers-color-scheme: light) {
 	body {
-		background: white ;
-		color: black ;
+		background: #F2F4F3 ;
+		color: #1F1E1F ;
 	}
 	a {
-		color: blue ;
+		color: tomato ;
 	}
 	a:visited {
-		color: purple ;
+		color: gray ;
 	}
 	h2 {
 		color: inherit ;

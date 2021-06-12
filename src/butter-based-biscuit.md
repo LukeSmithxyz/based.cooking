@@ -39,4 +39,4 @@ This recipe is some basic recommandations for making butter based biscuits (aka 
 
 Arnaud Poittevin
 
-;tags: snack side
+;tags: snack side dough 

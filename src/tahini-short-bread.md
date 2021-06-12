@@ -20,8 +20,6 @@ For better results, a food processor is welcome for this recipe.  **IMPORTANT** 
 
 ## Directions
 
-### Dough
-
 1. Thoroughly mix the egg, sugar and Tahini
 2. Warm the butter so it is "pommade" meaning not liquide but soft enough so you can mix it with the preparation
 3. Have a good mixing of the butter and the preparation so it gets a bit airy.

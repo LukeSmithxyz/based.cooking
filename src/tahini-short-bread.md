@@ -19,6 +19,7 @@ For better results, a food processor is welcome for this recipe.  **IMPORTANT** 
 - Any toppings if desired (chocolate chips, ...) although it is very enjoyable on its own.
 
 ## Directions
+
 ### Dough
 
 1. Thoroughly mix the egg, sugar and Tahini

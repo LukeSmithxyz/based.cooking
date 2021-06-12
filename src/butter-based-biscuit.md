@@ -14,6 +14,7 @@ This recipe is some basic recommandations for making butter based biscuits (aka 
 - Eggs (optionnal)
 
 ## Directions
+
 ### Prepare the dough
 
 1. Mix the sugar and eggs until it gets white

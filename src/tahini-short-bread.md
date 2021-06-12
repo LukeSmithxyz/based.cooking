@@ -31,4 +31,5 @@ For better results, a food processor is welcome for this recipe.  **IMPORTANT** 
 ## Contribution
 
 Arnaud Poittevin
-;tags: dessert side snack cheesefare
+
+;tags: dessert side snack cheesefare eggs dough

@@ -3,7 +3,7 @@
 This is a hearty english breakfast, common in the UK. This recipe is made up largely of engredients that someone would have in their fridge/cooler, although for an authentic experience, purchasing English back bacon and English sausages would be preferable.
 
 - 🍳 Cook time: 40 min
-- 🍽️Servings: 2
+- 🍽️ Servings: 2
 
 ## Ingredients
 

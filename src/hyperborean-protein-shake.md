@@ -20,7 +20,7 @@ A based protein shake with tons of high-quality milk proteins, saturated fat, an
 4. Add 1 serving of a protein powder of your choice (prefer ones with whey and casein protein, no soy)
 5. Shake/blend until thoroughly mixed
 6. Add water until desired viscosity (thickness) is reached
-7. Shake/blend until thoroughly mixed. Enjoy with some solid foods (particularly, ones higher in fiber) to ease digestion.
+7. Shake/blend until thoroughly mixed. Enjoy with some solid foods (particularly, fruits or other foods decently high in dietary fiber) to ease digestion.
 
 ## Contribution
 

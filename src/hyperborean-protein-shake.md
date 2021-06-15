@@ -1,4 +1,4 @@
-# Based Protein Shake
+# Hyperborean Protein Shake
 
 A based protein shake with tons of high-quality milk proteins, saturated fat, and cholesterol, perfect for muscle building and increasing testosterone production.
 

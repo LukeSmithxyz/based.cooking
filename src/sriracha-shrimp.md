@@ -2,7 +2,7 @@
 
 ![shrimp](pix/sriracha-shrimp.webp)
 
-A simple sriracha shrimp recipie. Good by itself or with sommething else.
+A simple sriracha shrimp recipe. Good by itself or with something else.
 
 - ⏲️ Prep time: 3 min
 - 🍳 Cook time: 15 min
@@ -15,16 +15,16 @@ A simple sriracha shrimp recipie. Good by itself or with sommething else.
 - Butter
 - Garlic (or minced garlic)
 - Onion Powder
-- Kosher salt (can use tablesalt, but won't taste as good)
+- Kosher salt (can use table salt, but won't taste as good)
 
 ## Directions
 
-1. Heat skillet on burner or stovetop on medium until hot, and melt ⅛ stick butter.
+1. Heat skillet on burner or stove top on medium until hot, and melt ⅛ stick butter.
 2. Slice garlic into small pieces (or use minced garlic).
 3. Add garlic and shrimp to skillet.
 3. Cook shrimp until somewhat golden, then add onion powder, salt, and sriracha sauce.
 4. Cook for a bit longer (around 2-3 minutes).
-5. Take off of burner/stovetop and enjoy.
+5. Take off of burner/stove top and enjoy.
 
 ## Contributors
 

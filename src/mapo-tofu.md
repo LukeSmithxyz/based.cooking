@@ -30,14 +30,15 @@
 ## Directions
 
 ![Mapo Tofu Simmering](pix/mapo-tofu-02.webp)
-1. Marinade the pork in shaoxing cooking wine, a splash of cooking oil, the soy sauce, 
+
+1. Marinate the pork in Shaoxing cooking wine, a splash of cooking oil, the soy sauce, cornstarch, and white pepper powder
 2. Add cooking oil to a wok and sear the ground pork until browned, chopping it up as it cooks
 3. Add the doubanjiang and let it simmer for about a minute
 4. Add the minced aromatics (ginger, garlic) scallion whites, and dou-chi and cook until fragrant
 5. Add the stock and a splash of soy sauce, turn up the gas and bring to a boil
 6. Add the tofu, lower the gas, and braise for around 15 mins
 7. You'll know it's done when the tofu shows their trademark "pockmarks" and the seasoning sticks to them
-8. Mix in the crushed sichuan peppercorns and green parts of the scallions right before serving
+8. Mix in the crushed Sichuan peppercorns and green parts of the scallions right before serving
 9. Serve over steamed rice
 
 ## Contribution

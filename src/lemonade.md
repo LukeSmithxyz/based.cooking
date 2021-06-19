@@ -8,9 +8,9 @@ A simple lemonade recipe
 
 ## Ingredients
 
-- 1.75 cups white sugar
+- 1¾ cups white sugar
 - 8 cups water
-- 1.5 cups lemon juice
+- 1½ cups lemon juice
 
 ## Directions
 

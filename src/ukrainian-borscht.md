@@ -45,4 +45,4 @@ Depending on the recipe, borscht may be purely vegetarian; it may be served eith
 - **Stanislav** – [link](http://git.io/monesonn)
 - **Tait Hoyem** - [link](https://tait.tech)
 
-;tags: ukrainian soup beetroot russian
+;tags: ukrainian soup beetroot

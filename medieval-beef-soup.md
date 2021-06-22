@@ -28,6 +28,6 @@ Medieval beef soup with turnips and turnip greens.
 
 ## Contributions
 
--LogSuperMulti - Adapted from this video: https://www.youtube.com/watch?v=T_5qGhC8Upc
+-LogSuperMulti - Adapted from a recipe from Anonimo Toscano's Manuscript.
 
 ;tags: beef soup roast

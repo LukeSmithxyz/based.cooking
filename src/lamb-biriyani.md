@@ -1,7 +1,7 @@
 # Lamb Biriyani
 
 This recipe makes an Southern Indian (Tamil) style Lamb biriyani that has been adapted to a more western audience (aka a bit less spicy)
-and can be made with either Lamb or Mutton. Best served with a sauce such as an Onion Raitha [website](https://based.cooking/onion-raitha).
+and can be made with either Lamb or Mutton. Best served with a sauce such as an Onion Raitha [website](onion-raitha.html).
 
 ![Lamb Biriyani](pix/lamb-biriyani.webp)
 

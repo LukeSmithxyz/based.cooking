@@ -2,9 +2,9 @@
 
 My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.
 
-- Prep time: 12 mins 
-- Cook time: Simmer all day 
-- Servings: 7 
+- ⏲️ Prep time: 12 mins 
+- 🍳 Cook time: Simmer all day 
+- 🍽️ Servings: 7 
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.
 - 2 Bay leaves
 - 2 tbsp. Olive oil (she used mazola oil) 
 - 12 oz. Can tomato paste
-- 29 oz. Diced tomatos 
+- 29 oz. Diced tomatoes 
 - 29 oz. Tomato puree 
 
 ## Directions

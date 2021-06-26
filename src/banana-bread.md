@@ -20,7 +20,7 @@ Not too sweet. Great for when you have friends over for tea.
 
 ## Directions
 
-1. Preheat oven to 350° F (175° C)
+1. Preheat oven to 350°F (175°C)
 2. Mix the wet ingredients (eggs, bananas, oil, sugar) in one bowl.
 3. Mix the dry ingredients (flour, baking soda/powder, spices, salt) in another
    bowl.
@@ -34,4 +34,4 @@ Not too sweet. Great for when you have friends over for tea.
 
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 
-;tags: bread dessert sweet
+;tags: bread dessert sweet fasting

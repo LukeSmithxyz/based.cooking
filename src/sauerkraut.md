@@ -19,6 +19,6 @@ Sauerkraut is a based lacto-fermented food that is healthy and has a long shelf 
 
 ## Contribution
 
-- Andrej Kirchmaier, XMR: 53QjcCVACp4Fuc5cULMoa8GyS8jyuwLteSihhoAkuezfBMSpnwsQgZ2Mu1cha2fpG8AZqtAwdHmZB6hNqk3K4485HrKQFyS
+- Andrej Kirchmaier, XMR: `53QjcCVACp4Fuc5cULMoa8GyS8jyuwLteSihhoAkuezfBMSpnwsQgZ2Mu1cha2fpG8AZqtAwdHmZB6hNqk3K4485HrKQFyS`
 
-;tags: german cabbage side
+;tags: german cabbage side fasting

@@ -30,7 +30,6 @@
 14. serve pork & veggies over bed of rice, garnish with green onion
 15. (optional) add some spice! Sriracha or crushed red pepper are great.
 
-
 ## Contribution
 
 - Jon Paul Uritis - [website](https://jonpauluritis.com), [donate](http://paypal.me/jppope)

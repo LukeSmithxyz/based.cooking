@@ -27,7 +27,7 @@ eating this as a side dish, it might be more like 6-8 portions.
 \*You can play with the proportions depending on how creamy or dry you want the
 mashed potatoes to be.
 
-## Instructions
+## Directions
 
 1. Peel and cut the potatoes into medium sized pieces.
 2. Put the potatoes in a pot with some water so that it covers the potatoes and
@@ -45,13 +45,12 @@ mashed potatoes to be.
    add the shredded cheese and fried bacon and mix a little.
 9. Serve and top with chopped green onions.
 
-
 Originally published at [https://www.yaroslavps.com/food/creamy-mashed-potatoes/](https://www.yaroslavps.com/food/creamy-mashed-potatoes/)
 
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
+- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/),
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 
-;tags: potato side
+;tags: potato side cheesefare

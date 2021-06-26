@@ -11,7 +11,7 @@ This is a recipe for a basic loaf of bread. The dough itself can be used however
 * 1/2 Tbsp salt
 * 3 3/4 cups Unbleached All-Purpose Flour (plus more for rolling / dusting)
 
-## Instructions
+## Directions
 
 1. Proof the yeast. To do this warm 1/4 cup water to about bath water heat (110 degrees F, 43 degrees C) add active dry yeast and 1 Tsp sugar. Let sit for about 10 minutes, mixture should at least be doubled in size after waiting.
 1. Combine rest of water, yeast mixture, maple syrup (or other sweetener), salt, and flour in a large mixing bowl and stir. The result will be a sticky, rough dough. Use a spoon to stir until well combined and when it can no longer do the job, knead and turn it in the bowl with your hands.
@@ -36,4 +36,4 @@ This is a recipe for a basic loaf of bread. The dough itself can be used however
 
 Alex Selimov - [Website](https://alexselimov.xyz)
 
-;tags: basic bread
+;tags: basic bread fasting

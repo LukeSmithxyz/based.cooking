@@ -16,9 +16,8 @@ Quick and simple bread spread.
 2. After that put plums (without the water) and rest of the ingredients into blender and mix it until you're satisfied.
 3. If you want to make it more liquid you can add water from the plums.
 
-
 ## Contribution
 
 - Patryk Niedźwiedziński - [website](https://niedzwiedzinski.cyou)
 
-;tags: bread quick snack spread
+;tags: bread quick snack spread fasting

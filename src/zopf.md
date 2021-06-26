@@ -1,7 +1,7 @@
 # Zopf
 
 - ⏲️ Prep time: 30 min (plus one hour rising)
-- 🍳Cook time: 30 min
+- 🍳 Cook time: 30 min
 
 ## Ingredients
 - 1kg white wheat flour
@@ -23,6 +23,6 @@
 9. Wait for the bread to cool before cutting.
 
 ## Contribution
-- Thijs Wester - [website](twester.tk)
+- Thijs Wester - [website](https://twester.tk)
 
-;tags: swiss bread
+;tags: swiss bread cheesefare

@@ -1,9 +1,9 @@
 # Scandinavian Coffee Cake
 
 * ⏲️ Prep time: 15 min
-* 🍳Cook time: ≈ 3 hours
+* 🍳 Cook time: ≈ 3 hours
 * 🍽️ Servings: 1 cake
-* 
+
 ## Ingredients
 
 * 1/2 cup milk
@@ -44,4 +44,4 @@
 
 - Anonymous
 
-;tags: sweet dessert cake
+;tags: sweet dessert cake cheesefare

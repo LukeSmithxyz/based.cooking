@@ -17,7 +17,7 @@ have it as a side dish this should be enough for two persons.
 * Parmesan cheese
 * Rosemary; dried should be fine, but fresh is obviously better
 
-## Instructions
+## Directions
 
 1. Cut the potatoes into small cubes.
 2. Add some butter to a frying pan and heat up.
@@ -29,12 +29,11 @@ have it as a side dish this should be enough for two persons.
    ground pepper on top.
 6. Enjoy!
 
-
 Originally published at [https://www.yaroslavps.com/food/parmesan-potatoes/](https://www.yaroslavps.com/food/parmesan-potatoes/)
 
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
+- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

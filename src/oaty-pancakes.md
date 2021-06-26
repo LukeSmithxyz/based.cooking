@@ -1,7 +1,7 @@
 # Oaty Pancakes
 
 - ⏲️ Prep time: 10 min
-- 🍳Cook time: 10 min
+- 🍳 Cook time: 10 min
 - 🍽️ Servings: 4
 
 ## Ingredients
@@ -40,4 +40,4 @@ and serve bacon or sausages alongside if you like.
 
 Puremana
 
-;tags: breakfast quick sweet cake
+;tags: breakfast quick sweet pancake cheesefare

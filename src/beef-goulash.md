@@ -2,13 +2,13 @@
 
 ![Beef Goulash](pix/beef-goulash.webp)
 
-Although it takes some time to make - about 1hr 30 minutes, it is actually quite
-easy to make, and it is a really hearty and delicious recipe, if I do say so
-myself.
+Although it takes some time to make, it is actually quite easy to make, and it is a really hearty and delicious recipe, if I do say so myself.
+
+- ⏲️ Prep time: 20 min
+- 🍳 Cook time: 90 min
+- 🍽️ Servings: 2/3
 
 ## Ingredients
-
-The ingredients here are for about 2-3 portions, depending on your appetite:
 
 * 500g beef
 * 300-400g potatoes
@@ -27,7 +27,7 @@ The ingredients here are for about 2-3 portions, depending on your appetite:
 * Cilantro (optional)
 * 2-3 champignon mushrooms (optional)
 
-## Instructions
+## Directions
 
 1. Heat up the frying pan and add some oil.
 2. Cut the potatoes into small pieces and fry them on the frying pan over
@@ -46,11 +46,11 @@ The ingredients here are for about 2-3 portions, depending on your appetite:
 9. Remove from stove, serve hot and enjoy with some beer or cider (or your
    favorite beverage).
 
-Originally published at [https://www.yaroslavps.com/food/beef-goulash/](https://www.yaroslavps.com/food/beef-goulash/)
-
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
+Originally published at [https://www.yaroslavps.com/food/beef-goulash/](https://www.yaroslavps.com/food/beef-goulash/)
+
+- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

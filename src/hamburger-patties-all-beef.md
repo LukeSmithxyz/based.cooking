@@ -19,4 +19,4 @@
 
 - James Hendrie
 
-;tags: american quick beef basic
+;tags: american quick beef basic hamburger

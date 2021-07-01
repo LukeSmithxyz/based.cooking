@@ -1,5 +1,7 @@
 # Collard Greens with Smoked Duck and Parsnips
 
+![collard greens with smoked duck](pix/collard-greens-with-smoked-duck-and-parnips.webp)
+
 This dish was a pandemic leftover invention loosely inspired by Ethiopian gomen. It can be served as a side dish, but we eat it an an entree. If you intend it as a side dish, then this serves 4. The smoked duck adds a bit of saltiness, so it's better to season to taste after cooking. Serve with good quality, crusty bread.
 
 - ⏲️ Prep time: 20 min
@@ -11,7 +13,7 @@ This dish was a pandemic leftover invention loosely inspired by Ethiopian gomen.
 - 1/2 smoked duck breast (skin on) chopped  
 - 1 large onion sliced
 - 1 small parsnip julienned
-- 1 large bunch collard greens chopped into ribbons
+- 1 large bunch collard greens (midrib removed) chopped into ribbons
 - 1/2 green cabbage cut into ribbons (optional)
 - 1–2 tablespoons olive oil and/or butter
 - 1 teaspoon ground coriander

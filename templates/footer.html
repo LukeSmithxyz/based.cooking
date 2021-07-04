@@ -1,5 +1,5 @@
 <footer>
-    <hr/>
+    <hr />
     <a href=".">homepage</a>
     <a href="./rss.xml">RSS</a>
     <a href="./atom.xml">atom</a>
@@ -7,4 +7,11 @@
     <p>All site content is in the Public Domain.</p>
     <p><small>Powered by <a href="https://pedantic.software/git/blogit">blogit</a></small></p>
 </footer>
-</body></html>
+</body>
+<script>
+    if ('serviceWorker' in navigator) { // If service worker is supported
+        navigator.serviceWorker.register("./sw.js")
+    }
+</script>
+
+</html>

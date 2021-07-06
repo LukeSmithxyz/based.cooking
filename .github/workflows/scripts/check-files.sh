@@ -134,6 +134,8 @@ while IFS= read -r file; do
 		# Ignore these files
 		index.md) ;;
 		.github/*.md) ;;
+		README.md) ;;
+		RULES.md) ;;
 
 		*.webp)
 			check_size "$file"

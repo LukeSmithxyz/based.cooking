@@ -1,5 +1,5 @@
 # This is the dish title
-![Quinoa Chicken Cilantro Salad](data/pix/quinoa-chicken-cilantro-salad.webp)
+![Quinoa Chicken Cilantro Salad](pix/quinoa-chicken-cilantro-salad.webp)
 
 A chicken salad with quinoa, dressed with a cilantro sauce. Much of this dish is preference and does not need specific ingredients. Have fun with it! It's easy to pack and is great for 🏋️‍♂️.
 

@@ -14,7 +14,6 @@ tomatoes, cilantro, other citrus juices, and anything else you feel might taste 
 
 ## Directions
 
-
 1.  Slice your onion as thinly as you can then let them all sit in a
     bowl of cold water for a while. Soaking your onion slices like this
     will make it so that their flavor is not as strong so that it won't
@@ -31,7 +30,6 @@ tomatoes, cilantro, other citrus juices, and anything else you feel might taste 
     get away with eating it after only an hour but ceviche gets better
     as it ages so it may be best to have more patience and let it sit
     overnight.
-
 
 ## Contribution
 

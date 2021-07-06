@@ -37,4 +37,4 @@ tomatoes, cilantro, other citrus juices, and anything else you feel might taste 
 
 - Jacob Smith - [website](https://jacobwsmith.xyz)
 
-;tags: seafood, peruvian
+;tags: seafood peruvian

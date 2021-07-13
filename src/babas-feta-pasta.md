@@ -8,7 +8,7 @@ Uses mixed spice for special flavour, and is a great dinner or mid-day meal.
 
 ## Ingredients
 
-Serves Around 3 People. You can scale up to 4 If you increase most quantities by +1/4.
+Serves 3 People. You can scale up to 4 If you increase most quantities by +1/3.
 
 - Medium Sweet Onion (Finely Chopped)
 - Virgin olive oil (not extra-virgin)
@@ -22,7 +22,7 @@ Serves Around 3 People. You can scale up to 4 If you increase most quantities by
 - 1/2 Block of feta (Washed)
 - 1 Chicken stock (Added to 3/4 Mug boiling water)
 - Overfilled Teaspoon Mixed Spice
-- 3/4 Bowls fusilli pasta 
+- 3 Bowls fusilli pasta 
 - Overfilled tablespoon Creme Cheese
 - 1/3 Mug whole milk
 

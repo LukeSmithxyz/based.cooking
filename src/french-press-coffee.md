@@ -41,4 +41,4 @@ Coffee using a simple brewing method and metal filter.
 
 - Spenser Truex - xmr: `88DVtBa1XE5ga331U32nD76kK1UP8h91QBYBtphqtGhMJtueSPi13CK6QhMFoP3NQWHnnxG6NpxCVGvCGpgpmGD22xng4rK`, btc: `bc1qwfevq3h97z9crfrft3ym9r8pag5apmacm5dvj3`,[equwal.com](https://equwal.com/donate.html)
 
-;tags: coffee breakfast quick
+;tags: coffee breakfast quick drink

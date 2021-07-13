@@ -14,21 +14,30 @@ Coffee using a simple brewing method and metal filter.
 ## Directions
 
 1. Boil water.
-2. (optional) Pour water into the french press to warm it up for even
+2. Put beans in the press. 3-5 tbsp (18-30g) of coffee per 10oz water.
+3. Pour in water.
+4. 4 minute brew time.
+5. Push down the filter to the bottom and pour immediately.
+
+## Overly Complicated Directions
+
+1. Boil water.
+2. Pour water into the french press to warm it up for even
     brewing. Dump it out. Improves flavour.
-3. (optional) Boil more water.
-4. (optional) Let boiled water sit for 60 seconds so it is at about 90
+3. Boil more water.
+4. Let boiled water sit for 60 seconds so it is at about 90
    degrees Celsius. Improves flavour.
 5. Put beans in the press. 3-5 tbsp (18-30g) of coffee per 10oz water.
 6. Pour in water.
 7. Push down filter, then pull it up so it rests just below the water line.
 8. 4 minute timer.
-9. Push down the filter with a firm and gradual pressure until it is slightly above the bottom.
-10. Put extra hot coffee in a thermos or carafe for refills.
-11. Enjoy hot coffee. Don't drink the grounds at the bottom of your cup or carafe.
+9. After 2 minutes, gently stir with a non-metal spoon (a metal spoon can shatter the press!).
+10. Push down the filter with a firm and gradual pressure until it is slightly above the bottom.
+12. Put extra hot coffee in a thermos or carafe for refills. Don't leave it in the press.
+13. Enjoy hot coffee. Don't drink the grounds at the bottom of your cup or carafe.
 
 ## Contribution
 
-- Spenser Truex - xmr: `88DVtBa1XE5ga331U32nD76kK1UP8h91QBYBtphqtGhMJtueSPi13CK6QhMFoP3NQWHnnxG6NpxCVGvCGpgpmGD22xng4rK`, [equwal.com](https://equwal.com/donate.html)
+- Spenser Truex - xmr: `88DVtBa1XE5ga331U32nD76kK1UP8h91QBYBtphqtGhMJtueSPi13CK6QhMFoP3NQWHnnxG6NpxCVGvCGpgpmGD22xng4rK`, btc: `bc1qwfevq3h97z9crfrft3ym9r8pag5apmacm5dvj3` ,[equwal.com](https://equwal.com/donate.html)
 
 ;tags: coffee breakfast quick

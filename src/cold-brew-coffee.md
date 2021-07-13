@@ -11,7 +11,7 @@ Means to filter the coffee, like a french press or a plastic cone with paper fil
 
 - Some cups of dark roast coffee grounds, medium to large coarseness
 - Water, 2-10x as much as the coffee
-- flat or whipped heavy cream
+- flat or whipped heavy cream (optional)
 
 Too finely ground beans will make it taste bitter.
 
@@ -29,6 +29,6 @@ Too finely ground beans will make it taste bitter.
 
 ## Contribution
 
-- Spenser Truex - xmr: `88DVtBa1XE5ga331U32nD76kK1UP8h91QBYBtphqtGhMJtueSPi13CK6QhMFoP3NQWHnnxG6NpxCVGvCGpgpmGD22xng4rK`, [equwal.com](https://equwal.com/donate.html)
+- Spenser Truex - xmr: `88DVtBa1XE5ga331U32nD76kK1UP8h91QBYBtphqtGhMJtueSPi13CK6QhMFoP3NQWHnnxG6NpxCVGvCGpgpmGD22xng4rK`, btc: `bc1qwfevq3h97z9crfrft3ym9r8pag5apmacm5dvj3`, [equwal.com](https://equwal.com/donate.html)
 
 ;tags: coffee breakfast

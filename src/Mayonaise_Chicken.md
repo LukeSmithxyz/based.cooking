@@ -26,5 +26,5 @@ Kurczak z napierdolonym od chuja majonezem is a very tasty chicken. In general y
 kubast2, [website](https://kubast2.xyz)
 I think my website is down because I have recently requested my vps provider to restart the os on there.
 
-;tags: chicken midday meal polish
+;tags: chicken basic polish
 

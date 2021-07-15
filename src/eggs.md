@@ -10,8 +10,40 @@ egg. Feel free to suggest more, as per the instructions on the
 - butter
 - cheese(optional)
 - milk (optional)
+- heavy cream (optional)
 
 ## Directions
+
+### Basted eggs
+
+Basted eggs are the most based way to consoooome eggs. They are like
+over-easy, like poached eggs, but without breaking the yolks or losing
+the whites.
+
+![Basted eggs](pix/basted-eggs.webp)
+
+1. Heat up some water separately.
+2. Break eggs into a buttered pan, let cook until the whites are cooked in place.
+3. Pour a little drizzle of hot water into the egg pan.
+4. Cover the egg pan, the steam will cook the top of the yolk and white.
+5. Slide them onto a plate. Squeeze lemon, add hummus, salt and pepper,
+   tabasco sauce or whatevery you like.
+
+### Poached eggs
+
+1. Boil water.
+2. Break eggs into water.
+3. gently stir with a large, deep spoon occasionally.
+4. Remove eggs with the large, deep spoon.
+
+### Omelette-style scrabeled eggs
+
+1. Break eggs into a bowl.
+2. Add heavy cream to the eggs or milk. Salt. Pepper. (optional).
+3. Use a fork in a circular motion to beat them into oblivion.
+4. Butter a pan.
+5. Pour eggs into pan. Let them cook until it is mostly cooked through.
+6. Flip the whole patty like a pancake.
 
 ### Boiled eggs
 
@@ -57,5 +89,6 @@ of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
 
 - Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
 - Deven Blake -- [website](http://www.trinity.moe)
+- Spenser Truex - xmr: `88DVtBa1XE5ga331U32nD76kK1UP8h91QBYBtphqtGhMJtueSPi13CK6QhMFoP3NQWHnnxG6NpxCVGvCGpgpmGD22xng4rK`, btc: `bc1qwfevq3h97z9crfrft3ym9r8pag5apmacm5dvj3`, [equwal.com](https://equwal.com/donate.html)
 
 ;tags: eggs basic cheesefare

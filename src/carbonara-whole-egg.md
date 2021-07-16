@@ -1,6 +1,6 @@
 # Whole egg spaghetti carbonara
 
-Alternative to the [other carbonara recipe](carbonade.html) that uses the whole egg and some slightly different methods.
+Alternative to the [other carbonara recipe](carbonara.html) that uses the whole egg and some slightly different methods.
 I'm lead to believe the garlic element of this recipe makes it non-traditional but it tastes good and is hard to screw up.
 
 - ⏲️ Prep time: 15 min

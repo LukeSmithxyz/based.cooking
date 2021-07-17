@@ -7,7 +7,7 @@
 - 1 can (10-3/4 ounces) condensed cream of chicken soup, undiluted
 - 1/4 teaspoon dried thyme
 - 1 cup biscuit/baking mix
-- 1/2 cup whole milk
+- 1/2 cup ( 120ml ) whole milk
 - 1 large egg
 
 ## Directions

@@ -33,6 +33,6 @@ different toppings are possible.
 
 ## Contribution
 
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
+- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/donate.html)
 
 ;tags: polish easter dessert

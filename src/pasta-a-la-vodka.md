@@ -42,7 +42,7 @@
 9. Add the pasta, and make sure it boils about 2 minutes less than the adcived time on the
    package.
 10. Taste the sauce: if (1) there is no sting, add chili powder; if (2) it is too bitter,
-    add a tsp.\ of sugar; if (3) it is not salty enough, wait until the pasta is in; if
+    add a tsp. of sugar; if (3) it is not salty enough, wait until the pasta is in; if
     (4) you miss a tasta of pepper, wait until serving; (5) add tomato puree if it tastes
     too little of tomato; (6) add more basil and parsely if it is too little, but remember
     that basil is also included in the end.

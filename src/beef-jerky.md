@@ -8,9 +8,9 @@ This recipe for jerky is not heavily brined and flavored as commercial jerky is.
 
 - ¾ tsp. salt
 - ¼ tsp. pepper
-- 1 tbl. brown sugar
+- 1 tbsp. brown sugar
 - ¼ tsp. garlic
-- 2 tbl. Worcestershire sauce or Teriyaki sauce
+- 2 tbsp. Worcestershire sauce or Teriyaki sauce
 - ¼ tsp. Liquid Smoke
 - 1 Lb. (450 g) beef (flank or skirt steak is ideal)
 - Other common seasonings may include (¼ tsp. of) cayenne pepper, cheese powder, and/or white pepper

@@ -24,7 +24,7 @@ A based protein shake with tons of high-quality milk proteins, saturated fat, an
 
 ## Contribution
 
-- swirl - [website](https://swirl.funny.cl), [contact](https://swirl.funny.cl/contact)
+- swirl - [website](https://swurl.xyz), [contact](https://swurl.xyz/contact.html)
   * XMR: `84omCErMYMyVR5767rUCM4FKTfBwvrP38YhAE2nxKqjkQVn9dBK3wJ6QrXDr53aCB2PeR3Zv7TaLHaEDDXnTV763KtjzXLY`
   * BTC: `bc1qr4zafr4flge4ka4n6e8vdw89xneuxhxhrn9z05`
 

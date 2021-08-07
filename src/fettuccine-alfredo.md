@@ -36,7 +36,7 @@ In order that you can have both finish about the same time, I have given estimat
 
 ### Preparing the Alfredo Sauce (7-10 minutes)
 1. In a large frying pan, add butter, garlic powder, and shrimp.
-2. On medium heat, saute&#233; ingredients until shrimp are cooked.
+2. On medium heat, saut&#233; ingredients until shrimp are cooked.
 3. Then add the cream cheese broken into chunks.
 4. Stir until creamy.
 5. Once cream cheese is to sauce consistency, add milk.

@@ -15,11 +15,10 @@ This is a great meal for 3-4 people or you can eat one serving and freeze the re
 - 1lb Uncoocked Peeled Shrimp
 - 1/3 Cup Milk (More milk for thinner sauce)
 - 3/4 Cup Grated Parmesan Cheese
-- 2tbl Butter
-- 1tsp Garlic Powder
-- 1/2tsp Black Pepper
+- 2 Tblsp Butter
+- 1 Tsp Garlic Powder
 - Pasta Noodles of Choice
-  - E.g. Approximately 9 oz of Fettuccine Noodles
+  - E.g. Approximately 9oz of Fettuccine Noodles
 
 ## Directions
 

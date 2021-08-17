@@ -1,5 +1,7 @@
 # Tofu Stir Fry
 
+![tofu-stir-fry](pix/tofu-stir-fry.webp)
+
 A vegetarian dish that is easy to make and very flavorful. Goes well with rice or noodles
 
 Serves 3 to 5.

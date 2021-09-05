@@ -1,5 +1,7 @@
 # Fruit Crisp
 
+![Fruit Crisp made with Apples](pix/fruit-crisp.webp)
+
 A warm, crispy dessert made in a casserolle dish with a fruit of your choosing.
 
 - ⏲️ Prep time: 20 min

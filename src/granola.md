@@ -8,9 +8,9 @@
 
 - Whole Oats (3 cups)
 - Olive Oil (1/2 cup)
-- Maple Syrup (1 cup, can substitute honey)
+- Maple Syrup (1/2 cup, can substitute honey)
 - Nuts: Almonds, Pumpkin Seeds, etc. (1 cup, optional)
-- Dried Fruit: Appricots, Unsweatened Cranberries, etc. (1/2 cup, optional)
+- Dried Fruit: Appricots, Unsweatened Cranberries, etc. (1 cup, optional)
 - Spices: Cinamon, Ground Cloves, Salt (to taste, optional)
 
 ## Directions

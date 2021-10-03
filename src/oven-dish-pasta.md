@@ -1,4 +1,4 @@
-# Oven Pasta with spinach, beef, tomatoes, mozzerella and cinnamon
+# Oven Dish Pasta with spinach, beef, tomatoes, mozzerella and cinnamon
 
 - ⏲️ Prep time: 20 min 
 - 🍳Cook time: 20 min
@@ -27,6 +27,6 @@
 
 ## Contribution
 
-- Thijs Wester - [website](https://twester.tk)
+- Thijs Wester - [website](https://wester.digital)
 
 ;tags: pasta oven italian cheesefare

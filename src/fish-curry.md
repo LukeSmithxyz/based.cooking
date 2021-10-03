@@ -27,6 +27,6 @@ Best served with white rice
 5. Add coconut milk, fish and pepper (whole) and boil for an additional 6 minutes.
 
 ## Contribution
-- Thijs Wester - [website](https://twester.tk)
+- Thijs Wester - [website](https://wester.digital)
 
 ;tags: thai fish

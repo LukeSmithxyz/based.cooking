@@ -28,7 +28,7 @@
 5. Stir in half the flour; add eggs; beat well.
 6. Add enough of remaining flour to make a soft dough.
 7. Turn out on lightly floured board; knead till smooth and elastic.
-8. (See a recipe for white bread) put in a greased bowl; brush with shortening; cover; let rise in a warm place, 80Â° to 85Â° till double in bulk (about 2 hours).
+8. (See a recipe for white bread) put in a greased bowl; brush with shortening; cover; let rise in a warm place, 80°F--85°F (25°C--30°C) till double in bulk (about 2 hours).
 9. Turn out on floured board; roll into a rectangle 8 by 12 inches.
 10. Brush with butter.
 11. Sprinkle with brown sugar and cinnamon.

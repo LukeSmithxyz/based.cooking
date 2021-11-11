@@ -45,7 +45,7 @@ Originally published at [https://www.yaroslavps.com/food/navy-style-pasta/](http
 
 ## Contribution
 
-- Yaroslav de la Peña Smirnov — [website](https://www.yaroslavps.com/), 
+- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
 [other website](https://saucesource.cc/),
 [donate](https://www.yaroslavps.com/donate)
 

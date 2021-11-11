@@ -12,7 +12,7 @@ Hearty soup that is adaptable to customizing to your desired vegetables or other
 - 1 Onion
 - 2 carrots
 - 2 celery stalks
-- 32 oz Chicken Stock or Broth
+- 32 oz / 950ml Chicken Stock or Broth
 - Pasta (Optional)
 
 ## Directions

@@ -39,10 +39,9 @@ Potatoes baked in a dish smothered with cheese, what's not to love?
     5. Add the remaining 1/4 cheese to the top
     6. Put in oven for 45 min. If it starts to brown too much cover with tinfoil
 
-Originally published at [https://www.taste.com.au/recipes/cheesy-potato-bake/9749dafb-5288-4066-aa45-d9c99025b975](https://www.taste.com.au/recipes/cheesy-potato-bake/9749dafb-5288-4066-aa45-d9c99025b975)
-
 ## Contribution
 
-- Kyle Johnson and Sabina Mortensen — [website](https://www.kylecjohnson.site/)
+- Originally published at [https://www.taste.com.au/recipes/cheesy-potato-bake/9749dafb-5288-4066-aa45-d9c99025b975](https://www.taste.com.au/recipes/cheesy-potato-bake/9749dafb-5288-4066-aa45-d9c99025b975)
+- Kyle Johnson and Sabina Mortensen -- [website](https://www.kylecjohnson.site/)
 
-;tags: american cheese baked potato
+;tags: american cheese potato

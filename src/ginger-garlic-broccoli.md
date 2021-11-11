@@ -1,6 +1,6 @@
 # Broccoli with Ginger and Garlic Sauce
 
-Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds of asian inspired sauted vegetables.
+Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds of Asian inspired sauted vegetables.
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 10 min
@@ -20,7 +20,7 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 2. Fill your pan (or wok) around half inch (1.57cm) with water and bring to a rapid boil.
 3. Put broccoli in and steam with lid on for approx. 3 minutes.
 4. Drain broccoli and wipe pan dry.
-5. One teaspoon of oil and saute garlic and ginger (use sesameseed oil for asian touch, but neutral or olive oil works well too).
+5. One teaspoon of oil and saute garlic and ginger (use sesame seed oil for Asian touch, but neutral or olive oil works well too).
 6. Deglaze with sherry, put half a cup ($\approx$ 120 ml) of warm water or chicken stock. Reduce on medium-high heat.
 7. Stir in soy sauce, brown sugar and lemon juice to your taste.
 8. Thicken sauce with corn starch.
@@ -29,4 +29,5 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 ## Contribution
 
 - mjt91 - [website](https://github.com/mjt91), [donate](https://www.paypal.com/paypalme/mjt91)
+
 ;tags: side quick asian fasting

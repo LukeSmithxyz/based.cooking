@@ -8,7 +8,7 @@ egg. Feel free to suggest more, as per the instructions on the
 
 - eggs
 - butter
-- cheese(optional)
+- cheese (optional)
 - milk (optional)
 
 ## Directions

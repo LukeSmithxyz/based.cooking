@@ -1,21 +1,24 @@
 # Älplermagronen (Alpine macaroni)
 
+![Älplermagronen](pix/aelplermagronen.webp)
+
 A swiss favorite, _Älplermagronen_ combines pretty much everything you have at your disposal in your alpine chalet.
 It's the definition of comfort food for the Swiss.
 
-Serves 5-6.
-
-Cooking time: ~30 minutes
+- 🍳 Cook time: ~30 minutes
+- 🍽️  Servings: 4
 
 ## Ingredients
 
 - ~150g (1/3 lb) bacon cubes
 - 3 onions (medium size)
 - 400g (15 oz) potatoes (firm/waxy)
-- 2L (1/2 gal) milk
-- 200g (7oz) macaroni (dry weight)
+- 1 - 2L (1/4 - 1/2 gal) milk
+- 400g (15 oz) macaroni (dry weight)
 - ~150g (1/3 lb) medium soft cheese. Appenzeller works best. Gruyère would be my go-to alternative.
 - a jar of apple sauce
+
+Feel free to vary these amounts, it's not like this is anything strict.
 
 ## Directions
 

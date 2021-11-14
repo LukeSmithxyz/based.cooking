@@ -37,7 +37,7 @@ Basic bolognese sauce for lasagne or pasta dishes
 stir it through until it has completely evaporated. (If you are using it you can also add the stock at this point)
 6. Once your pan is somewhat dry you can add the tomato paste to the beef, let it cook for a minute to remove the slight metallic taste.
 7. Add your canned and peeled tomatoes and use your spoon to break them up, you don't have to be too thorough since they will soften up while the sauce cooks.
-8. add the diced tomatoes, fill the jar your tomatos came in with water give it a shake and add that to the pot, do the same with your can of peeled tomatoes.
+8. add the diced tomatoes, fill the jar your tomatoes came in with water give it a shake and add that to the pot, do the same with your can of peeled tomatoes.
 9. lower your heat to the lowest setting and slightly cover the pan with your lid.
 10. let it simmer for as long as you can wait, preferably at least 4 hours, if it starts getting a bit too dry you can add a bit more water to make sure the sauce doesn't burn.
 11. Once it's done simmering for as long as you can muster and its nice and thick, the liquid should not come above your meat and should be pretty concentrated
@@ -46,5 +46,6 @@ stir it through until it has completely evaporated. (If you are using it you can
 ## Contribution
 
 - Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
+- Tait, [website](https://tait.tech)
 
 ;tags: sauce italian pasta

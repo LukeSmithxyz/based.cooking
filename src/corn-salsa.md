@@ -15,10 +15,9 @@
 
 ## Directions
 
-1. Chop everything to pieces smaller than the corn kernals. Mix well and let sit covered in the fridge for at least an hour, even better overnight.
+1. Chop everything to pieces smaller than the corn kernels. Mix well and let sit covered in the fridge for at least an hour, even better overnight.
 
 ## Contributions
-- Joe Powerhouse
-- BTC:1KPxw9js2VukakhMv2wUUFUQZnHQL842ju
+- Joe Powerhouse - BTC:1KPxw9js2VukakhMv2wUUFUQZnHQL842ju
 
 ;tags: sauce mexican

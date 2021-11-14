@@ -24,6 +24,6 @@
 
 ## Contribution
 
- - [By enthdegree.](ebn0.net)
+ - [By enthdegree.](https://ebn0.net)
 
-;tags: bread baking
+;tags: bread dough

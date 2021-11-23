@@ -4,22 +4,24 @@
 
 ## Ingredients
 
-- 250g cubes paneer
-- 1 onion
+- 250g cubes paneer(cottage cheese)
+- 1 medium sized onion
 - 1 capsicum
 - 200ml tomato puree 
 - 1 tsp red chilli powder
 - 1 tsp turmeric powder
 - 1 tsp coriander powder
 - 1/2 tsp [garam masala](garam-masala.html) powder
-- 100ml thick yogurt
+- 100ml thick yogurt 
 - 1 tsp fenugreek powder
-- dry fenugreek leaves
+- dry fenugreek leaves (kasuri methi)
 - cardamom
 - cumin seeds
-- shaved ginger
+- grated ginger
+- fresh coriander(cilantro) leaves (for garnishing)
 - 20ml garlic paste
 - 1 bowl corn
+- 2 tsp lemon juice or half a lemon
 
 ## Directions
 

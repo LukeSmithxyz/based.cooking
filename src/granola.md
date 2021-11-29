@@ -11,7 +11,7 @@
 - Maple Syrup (1/2 cup)
 - Nuts: Almonds, Pumpkin Seeds, etc. (1 cup, optional)
 - Dried Fruit: Appricots, Unsweatened Cranberries, dates, etc. (1 cup, optional)
-- Spices: Cinamon, Ground Cloves, Salt (to taste, optional)
+- Spices: Ground Cinamon, Ground Cloves, Ground Cardamom, Salt (to taste, optional)
 
 ## Directions
 

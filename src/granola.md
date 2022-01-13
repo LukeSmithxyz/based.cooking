@@ -10,8 +10,8 @@
 - Olive Oil (1/2 cup)
 - Maple Syrup (1/2 cup)
 - Nuts: Almonds, Pumpkin Seeds, etc. (1 cup, optional)
-- Dried Fruit: Appricots, Unsweatened Cranberries, dates, etc. (1 cup, optional)
-- Spices: Ground Cinamon, Ground Cloves, Ground Cardamom, Salt (to taste, optional)
+- Dried Fruit: Apricots, Unsweetened Cranberries, dates, etc. (1 cup, optional)
+- Spices: Ground Cinnamon, Ground Cloves, Ground Cardamom (2 teaspoons of each, optional)
 
 ## Directions
 

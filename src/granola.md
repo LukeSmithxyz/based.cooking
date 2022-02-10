@@ -11,7 +11,7 @@
 - Maple Syrup (1/2 cup)
 - Nuts: Almonds, Pumpkin Seeds, etc. (1 cup, optional)
 - Dried Fruit: Apricots, Unsweetened Cranberries, dates, etc. (1 cup, optional)
-- Spices: Ground Cinnamon, Ground Cloves, Ground Cardamom (2 teaspoons of each, optional)
+- Spices: Ground Cinnamon, Ground Cloves, Ground Cardamom (1 teaspoon of each)
 
 ## Directions
 
@@ -26,8 +26,7 @@
 9. Wait 15 minutes, take out of oven, stir, put back in oven (swap oven location of cookie sheets for even cooking)
 10. Wait 10 minutes, take out of oven, **do not stir** (helps form clumps), let it cool
 11. Coarsely chop Dried Fruit and mix in
-12. Store in sealed container
-13. Serve with yogurt, milk, fresh fruit, etc
+12. Serve with yogurt, milk, fresh fruit, etc
 
 ## Contribution
 

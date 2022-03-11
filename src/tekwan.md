@@ -1,17 +1,17 @@
 # Tekwan (Indonesia Cuisine)
 
+![Tekwan](tekwan.webp)
+
 Tekwan is a typical Indonesian dish made from a mixture of fish meat and tapioca, which is shaped into small balls, and served in shrimp sauce with a distinctive taste.
 
-- Cook time: 60 min
-- Servings: 4
+- 🍳 Cook time: 60 min
+- 🍽️ Servings: 4
 
 ## Ingredients
 
 - (250 gr) mackarel meet
 - (250 gr) tapioca flour
 - 1 pcs of egg
-- 2 tsp of salt
-- 2 tsp of pepper powder
 - 2,5 ltr water
 - 100 gr shrimp
 - 3 pcs of garlic

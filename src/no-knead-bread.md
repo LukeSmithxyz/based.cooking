@@ -19,7 +19,7 @@
  1. Mix the dry ingredients then add the hot water. It should come out as a firm dough.
  2. Leave the dough at room temperature for 12 hours.
     ![Before baking](pix/no-knead-bread-2.webp)
- 3. Preheat oven and pan to 450 F.
+ 3. Preheat oven and pan to 450 F (230 C).
  4. Bake for 30 minutes covered (e.g. aluminum foil), then 20 minutes uncovered.
 
 ## Contribution

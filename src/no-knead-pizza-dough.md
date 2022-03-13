@@ -9,10 +9,10 @@ Perfect for pan pizza in an 11 inch iron skillet.
 ## Ingredients
 
 - 200g flour
-- 2g instant yeast (dry)
-- 5g salt
-- 5g olive oil
-- 140g luke warm water
+- 2g (1/2 teaspoon) instant yeast (dry) 
+- 5g (1 teaspoon) salt
+- 5g (1 tablespoon) olive oil
+- 140g (1 cup + 2 tablespoons) luke warm water
 
 ## Directions
 

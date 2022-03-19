@@ -1,7 +1,7 @@
 # Chicken Tikka Masala
 
 - ⏲️ Prep time: 25 min
-- 🍳 Cook time: 4.25 hours
+- 🍳 Cook time: 4 hours
 - 🍽️ Servings: 8
 
 ## Ingredients

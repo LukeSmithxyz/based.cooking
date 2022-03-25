@@ -1,4 +1,4 @@
-### Frijol con puerco
+# Frijol con puerco
 
 - :alarm_clock: Prep time: 10 min
 - :alarm_clock: Cook time: 45 ~ 60 min

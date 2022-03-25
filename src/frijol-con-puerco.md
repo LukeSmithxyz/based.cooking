@@ -31,4 +31,4 @@
 ## Contribution
 - Bianca Purin - [Website](https://neur0rat.github.io), Monero: `83NpjqYrG3JHCcVJQq6kRf3HVNpmiEzjnPkyDzdswx5xacZk5ZFMLhe9wTotz1zouHgQahJ5GXJFGK4goMzSaP2KHtAYvTT`
 
-;tags: beans, mexican, yucatecan, pork
+;tags: beans mexican yucatecan pork

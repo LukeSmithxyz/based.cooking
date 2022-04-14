@@ -31,35 +31,14 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 
 ### Tags
 
-You can (and should) add tags at the end of your recipe. The syntax is:
-```
-;tags: tag1 tag2 tag3
-```
-
-The tag line should be a single line, at the end of the markdown file, preceded
-by a blank line.
-
-Add between 1 and 4 tags, **prioritize existing tags**. As a general guideline,
-add the country from which the recipe originates if the recipe is representative
-of said country, using the adjective form (eg. *mexican*, *italian*, etc). Tag
-the main ingredient if it's something slightly special.
-
-List of special, categorical tags to use if relevant:
-- `basic`: for basic recipes that aren't meant to be stand alone but are supposed
-  to be incorporated in another recipe.
-- `breakfast`
-- `dessert`
-- `quick`: for recipes that can be cooked in under ~20 minutes.
-- `side`: side dishes such as mash, fries, etc.
-- `snack`
-- `spread`
+Remember to add tags to your recipe, but try to use tags already used by other recipes.
 
 If your recipe contains no meat or dairy, include the `fasting` tag.
 If it includes dairy but no milk, incude the `cheesefare` tag.
 
 ### Images
 
-Images are stored in `data/pix`.
+Images are stored in `/pix`.
 
 Each recipe can have a title image at the top and perhaps
 several instructional images as absolutely necessary.
@@ -73,17 +52,6 @@ If you submit an image for say, `chicken-parmesan.md`, it should be added as `pi
 
 If you would like to add additional directional images,
 they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, etc.
-
-## About the site
-
-The front page, for now, will just be a list of recipes automatically generated
-from the content of `src`.
-As more articles are added, the site will be reorganized, categorized
-or will implement server-side scripting or searches.
-This is not necessary yet though.
-
-I don't really want images of recipes on the mainpage yet.
-I'll think about how best to do it to minimize bandwidth if possible.
 
 ## License
 

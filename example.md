@@ -1,4 +1,8 @@
-# This is the dish title
+---
+title: Dish Title
+tags: ['beef', 'soup', 'german']
+date: 2022-02-20
+---
 
 If necessary, provide a very brief description of the dish in one or two sentences.
 For most dishes, this will be unnecessary.
@@ -42,5 +46,3 @@ If you add a Bitcoin/Monero address, put it in "code" between \`'s, like below. 
 - Luke Smith - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
 - Billy Smith - btc: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w`
 - Sally Smith (photo credit) - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
-
-;tags: tag1 tag2 tag3 (see README for tag guidelines)

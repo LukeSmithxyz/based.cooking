@@ -22,7 +22,7 @@ This is a nice simple dish made up of five ingredients: panna, pomodori, parmigi
 
 ## Directions
 
-1. Start cooking the [pasta](pasta.html).
+1. Start cooking the [pasta](/pasta).
 2. Mix the cream with the purée and bring to a boil.
 3. Turn the heat down to medium and add the grated parmigiano.
 4. Let it cook on medium to low heat until the pasta are done.

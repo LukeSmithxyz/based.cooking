@@ -74,7 +74,7 @@ tags: ['italian', 'pasta', 'beef', 'pork', 'cheesefare']
 
 ### Cook the spaghetti
 
-17. [Cook the pasta](pasta.html) and optionally add 1/3 cup of pasta water to the sauce.
+17. [Cook the pasta](/pasta) and optionally add 1/3 cup of pasta water to the sauce.
 ### Serve
 
 18. Place a thin layer of sauce on a plate. Add pasta, sauce and meatballs.

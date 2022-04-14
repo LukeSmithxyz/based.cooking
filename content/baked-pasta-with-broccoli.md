@@ -14,9 +14,9 @@ tags: ['italian', 'pasta', 'broccoli', 'cheesefare']
 
 - 500g pasta
 - 500g broccoli
-- 4 eggs 
+- 4 eggs
 - 200g scamorza cheese
-- 400g béchamel 
+- 400g béchamel
 - sage (optional)
 - parmesan cheese (optional)
 
@@ -35,5 +35,5 @@ tags: ['italian', 'pasta', 'broccoli', 'cheesefare']
 
 ## Contribution
 
-Davide Costa - [website](davcloud.xyz),
+Davide Costa - [website](https://davcloud.xyz),
 Monero: `4BD4REH2QyC5dhb7W4hYUnD3poGgpg9TGVrn1iRcdkQzBrm44eAre1GcfvsPakPF1thy2CBcBqZmzCLRsU6gZftY1Bg23f9`

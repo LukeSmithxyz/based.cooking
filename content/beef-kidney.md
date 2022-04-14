@@ -1,7 +1,7 @@
 ---
 title: "Beef Kidney"
 date: 2021-06-05
-tags: ['kidney', 'beef']
+tags: ['beef']
 ---
 
 My wife's beef kidney recipe

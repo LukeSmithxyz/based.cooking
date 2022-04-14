@@ -10,7 +10,7 @@ High in nutrition, designed to be prepared and eaten communally.
 ## Ingredients
 
 - 150ml cooking oil
-- 1kg long grain [rice](rice.html)
+- 1kg long grain [rice](/rice)
 - 1.5kg meat (lamb or any other kind of meat)
 - 500g onions
 - 500g carrots

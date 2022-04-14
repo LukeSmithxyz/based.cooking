@@ -15,7 +15,7 @@ The recipe that started this very site.
 - bread crumbs
 - eggs
 - flour
-- [pasta sauce](pasta-sauce.html)
+- [pasta sauce](/pasta-sauce)
 
 ## Directions
 
@@ -29,7 +29,7 @@ The recipe that started this very site.
 8. Fry the bread crumb-coated chicken breasts in the oil. Add butter generously while frying to ensure frying oil does not evaporate.
 9. Move fried breasts to an oiled or buttered pan, add mozzarella and parmesan on them.
 10. Broil/cook the breasts only long enough for the cheese to melt.
-11. Serve the breasts with [pasta sauce](pasta-sauce.html) either above or below. This is often served with [pasta](pasta.html).
+11. Serve the breasts with [pasta sauce](/pasta-sauce) either above or below. This is often served with [pasta](/pasta).
 
 ## Note
 

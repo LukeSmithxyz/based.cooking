@@ -11,11 +11,11 @@ tags: ['indian', 'lunch', 'spicy']
 - 250g cubes paneer
 - 1 onion
 - 1 capsicum
-- 200ml tomato puree 
+- 200ml tomato puree
 - 1 tsp red chilli powder
 - 1 tsp turmeric powder
 - 1 tsp coriander powder
-- 1/2 tsp [garam masala](garam-masala.html) powder
+- 1/2 tsp [garam masala](/garam-masala) powder
 - 100ml thick yogurt
 - 1 tsp fenugreek powder
 - dry fenugreek leaves

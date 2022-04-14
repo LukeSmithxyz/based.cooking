@@ -19,7 +19,7 @@ Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greate
 
 ## Directions
 
-1. Heat a large skillet on medium-high heat, start [cooking the pasta](pasta.html).
+1. Heat a large skillet on medium-high heat, start [cooking the pasta](/pasta).
 2. Finely slice or mince the garlic and finely chop the parsley.
 3. Add the oil and garlic to the skillet and gently cook it until it's lightly golden brown.
 4. Add the red pepper flakes to the skillet and turn down the heat to let its flavor infuse the oil.

@@ -14,7 +14,7 @@ different toppings are possible.
 * 200g (7 oz) butter
 * 1 tablespoon 18% sour cream
 * 2 egg yolks
-* topping: for example [orange jam](orange-jam.html) from 4 oranges
+* topping: for example [orange jam](/orange-jam) from 4 oranges
 * optional additional toppings/decorations:
     * walnuts
     * pecans

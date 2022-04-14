@@ -13,8 +13,8 @@ Pan pizza gives a thick and crispy crust 🍕. For this recipe, start early with
 
 ## Ingredients
 
-- [no-knead pizza dough](no-knead-pizza-dough.html)
-- [pizza sauce](pizza-sauce.html)
+- [no-knead pizza dough](/no-knead-pizza-dough)
+- [pizza sauce](/pizza-sauce)
 - cheese
 - olive oil
 - pepperoni (optional)
@@ -26,12 +26,12 @@ Pan pizza gives a thick and crispy crust 🍕. For this recipe, start early with
 
 1. Preheat oven to max temp.
 2. Add olive oil to the bottom of an iron skillet. The whole bottom and sides should be coated.
-3. Add some oil to hands and shape dough into a ball. 
+3. Add some oil to hands and shape dough into a ball.
 4. Place ball to the center of the pan and press it down gently. It will not cover the whole bottom yet.
 5. Cover the skillet and let the dough rest for minimum 30 min.
 6. Press the dough to cover the whole bottom of the skillet.
 7. Add pizza sauce, cheese, and whatever you like on your pizza
-8. Put in the middle of the oven, and cook for 15-20 minutes. 
+8. Put in the middle of the oven, and cook for 15-20 minutes.
 
 ## Contribution
 

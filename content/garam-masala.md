@@ -21,7 +21,7 @@ A spice mixture for most Indian dishes
 
 ## Directions
 
-1. Star anise and Mace are normally not added to Garam masala. They are added specially if someone is making [Biriyani](lamb-biriyani.html).
+1. Star anise and Mace are normally not added to Garam masala. They are added specially if someone is making [Biriyani](/lamb-biriyani).
 2. Cloves will make the masala really hot. So make sure to add only as much as you want to eat.
 3. Too much Mace makes the masala quite bitter. So make sure you do not add more than what has been recommended. The amount of other spices can be changed according to taste.
 4. Wash all the dry spices really well.

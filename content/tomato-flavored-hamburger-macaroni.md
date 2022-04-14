@@ -1,7 +1,7 @@
 ---
 title: "Tomato Flavored Hamburger and Macaroni"
 date: 2021-03-14
-tags: ['beef', 'macaroni', 'supper']
+tags: ['beef', 'pasta', 'supper']
 ---
 
 ![Tomato Flavored Hamburger and Macaroni](/pix/tomato-flavored-hamburger-macaroni.webp)
@@ -41,7 +41,7 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 4. Add all of the seasoning.
 5. Keep cooking until all of the hamburger is brown.
 6. Once done, find a place to put the pot and keep it warm while you cook the macaroni.
-7. Cook the macaroni according to [this pasta recipe](pasta.html).
+7. Cook the macaroni according to [this pasta recipe](/pasta).
 8. Dump either the macaroni into the hamburger pot or vice versa, the order doesn't really matter.
 9. Throw in some cheese which should melt nicely. (optional)
 10. Pour in the cans of tomato soup.

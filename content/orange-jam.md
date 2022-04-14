@@ -4,7 +4,7 @@ date: 2021-04-06
 tags: ['jam', 'fruit', 'sweet', 'spread']
 ---
 
-This jam is a traditional topping for the Polish [mazurek](mazurek.html), but
+This jam is a traditional topping for the Polish [mazurek](/mazurek), but
 can be used as a generic sweet spread.
 
 ## Ingredients

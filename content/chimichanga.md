@@ -4,7 +4,7 @@ date: 2021-03-19
 tags: ['mexican', 'beef', 'basic']
 ---
 
-Essentially, just a fried burrito. Use whatever your favorite filling is. 
+Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 - ⏲️ Prep time: 120min
 - 🍳 Cook time: 30 min
@@ -12,7 +12,7 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 ## Ingredients
 
-- [taco-meat](taco-meat.html)
+- [taco-meat](/taco-meat)
 - 1 Onion
 - Diced Tomatoes
 - 1 Bell Pepper
@@ -31,7 +31,7 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 ## Frying
 * My preferred method to frying is air frying, place into air fryer and set for about 10 minutes. Just as crunchy with practically no grease from oil
-* For oil frying, I've found using just a film of oil and flipping on to the sides works well with more time. 
+* For oil frying, I've found using just a film of oil and flipping on to the sides works well with more time.
 
 ## Contribution
 

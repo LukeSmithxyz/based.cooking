@@ -27,10 +27,10 @@ Easy and delicious italian dish. Spaghetti alla puttanesca entice you for the sa
 1. Wash capers from salt, then cut them
 2. Pit and crush Gaeta olives
 3. Wash and chop the bunch of parsley
-4. Start [cooking the pasta](pasta.html) until al dente.
+4. Start [cooking the pasta](/pasta) until al dente.
 5. Pour the oil, the peeled garlic cloves and the chopped dry chilli peppers into a large pan
 6. Add the anchovy fillets and capers
-7. Brown over medium heat for 5 minutes, stirring often, so the anchovies will melt 
+7. Brown over medium heat for 5 minutes, stirring often, so the anchovies will melt
 8. Now add peeled tomatoes "sugo"; mix it with a spoon and cook for another 10 minutes over medium heat
 9. When the sauce is ready, remove the garlic cloves
 10. Add crushed olives and chopped parsley

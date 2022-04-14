@@ -17,8 +17,8 @@ A nice recipe for amazing fully home-made lasagna.
 - Parmesan cheese
 - Emental cheese (optional)
 - Dry mozzarella cheese
-- [Fresh Bolognese sauce](bolognese-sauce.html) or about 1 litre worth of store-bought sauce
-- [Béchamel sauce](classic-bechamel-sauce.html) or [ricotta lasagna filling](ricotta-lasagna-filling.html)
+- [Fresh Bolognese sauce](/bolognese-sauce.) or about 1 litre worth of store-bought sauce
+- [Béchamel sauce](/classic-bechamel-sauce) or [ricotta lasagna filling](/ricotta-lasagna-filling)
 - Lasagna pasta sheets
 
 ## Directions

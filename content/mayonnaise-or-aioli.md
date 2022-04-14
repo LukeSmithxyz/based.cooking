@@ -1,7 +1,7 @@
 ---
 title: "Mayonnaise or aioli"
 date: 2021-04-06
-tags: ['sauce', 'basic', 'aioli']
+tags: ['sauce', 'basic']
 ---
 
 ![Aioli](/pix/mayonnaise-or-aioli.webp)

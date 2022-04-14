@@ -27,7 +27,7 @@ Easy to throw together and transport for the working fellow. High in protein!
 
 1. Preheat oven to 400F/200C.
 2. Dice chicken and pan cook with oil until fully cooked.
-3. [Cook the pasta](pasta.html) for a few minutes less than usual (about 7-8 minutes).
+3. [Cook the pasta](/pasta) for a few minutes less than usual (about 7-8 minutes).
 4. Add chicken and pasta into a casserole dish. Mix together. Add diced tomato and shredded mozzarella cheese and keep mixing. Top with parmesan cheese and bread crumbs for an even coat. Add about a spoonful of butter evenly on the top.
 5. Cook in the oven for 22-25 minutes, until the top looks golden.
 

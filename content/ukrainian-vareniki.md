@@ -2,6 +2,7 @@
 title: "Ukrainian Vareniki"
 date: 2021-04-06
 tags: ['ukrainian', 'dumpling', 'potato']
+author: vlad
 ---
 
 (Vareniki/Dumplings) Vareniki are popular all over the world, but abroad they have different names.
@@ -28,7 +29,3 @@ tags: ['ukrainian', 'dumpling', 'potato']
 3. Melt butter in a skillet over medium heat and cook onions until browned, 5 to 10 minutes. Add mushrooms and cook until browned, about 5 minutes. Add to mashed potatoes.
 4. Divide dough into 4 portions and roll each portion into a 1 1/2-inch thick rope. Cut ropes into small 1/2-inch pieces. Press each dough piece into a small flat circle and place 1 teaspoon of potato filling in the center. Fold dough over into a half-moon shape and seal edges.
 5. Bring a large pot of salted water to a gentle boil. Add the vareniki in batches and cook until they float to the surface, about 3 minutes. Cook for 2 to 3 minutes more. Remove with a slotted spoon and place in a colander to drain.
-
-## Contributors
-
-- [Vlad](https://github.com/VladPetryshyn)

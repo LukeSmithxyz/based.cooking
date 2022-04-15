@@ -2,6 +2,7 @@
 title: "Pâté Chinois (Quebec Style Shepherd’s Pie)"
 date: 2021-03-22
 tags: ['quebec', 'beef', 'pie', 'potato']
+author: julien
 ---
 
 ![pate chinois](/pix/pate-chinois.webp "Homemade pate chinois with to much ketchup")
@@ -19,7 +20,7 @@ This is the most traditional dish that every household eats in Quebec. As a kid,
 * 2 tbsp of butter
 * ½ cup milk
 * 1 tsp of  herbs de Provence or dried parsley
-* (optional) ½ cup of strong cheddar cheese, grated 
+* (optional) ½ cup of strong cheddar cheese, grated
 * Pinch of nutmeg
 * Paprika
 
@@ -54,7 +55,3 @@ add the cheese. Season with salt and pepper and set aside.
 - This recipe can be easily double and you can also freeze it for lunches.
 - If you like mushrooms, you can brown 1/2 cup of sliced mushrooms with the onions of the beef layer.
 - If you want to be wild, you can swap the corn layer with a mix of diced veges like black radishes, parsnips, carrots, turnips and/or cauliflower.
-
-## Contribution
-
-- Julien [contact](mailto:levesquej@protonmail.com)

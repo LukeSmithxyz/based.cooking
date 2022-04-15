@@ -4,7 +4,7 @@ date: 2021-04-06
 tags: ['quick', 'japanese']
 ---
 
-Okonomiyaki is a Japanese savory pancake.  Instead of using air bubbles to lighten the pancake, thin strips of cabbage provide levity to the cake.  This is a very popular street food in Japan, and can be topped with all sorts of different ingredients, as "Okonomiyaki" roughly translates to "Grilled how you like". 
+Okonomiyaki is a Japanese savory pancake.  Instead of using air bubbles to lighten the pancake, thin strips of cabbage provide levity to the cake.  This is a very popular street food in Japan, and can be topped with all sorts of different ingredients, as "Okonomiyaki" roughly translates to "Grilled how you like".
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 10 min
@@ -36,5 +36,3 @@ Okonomiyaki is a Japanese savory pancake.  Instead of using air bubbles to light
 5. Allow to cook for 2-3 minutes and either flip the pancake, or move under a broiler to cook the top for another 2-3 minutes.
 6. Move pancake to a serving plate meat side up and squirt tonkatsu sauce, mayonnaise, and sriracha over the top in a zig-zag pattern
 7. Sprinkle katsuobushi and nori on top of the sauces and the okonomiyaki is ready to serve.
-
-## Contribution

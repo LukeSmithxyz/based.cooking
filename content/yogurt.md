@@ -2,6 +2,7 @@
 title: "Yogurt"
 date: 2021-03-12
 tags: ['basic', 'breakfast', 'cheesefare']
+author: "italian boy"
 ---
 
 ## Ingredients
@@ -21,7 +22,3 @@ tags: ['basic', 'breakfast', 'cheesefare']
 - let the water out and pour the milk into the thermos
 - leave the thermos in the oven(or in any other place whithout air flow) for 12h
 - store in the fridge
-
-## Contribution
-
-- italian boy

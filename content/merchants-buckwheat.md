@@ -2,6 +2,7 @@
 title: "Merchant's Buckwheat"
 date: 2021-03-12
 tags: ['russian', 'pork']
+author: yaroslav-smirnov
 ---
 
 ![Merchant's Buckwheat](/pix/merchants-buckwheat.webp)
@@ -46,9 +47,3 @@ The ingredients below are for 2 hearty portions.
 9. Serve hot and enjoy!
 
 Originally published at [https://www.yaroslavps.com/food/merchants-buckwheat/](https://www.yaroslavps.com/food/merchants-buckwheat/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

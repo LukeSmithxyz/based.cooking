@@ -2,6 +2,7 @@
 title: "Stuffed Round Squash"
 date: 2021-03-13
 tags: ['supper', 'rice', 'vegetables', 'cheesefare', 'fasting']
+author: "Marco Fleres"
 ---
 
 ![](/pix/stuffed-round-squash-02.webp)
@@ -26,7 +27,3 @@ Round Squash, Zucchini, or Courguettes can be served as main dish (2 servings pe
 3. Place the squash halves facing down on a metal griddle in the oven. Add the rice to the vegetables, stir, and cook for 10 more minutes.
 4. Flip the squash, stuff them with cheese and the vegetables mixture, and put them again in the oven for 10 minutes at max heat.
 5. Serve.
-
-## Contribution
-
-- Marco Fleres

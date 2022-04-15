@@ -2,6 +2,7 @@
 title: "Paneer Tikka Masala"
 date: 2021-03-23
 tags: ['indian', 'lunch', 'spicy']
+author: arth-patel
 ---
 
 ![paneer tikka masala](/pix/paneer-tikka-masala-00.webp "Paneer Tikka Masala served with Naan bread")
@@ -38,7 +39,3 @@ tags: ['indian', 'lunch', 'spicy']
 ![paneer tikka masala](/pix/paneer-tikka-masala-02.webp "Marinated paneer, chopped onions, chopped tomatoes, and corn.")
 8. Now add the grilled paneer, some chopped vegetables of choice, corn and stir the mixture well.
 9. One the added water seems to be evaporated, and the mixture looks a little thicker, turn off the heat and garnish with lemon juice, fresh coriander. (It can be served with bread of any preference.)
-
-## Contribution
-
-Arth Patel - [Website](https://arthnpatel.com)

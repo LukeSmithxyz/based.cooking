@@ -2,6 +2,8 @@
 title: "Simple Chicken Curry"
 date: 2021-03-21
 tags: ['chicken', 'curry', 'stew']
+author: "lsma"
+
 ---
 
 An easy chicken curry recipe which scales very well (double it, triple it, etc.).  Best served with rice.
@@ -38,8 +40,3 @@ Main Ingredients
 4. Cut the chicken breasts into bite-sized cubes.
 5. Add the chicken and the spices.
 6. Once the pot reaches a boil, reduce heat and let simmer for 30 minutes.
-
-## Contribution
-
-- lsma
-- adapted from https://www.cookingclassy.com/chicken-curry/

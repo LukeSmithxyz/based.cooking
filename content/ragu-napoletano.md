@@ -2,6 +2,7 @@
 title: "Ragu Napoletano"
 date: 2021-05-13
 tags: ['tomato', 'sauce', 'italian', 'pork', 'veal']
+author: mfed3
 ---
 
 This recipe is known by Italian-Americans as "Sunday Gravy", which originated from the Southern Italian dish Ragu Napoletano. This is my variation of my family's version which was passed down 3 generations to me.
@@ -58,7 +59,3 @@ This recipe is known by Italian-Americans as "Sunday Gravy", which originated fr
 10. Cook on very low flame uncovered for 4-5 hours stirring making sure it doesn't burn
 11. Serve over cooked dry pasta such as ziti, penne, rigatoni
 12. Portion the sauce and meats and freeze in containers for up to 4-6 months
-
-## Contribution
-
-- mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`

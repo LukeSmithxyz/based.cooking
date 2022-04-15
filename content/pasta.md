@@ -2,6 +2,7 @@
 title: "Pasta (store bought)"
 date: 2021-03-10
 tags: ['italian', 'pasta', 'quick', 'basic', 'fasting']
+author: luke-smith
 ---
 
 This is a simple outline of how to cook pasta.
@@ -29,7 +30,3 @@ Pasta is usually eaten with some kind of [pasta sauce](/pasta-sauce) or used in 
 The often recommended way to cook most pasta is *al dente*, which often means "slightly undercooked," or with a subtle firmness that makes it still substantial.
 Cooking pasta more than that is no great crime,
 but if you keep it in there for *too* long, it'll become mush.
-
-## Contribution
-
-- Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)

@@ -2,6 +2,7 @@
 title: "Sticky Porkchops"
 date: 2021-03-12
 tags: ['japanese', 'pork', 'soup']
+author: jake-keast
 ---
 
 Simple chinese inspired sticky porkchops.
@@ -28,7 +29,3 @@ Simple chinese inspired sticky porkchops.
 5. Take the dish out of the fridge, flip the porkchops, then recover the dish and chill for a further 1h 30mins.
 6. Heat some olive oil (vegetable oil should be fine too) in a pan over medium heat, then place your porkchops in the pan and cook for 10-15mins or until cooked through.
 7. Take the porkchops out the pan, then rest for a couple of minutes before slicing and serving.
-
-## Contribution
-
-- Jake Keast - [website](https://jakekeast.xyz), xmr: `8BBKCQbL1xSKS8fWE257cVBzerYu1censWYUCncLppo6MPLd3u59ejYE9XMdW4CNL3DGgf1vjG5SHGDEJV95xtxW2wsaANo`

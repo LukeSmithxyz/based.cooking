@@ -2,6 +2,7 @@
 title: "Shepherd's Pie"
 date: 2021-03-30
 tags: ['english', 'lamb', 'pie']
+author: lázaro-blanc
 ---
 
 - ⏲️ Prep time: 50 - 60 min
@@ -29,7 +30,3 @@ tags: ['english', 'lamb', 'pie']
 2. Heat the oil in a pan and fry the minced meat until crumbly. Add the onions, carrots and peas. Add the tomato paste and beef stock. Stir well and season with paprika, pepper and salt.
 3. Drain potatoes and mash with butter. Add milk, season with nutmeg and stir until creamy.
 4. Preheat the oven to 200°C. Grease a casserole dish with butter, put the minced meat in it and spread the mashed potatoes on it with a piping bag. Put the dish in the oven for 30-40 minutes.
-
-## Contribution
-
-**Lázaro Blanc** - [Website](https://blnc.io) | [GitHub](https://github.com/lazaroblanc) | [LinkedIn](https://www.linkedin.com/in/lazaroblanc) | [Xing](https://www.xing.com/profile/Lazaro_Blanc)

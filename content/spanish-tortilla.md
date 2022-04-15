@@ -2,6 +2,7 @@
 title: "Spanish Tortilla"
 date: 2021-03-21
 tags: ['spanish', 'potato', 'eggs', 'tortilla']
+author: octopusonfire
 ---
 
 ![Spanish Tortilla](/pix/spanish-tortilla.webp)
@@ -24,7 +25,7 @@ tags: ['spanish', 'potato', 'eggs', 'tortilla']
 3. Put a nonstick frying pan on the fire and add enough olive oil to fry all the potato slices.
 4. Add the potato slices already salted and let them cook for approximately 20 minutes over low heat.
 5. While the potatoes are frying, beat the eggs in a bowl. Peel and cut the onion as finely as possible.
-6. Add olive oil in another frying pan and slowly fry the onion until it gets a slightly golden color. 
+6. Add olive oil in another frying pan and slowly fry the onion until it gets a slightly golden color.
 7. Drain the onion and add it to the bowl with the beaten egg.
 8. Remove the potatoes from the pan with a slotted spoon, draining the oil away as much as possible, and add them to the bowl with the onion and egg.
 9. Let the mixture rest for at least 5 minutes so all the flavors come together. Give it a very gentle stir from time to time.
@@ -34,7 +35,3 @@ tags: ['spanish', 'potato', 'eggs', 'tortilla']
 ## Notes
 
 * Things like the slicing of the potato, the amount of salt and how curdled is the inner part of the tortilla depend on your own taste. Don't be afraid to experiment!
-
-## Contribution
-
-OctopusOnFire - [Minds](https://www.minds.com/OctopusOnFire/)

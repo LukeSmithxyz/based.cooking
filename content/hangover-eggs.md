@@ -2,7 +2,7 @@
 title: "Hangover Eggs"
 date: 2021-03-12
 tags: ['eggs', 'snack', 'quick', 'cheesefare']
-author: dr.-cat
+author: dr-cat
 ---
 
 Whenever my friends back home would drink to excess, they'd wake up wanting something tasty. I made them what I call "Hangover Eggs". Whether

@@ -2,6 +2,7 @@
 title: "Marinated pork steaks "
 date: 2021-03-11
 tags: ['pork', 'steak']
+author: ricky-linden
 ---
 
 A tasty simple marinade that fits well with pork.
@@ -12,8 +13,8 @@ A tasty simple marinade that fits well with pork.
 
 ## Ingredients
 
-- 6 tablespoons olive oil 
-- ¼ cup soy sauce 
+- 6 tablespoons olive oil
+- ¼ cup soy sauce
 - ¼ cup of honey
 - Juice from 1 lime
 - 3 peeled cloves garlic
@@ -27,7 +28,3 @@ A tasty simple marinade that fits well with pork.
 5. Let the steaks rest for 10 minutes before serving.
 
 And just like that you got yourself some tasty pork steaks.
-
-## Contribution
-
-- Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)

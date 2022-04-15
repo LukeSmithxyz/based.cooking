@@ -2,6 +2,7 @@
 title: "Beef Stroganoff"
 date: 2021-03-10
 tags: ['american', 'beef']
+author: luke-smith
 ---
 
 This is American-style stroganoff.
@@ -30,7 +31,3 @@ This is American-style stroganoff.
 9. Make roux (by mixing a small amount of flour with either water or melted butter). Mix this into the beef and stock as it cooks to thicken it to the desired consistency.
 10. Add Worchestershire sauce and the dijon mustard to taste.
 11. Serve on a plate with a scoop of egg noodles covered with the beef sauce.
-
-## Contribution
-
-- Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)

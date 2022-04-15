@@ -2,6 +2,7 @@
 title: "Tuh'u"
 date: 2021-03-23
 tags: ['lamb', 'stew']
+author: holsterbau
 ---
 
 Tuh'u (Akkadian for possibly "beetroot") is an ancient Mesopotamian spring festival dish, a lamb stew of sorts, extracted by historians at
@@ -37,9 +38,3 @@ Yale Babylonian Collection from tablets from Babylonia, ca. 1740 BC.
 5. Mix garlic with leek and Egyptian leek, and add the mixture to the pot.
 6. Lower heat to medium and let simmer for 60 minutes, or until the beetroot and meat are cooked to your liking.
 7. Once the tuh'u has finished cooking, serve in a bowl. Sprinkle with coriander seeds. Garnish with chopped cilantro and chopped Egyptian leek.
-
-## Contribution
-
-- Tasting History with Max Miller - [website](https://www.youtube.com/channel/UCsaGKqPZnGp_7N80hcHySGQ),
-[video about recipe](https://www.youtube.com/watch?v=7IYYhoO-hiY)
-- Holsterbau - [website](https://github.com/Holsterbau)

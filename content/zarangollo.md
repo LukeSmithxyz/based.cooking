@@ -2,6 +2,7 @@
 title: "Zarangollo"
 date: 2021-03-22
 tags: ['spanish', 'mediterranean', 'side', 'quick']
+author: enrique95
 ---
 
 Simple veggie starter/side dish from Murcia (Southeastern Spain)
@@ -27,7 +28,3 @@ Simple veggie starter/side dish from Murcia (Southeastern Spain)
 6. (Optional) Turn off the heat and crack open an egg on top
 7. (Optional) Let the residual heat cook the egg. If it breaks just scramble it, the recipe doesn't call for anything fancy
 8. You can serve the dish with that oil (provided it is not burnt) or keep it for cooking other stuff
-
-## Contribution
-
-Enrique: [github](https://github.com/enrique95)

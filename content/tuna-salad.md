@@ -2,6 +2,8 @@
 title: "Simple Tuna Salad"
 date: 2021-03-15
 tags: ['quick', 'basic', 'tuna', 'fish']
+author: "scary90"
+
 ---
 
 ![Tuna Salad](/pix/tuna-salad.webp)
@@ -12,7 +14,7 @@ tags: ['quick', 'basic', 'tuna', 'fish']
 ## Ingredients
 
 - 1 (7 oz) can white tuna, drained
-- 6 tablespoons mayonnaise 
+- 6 tablespoons mayonnaise
 - 1 tablespoons sweet pickle relish
 - A pinch of garlic powder (optional)
 - 2 tablespoons white vinegar or lemon juice (optional)
@@ -24,8 +26,3 @@ tags: ['quick', 'basic', 'tuna', 'fish']
 1. In a medium bowl, stir together tuna, mayonnaise, and relish.
 2. Add optional ingredients like vinegar, cheese or hard-boiled eggs if wanted.
 3. Season with garlic powder, salt, and pepper if wanted.
-
-## Contribution
-
-- scary90
-- Tait Hoyem - [website](https://tait.tech)

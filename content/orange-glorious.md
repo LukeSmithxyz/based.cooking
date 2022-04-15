@@ -2,6 +2,7 @@
 title: "Orange Glorious"
 date: 2021-03-19
 tags: ['drink', 'sweet', 'breakfast']
+author: front3ndninja
 ---
 
 - ⏲️ Prep time: 5 min
@@ -20,7 +21,3 @@ tags: ['drink', 'sweet', 'breakfast']
 ## Directions
 
 1. In a blender, combine orange juice concentrate, milk, water, sugar and vanilla. Add ice cubes and blend until smooth. Pour into glasses and serve.
-
-## Contribution
-
-Front3ndNinja - [Website](https://github.com/Front3ndNinja)

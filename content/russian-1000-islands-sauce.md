@@ -21,7 +21,3 @@ A tasty sauce that goes well with salads or rice. Recipe taken from a Russian mo
 
 1. Put ingredients into bowl or cup.
 2. Mix together thoroughly.
-
-## Contribution
-
-- Anon

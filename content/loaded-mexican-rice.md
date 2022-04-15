@@ -2,6 +2,7 @@
 title: "Loaded Mexican Rice"
 date: 2021-03-21
 tags: ['rice', 'texmex']
+author: mr-mip
 ---
 
 A tex-mex style mexican rice with beans and meat. Adding the beans and meat take it from a side
@@ -29,8 +30,3 @@ dish to good good burrito filling. :x
 5. Strain and add the beans, corn, and peas; if you are adding meat and or onion do so now.
 6. Mix well, ensue peas and corn thaw.
 7. Serve hot as either a burrito or bowl with your choice of fillings/toppings.
-
-## Contribution
-
-[Github](https://github.com/MrMip),
-[Website](https://mrmip.dev)

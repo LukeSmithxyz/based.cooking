@@ -2,6 +2,7 @@
 title: "Quarkbällchen – Fried curd balls"
 date: 2021-04-15
 tags: ['german', 'fry', 'sweet', 'cheesefare']
+author: kirill-schmidt
 ---
 
 ![An image of my finished curd balls](/pix/quarkbaellchen.webp)
@@ -28,7 +29,3 @@ tags: ['german', 'fry', 'sweet', 'cheesefare']
 4. Once they are brown-ish, put them onto a plate
 5. (Optional) add icing sugar
 6. Enjoy!
-
-## Contribution
-
-- Kirill Schmidt - [EduGit](https://edugit.org/k1r1ll)

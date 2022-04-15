@@ -2,6 +2,7 @@
 title: "Stir Fried Chicken with an Orange Sauce"
 date: 2021-03-16
 tags: ['asian', 'chicken']
+author: jacob-smith
 ---
 
 I could have called this Orange Chicken but I feel like some people wouldn't classify my recipe that way.
@@ -26,7 +27,3 @@ I could have called this Orange Chicken but I feel like some people wouldn't cla
 5. Once your chicken is cooked pour your freshly squeezed orange juice into your pan, then pour in some soy sauce (you want your orange juice to soy sauce ratio to be about 3:1, use your best judgment on how much to pour in). Add honey (use as much as you want, I wouldn't use less than two tablespoons though) and stir. Turn the stove to medium-high.
 6. Let that sit for a few minutes to let the flavors get to know each other a bit, then stir in a few spoonfuls of flour to thicken the sauce.
 7. Once the sauce has reached your preferred level of thickness take it off the heat. Serve over rice.
-
-## Contribution
-
-- Jacob Smith - [website](https://jacobwsmith.xyz)

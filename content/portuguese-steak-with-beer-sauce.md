@@ -2,6 +2,7 @@
 title: "Bitoque - Portuguese Steak with Beer Sauce"
 date: 2021-03-10
 tags: ['portuguese', 'beef']
+author: artur-mancha
 ---
 
 Bitoque (pronounced bee-tok) is a traditional quintessential Portuguese dish, its name comes from being cooked in wood burning ovens in the oil mills. Good in combination with red wine, beer sauce that I am going to also provide the ingredients and directions on how to do, [rice](https://based.cooking/rice.html), french fries and a salad.
@@ -26,7 +27,3 @@ Bitoque (pronounced bee-tok) is a traditional quintessential Portuguese dish, it
 5. When the sauce is ready, place the reserved steaks again in the skillet for a few more minutes.
 6. Fry the eggs (use a non-stick frying pan that doesn't require any fat) and season the egg white with salt and the yolk with black pepper.
 7. Place the steaks with the sauce and the egg on top in clay bowls and serve with french fries, white rice and salad.
-
-## Contribution
-
-- Artur Mancha -- [Pleroma](https://pleroma.pt/@lisbonjoker)

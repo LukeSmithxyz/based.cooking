@@ -2,6 +2,7 @@
 title: "Tofu Stir Fry"
 date: 2021-03-23
 tags: ['tofu', 'fasting']
+author: kelvin-shadewing
 ---
 
 A vegetarian dish that is easy to make and very flavorful. Goes well with rice or noodles
@@ -36,7 +37,3 @@ Cooking time: ~10 to 20 minutes
 8. If non-vegan, scramble fry eggs in separate smaller pan until no longer runny, then add to stir fry.
 9. Once eggs are firm/brown to liking, add cabbage. Cabbage softens fast, so saving it for last lets it retain some crunch.
 10. Once cabbage softens, remove wok from heat. Serve on a plate with favorite sides.
-
-## Contributors
-
-- [Kelvin Shadewing](https://odysee.com/@KelvinShadewing:d)

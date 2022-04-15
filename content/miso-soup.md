@@ -2,6 +2,7 @@
 title: "Miso-soup"
 date: 2021-03-23
 tags: ['japanese', 'soup']
+author: yakatan
 ---
 
 Miso-soup is Japanese traditional home cooking.
@@ -22,7 +23,3 @@ Miso-soup is Japanese traditional home cooking.
 4. Melt the miso in the water and bring the water to a boil.
 6. serve into small bowls.
 7. if you use green onion, slice them and put in a small bowls.
-
-## Contribution
-
-- yakataN - [Github](https://github.com/yakataN)

@@ -1,7 +1,8 @@
 ---
 title: "Turkish Yogurt Soup"
 date: 2021-03-24
-tags: ['turkish', 'rice', 'soup', '']
+tags: ['turkish', 'rice', 'soup']
+author: digi
 ---
 
 - ⏲️ Prep time: 15 min
@@ -29,7 +30,3 @@ tags: ['turkish', 'rice', 'soup', '']
 9. for the sauce, simply melt the butter in a separate small pan and stir in the dried mint
 10. add sauteed dried mint to the soup and stir well
 11. serve warm
-
-## Contribution
-
-- digi - [sourcehut](https://git.sr.ht/~digi/)

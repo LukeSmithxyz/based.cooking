@@ -2,6 +2,7 @@
 title: "Sausage Rolls"
 date: 2021-03-22
 tags: ['pork', 'pastry']
+author: siggines
 ---
 
 - ⏲️ Prep time: 10 min
@@ -21,7 +22,3 @@ tags: ['pork', 'pastry']
 4. Prepare sausage meat onto pastry
 5. Fold pastry around the meat, apply extra egg whisk to the 'seal' where the pastry is folded together
 6. Bake until golden brown.
-
-## Contribution
-
-[Jacob Siggins](https://www.jacobsiggins.co.uk)

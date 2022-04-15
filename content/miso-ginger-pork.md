@@ -2,6 +2,7 @@
 title: "Miso Ginger Pork"
 date: 2021-03-11
 tags: ['japanese', 'pork']
+author: jon-paul-uritis
 ---
 
 ## Ingredients
@@ -33,7 +34,3 @@ tags: ['japanese', 'pork']
 13. add zucchini or bok choy, cook al dente
 14. serve pork & veggies over bed of rice, garnish with green onion
 15. (optional) add some spice! Sriracha or crushed red pepper are great.
-
-## Contribution
-
-- Jon Paul Uritis - [website](https://jonpauluritis.com), [donate](http://paypal.me/jppope)

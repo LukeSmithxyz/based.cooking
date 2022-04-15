@@ -2,6 +2,7 @@
 title: "Sourdough Table Loaf"
 date: 2021-03-21
 tags: ['bread', 'sourdough']
+author: "Quinn & Alison"
 ---
 
 ![Sourdough Table Loaf](/pix/sourdough-loaf.webp)
@@ -38,7 +39,3 @@ If you've never made your own sourdough bread, it can be intimidating! But I bel
 17. Bake covered/steamed for 15 minutes, then reduce oven temperature to 425 F. If using steam, remove the water pan now.
 18. Bake for another 25 - 30 minutes until crust is a rusty color and sounds hollow when tapped.
 19. Let bread cool completely before slicing. (if you can wait!)
-
-## Contribution
-
-- Quinn & Alison

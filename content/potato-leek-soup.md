@@ -2,6 +2,7 @@
 title: "Potato Leek Soup"
 date: 2021-03-18
 tags: ['potato', 'soup', 'vegetables', 'cheesefare']
+author: cactar
 ---
 
 - ⏲️ Prep time: 15 min
@@ -27,7 +28,3 @@ tags: ['potato', 'soup', 'vegetables', 'cheesefare']
 3. Add stock, bay leaf, pepper and optional ingredients now. Raise heat to medium-high, simmer until potatoes are tender.
 4. After removing the pot from the heat, remove the bay leaf and immersion blend pot until you reach a desired consistency.
 5. Stir in heavy cream and salt to taste.
-
-## Contribution
-
-- Cactar - [website](https://infinitevoid.dev/)

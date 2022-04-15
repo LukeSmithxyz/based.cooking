@@ -2,6 +2,7 @@
 title: "Pasta sauce"
 date: 2021-03-10
 tags: ['italian', 'basic', 'sauce', 'fasting']
+author: luke-smith
 ---
 
 This is very simple pasta sauce.
@@ -21,7 +22,3 @@ Unlike modern store-bought sauces, there is no added sugar, only the subtle tast
 3. Add San Marzano tomatoes, include the liquids from the can if possible.
 4. Simmer contents of the pan and crush the tomatoes on the pan with your instrument of choice.
 5. Additionally add desired herbs.
-
-## Contribution
-
-- Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)

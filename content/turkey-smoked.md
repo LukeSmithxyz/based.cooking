@@ -2,6 +2,7 @@
 title: "Smoked Turkey"
 date: 2021-03-30
 tags: ['basic', 'american', 'turkey']
+author: daddy-warcrimes
 ---
 
 Turkey, smoked on a charcoal grill
@@ -31,11 +32,7 @@ Turkey, smoked on a charcoal grill
 7. Cover the pan in foil.
 8. Ignite the charcoal grill; arrange the coals for indirect cooking. Try to maintain a temperature of 300-400°F.
 9. Place the turkey in pan on the grill and cook indirectly for 1 hour.
-10. Remove the foil, and continue cooking over indirect heat. 
+10. Remove the foil, and continue cooking over indirect heat.
 11. Periodically (every 15-30 minutes) baste the turkey with its own juices. If the bottom of the pan is dry, add chicken broth and reduce heat.
 12. Remove when the turkey reaches an internal temperature of 160°F in the breast.
 13. Allow to rest for 10 minutes before carving.
-
-## Contribution
-
-- Daddy Warcrimes - [website](https://daddywarcrimes.blogspot.com/), [donate](https://daddywarcrimes.blogspot.com/2018/05/why-im-asking-for-money.html)

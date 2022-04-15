@@ -2,6 +2,8 @@
 title: "Quesadilla"
 date: 2021-03-12
 tags: ['mexican', 'quick', 'cheesefare']
+author: "peebowo"
+
 ---
 
 ![brisket quesadilla](/pix/quesadilla.webp "Brisket and Bean Quesadilla with using Montery Jack Cheese")
@@ -14,10 +16,10 @@ A quick and easy low-prep meal, able to be taken anywhere.
 ## Ingredients
 
 - 1-2 tortillas. Any brand works, but you can decide if you want the tortilla folded in half, or 2 tortillas together.
-- ~4 small pinches of (Mozzarella, Oaxaca, or Montery Jack cheese). 
+- ~4 small pinches of (Mozzarella, Oaxaca, or Montery Jack cheese).
   - Most cheeses are fine, but the taste of oaxaca cheese is more authentic.
   - If you don't have pre-grated cheese, you can cut thin slices off of the block of cheese.
-- A thin coating of oil on the pan. It will be more traditional, but also more unhealthy. (Optional) 
+- A thin coating of oil on the pan. It will be more traditional, but also more unhealthy. (Optional)
 - Any ingredients you want. ie, veggies, chicken, mushrooms (cooked), or beans
 
 ## Directions
@@ -29,9 +31,4 @@ A quick and easy low-prep meal, able to be taken anywhere.
 4. Fold empty half of the tortilla in the pan onto itself if you are only using one tortilla.
    - If you are using 2 simply place the second on top of the first.
 5. Periodically flip the tortilla until both sides are golden brown.
-   - This may be hard if using 2 tortillas, so try your best or transfer it to a plate, flip it with your hands, and transfer it back to the pan. 
-
-## Contributors
-
-- peebowo
-- Zyansheep
+   - This may be hard if using 2 tortillas, so try your best or transfer it to a plate, flip it with your hands, and transfer it back to the pan.

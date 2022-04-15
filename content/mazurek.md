@@ -2,6 +2,7 @@
 title: "Mazurek"
 date: 2021-04-06
 tags: ['polish', 'easter', 'dessert']
+author: martin-chrzanowski
 ---
 
 Mazurek is a traditional Polish flat cake made in many homes for Easter. Many
@@ -34,7 +35,3 @@ different toppings are possible.
 7. Bake for 15-20 minutes in 200°C (395°F).
 8. Let cool before spreading topping.
 9. Decorate with nuts or other toppings.
-
-## Contribution
-
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)

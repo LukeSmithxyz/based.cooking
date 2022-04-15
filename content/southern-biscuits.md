@@ -2,6 +2,7 @@
 title: "Southern Biscuits"
 date: 2021-03-23
 tags: ['american', 'southern']
+author: "Ian S. Pringle"
 ---
 
 This is Southern (American) Style Biscuits.
@@ -28,7 +29,3 @@ This is Southern (American) Style Biscuits.
 9. Bake for 12 to 15 minutes
 10. Remove from oven and eat hot
 11. Will keep on counter or in a brisker
-
-## Contribution
-
-- Ian S. Pringle -- [website](https://0x44.pw)

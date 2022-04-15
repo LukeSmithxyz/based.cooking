@@ -2,6 +2,7 @@
 title: "Spicy Mayo"
 date: 2021-03-30
 tags: ['basic', 'sauce', 'japanese']
+author: "scary90"
 ---
 
 A simple sauce that is at almost every sushi bar in the United States.
@@ -23,7 +24,3 @@ A simple sauce that is at almost every sushi bar in the United States.
 ## Note
 
 This is just a basic guide, adapt this recipe to your liking.
-
-## Contribution
-
-- scary90

@@ -2,6 +2,7 @@
 title: "Rice"
 date: 2021-03-10
 tags: ['basic', 'rice', 'side', 'fasting']
+author: luke-smith
 ---
 
 Rice is easy to make in any pot.
@@ -29,7 +30,3 @@ For Mexican rice, you might want to avoid cooking in stock to avoid taste clashe
 
 6. Dice up some cilantro.
 7. Mix in cilantro to finished rice, along with some squeezes of lime juice.
-
-## Contribution
-
-- Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)

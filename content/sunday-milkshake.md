@@ -2,6 +2,7 @@
 title: "Sunday Morning Milkshake"
 date: 2021-03-12
 tags: ['sweet', 'breakfast', 'drink', 'cheesefare']
+author: yaroslav-smirnov
 ---
 
 ![Sunday Morning Milkshake](/pix/sunday-milkshake.webp)
@@ -35,9 +36,3 @@ this milkshake recipe. If you leave it sitting for more than 10-15 minutes it
 won't be so delicious anymore.
 
 Originally published at [https://www.yaroslavps.com/food/sunday-morning-milkshake/](https://www.yaroslavps.com/food/sunday-morning-milkshake/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/),
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

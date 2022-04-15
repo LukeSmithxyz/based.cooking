@@ -2,6 +2,7 @@
 title: "Party Mimosa"
 date: 2021-03-16
 tags: ['drink', 'sweet', 'breakfast']
+author: front3ndninja
 ---
 
 ## Ingredients
@@ -15,7 +16,3 @@ tags: ['drink', 'sweet', 'breakfast']
 ## Directions
 
 1. Stir together apricot nectar, pineapple juice, water, and orange juice concentrate in a large pitcher until combined. Pour in bottle of sparkling wine just before serving.
-
-## Contribution
-
-Front3ndNinja - [Website](https://github.com/Front3ndNinja)

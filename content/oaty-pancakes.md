@@ -2,6 +2,7 @@
 title: "Oaty Pancakes"
 date: 2021-03-13
 tags: ['breakfast', 'quick', 'sweet', 'pancake', 'cheesefare']
+author: "Puremana"
 ---
 
 - ⏲️ Prep time: 10 min
@@ -39,7 +40,3 @@ syrup over before serving.
 7. Serve Oaty pancakes for breakfast or brunch, with juice
 or coffee. Pour syrup over the pile of buttered pancakes
 and serve bacon or sausages alongside if you like.
-
-## Contribution
-
-Puremana

@@ -2,6 +2,7 @@
 title: "Tomato and Grilled Bell Pepper soup"
 date: 2021-03-15
 tags: ['soup', 'cheesefare']
+author: thijs-wester
 ---
 
 - 🍳 Cook time: 30 min
@@ -29,6 +30,3 @@ Can be prepared the night before and kept frozen for a week or two.
 3. Sauté onion and crushed garlic in a large soup pan with olive oil.
 4. Add broth/stock, tomatoes, bell paper and purée with a stick blender.
 5. Add spices, syrup and cream.
-
-## Contribution
-- Thijs Wester - [website](https://twester.tk)

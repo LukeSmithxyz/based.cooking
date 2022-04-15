@@ -2,6 +2,7 @@
 title: "Pan pizza"
 date: 2021-03-21
 tags: ['basic', 'pizza']
+author: brox
 ---
 
 ![Pan pizza](/pix/pan-pizza.webp)
@@ -32,7 +33,3 @@ Pan pizza gives a thick and crispy crust 🍕. For this recipe, start early with
 6. Press the dough to cover the whole bottom of the skillet.
 7. Add pizza sauce, cheese, and whatever you like on your pizza
 8. Put in the middle of the oven, and cook for 15-20 minutes.
-
-## Contribution
-
-- brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`

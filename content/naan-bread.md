@@ -2,6 +2,7 @@
 title: "Naan Bread"
 date: 2021-03-15
 tags: ['indian', 'bread', 'fasting']
+author: nihar-samantaray
 ---
 
 ![Naan Bread](/pix/naan-bread.webp)
@@ -30,7 +31,3 @@ A curry serves best with naan that is unleavened bread. Traditionally made in â€
 5. Divide dough into 4 equal pieces. Form pieces into balls. Roll out dough balls to desired thickness (about the size of a small tortilla).
 6. Now transfer the naan to the foiled baking tray and bake in preheated at 180 C for 30-35 minutes.
 7. After baking, brush the top with butter and cut it into four pieces and serve. Enjoy!
-
-## Contribution
-
-- Nihar Samantaray - [website](https://nihars.com), [contact](mailto:i@nihars.com)

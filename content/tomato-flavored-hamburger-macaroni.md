@@ -2,6 +2,7 @@
 title: "Tomato Flavored Hamburger and Macaroni"
 date: 2021-03-14
 tags: ['beef', 'pasta', 'supper']
+author: ryan-wilson
 ---
 
 ![Tomato Flavored Hamburger and Macaroni](/pix/tomato-flavored-hamburger-macaroni.webp)
@@ -46,7 +47,3 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 9. Throw in some cheese which should melt nicely. (optional)
 10. Pour in the cans of tomato soup.
 11. *Important* Stir everything together, make sure the hamburger gets evenly distributed in the macaroni. Make sure to stir right to the bottom so the sauce can reach there too.
-
-## Contribution
-
-- Ryan Wilson - [website](https://rdwilson.xyz), [donate](https://rdwilson.xyz/donate.html)

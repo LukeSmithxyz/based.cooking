@@ -2,6 +2,7 @@
 title: "Pizza Dough"
 date: 2021-03-11
 tags: ['basic', 'pizza', 'dough']
+author: "BeFe"
 ---
 
 Here is a simple pizza dough recipe. Basically you use a 2/1 ratio of
@@ -21,7 +22,3 @@ flour/liquid. If you use other flour like rye, you may need more liquid.
 1. Combine all the ingredients in a bowl and knead into a dough.
 2. Let it rest for about 30 minutes somewhere lukewarm
 3. Add some flour to a table and roll the dough out there.
-
-## Contribution
-
-BeFe

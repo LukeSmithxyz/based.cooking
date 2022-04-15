@@ -2,6 +2,7 @@
 title: "Roasted chicken breast"
 date: 2021-03-12
 tags: ['chicken', 'roast']
+author: michael
 ---
 
 How to roast chicken breast with a "leave-in" probe thermometer. The thermometer ensures the chicken comes out juicy and delicious.
@@ -23,7 +24,3 @@ How to roast chicken breast with a "leave-in" probe thermometer. The thermometer
 7. Bake until the internal temperature reaches 68°C / 155°F.
 8. Remove from the oven and immediately cover with foil leaving the probe inserted. Let the chicken sit for 10 minutes at room temperature. The chicken will continue to cook. It should reach at least 74°C / 165°F but if it doesn't, see [this reddit post](https://www.reddit.com/r/Cooking/comments/49opyx/cooking_chicken_to_temps_below_165_is_it_safe/) about food safety when cooking chicken to less than 165°F.
 9. Serve
-
-## Contribution
-
-- Michael - [website](https://murphym.dev/)

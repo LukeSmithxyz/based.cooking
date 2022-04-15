@@ -2,6 +2,7 @@
 title: "Stoemp"
 date: 2021-03-21
 tags: ['belgian', 'potato']
+author: alpo
 ---
 
 Mashed potatoes in Belgian style
@@ -27,7 +28,3 @@ Mashed potatoes in Belgian style
 4. Boil for 20-25 minutes potatoes and carrots in salted water.
 5. Drain vegetables and mash with a fork, so that the texture remains slightly chunky.
 6. Mix with bacon bits, butter, cream, nutmeg, salt, pepper.
-
-## Contribution
-
-https://github.com/alpo

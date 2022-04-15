@@ -2,6 +2,7 @@
 title: "Torrijas"
 date: 2021-03-30
 tags: ['spanish', 'dessert', 'quick', 'easter']
+author: danoloan
 ---
 
 ![Torrijas](/pix/torrijas.webp)
@@ -32,7 +33,3 @@ It is said they were first cooked using the leftovers from the Lent.
 6. Fry the soaked & coated bread with the heated oil.
 7. Optionally sprinkle some sugar onto the Torrijas.
 8. Enjoy when they are cooled down. Don't eat too much, it won't be easy resisting!
-
-## Contribution
-
-- **danoloan** - [webpage](https://danoloan.es)

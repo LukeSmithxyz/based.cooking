@@ -2,6 +2,7 @@
 title: "Pancake"
 date: 2021-03-11
 tags: ['quick', 'breakfast', 'sweet', 'pancake', 'cheesefare']
+author: "BeFe"
 ---
 
 ![Pancakes made at home](/pix/pancake.webp)
@@ -21,7 +22,3 @@ Here is a simple Pancake recipe
 2. preheat a pan and add some oil
 3. Pour or scoop the batter onto the pan
 4. Brown on both sides
-
-## Contribution
-
-BeFe

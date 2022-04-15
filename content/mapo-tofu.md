@@ -2,6 +2,7 @@
 title: "Mapo Tofu (麻婆豆腐)"
 date: 2021-05-13
 tags: ['chinese', 'pork', 'tofu']
+author: mfed3
 ---
 
 ![Mapo Tofu Over Rice](/pix/mapo-tofu-01.webp)
@@ -43,7 +44,3 @@ tags: ['chinese', 'pork', 'tofu']
 7. You'll know it's done when the tofu shows their trademark "pockmarks" and the seasoning sticks to them
 8. Mix in the crushed sichuan peppercorns and green parts of the scallions right before serving
 9. Serve over steamed rice
-
-## Contribution
-
-- mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`

@@ -3,6 +3,7 @@ title: "Spaghetti alla puttanesca"
 date: 2021-03-21
 tags: ['italian', 'pasta']
 ---
+author: postbellum
 Easy and delicious italian dish. Spaghetti alla puttanesca entice you for the savory sauce that surrounds them: peeled tomatoes, capers, "Gaeta" olives,  and anchovy fillets give these spaghetti a unique taste.
 
 - ⏲️Prep time: ~18 min
@@ -36,7 +37,3 @@ Easy and delicious italian dish. Spaghetti alla puttanesca entice you for the sa
 10. Add crushed olives and chopped parsley
 11. Drain spaghetti directly in the pan and sauté it for half a minute
 12. The dish is ready
-
-## Contribution
-
-- Postbellum [GitHub](https://github.com/postbellum)

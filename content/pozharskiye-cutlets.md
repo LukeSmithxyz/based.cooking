@@ -2,6 +2,7 @@
 title: "Pozharskiye Cutlets"
 date: 2021-03-19
 tags: ['russian', 'chicken']
+author: "Dick, with love from the Motherland."
 ---
 
 Famous Russian cutlet recipe, favoured by Nicholas I.
@@ -29,7 +30,3 @@ Despite what seems to be a massive amount of butter required, they're rather lig
 9. MAKE A TEST CUTLET by rolling up a small ball of the mince, then dipping it into the bread, then into the eggs, then into the bread again, compounding the breading slightly between dips. More dips means less leaked butter/juice, but don't overdo it lest you want more bread than meat in your cutlet.
 10. Fry, let cool and then taste the cutlet. (Pozharskiye are very juicy, so liquid in the pan is to be expected.)
 11. If unsatisfied, add more flavoring or throw everything away. If satisfied, repeat step 9. (Most cutlet sizes work well. Haven't tried making giant or tiny ones, though.)
-
-## Contribution
-
-Dick, with love from the Motherland.

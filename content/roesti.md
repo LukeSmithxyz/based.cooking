@@ -2,6 +2,7 @@
 title: "Rösti"
 date: 2021-03-12
 tags: ['swiss', 'potato', 'side', 'cheesefare']
+author: elias-pahls
 ---
 
 ![Rösti](/pix/roesti.webp)
@@ -37,8 +38,3 @@ Can be useful to get rid of leftover potatoes from the day before.
 10. When you're satisfied with the browning, flip the Rösti and set the heat to medium-low. A plate can be useful here to put on top of the Rösti in the pan.
 11. When the Rösti crispness is to your liking, remove from pan and fry two eggs. A runny yolk adds quite a bit to the potatoes.
 12. Top Rösti with eggs and serve with the peas or spinach.
-
-## Contributors
-
-- **Alexander Bocken** -- [contact](mailto:alexander@bocken.org)
-- **Elias Pahls** -- [contact](mailto:pahlse@pm.me)

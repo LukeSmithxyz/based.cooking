@@ -43,7 +43,3 @@ tags: ['sweet', 'dessert', 'cake', 'cheesefare']
 16. Meanwhile set oven for moderate 375°F (190°C).
 17. Bake 25 to 30 minutes.
 18. While warm spread with confectioners' sugar icing; sprinkle with chopped walnuts.
-
-## Contribution
-
-- Anonymous

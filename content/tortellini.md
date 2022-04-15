@@ -2,6 +2,7 @@
 title: "Tortellini"
 date: 2021-03-12
 tags: ['italian', 'pasta', 'quick', 'cheesefare']
+author: teo-dragovic
 ---
 
 ## Ingredients
@@ -23,7 +24,3 @@ tags: ['italian', 'pasta', 'quick', 'cheesefare']
 8. Turn off the heat and add 1 or 2 eggs.
 9. Mix in and let eggs cook using heat from the pot and tortellini.
 10. Serve on a plate. Add pepper, more salt if needed, and optionally, shredded cheese on top for extra creaminess.
-
-## Contribution
-
-- Teo Dragovic - [website](https://teodragovic.com)

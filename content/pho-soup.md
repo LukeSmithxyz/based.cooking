@@ -2,6 +2,7 @@
 title: "Pho Soup"
 date: 2021-03-23
 tags: ['vietnamese', 'beef']
+author: jon-burga
 ---
 
 ![Based Beef Pho](/pix/pho-soup.webp)
@@ -38,8 +39,3 @@ Vietnamese Pho Soup is a tea-like, beef based soup with a flavor profile that di
 5. Once the broth is done cooking, fish out the spices that you added at step 2. It's worth doing this rather than accidentally chewing on a bit of star anise, trust me.
 6. Cut up coriander and spring onions as garnish.
 7. Add rice noodles to bowl, followed by the broth and its contents, followed by the garnish. This can be made and eaten within 1 hour if you want it quickly, but typically with broths the longer you simmer the tastier it'll be.
-
-## Contribution
-
-- Jon Burga - [website](https://jonburga.com),
-[donate-btc]( `bc1qqsj592ls8xdhxpf5h4e8wj2w3v9uvv6mc6gz7f`)

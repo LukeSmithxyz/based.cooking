@@ -2,6 +2,7 @@
 title: "Salsa Verde"
 date: 2021-03-19
 tags: ['mexican', 'sauce']
+author: "Nathan"
 ---
 
 ## Ingredients
@@ -20,7 +21,3 @@ tags: ['mexican', 'sauce']
 3. Heat oil in a medium saucepan until hot but not smoking. Pour puree into the pan and cook, stirring occasionally, until thickened somewhat, about 6-8 minutes.
 
 Makes about 2 cups (475mL). Refrigerate leftovers
-
-## Contribution
-
-- Nathan

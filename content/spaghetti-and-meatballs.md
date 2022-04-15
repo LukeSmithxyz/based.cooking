@@ -2,6 +2,7 @@
 title: "Spaghetti and Meatballs"
 date: 2021-03-13
 tags: ['italian', 'pasta', 'beef', 'pork', 'cheesefare']
+author: closedgl
 ---
 
 - ⏲️Prep time: 20 min
@@ -78,7 +79,3 @@ tags: ['italian', 'pasta', 'beef', 'pork', 'cheesefare']
 ### Serve
 
 18. Place a thin layer of sauce on a plate. Add pasta, sauce and meatballs.
-
-## Contribution
-
-- ClosedGL - [GitHub](https://github.com/ClosedGL2)

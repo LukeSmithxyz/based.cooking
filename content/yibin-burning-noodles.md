@@ -2,6 +2,7 @@
 title: "Yibin Burning Noodles"
 date: 2021-04-15
 tags: ['noodles', 'asian', 'chinese', 'spicy']
+author: "ThePademelon"
 ---
 
 This is a dry noodle dish from the town of Yibin in Sichuan, China.
@@ -52,7 +53,3 @@ This is a dry noodle dish from the town of Yibin in Sichuan, China.
 2. Strain the noodles thoroughly.
 3. Add all the sauces and oils from the "Noodles" ingredients list.
 4. Top with the remaining ingredients.
-
-## Contribution
-
-- ThePademelon

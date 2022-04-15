@@ -36,7 +36,3 @@ tags: ['eggs', 'quick', 'cheesefare']
 
 * Add 1/2 cup grated sharp Cheddar Cheese just before folding in egg whites.
 * Before putting omelet in oven, sprinkle top with an additional 1/2 cup of grated cheese.
-
-## Contribution
-
-- Anonymous

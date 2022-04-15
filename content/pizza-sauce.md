@@ -2,6 +2,7 @@
 title: "Pizza sauce"
 date: 2021-03-21
 tags: ['basic', 'pizza', 'sauce']
+author: brox
 ---
 
 - ⏲️ Prep time: 10 min
@@ -9,7 +10,7 @@ tags: ['basic', 'pizza', 'sauce']
 
 ## Ingredients
 
-- 400g canned tomatoes, preferebly skinned and whole 
+- 400g canned tomatoes, preferebly skinned and whole
 - 150g tomato puré
 - 1 medium sized onion
 - olive oil
@@ -23,8 +24,4 @@ tags: ['basic', 'pizza', 'sauce']
 2. Add chopped garlic and chili pepper (optional) for some minutes.
 3. Mix in tomato puré, salt, pepper, and oregano. Cook until puré gets oily.
 4. Add canned tomatoes, and crush with spatula.
-5. Let it sit on low heat. The longer the better. 
-
-## Contribution
-
-- brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`
+5. Let it sit on low heat. The longer the better.

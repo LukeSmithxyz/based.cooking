@@ -2,6 +2,7 @@
 title: "Sourdough bread with seeds and grains"
 date: 2021-03-23
 tags: ['sourdough', 'bread']
+author: "SirStark"
 ---
 
 ![Sourdough bread with seeds and grains](/pix/sourdough-bread-with-seeds-and-grains.webp)
@@ -28,7 +29,7 @@ tags: ['sourdough', 'bread']
 - 20g sea salt
 - 2tsp bread spice
 - soaked seeds and grains
-  
+
 ## Directions
 
 ### Preparations (the day before)
@@ -40,14 +41,10 @@ tags: ['sourdough', 'bread']
 
 ### Bread
 
-1. Remove leftover water from the seeds and grains 
+1. Remove leftover water from the seeds and grains
 2. Stir all ingredients for the bread and knead them well.
 3. Let the dough rest for 5 hours in warm (25-30°C) conditions.
 4. Preheat the oven to 250°C.
 5. Bake for up to 20 minute with steam.
 6. Release the steam and turn the heat down to 150°C.
 7. Bake for another 50-60 minutes
-
-## Contribution
-
-- SirStark

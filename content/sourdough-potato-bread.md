@@ -2,6 +2,7 @@
 title: "Potato sourdough bread"
 date: 2021-03-23
 tags: ['sourdough', 'bread', 'potato']
+author: "SirStart"
 ---
 
 ![Potato sourdough bread](/pix/sourdough-potato-bread.webp)
@@ -28,7 +29,3 @@ tags: ['sourdough', 'bread', 'potato']
 6. Bake for up to 10 minute with steam.
 7. Release the steam and turn the heat down to 220°C.
 8. Bake for another 35 minutes
-
-## Contribution
-
-SirStart

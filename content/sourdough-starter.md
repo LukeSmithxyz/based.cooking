@@ -2,6 +2,7 @@
 title: "Sourdough starter"
 date: 2021-03-23
 tags: ['bread', 'sourdough', 'basic']
+author: "Vili Kangas"
 ---
 
 This recipe contains instructions for sourdough starter needed for all sourdough breads. The starter can be done with either wheat flour or rye flour for rye breads. Prefer organic flours as they contain most wild yeasts.
@@ -22,7 +23,3 @@ This recipe contains instructions for sourdough starter needed for all sourdough
 4. You can now use the starter for baking sourdough bread. Remember to not use all the starter at once and feed the remaining starter to always have it available.
 5. Storing the starter: store the starter in a closed container or jar in the fridge. The starter will survive almost indefinitely. After some time a vinegarish liquid forms on top of the starter. Don't be afraid of this, it is there to protect the starter from microbes. It can be poured away when you use the starter next time.
 6. When using the starter after long storage you need to activate it again. Feed it 1-2 times and see if bubbles form. You can also test the activity by placing small part into a glass of water. An active starter will float.
-
-## Contribution
-
-- Vili Kangas

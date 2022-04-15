@@ -2,6 +2,7 @@
 title: "Pilaf"
 date: 2021-03-17
 tags: ['uzbek', 'rice', 'lamb']
+author: "Roman Mirzayev"
 ---
 
 Popular central asian and middle eastern dish.
@@ -31,7 +32,3 @@ High in nutrition, designed to be prepared and eaten communally.
 9. 1 hour before it is ready(or when you can't see water above the rice), add the garlic.
 10. You can now turn over the rice if it is undercooked and add some raisins.
 11. Keep boiling until all water is evaporated.
-
-## Contribution
-
-- Roman Mirzayev

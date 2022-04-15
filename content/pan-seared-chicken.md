@@ -2,6 +2,7 @@
 title: "Pan-seared Chicken Fillet"
 date: 2021-03-12
 tags: ['chicken', 'fry']
+author: yaroslav-smirnov
 ---
 
 ![Juicy Pan-seared Chicken Fillet](/pix/pan-seared-chicken.webp)
@@ -36,9 +37,3 @@ it one time to get a sense of what the ideal proportions for you are.
 8. And that's it. Winner winner chicken dinner!
 
 Originally published at [https://www.yaroslavps.com/food/pan-seared-chicken-filet/](https://www.yaroslavps.com/food/pan-seared-chicken-filet/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

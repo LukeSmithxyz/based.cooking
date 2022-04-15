@@ -2,6 +2,7 @@
 title: "Shakshouka"
 date: 2021-03-29
 tags: ['breakfast', 'quick']
+author: jakub-korsak
 ---
 
 Shakshouka is a dish of eggs poached in a sauce of tomatoes, olive oil, peppers, onion and garlic, and commonly spiced with cumin, paprika, cayenne pepper, and nutmeg.
@@ -15,7 +16,7 @@ This recipe is a quick and simple version for a delicious breakfast.
 
 ## Ingredients
 
-- 5 small tomatoes 
+- 5 small tomatoes
 - 5 eggs
 - 1 peeled white onion
 - some chives
@@ -24,7 +25,7 @@ This recipe is a quick and simple version for a delicious breakfast.
 
 ## Directions
 
-1. Scald the tomatoes so they are easier to peel. 
+1. Scald the tomatoes so they are easier to peel.
 2. Peel the tomatoes and cut into cubes
 3. Chop the onion and glaze it on the frying pan with oil
 4. Add tomatoes
@@ -36,7 +37,3 @@ This recipe is a quick and simple version for a delicious breakfast.
 9. Cover the pan with a lid
 10. Cook until eggs are laid
 11. Add chives
-
-## Contribution
-
-- Jakub Korsak -[website](https://korsak.xyz), [donate](https://korsak.xyz/crypto)

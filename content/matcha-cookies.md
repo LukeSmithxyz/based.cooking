@@ -2,6 +2,7 @@
 title: "Matcha Cookies"
 date: 2021-03-11
 tags: ['snack', 'sweet', 'dessert', 'cheesefare']
+author: "Hamza Masood"
 ---
 
 Matcha is a type of tea leaf powder that has a beautiful vivid green color. However, it’s different from the “green tea” that you drink with Japanese meals. That’s green tea too, but matcha green tea leaves are grown and harvested differently. The leaves are grown under shade.
@@ -34,6 +35,3 @@ Matcha is a type of tea leaf powder that has a beautiful vivid green color. Howe
 * Preheat the oven beforehand. My oven is very hot, so raise the oven temperature a little bit higher if you have common oven.
 * If you bake too little, it will not be cooked. If you bake too long, it will become hard.
 * The white coverture chocolate melts smoothly in your mouth, and the white chocolate chip has a more chewy texture. So you can choose anything to your taste.
-
-## Contribution
-- Hamza Masood

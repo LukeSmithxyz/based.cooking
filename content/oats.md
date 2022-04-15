@@ -2,6 +2,7 @@
 title: "Oats"
 date: 2021-03-10
 tags: ['sweet', 'breakfast', 'quick', 'fasting']
+author: martin-chrzanowski
 ---
 
 Oats are great for breakfast. On their own they're pretty bland, but become
@@ -41,7 +42,3 @@ Pick and choose additional ingredients:
 You'll need less dry steel cut oats versus rolled oats for the same serving
 size. My personal "standard serving" is 1/3 cup steel cut or 1/2 cup rolled
 (note that, per the ratios above, both of these end up needing 1 cup water).
-
-## Contribution
-
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)

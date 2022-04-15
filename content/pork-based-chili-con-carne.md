@@ -2,6 +2,7 @@
 title: "Chilli con Carne"
 date: 2021-03-12
 tags: ['mexican', 'beans', 'pork']
+author: siggines
 ---
 
 Thinly minced and non-lean mince is preferred.
@@ -37,7 +38,3 @@ Mince should be broken up well before cooking.
 8. Add remainder of sauce
 9. Add wine
 10. Lower flame, cover pan, then maintain a gentle simmer for 20-40 min
-
-## Contribution
-
-[Jacob Siggins](https://www.jacobsiggins.co.uk)

@@ -2,6 +2,7 @@
 title: "Ravioli"
 date: 2021-05-13
 tags: ['pasta', 'italian']
+author: mfed3
 ---
 
 ![Ravioli](/pix/ravioli-01.webp)
@@ -57,7 +58,3 @@ tags: ['pasta', 'italian']
 23. To cook, throw them in salted boiling water and they will let you know when they're done when they float to the top (1-2 minutes)
 24. Serve the seafood version with a simple fresh red sauce and basil, or spice it up a bit and go with a base of red sauce with some added heavy cream, and a pinch of red pepper flakes to make a pink sauce for the seafood version
 ![Served Ravioli](/pix/ravioli-04.webp)
-
-## Contribution
-
-- mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`

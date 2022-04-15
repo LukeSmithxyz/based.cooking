@@ -2,6 +2,7 @@
 title: "Schinkenfleckerl überbacken, Viennese Mac'n'Cheese"
 date: 2021-03-21
 tags: ['austrian', 'ham', 'noodles']
+author: martin-stohanzl
 ---
 
 * ⏲️ Prep time: 25 min
@@ -37,7 +38,3 @@ Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 
 9. Optionally gratin mozzarella or any other cheese on top for 5-10 minutes.
 
 There you have it, an idiot-proof carb and protein bomber that should taste reasonably well. Besides browning the noodles this is really just throwing stuff into a baking pan. This is the kind of dish that tastes better the next day so it's ideal for making on a Sunday and eating for the next 3 or 4 days. Just reheat in oven or pan (add little water).
-
-## Contribution
-
-- Martin Stohanzl - [website](https://loesmartin.at), [youtube](https://www.youtube.com/channel/UCJkTyM5-fcVBkhi7DypoNsg)

@@ -2,6 +2,7 @@
 title: "Pasta Alla Norma"
 date: 2021-03-22
 tags: ['italian', 'pasta', 'fasting']
+author: james-kent
 ---
 
 A delicious Sicilian pasta dish, with Aubergines in a tomato sauce topped with fresh basil.
@@ -31,7 +32,3 @@ A delicious Sicilian pasta dish, with Aubergines in a tomato sauce topped with f
 5. [Cook the pasta](/pasta) according to packet instructions, once al dente, drain and retain some of the pasta water.
 6. Once cooked, add the aubergine to the pasta sauce and mix well. Then add the spaghetti to the aubergine and sauce mixture, making sure everything is evenly coated. Add some of the pasta water if required to loosen the sauce, then top with fresh basil.
 7. Check for seasoning, then serve immediately.
-
-## Contribution
-
-- James - [website](https://jameskent.xyz)

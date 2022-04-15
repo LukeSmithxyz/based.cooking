@@ -2,6 +2,7 @@
 title: "Lobster bisque"
 date: 2021-03-23
 tags: ['french', 'seafood', 'soup']
+author: yiusa
 ---
 
 Creamy french lobster soup perfect for the holidays, you can optionally replace the lobster with any other shellfish.
@@ -47,7 +48,3 @@ Creamy french lobster soup perfect for the holidays, you can optionally replace 
 13. Bring the strained soup back to a light boil and add the diced lobster pieces.
 14. Let the soup boil for 4 more minutes to heat up the lobster and serve, add pepper and salt to taste.
 15. Finish off in the plate with a bit of heavy cream.
-
-## Contribution
-
-- Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`

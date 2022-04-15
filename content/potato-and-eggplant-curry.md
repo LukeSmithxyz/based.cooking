@@ -2,6 +2,7 @@
 title: "Potato and Eggplant (Aubergine) Curry"
 date: 2021-03-11
 tags: ['indian', 'curry', 'potato', 'fasting']
+author: luke-chadwick
 ---
 
 A simple and tasty curry that is easy to customise.
@@ -38,7 +39,3 @@ A simple and tasty curry that is easy to customise.
 9. Remove the lid and cook for a further 5 minutes, or until reduced.
   - A nice optional addition at this point is paneer.
 10. Serve with the rice
-
-## Contribution
-
-- Luke Chadwick - [website](https://lukechadwick.com)

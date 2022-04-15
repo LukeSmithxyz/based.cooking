@@ -2,6 +2,7 @@
 title: "Mushroom Stroganov"
 date: 2021-05-13
 tags: ['russian', 'pasta', 'mushrooms']
+author: aayla-semyonova
 ---
 
 Prep time: 10 Minutes
@@ -34,7 +35,3 @@ Servings: 2
 8. Stir in Creme Fraiche.
 9. Add the strained pasta to the mushroom sauce and stir to coat the pasta completely.
 10. Serve immediately.
-
-## Contribution
-
-- Aayla Semyonova - [website](https://aayla.dev)

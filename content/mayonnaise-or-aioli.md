@@ -2,6 +2,7 @@
 title: "Mayonnaise or aioli"
 date: 2021-04-06
 tags: ['sauce', 'basic']
+author: brox
 ---
 
 ![Aioli](/pix/mayonnaise-or-aioli.webp)
@@ -27,7 +28,3 @@ Aioli is pretty much just mayonnaise with garlic, although traditional aioli onl
 3. Place hand blender at the very bottom. Don't start it yet.
 4. Use full power, and work your way upwards slowly until all the oil is mixed in.
 5. Feel free to taste and mix in extra spices and vinegar afterwards.
-
-## Contribution
-
-- brox - xmr: `8AaUvC4JPfTVgy66FLd8mVfsPwT7RXJuPK2xySoKnFEhDZPNafpgn6rh8VPBVauyNP17EQQ1HGhMCZdtUJNoD7xnVt1cSLo`

@@ -2,6 +2,7 @@
 title: "Quick Breakfast Spaghetti"
 date: 2021-03-13
 tags: ['breakfast', 'pasta']
+author: sadoon-albader
 ---
 
 A quick breakfast spaghetti recipe that covers a healthy amount of carbs, fat, and spices. Eggs
@@ -27,8 +28,3 @@ the spaghetti for time efficiency.
 8. Before placing it back on the stove, add and mix a generous amount of olive oil. Now's the time to add bacon or turkey if you are also using that.
 9. While stirring the spaghetti, add your tomato sauce or paste and keep mixing for a minute and avoid letting it stick to the boiler.
 10. Pour the spaghetti out in your favorite bowl and enjoy!
-
-## Contribution
-
-- Sadoon AlBader - [website](https://soulserv.xyz)
-- Tait hoyem - [website](https://tait.tech)

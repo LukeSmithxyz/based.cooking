@@ -2,6 +2,7 @@
 title: "Taco Meat"
 date: 2021-03-12
 tags: ['mexican', 'beef']
+author: elias-howell
 ---
 
 ## Ingredients
@@ -22,7 +23,3 @@ tags: ['mexican', 'beef']
 4. Heat this mixture thoroughly.
 5. Add more tomato sauce if the mixture is dry.
 6. Cover and simmer for 20 minutes, or less if the mixture begins to dry out.
-
-## Contribution
-
-- Elias Howell -- [website](https://snarf.top)

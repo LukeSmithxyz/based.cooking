@@ -2,6 +2,7 @@
 title: "Soleier (pickled eggs)"
 date: 2021-05-13
 tags: ['snack', 'german', 'eggs', 'pub']
+author: svent
 ---
 
 ![Soleier](/pix/soleier.webp)
@@ -41,7 +42,3 @@ Soleier are a german pub dish. They are typically enjoyed between two beers.
 1. Peel the egg and cut it in half.
 2. Remove the yolk and fill the egg with mustard, oil, salt and pepper.
 3. Place the yolk on top.
-
-## Contribution
-
-- SvenT[github](https://github.com/s8svtang)

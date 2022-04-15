@@ -2,6 +2,7 @@
 title: "Yorkshire Puddings"
 date: 2021-04-20
 tags: ['english', 'side']
+author: siggines
 ---
 
 ![Yorkshire Puddings](/pix/yorkshire-puddings.webp)
@@ -24,14 +25,10 @@ Puddings may be preserved in freezer for up to a month.
 
 1. Preheat oven to 230°C / gas mark 8.
 2. Drizzle oil into 24 'cupcake tin' slots. (The pans you make cupcakes in). Heat in oven.
-3. Pour flour into bowl. 
+3. Pour flour into bowl.
 4. Whisk eggs, add to bowl.
 5. Add milk to bowl in small amounts, beating/whisking after each addition. Until there are no lumps in the batter. You may season with salt & pepper.
 6. Tip batter into a jug so that you may pour into the cupcake pan slots evenly and carefully.
 7. Bake undisturbed ( opening oven will impede the rising ), until the puddings have puffed up and browned.
 
 Originally published at https://www.bbcgoodfood.com/recipes/best-yorkshire-puddings
-
-## Contribution
-
-- siggines - [website](http://jacobsiggins.co.uk)

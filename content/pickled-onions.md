@@ -2,6 +2,7 @@
 title: "Pickled Red Onions"
 date: 2021-03-16
 tags: ['quick', 'side', 'basic']
+author: aj
 ---
 
 A good way to use up older red onions and goes great with just about anything.
@@ -25,7 +26,3 @@ A good way to use up older red onions and goes great with just about anything.
 
 ## Notes
 - You can add other herbs or spices before sealing it to give different flavors as well. Use any of your standard pickling spices if desired.
-
-## Contribution
-
-- AJ XMR: `45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ`

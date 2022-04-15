@@ -2,6 +2,7 @@
 title: "Pasta Navy Style"
 date: 2021-03-12
 tags: ['russian', 'pasta', 'beef']
+author: yaroslav-smirnov
 ---
 
 ![Pasta Navy Style](/pix/pasta-navy-style.webp)
@@ -46,9 +47,3 @@ Here are the ingredients for about two hearty adult portions:
 11. Serve hot and enjoy!
 
 Originally published at [https://www.yaroslavps.com/food/navy-style-pasta/](https://www.yaroslavps.com/food/navy-style-pasta/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/),
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

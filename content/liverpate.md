@@ -2,6 +2,7 @@
 title: "Liver Pate"
 date: 2021-03-11
 tags: ['pate', 'liver']
+author: vod3
 ---
 
 Good start for trying to eat more organs.
@@ -26,7 +27,3 @@ The last step before eating it raw someday.
 ### Notes
 
 With beef liver, remove its membrane, that is on top, with your fingers. Cut it in small pieces even cubes or slices and remove the vessels that are inside it. They are not very tasty and are impossible to chew.
-
-## Contribution
-
-- vod3 btc: `3DdikYnxPHv6Bz6qgXYoyxrcbikADqxwNd`

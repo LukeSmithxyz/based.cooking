@@ -2,6 +2,7 @@
 title: "Spaghetti all'amatriciana"
 date: 2021-03-24
 tags: ['italian', 'pasta']
+author: "Jebusthebus"
 ---
 
 Ignore the fact that those in the photo are pennette and not spaghetti, that's all I had that day.
@@ -32,7 +33,3 @@ Ignore the fact that those in the photo are pennette and not spaghetti, that's a
 5. Start [cooking the pasta](/pasta).
 6. Lower the heat to medium and add the passata, some salt and plenty of pepper. Cook for about 15 minutes.
 7. Once finished, drain the pasta and add the sauce and the pecorino/parmesan, mix well and serve immediately. Optionally you can add some pecorino or parmesan on top.
-
-## Contribution
-
-- Jebusthebus

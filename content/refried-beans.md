@@ -2,6 +2,7 @@
 title: "Refried Beans"
 date: 2021-03-12
 tags: ['mexican', 'beans', 'fasting']
+author: yaroslav-smirnov
 ---
 
 ![Refried Beans](/pix/refried-beans.webp)
@@ -39,9 +40,3 @@ As usual, the ingredients here are for about two adult portions:
 7. Serve, and enjoy with some totopos.
 
 Originally published at [https://www.yaroslavps.com/food/refried-beans/](https://www.yaroslavps.com/food/refried-beans/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/),
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

@@ -2,6 +2,7 @@
 title: "Schnitzel"
 date: 2021-03-18
 tags: ['austrian', 'beef']
+author: "Tobias & Alexandra Grimm"
 ---
 
 ![schnitzel](/pix/schnitzel.webp)
@@ -30,7 +31,3 @@ Original Austrian breaded meat, pan-fried in butter.
 5. Melt the butter in a deep pan. (Attention: not too hot. Butter should not turn brown)
 6. Fry the veal on each side until it is gold brown. (e.g. 3 min on each side)
 7. Serve with a piece of lemon.
-
-## Contribution
-
-- Tobias & Alexandra Grimm

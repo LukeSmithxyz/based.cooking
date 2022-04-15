@@ -2,6 +2,7 @@
 title: "Zopf"
 date: 2021-03-15
 tags: ['swiss', 'bread', 'cheesefare']
+author: thijs-wester
 ---
 
 - ⏲️ Prep time: 30 min (plus one hour rising)
@@ -25,6 +26,3 @@ tags: ['swiss', 'bread', 'cheesefare']
 7. Braid the strips, place on a parchment lined baking sheet and brush down with a beaten egg.
 8. Bake for 30 minutes testing with a wooden skewer in the widest part when done. IF the skewer comes out clean, you are done, if not add 5 minutes and repeat.
 9. Wait for the bread to cool before cutting.
-
-## Contribution
-- Thijs Wester - [website](https://twester.tk)

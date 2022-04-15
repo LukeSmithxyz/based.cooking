@@ -2,6 +2,7 @@
 title: "Orange jam"
 date: 2021-04-06
 tags: ['jam', 'fruit', 'sweet', 'spread']
+author: martin-chrzanowski
 ---
 
 This jam is a traditional topping for the Polish [mazurek](/mazurek), but
@@ -24,7 +25,3 @@ can be used as a generic sweet spread.
    thicken as water evaporates. Note that it will thicken even further once it
    cools, so don't boil for too long - it is expected to be still a little runny
    at the end of boiling.
-
-## Contribution
-
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)

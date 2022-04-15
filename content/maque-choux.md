@@ -2,6 +2,7 @@
 title: "Maque Choux"
 date: 2021-03-12
 tags: ['american', 'corn', 'fasting']
+author: dr-cat
 ---
 
 An old cajun recipe for stewed corn & tomatoes. Enjoyable at any time of year, but I love to make it on hot summer afternoons as a side to
@@ -24,7 +25,3 @@ a sausage dish. Pairs well with brown ales.
 3. Pour mixture into a pot with hot grease in it at low heat.
 4. Cover pot and cook for 45 minutes, and stir as you get up for more beers.
 5. Serve. (Serves 4-6)
-
-## Contributors
-
-- **Dr. Cat** -- [website](https://github.com/castrated/)

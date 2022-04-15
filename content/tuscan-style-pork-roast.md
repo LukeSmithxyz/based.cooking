@@ -2,6 +2,7 @@
 title: "Tuscan Style Pork Roast"
 date: 2021-03-10
 tags: ['italian', 'pork', 'roast']
+author: tanner-wilcox
 ---
 
 ![tuscan-style-pork-roast](/pix/tuscan-style-pork-roast.webp)
@@ -44,6 +45,3 @@ Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) 
 
 ##### A note on ingredient snootiness
 I point out that ingredients need to be fresh, the olive oil high quality, the salt needs to be kosher, and the pepper freshly ground not because I'm some rich snob but because it actually matters. The olive oil is one of the main flavors in this dish and it will taste significantly worse if you cheap out. Herbs, especially rosemary, don't even taste the same when comparing dried to fresh.
-
-## Contribution
-- Tanner Wilcox – [gitlab](https://git.najer.info/twiclo), [donate](https://twil.cx/donate.txt)

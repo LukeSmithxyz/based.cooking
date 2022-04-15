@@ -2,6 +2,7 @@
 title: "Tiroler Gröstl"
 date: 2021-03-09
 tags: ['austrian', 'bacon', 'potato']
+author: peter-wilbrink
 ---
 
 - ⏲️  Prep time: 15 min
@@ -29,7 +30,3 @@ tags: ['austrian', 'bacon', 'potato']
 6. Add pork and bacon and bake until crispy.
 7. Add and stir the rest of the ingredients, except eggs.
 8. Fry the eggs separately and serve on top.
-
-## Contribution
-
- - Peter Wilbrink -- [printplaatreparatie.nl](https://printplaatreparatie.nl)

@@ -37,8 +37,3 @@ Reduce heat to very low and add mix to the pan.
 8. Remove herb sprigs and add pepper to taste.
 9. Meanwhile, boil large pot of salted water then cook and drain the [pasta](/pasta).
 10. Serve ragù over plate of pasta and top with grated parmesan cheese;
-
-## Contribution
-
-Support the [site](https://based.cooking/pix/bitcoin-based-cooking.webp).
-Luke's Vultr referral credits won't last forever...

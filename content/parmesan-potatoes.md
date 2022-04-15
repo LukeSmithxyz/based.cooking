@@ -2,6 +2,7 @@
 title: "Parmesan potatoes"
 date: 2021-03-12
 tags: ['potato', 'side']
+author: yaroslav-smirnov
 ---
 
 ![Parmesan potatoes](/pix/parmesan-potatoes.webp)
@@ -34,9 +35,3 @@ have it as a side dish this should be enough for two persons.
 6. Enjoy!
 
 Originally published at [https://www.yaroslavps.com/food/parmesan-potatoes/](https://www.yaroslavps.com/food/parmesan-potatoes/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

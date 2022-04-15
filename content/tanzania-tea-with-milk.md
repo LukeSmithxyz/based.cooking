@@ -2,6 +2,7 @@
 title: "Tanzanian Tea w/ Milk"
 date: 2021-04-20
 tags: ['drink', 'milk', 'quick']
+author: extramundane
 ---
 
 ![tea-n-milk](/pix/tanzania-tea-with-milk-01.webp)
@@ -29,7 +30,3 @@ the box lol)
 Be warned; typically black teas are very strong.
 2. When done seeping, add in the milk (or cream).
 3. Sweeten to taste. Remember you can always add more if there isn't enough.
-
-## Contribution
-
-- extramundane (Ex) - [website](https://extramundane.xyz), [donate](https://extramundane.xyz/donate.html)

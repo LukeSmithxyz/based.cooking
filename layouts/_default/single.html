@@ -17,8 +17,10 @@
 <li><img alt="XMR Logo" src="/pix/xmr.svg">Monero: <code style="overflow-wrap:break-word;font-size:xx-small">{{ $author.xmr }}</code></li>
 {{- end -}}
 {{- if $author.btc }}
-<li><img src="/pix/btc.svg" alt="BTC Logo">Bitcoin:
-<code>{{ $author.btc }}</code>
+<li><img src="/pix/btc.svg" alt="BTC Logo">Bitcoin: <code>{{ $author.btc }}</code></li>
+{{- end -}}
+{{- if $author.eth }}
+<li><img src="/pix/eth.svg" alt="ETH Logo">Ether: <code>{{ $author.eth }}</code></li>
 {{- end -}}
 {{- if $author.donate }}
 <li><a href="{{ $author.donate }}">Donate/Tip</a></li>

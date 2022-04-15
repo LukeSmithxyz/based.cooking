@@ -1,0 +1,18 @@
+        {{ if isset .Params "tags" }}
+            {{ $tagsLen := len .Params.tags }}
+            {{ if gt $tagsLen 0 }}
+        <div class=taglist>
+            See related:</br>
+                {{ range $k, $v := .Params.tags }}
+                {{ $url := printf "tags/%s" (. | urlize | lower) }}
+                <a href="{{ $url | absURL }}">{{ . }}</a>
+                {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+        {{ end }}
+    </main>
+    <footer><p><a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a></p>
+        <p><a href="/index.xml"><img src="/pix/rss.svg" style="max-height:.9em;display:inline" alt="RSS"> Subscribe via RSS for New Recipes</a></p></footer>
+</body>
+</html>

@@ -75,6 +75,14 @@ img[alt="XMR Logo"] {
 		text-decoration: none ;
 		color: black ;
 	}
+
+	footer,.taglist { display: none ; }
+
+	body {
+		margin: 0;
+	}
+
+
 }
 
 @media (min-width: 55em) {

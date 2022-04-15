@@ -5,6 +5,8 @@ tags: ['basic', 'snack', 'spread', 'fasting']
 author: jacob-smith
 ---
 
+![Hummus](/pix/hummus.webp)
+
 ## Ingredients
 
 - One can of garbanzo beans (chickpeas)

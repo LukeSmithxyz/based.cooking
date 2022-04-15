@@ -5,8 +5,17 @@ body {
 	margin: auto ;
 	padding: 0 16px ;
 	margin-bottom: 500px ;
-	font-family: sans-serif ;
+	scrollbar-color: gray #151515;
 }
+
+::-webkit-scrollbar {
+	width: .66vw;
+	background-color: #151515;
+}
+::-webkit-scrollbar-thumb {
+	background-color: gray;
+	border-radius: 5px;
+}font-family: sans-serif ;
 
 a {
 	color: lightblue ;

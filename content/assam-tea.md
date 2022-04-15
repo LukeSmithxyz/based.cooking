@@ -2,6 +2,7 @@
 title: "Assam Tea"
 date: 2021-03-21
 tags: ['drink', 'quick']
+author: chandra-kiran
 ---
 
 ![Assam Tea](/pix/assam-tea.webp)
@@ -25,7 +26,3 @@ This is a simple Assam tea recipe.
 2. Then add 2 teaspoons of tea into it and reduce the heat to low.
 3. Strain the tea using a tea filter into a cup.
 4. Add sugar and milk to taste.
-
-## Contribution
-
-- Chandra Kiran - [GitHub](https://github.com/ackr-8)

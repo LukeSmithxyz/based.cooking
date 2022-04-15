@@ -2,6 +2,7 @@
 title: "Slow-cooked Chicken Tacos"
 date: 2021-03-10
 tags: ['mexican', 'chicken', 'slowcooked']
+author: luke-smith
 ---
 
 ## Ingredients
@@ -26,7 +27,3 @@ tags: ['mexican', 'chicken', 'slowcooked']
 9. Shred chicken with forks once cooked. Optionally add a dash more seasoning for taste or appearance.
 10. Add chicken, cheese and all the diced ingredients to tortillas.
 11. Squeeze remainder of lime over finished product.
-
-## Contribution
-
-- Luke Smith -- [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)

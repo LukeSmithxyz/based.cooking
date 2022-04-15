@@ -2,6 +2,7 @@
 title: "French Toast"
 date: 2021-03-21
 tags: ['breakfast', 'french']
+author: ryan-wilson
 ---
 
 ![French Toast](/pix/french-toast.webp)
@@ -33,7 +34,3 @@ This recipe results in five slices of easy to make french toast.
 9. Cook both sides until golden brown, then plop onto a plate.
 10. Repeat steps 5 to 9 until you have cooked all of your bread.
 11. Drench french toast stack in Maple syrup (Optional)
-
-## Contribution
-
-- Ryan Wilson - [website](https://rdwilson.xyz), [donate](https://rdwilson.xyz/donate.html)

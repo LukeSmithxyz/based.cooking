@@ -2,6 +2,7 @@
 title: "Egg Roll in a Bowl"
 date: 2021-03-23
 tags: ['quick', 'asian', 'cabbage']
+author: the-birchmen
 ---
 
 Egg rolls, but, you know, in a bowl.
@@ -30,7 +31,3 @@ Egg rolls, but, you know, in a bowl.
 3. Add the onion and cook until translucent and the meat is nicely browned. Add in the garlic and ginger mixture and cook for approximately 1 minute or until fragrant ensuring not to burn the garlic.
 
 4. Add in the coleslaw mix and season with more soy sauce. Cook until the cabbage is just softened. Add 1/4 cup of hoisin sauce and stir to combine. Check seasoning and add salt to taste. Serve in a bowl with sweet chili sauce and green onions.
-
-## Contribution
-
-the-birchmen - BAT [GitHub](https://github.com/the-birchmen/)

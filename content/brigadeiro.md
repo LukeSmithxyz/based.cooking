@@ -22,9 +22,3 @@ A very traditional Brazilian dessert that is present in every Brazilian birthday
 
 ## Closing remarks
 Depending on how much brigadeiro you want to make, you'll have to add more or less of each ingredient, so be creative! Be careful with the chocolate powder, you definitely do not want to add too much of it!
-
-## Contribution
-
-- https://github.com/cabinetto
-- https://github.com/actuallyexeon
-- https://github.com/daniel-zimmer

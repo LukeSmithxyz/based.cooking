@@ -2,6 +2,7 @@
 title: "Hangover Eggs"
 date: 2021-03-12
 tags: ['eggs', 'snack', 'quick', 'cheesefare']
+author: dr.-cat
 ---
 
 Whenever my friends back home would drink to excess, they'd wake up wanting something tasty. I made them what I call "Hangover Eggs". Whether
@@ -34,7 +35,3 @@ suits your lifestyle.
 
 Ideally, you won't even need a fork! Simply use the bread to guide the eggs on top of each piece, break the yolk into the piece, and take a large
 bite.
-
-## Contributors
-
-- **Dr. Cat** -- [website](https://github.com/castrated)

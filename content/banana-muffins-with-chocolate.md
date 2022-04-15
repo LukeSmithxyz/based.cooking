@@ -2,6 +2,7 @@
 title: "Banana Muffins with Chocolate"
 date: 2021-03-12
 tags: ['dessert', 'sweet', 'snack', 'cake', 'fasting']
+author: lukasz-drukala
 ---
 
 ![banana-muffins](/pix/banana-muffins.webp)
@@ -29,7 +30,3 @@ tags: ['dessert', 'sweet', 'snack', 'cake', 'fasting']
 4. Pour the butter into the bananas, then add the flour, then the cooking powder, the chocolate, the whipped eggs and sugar, and the optional vanilla sugar; stirring it all the time.
 5. Pour the mass into your muffin dish.
 6. Heat up the oven to 160 °C / 320 °F and bake the muffins for around 20-30 minutes at 170 °C / 340 °F.
-
-## Contribution
-
-- Łukasz Drukała - [website](https://masflam.com), [donate](https://masflam.com/#donate)

@@ -2,6 +2,7 @@
 title: "Chorizo & Chickpea Soup"
 date: 2021-05-08
 tags: ['pork', 'soup', 'spanish', 'quick']
+author: siggines
 ---
 
 Recommend serving with corn bread.
@@ -24,9 +25,3 @@ Recommend serving with corn bread.
 1. Fry the sliced Chorizo in butter, along-with diced Ginger and Garlic. Add oil after a couple mins.
 2. Pour in Lemon-juice, Chickpeas, and Cumin & Paprika. Then 100ml of water.
 3. Allow to boil for 5 or so min. Add Parsley and then salt to taste.
-
-## Contribution
-
-Recipe modified from original published at: ( https://www.bbcgoodfood.com/recipes/chorizo-chickpea-stew )
-
-- Siggines - [website](http://jacobsiggins.co.uk)

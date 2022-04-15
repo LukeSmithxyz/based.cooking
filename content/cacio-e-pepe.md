@@ -2,6 +2,7 @@
 title: "Cacio e Pepe"
 date: 2021-03-11
 tags: ['italian', 'quick', 'pasta', 'cheesefare']
+author: siedes
 ---
 
 ![pepe](/pix/cacio-e-pepe.webp)
@@ -25,10 +26,3 @@ Cacio e Pepe (meaning cheese and pepper) is not only based but also incredibly s
 6. Prepare the Pecorino by putting half of it a bowl with a spoon of the pasta water you saved; continue mixing the cheese with the water until a cream is formed.
 7. When the pasta is almost cooked, add the cream and mix (you can add more water if the pasta is too dry).
 8. Serve on a plate with the Pecorino left before on top.
-
-## Contributors
-
-- Some guy called [siedes](https://github.com/siedes)
-- Batu Cam -- Added picture -- XMR: `85eZ4uVd4gkiCsQEeDnsQG9pUbDzdi1r1VSJ9hK5Sx7hKsFZjvmqtWV7gU1ysWUR32jhWutBRGUUq8VAJNUfin9wBCCuTdg`
-- [S0NN1](https://github.com/S0NN1) -- fixed the recipe based on the original italian one -- [website](https://nicolosonnino.it)
-- mathik

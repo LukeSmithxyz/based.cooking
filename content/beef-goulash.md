@@ -1,7 +1,8 @@
 ---
 title: "Beef Goulash"
 date: 2021-03-12
-tags: ['hungarian', 'beef', 'stew']
+tags: ['beef', 'stew']
+author: yaroslav-smirnov
 ---
 
 ![Beef Goulash](/pix/beef-goulash.webp)
@@ -50,10 +51,4 @@ Although it takes some time to make, it is actually quite easy to make, and it i
 9. Remove from stove, serve hot and enjoy with some beer or cider (or your
    favorite beverage).
 
-## Contribution
-
 Originally published at [https://www.yaroslavps.com/food/beef-goulash/](https://www.yaroslavps.com/food/beef-goulash/)
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

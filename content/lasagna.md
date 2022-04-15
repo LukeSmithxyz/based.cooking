@@ -2,6 +2,7 @@
 title: "Lasagna"
 date: 2021-03-21
 tags: ['italian', 'pasta']
+author: yiusa
 ---
 
 ![lasagna](/pix/lasagna.webp)
@@ -33,8 +34,3 @@ A nice recipe for amazing fully home-made lasagna.
 8. Grate some parmesan on top of your final layer and cover with Dry mozzarella cheese, wrap the top in aluminum foil.
 9. Place the tray in the centre of your pre-heated oven and let it cook for 30-35 minutes, after that remove the foil to let the top brown.
 10. Once it is done cooking take it out of the oven and cover again with aluminum foil, let it rest for 10 minutes before serving.
-
-## Contribution
-
-- Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
-- Josiah -- [website](https://himiko.cloud), [donate](https://himiko.cloud/donate/)

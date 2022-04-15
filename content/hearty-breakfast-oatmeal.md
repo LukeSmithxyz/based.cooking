@@ -1,7 +1,8 @@
 ---
 title: "Hearty Breakfast Oatmeal "
 date: 2021-03-29
-tags: ['breakfast', 'quick', '']
+tags: ['breakfast', 'quick']
+author: joel-farthing
 ---
 
 ![hearty-breakfast-oatmeal-00](/pix/hearty-breakfast-oatmeal-00.webp)
@@ -14,8 +15,8 @@ If your Oatmeal isn't Hearty Breakfast Oatmeal... Is it even Oatmeal?
 
 ## Ingredients
 
-- 1/2 cup Large Flake Oats (no partially cooked quick-oats allowed!) 
-- Almonds 
+- 1/2 cup Large Flake Oats (no partially cooked quick-oats allowed!)
+- Almonds
 - Pecans
 - 1 Tbsp Roasted Flax Seed
 - 1 Tbsp Hemp Hearts
@@ -23,7 +24,7 @@ If your Oatmeal isn't Hearty Breakfast Oatmeal... Is it even Oatmeal?
 - 1/2 Banana (mashed)
 - 1 cup Milk (3.25% if possible)
 - Cinnamon (adjust amount to preference)
-- 1 Egg 
+- 1 Egg
 - ON Vanilla Ice Cream Protein Powder (optional)
 
 ## Directions
@@ -33,8 +34,4 @@ If your Oatmeal isn't Hearty Breakfast Oatmeal... Is it even Oatmeal?
 ![hearty-breakfast-oatmeal-01](/pix/hearty-breakfast-oatmeal-01.webp)
 3. Add milk and cook mixture over medium heat until oats are desired tenderness (5-10 mins)
 4. Add egg and protein powder and cook for a few more minutes
-5. Enjoy 
-
-## Contribution
-
-- Joel Farthing - [GitHub](https://github.com/J-F-Far)
+5. Enjoy

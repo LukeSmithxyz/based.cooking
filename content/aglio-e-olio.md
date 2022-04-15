@@ -2,6 +2,7 @@
 title: "Spaghetti aglio e olio"
 date: 2021-03-21
 tags: ['italian', 'pasta']
+author: robert5800
 ---
 
 Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greatest pasta dishes of all time. It's quick, easy, and uses a lot of basic pantry ingredients which makes this a convenient weeknight meal.
@@ -26,7 +27,3 @@ Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greate
 5. When the pasta has finished cooking, drain it, and reserve at least around a cup of the cooking water.
 6. Now add the drained pasta with some of the cooking water to the skillet and toss vigorously. The starch in the pasta water will help the sauce emulsify and get it to the right consistency.
 7. At the very last second add the parsley, to preserve its freshness. Adjust the seasoning to taste if necessary.
-
-## Contribution
-
-- Robert [github](https://github.com/robert5800)

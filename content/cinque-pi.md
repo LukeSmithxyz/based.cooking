@@ -2,6 +2,7 @@
 title: "Cinque Pi"
 date: 2021-03-19
 tags: ['italian', 'pasta', 'quick']
+author: elias-pahls
 ---
 
 ![Cinque Pi](/pix/cinque-pi.webp)
@@ -29,7 +30,3 @@ This is a nice simple dish made up of five ingredients: panna, pomodori, parmigi
 5. Add chopped up parsley and pepper.
 6. You can either add the sauce to the pasta ore serve separately.
 7. Serve with some additional parmigiano and a leaf of parsley.
-
-## Contribution
-
-- **Elias Pahls** - [contact](mailto:pahlse@pm.me)

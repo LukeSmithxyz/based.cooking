@@ -2,6 +2,7 @@
 title: "Älplermagronen (Alpine macaroni)"
 date: 2021-03-11
 tags: ['swiss', 'pork', 'potato', 'pasta']
+author: alexander-bocken
 ---
 
 ![Älplermagronen](/pix/aelplermagronen.webp)
@@ -36,7 +37,3 @@ Feel free to vary these amounts, it's not like this is anything strict.
 9. A minute or two before the macaroni are done, add the shredded cheese into the pot. It should appear a bit too runny in the pot. While cooling it will increase in viscosity quite a bit. If the final texture is not creamy enough, it is most likely due to using the wrong cheese.
 10. Season to taste. (Needs quite a bit of salt). Nutmeg also works well here.
 11. Serve with apple sauce. Should be eaten together, not as a dessert.
-
-## Contributors
-
-- **Alexander Bocken** -- [contact](mailto:alexander@bocken.org)

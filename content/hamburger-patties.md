@@ -24,8 +24,3 @@ tags: ['american', 'quick', 'beef', 'sandwich']
 2.  Heat fat in skillet.
 3.  Brown patties on all sides; lower heat; cook to desired degree of
     doneness.
-
-## Contribution
-
-- Anonymous
-            

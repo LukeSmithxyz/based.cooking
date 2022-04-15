@@ -2,6 +2,7 @@
 title: "Japanese Noodle Soup"
 date: 2021-03-12
 tags: ['japanese', 'chicken', 'soup']
+author: jake-keast
 ---
 
 ![Japanese Noodle Soup](/pix/japanese-noodle-soup.webp)
@@ -42,7 +43,3 @@ This is a very easy and simple Japanese style ramen noodle soup. This is very ch
 7. Strain the stock into another pan, then reheat.
 8. Divide ramen between 4 bowls, then top with 1 sliced pork chop, 1/4 of the spinach (if applicable) sweetcorn, and one boiled egg (halved).
 9. Divide the stock into the bowls, then sprinkle over sesame seeds, shredded nori and the spring onion.
-
-## Contribution
-
-- Jake Keast - [website](https://jakekeast.xyz), xmr: `8BBKCQbL1xSKS8fWE257cVBzerYu1censWYUCncLppo6MPLd3u59ejYE9XMdW4CNL3DGgf1vjG5SHGDEJV95xtxW2wsaANo`

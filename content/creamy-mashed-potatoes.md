@@ -2,6 +2,7 @@
 title: "Creamy Mashed Potatoes"
 date: 2021-03-12
 tags: ['potato', 'side', 'cheesefare']
+author: yaroslav-smirnov
 ---
 
 ![Creamy Mashed Potatoes](/pix/creamy-mashed-potatoes.webp)
@@ -50,9 +51,3 @@ mashed potatoes to be.
 9. Serve and top with chopped green onions.
 
 Originally published at [https://www.yaroslavps.com/food/creamy-mashed-potatoes/](https://www.yaroslavps.com/food/creamy-mashed-potatoes/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/),
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

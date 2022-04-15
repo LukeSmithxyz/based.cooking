@@ -2,6 +2,7 @@
 title: "Banana Bread"
 date: 2021-03-11
 tags: ['bread', 'dessert', 'sweet', 'fasting']
+author: martin-chrzanowski
 ---
 
 Not too sweet. Great for when you have friends over for tea.
@@ -33,7 +34,3 @@ Not too sweet. Great for when you have friends over for tea.
 6. Pour into lightly buttered or oiled loaf pan.
 7. Bake for around an hour (it's definitely ready when a wooden skewer or
    chopstick poked inside comes out clean).
-
-## Contribution
-
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)

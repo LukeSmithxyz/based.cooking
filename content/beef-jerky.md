@@ -2,6 +2,7 @@
 title: "Beef Jerky"
 date: 2021-03-11
 tags: ['beef', 'snack']
+author: elias-howell
 ---
 
 Beef Jerky is ideal for road trips and camping, as it will not perish as readily as fresh meat.
@@ -31,7 +32,3 @@ This recipe for jerky is not heavily brined and flavored as commercial jerky is.
 ## Note
 
 Other meats may be substituted instead of beef, but use caution.
-
-## Contribution
-
-- Elias Howell -- [website](https://snarf.top)

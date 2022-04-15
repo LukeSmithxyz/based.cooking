@@ -2,6 +2,7 @@
 title: "Basic Meatballs"
 date: 2021-03-25
 tags: ['basic', 'italian', 'beef', 'pork']
+author: john-hubberts
 ---
 Hybrid beef/pork meatballs perfect for spaghetti and meatballs or a meatball sub.
 
@@ -38,7 +39,3 @@ Hybrid beef/pork meatballs perfect for spaghetti and meatballs or a meatball sub
     * You can skip this step and go straight the oven if you want to cut corners
 1. Transfer to the oven, and cook until the inside registers 60°C/140F on an instant read thermometer. This should be about 20 minutes for large meatballs (16 per batch), maybe 10 for small (48 per batch)
 1. Serve with pasta or on a meatball sub
-
-## Contribution
-
-- John Hubberts - [github](https://github.com/jhubberts)

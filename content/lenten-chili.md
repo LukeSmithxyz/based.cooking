@@ -2,6 +2,7 @@
 title: "Lenten Chili"
 date: 2021-03-18
 tags: ['fasting']
+author: yorge-z
 ---
 
 ![Lenten chili](/pix/lenten-chili.webp)
@@ -40,7 +41,3 @@ tags: ['fasting']
 7. Let cook for 20-30 minutes, stirring occasionally.
 
 Let cool for a few minutes and then serve in bowls.
-
-## Contribution
-
-- Yorge Z -- [github](https://github.com/yorgez)

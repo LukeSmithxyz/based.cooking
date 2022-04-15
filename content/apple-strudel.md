@@ -2,6 +2,7 @@
 title: "Apple strudel"
 date: 2021-03-22
 tags: ['dessert', 'breakfast']
+author: "Lorenzo Iuri"
 ---
 
 ![apple-strudel-1](/pix/apple-strudel-1.webp)
@@ -32,7 +33,3 @@ tags: ['dessert', 'breakfast']
 7. Roll the puff pastry edges over, overlapping them.
 8. Bake for around 40 minutes at 180°C (360° F).
 9. Cover with powdered sugar.
-
-## Contribution
-
-- Lorenzo Iuri

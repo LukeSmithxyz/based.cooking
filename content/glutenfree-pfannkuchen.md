@@ -2,6 +2,7 @@
 title: "Glutenfree Pfannkuchen (pancakes)"
 date: 2021-03-21
 tags: ['basic', 'sweet', 'breakfast', 'german', 'pancake']
+author: lxgr
 ---
 
 ![glutenfree pfannkuchen](/pix/glutenfree-pfannkuchen.webp)
@@ -31,7 +32,3 @@ A very easy recipe for glutenfree Pfannkuchen (german pancakes).
 
 - Syrup
 - Cinnamon and sugar
-
-## Contribution
-
-- Lxgr - [github](https://github.com/lxgr-linux)

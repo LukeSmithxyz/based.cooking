@@ -2,6 +2,7 @@
 title: "Fried Anglerfish fillet"
 date: 2021-03-12
 tags: ['fish', 'seafood']
+author: shou-ganai
 ---
 
 ![anglerfish](/pix/fried-anglerfish-fillet-00.webp)
@@ -34,7 +35,3 @@ This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically 
 10. Enjoy. This goes well with steamed vegetables. Or potatoes to soak up the butter.
 
 ![served](/pix/fried-anglerfish-fillet-01.webp)
-
-## Contribution
-
-Shou, [website](https://shouganai.xyz)

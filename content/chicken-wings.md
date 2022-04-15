@@ -2,6 +2,7 @@
 title: "Chicken Wings"
 date: 2021-03-10
 tags: ['chicken', 'american']
+author: kyle-steger
 ---
 
 Perfectly cooked fall off the bone buffalo wings.
@@ -23,7 +24,3 @@ Perfectly cooked fall off the bone buffalo wings.
 \* **Not** the "wing sauce" version
 
 † A pan might work, but I've only ever used a grill
-
-## Contributors
-
-- **Kyle Steger** -- [GitHub](https://github.com/kyleVsteger) -- _just some dude_

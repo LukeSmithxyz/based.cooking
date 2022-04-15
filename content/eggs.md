@@ -2,6 +2,7 @@
 title: "Eggs"
 date: 2021-03-10
 tags: ['eggs', 'basic', 'cheesefare']
+author: martin-chrzanowski
 ---
 
 Eggs are great. This page will contain all sorts of "basic" ways of having an
@@ -56,8 +57,3 @@ The more you scramble the less fluffy the egg will be.
 
 Scrambled eggs are easy to customize. E.g. start by frying any of: onions, bits
 of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
-
-## Contribution
-
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)
-- Deven Blake -- [website](http://www.trinity.moe)

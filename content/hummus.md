@@ -2,6 +2,7 @@
 title: "Hummus"
 date: 2021-03-13
 tags: ['basic', 'snack', 'spread', 'fasting']
+author: jacob-smith
 ---
 
 ## Ingredients
@@ -28,8 +29,3 @@ tags: ['basic', 'snack', 'spread', 'fasting']
 8. Continue to process the hummus on high for at least one minute longer, up to three minutes longer if it hasn't become smooth enough yet. You can make the hummus thinner at this point by slowly adding ice water a teaspoon at a time while processing on high. Taste the hummus at this point to determine if it needs more lemon juice or more salt for flavor.
 9. Transfer the hummus into a serving bowl and smooth out the surface with the back of a spoon, creating swirls or indentations for olive oil as desired. Top with additional olive oil and optionally finely chopped fresh parsley, more za'atar, or a sprinkling of sumac (a spice mixture) or dukkah (a seed mixture).
 10. Serve immediately or transfer to an airtight container and store in the refrigerator for up to one week.
-
-## Contribution
-
-- Jacob Smith - [website](https://jacobwsmith.xyz)
-- K Chesney (revision)

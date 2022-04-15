@@ -3,6 +3,7 @@ title: "Lebanese Lentil Soup"
 date: 2021-03-30
 tags: ['soup', 'mediterranean', 'lebanese']
 ---
+author: skipper-davies
 Lebanese-Style Lentil Soup with Swiss Chard and Lemon
 
 - ⏲️ Prep time: 10 min
@@ -30,7 +31,3 @@ Lebanese-Style Lentil Soup with Swiss Chard and Lemon
 5. Reduce heat to medium-low, cover the pot, and cook until the potatoes and lentils are completely cooked, about 12 minutes.
 6. Add the chopped cilantro. Stir and cook for about 5 minutes.
 7. Add lemon juice and cumin before serving.
-
-## Contribution
-
-- Skipper Davies [github](https://github.com/ferociousmadman)

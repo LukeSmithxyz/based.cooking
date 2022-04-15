@@ -2,6 +2,7 @@
 title: "Fondue"
 date: 2021-03-24
 tags: ['swiss', 'cheese']
+author: sekthor
 ---
 
 A swiss classic for cold winter dinners.
@@ -30,7 +31,3 @@ Traditionally cooked in a "Caquelon" pot and served on a candle heated stove, to
 4. Season with a bit of pepper and nutmeg.
 5. Serve right away.
 6. Stick bread squares on fondue fork one by one and stir them in the fondue.
-
-## Contribution
-
-- sekthor - [github](https://github.com/sekthor), [contact](mailto:sekthor@protonmail.ch)

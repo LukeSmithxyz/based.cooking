@@ -2,6 +2,7 @@
 title: "Asian Style Chicken with Sticky Sauce"
 date: 2021-03-23
 tags: ['asian', 'chicken']
+author: pazu
 ---
 
 Asian style crispy coated chicken with sweetish sauce recipe. Served with boiled rice.
@@ -42,7 +43,3 @@ Asian style crispy coated chicken with sweetish sauce recipe. Served with boiled
 8. Pour out excess oil, put the sauce in and mix to coat the chicken. Or place the chicken in a bowl with kitchen towels and do another batch.
 9. Let the sauce bubble for one or two minutes and you're done.
 10. Serve with boiled rice.
-
-## Contribution
-
-- pazu - xmr: 48QiCovstDPbHtMR5DP8tp3fUgguVUcdUX2pjbh6utt88fMe5h233ZnY7PxxdQYCjrVuCBQA2D8JBYU7rH2MdVDHFKd7QJi - btc: 17FWEWrKuock7eeZY3DTne7LgES1uKYZK5

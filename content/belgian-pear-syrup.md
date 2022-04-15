@@ -2,6 +2,7 @@
 title: "Belgian pear syrup"
 date: 2021-03-21
 tags: ['syrup', 'fruit', 'belgian']
+author: yiusa
 ---
 
 A delicious syrup that can be eaten on bread and used in a multitude of recipes.
@@ -33,7 +34,3 @@ A delicious syrup that can be eaten on bread and used in a multitude of recipes.
 10. After two to two and a half hours, your syrup should be nearly done.
 11. At this point, it's up to you on how thick you want your syrup to be. A good way to test the viscosity is to drop a little bit on a cold plate or on your countertop to see how it is at room temperature.
 12. When you are happy with the viscosity, pour the syrup into your sterilized jars and immediately seal them.
-
-## Contribution
-
-- Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`

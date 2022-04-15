@@ -3,6 +3,7 @@ title: "Bloody Mary Mix"
 date: 2022-04-14
 date: 2021-03-19
 tags: ['drink', 'sweet', 'breakfast']
+author: front3ndninja
 ---
 
 - ⏲️ Prep time: 5 min
@@ -23,7 +24,3 @@ tags: ['drink', 'sweet', 'breakfast']
 ## Directions
 
 1. In a large pitcher, combine juice cocktail, lemon juice and brown sugar. Season with Worcestershire sauce, horseradish, hot sauce and celery salt. Cover, and refrigerate 8 to 12 hours to allow flavors to meld.
-
-## Contribution
-
-Front3ndNinja - [Website](https://github.com/Front3ndNinja)

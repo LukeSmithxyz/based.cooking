@@ -2,6 +2,7 @@
 title: "Caesar Salad"
 date: 2021-03-11
 tags: ['italian', 'salad', 'cheesefare']
+author: "gucko"
 ---
 
 ![caesar_salad](/pix/csalad.webp)
@@ -22,7 +23,3 @@ Caesar Salad is an easy and delicious meal for lunch or dinner.
 3. Add croutons.
 4. Grate Parmesan over salad.
 5. Eat with hands.
-
-## Contributors
-
-- gucko

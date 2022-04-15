@@ -2,6 +2,7 @@
 title: "Carbonade Flamande (Traditional Flemish beef stew)"
 date: 2021-03-10
 tags: ['stew', 'beef']
+author: "1FJSSps89rEMtYm8Vvkp2uyTX9MFpZtcGy"
 ---
 
 This one is a delicious slow cooked beef stewed in beer.
@@ -39,7 +40,3 @@ The smoked bacon is not in the traditional recipe but it's good. Don't add it if
 9. Add salt.
 10. Let it simmer for 4 to 8 hours. Check on it regularly and add water if you feel like the sauce is too thick and you need to cook it longer.
 11. Serve with a nice mashed potato.
-
-## Contribution
-
-- anon btc: `1FJSSps89rEMtYm8Vvkp2uyTX9MFpZtcGy`

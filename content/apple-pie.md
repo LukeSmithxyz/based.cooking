@@ -1,7 +1,8 @@
 ---
 title: "Apple Pie"
 date: 2021-05-13
-tags: ['dessert', 'pie', 'sweet', 'apples']
+tags: ['dessert', 'pie', 'sweet']
+author: mfed3
 ---
 
 ![Apple Pie](/pix/apple-pie.webp)
@@ -54,7 +55,3 @@ tags: ['dessert', 'pie', 'sweet', 'apples']
 13. Optionally you can now brush on the egg wash to make the crust get a shiny golden brown color when it cooks
 14. Cut a few slits in the top crust with a knife to give it a nice design and allow for air to release
 15. Bake 45 minutes at 350°F or until the crust is brown to your liking and the apples are bubbling inside
-
-## Contribution
-
-- mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`

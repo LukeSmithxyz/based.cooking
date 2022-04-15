@@ -2,6 +2,7 @@
 title: "Chili Con Carne"
 date: 2021-03-11
 tags: ['mexican', 'beef', 'beans']
+author: aaron-taylor
 ---
 
 ## Ingredients
@@ -35,7 +36,3 @@ tags: ['mexican', 'beef', 'beans']
 6. Simmer for at least 45-60 minutes. Stir occasionally and add liquid if getting too dry.
 7. Stir in kidney beans and dark chocolate.
 8. Serve over rice and garnish with fresh cilantro.
-
-## Contribution
-
-- Aaron Taylor -- [website](https://atay.me)

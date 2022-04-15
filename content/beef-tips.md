@@ -2,6 +2,7 @@
 title: "Beef Tips in Gravy on Sour Cream Mashed Potatoes"
 date: 2021-03-11
 tags: ['american', 'beef', 'potato']
+author: batu-cam
 ---
 
 Tender chunks of meat in a rich brown gravy poured over sour cream mashed potatoes, made in a pressure cooker. This recipe is a modification of the [Texas Cafe Classics Sirloin Tips Recipe](https://youtu.be/91gAm1hBaT4) by Mark Rippetoe.
@@ -46,8 +47,3 @@ Tender chunks of meat in a rich brown gravy poured over sour cream mashed potato
 6. Add a very small amount of milk and stir (be conservative here, the sour cream will provide most of the softness of the mash)
 7. Begin adding sour cream and thoroughly mixing until the mash reaches your desired consistency
 8. Plate under your beef tips in gravy
-
-## Contributors
-
-- **Batu Cam** -- Transcribed recipe from Mark Rippetoe's video with moderate to significant modifications based on experience -- Monero (XMR) to help me save for an unazoomer cabin: `85eZ4uVd4gkiCsQEeDnsQG9pUbDzdi1r1VSJ9hK5Sx7hKsFZjvmqtWV7gU1ysWUR32jhWutBRGUUq8VAJNUfin9wBCCuTdg`
-- **Mark Rippetoe** -- Original recipe author, creator of starting strength, and pink nationalist -- [Website](https://startingstrength.com)

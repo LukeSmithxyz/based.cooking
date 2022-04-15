@@ -2,6 +2,7 @@
 title: "Lemon juice salad dressing"
 date: 2021-03-16
 tags: ['salad', 'basic', 'fasting']
+author: martin-chrzanowski
 ---
 
 A dressing that goes well on lettuce or any other mixed greens.
@@ -18,7 +19,3 @@ A dressing that goes well on lettuce or any other mixed greens.
 2. Add salt and pepper to taste.
 3. Add the garlic, pressed or finely minced.
 4. Mix well before adding to salad.
-
-## Contribution
-
-- Martin Chrzanowski -- [website](https://m-chrzan.xyz), [donate](https://m-chrzan.xyz/crypto.html)

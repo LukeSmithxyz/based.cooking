@@ -2,6 +2,7 @@
 title: "Garam Masala"
 date: 2021-04-02
 tags: ['indian', 'spice']
+author: chetan-basuray
 ---
 
 A spice mixture for most Indian dishes
@@ -30,9 +31,3 @@ A spice mixture for most Indian dishes
 7. Sieve the powder and add the larger pieces into the mixer once again and mix it again until everything turns into a fine powder. This step might need to be repeated a few times.
 8. The resulting mixture is garam masala. Store it in airtight glass jars.
 9. You can store this mixture for about 2/3 months in a cool dry place.
-
-## Contribution
-
-- Chetan Basuray
-    - [website](https://github.com/chetanbasuray)
-    - [donate](http://chetanbasuray.tk/)

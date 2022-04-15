@@ -2,6 +2,7 @@
 title: "Country Breakfast Skillet"
 date: 2021-03-12
 tags: ['american', 'breakfast', 'pork']
+author: yaroslav-smirnov
 ---
 
 ![Country Breakfast Skillet](/pix/country-skillet.webp)
@@ -63,9 +64,3 @@ have used, but seldom use.
 frying pan.
 
 Originally published at [https://www.yaroslavps.com/food/country-breakfast-skillet/](https://www.yaroslavps.com/food/country-breakfast-skillet/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/),
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

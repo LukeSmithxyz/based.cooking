@@ -2,6 +2,7 @@
 title: "Fresh Guacamole"
 date: 2021-03-12
 tags: ['mexican', 'spread', 'snack', 'fasting']
+author: yaroslav-smirnov
 ---
 
 ![Fresh Guacamole](/pix/guacamole.webp)
@@ -33,9 +34,3 @@ This recipe is best consumed fresh, since the avocado oxidizes pretty fast and
 might lose its appetizing color and texture in just some hours.
 
 Originally published at [https://www.yaroslavps.com/food/fresh-guacamole/](https://www.yaroslavps.com/food/fresh-guacamole/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/),
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

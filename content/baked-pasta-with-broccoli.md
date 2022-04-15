@@ -2,6 +2,7 @@
 title: "Baked pasta with broccoli, boiled eggs and scamorza cheese"
 date: 2021-04-15
 tags: ['italian', 'pasta', 'broccoli', 'cheesefare']
+author: davide-costa
 ---
 
 ![baked-pasta-with-broccoli](/pix/baked-pasta-with-broccoli.webp)
@@ -32,8 +33,3 @@ tags: ['italian', 'pasta', 'broccoli', 'cheesefare']
 8. Add sage leafs on top (optional).
 9. Put the pan inside the (preheated) oven at 180°C for 15~20 minutes.
 10. End with 5~10 minutes of cooking with the grill function.
-
-## Contribution
-
-Davide Costa - [website](https://davcloud.xyz),
-Monero: `4BD4REH2QyC5dhb7W4hYUnD3poGgpg9TGVrn1iRcdkQzBrm44eAre1GcfvsPakPF1thy2CBcBqZmzCLRsU6gZftY1Bg23f9`

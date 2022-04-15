@@ -2,6 +2,7 @@
 title: "Fried Potatoes"
 date: 2021-03-12
 tags: ['potato', 'quick', 'side', 'fasting']
+author: themisch
 ---
 
 ## Ingredients
@@ -16,6 +17,3 @@ tags: ['potato', 'quick', 'side', 'fasting']
 4. Put both the potatoes and the onions into the pan.
 5. Cook them until they're golden-brown.
 6. Enjoy
-
-## Contribution
-themisch - [website](http://k63fspwi7eekmjy7i3ofk425lseyftfrbikyjs5ndgrvzasxlh6hoiid.onion), [donate](http://k63fspwi7eekmjy7i3ofk425lseyftfrbikyjs5ndgrvzasxlh6hoiid.onion/donate.html)

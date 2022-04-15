@@ -2,6 +2,7 @@
 title: "Italian Bread"
 date: 2021-04-06
 tags: ['bread', 'italian', 'fasting']
+author: "km3000"
 ---
 
 - ⏲️ Prep time: 2.5 - 3.25 hr
@@ -27,7 +28,3 @@ tags: ['bread', 'italian', 'fasting']
 9. Score the loaves and place the baking sheet in the oven.
 10. Bake for 25-30 minutes.
 11. Let cool for 15 minutes before serving.
-
-## Contribution
-
-- km3000

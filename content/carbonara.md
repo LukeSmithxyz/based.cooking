@@ -2,6 +2,7 @@
 title: "Carbonara"
 date: 2021-03-11
 tags: ['italian', 'pasta', 'quick', 'cheesefare']
+author: "Peter Piontek, Ladislao Blanchi"
 ---
 
 ![carbonara](/pix/carbonara.webp)
@@ -31,7 +32,3 @@ This recipe assumes medium eggs.
 4. While everything is being cooked and fried, beat the eggs manually using a fork until everything is entirely liquid. Remember to watch the time.
 5. When your pasta is done (-1 minute), drain it and put it in the bowl with eggs. At this step you may consider the timing: if the pasta is too hot you will cook the eggs, and some people don't like it this way, so just wait for a minute. Keep moving and stirring to fully incorporate the eggs. Add guanciale and as many fats remaining in the pan as you want. Keep moving and stirring.
 6. Plate and optionally garnish with the preferred grated cheese and black pepper. Voila.
-
-## Contribution
-
-Peter Piontek, Ladislao Blanchi

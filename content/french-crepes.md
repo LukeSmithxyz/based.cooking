@@ -2,6 +2,7 @@
 title: "French Crêpes"
 date: 2021-03-14
 tags: ['french', 'dessert', 'breakfast', 'cheesefare']
+author: aeredren
 ---
 Like pancakes, but very thin.
 
@@ -28,7 +29,3 @@ Like pancakes, but very thin.
 - Wait for the pan to be hot before cooking the first crêpe.
 - Wait until the crêpe has dried up to flip it.
 - When pouring the dough, follow the pan rotation with the ladle to evenly spread a thin layer of it.
-
-### Contributor
-
-- Aeredren - [GitHub](https://github.com/Aeredren)

@@ -2,6 +2,7 @@
 title: "Beef Kidney"
 date: 2021-06-05
 tags: ['beef']
+author: philip-wittamore
 ---
 
 My wife's beef kidney recipe
@@ -32,7 +33,3 @@ My wife's beef kidney recipe
 8. simmer for 35 minutes
 9. add about 400g of toasted bread in pieces
 10. simmer for another 10 minutes
-
-## Contribution
-
-Philip Wittamore - [Website](https://wittamore.com)

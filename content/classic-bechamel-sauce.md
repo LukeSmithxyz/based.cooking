@@ -2,6 +2,7 @@
 title: "Classic béchamel sauce"
 date: 2021-03-21
 tags: ['basic', 'sauce', 'french', 'italian']
+author: yiusa
 ---
 
 Classic French sauce, base for a lot of dishes
@@ -27,7 +28,3 @@ Classic French sauce, base for a lot of dishes
 5. At this point you can add the rest of your milk, if you skip the previous step you will end up with lumps of roux that are hard to get out.
 6. Lower your heat to low and keep stiring don't forget to get in the corners of the pot because your sauce will burn easily.
 7. Once your sauce has the desired thickness give it a taste and add your salt and pepper until it is to your liking. A pinch of nutmeg, preferably freshly grated, will also go a long way.
-
-## Contribution
-
- -yiusa, eth: `0x68F1317c6512f0267fA711cafB6C134Ae968FA80`

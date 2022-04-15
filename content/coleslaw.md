@@ -2,6 +2,7 @@
 title: "Coleslaw"
 date: 2021-05-08
 tags: ['side', 'cabbage', 'southern', 'salad']
+author: declan-cash
 ---
 
 This is a coleslaw recipe that I got from a chili restaurant in my neighborhood that closed down a few years ago. This recipe makes more dressing than needed for the coleslaw, so you can save it or use it as a vegetable dip.
@@ -22,7 +23,7 @@ This is a coleslaw recipe that I got from a chili restaurant in my neighborhood 
 - 1 1/2 tsp kosher salt
 - 1 tsp ground black pepper
 - 1 tsp celery seeds
-- 1/2 tsp onion powder 
+- 1/2 tsp onion powder
 - 1/4 tsp granulated garlic
 - 1/4 tsp mustard powder
 - One large head of green cabbage
@@ -37,7 +38,3 @@ This is a coleslaw recipe that I got from a chili restaurant in my neighborhood 
 5. Combine the shredded cabbage and carrot in a separate bowl
 6. Slowly add the dressing until it lightly coats the vegetables, and toss well. Add more dressing until it tastes good
 7. Refrigerate for at least an hour before serving
-
-## Contribution
-
-- Declan Cash - [website](https://declancash.com)

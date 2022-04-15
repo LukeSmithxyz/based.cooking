@@ -2,6 +2,7 @@
 title: "Irish Coffee"
 date: 2021-03-19
 tags: ['drink', 'sweet', 'breakfast']
+author: front3ndninja
 ---
 
 - ⏲️ Prep time: 5 min
@@ -19,7 +20,3 @@ tags: ['drink', 'sweet', 'breakfast']
 ## Directions
 
 1. In a coffee mug, combine Irish cream and Irish whiskey. Fill mug with coffee. Top with a dab of whipped cream and a dash of nutmeg.
-
-## Contribution
-
-Front3ndNinja - [Website](https://github.com/Front3ndNinja)

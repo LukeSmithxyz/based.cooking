@@ -28,7 +28,3 @@ tags: ['salad', 'russian']
 3. Combine and mix all ingredients
 4. Add mayonnaise
 5. Chill before serving
-
-## Contribution
-
-Anonymous

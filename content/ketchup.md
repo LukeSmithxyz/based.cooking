@@ -29,7 +29,3 @@ tags: ['basic', 'sauce', 'fasting']
 6. Add spiced vinegar, sugar, salt, paprika, and cayenne pepper to tomato mixture.
 7. Boil rapidly, stirring constantly, about 10 minutes or until slightly thickened.
 8. Pour into hot, sterile jars, fill jars to top, and seal.
-
-## Contribution
-
-- Anonymous

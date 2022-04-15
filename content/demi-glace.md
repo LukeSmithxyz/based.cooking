@@ -2,6 +2,7 @@
 title: "Demi-glace"
 date: 2021-03-29
 tags: ['sauce', 'basic', 'french']
+author: dan
 ---
 
 This is a take on a traditional demi-glace without needing to buy an astronomically large amount of veal bones. Use this as your main base for pan sauces, an extra flavor bomb, or a replacement for recipes that call for broth or stock.
@@ -23,7 +24,3 @@ These are the basic proportions -- multiply as needed. I typically multiply by s
 3. Deglaze with the broth
 4. Stir in all other ingredients and boil over high heat until reduced to about 1/6th of its original volume
 5. Freeze in ice cub trays
-
-## Contribution
-
-Dan - ETH `0xC86468549c180A296384aAC2F76c8F581691Bc1b`

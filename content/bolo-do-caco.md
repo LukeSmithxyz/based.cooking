@@ -2,6 +2,7 @@
 title: "Bolo do Caco (Caco Bread)"
 date: 2021-03-23
 tags: ['bread', 'portuguese']
+author: joão-freitas
 ---
 
 _A traditional Madeiran-Portuguese Bread_
@@ -44,7 +45,3 @@ __Metric__
 12. Heat a dry pan over medium-high heat and cook the bolos do caco on both sides until a thin and slightly hard crust is formed. Turn them over very regularly.
 13. Then take each bolo do caco with tongs and turn them around on the hot pan to bake the sides.
 14. Serve warm or lukewarm with salted butter and parsley.
-
-## Contribution
-
-- João Freitas - [website](https://joaoofreitas.tech), [github](https://github.com/joaoofreitas)

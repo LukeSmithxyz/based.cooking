@@ -2,6 +2,7 @@
 title: "Bolinhos de Coco"
 date: 2021-03-16
 tags: ['portuguese', 'quick', 'sweet', 'dessert', 'cheesefare']
+author: "Mealwhiles"
 ---
 
 This is a Portuguese dish that translates to "coconut cupcakes," though there are probably lots of equivalent dishes from other cultures.
@@ -25,8 +26,3 @@ Its simplicity and short preparation time make it perfect for a snack or dessert
 3. Cook for around 10 minutes or until slightly brown on top.
 4. Top with powdered sugar if desired.
 5. Let cool and enjoy!
-
-## Contribution
-
-- A family recipe (not mine)
-- Submitted by Mealwhiles

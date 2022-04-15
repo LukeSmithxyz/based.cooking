@@ -2,6 +2,7 @@
 title: "Cheesy Pasta Bake"
 date: 2021-03-21
 tags: ['bacon', 'cheese', 'italian', 'pasta']
+author: techiedamien
 ---
 
 - ⏲️ Prep time: 15 min
@@ -32,7 +33,3 @@ tags: ['bacon', 'cheese', 'italian', 'pasta']
 11. If using bacon, fry it up and mix into the dish, making sure to include any fat that comes out of the bacon for extra flavour.
 12. Use the rest of the cheese to cover the top.
 13. Bake at gas mark 6 for about 30 minutes.
-
-## Contribution
-
-- TechieDamien - [website](https://techiedamien.xyz)

@@ -2,6 +2,7 @@
 title: "Chicken Tenders Airfried"
 date: 2021-05-08
 tags: ['chicken', 'fry']
+author: mental-outlaw
 ---
 
 - ⏲️ Prep time: 5 min
@@ -27,13 +28,3 @@ tags: ['chicken', 'fry']
 7. Place the tenders into your airfryer, do not layer them on top of each other.
 8. Set your airfryer to chicken mode and cook for 20 minutes at 360 degrees fahrenheit.
 9. Serve with honey mustard for maximum effect.
-
-## Contribution
-
-Original recipe by Mental Outlaw on Youtube and Odysee.
-Translated from video to text by Yoshiguy35.
-Any changes I made were to abide by rule #4.
-[original video](https://www.youtube.com/watch?v=PymSsu_LufA)
-
-- Mental Outlaw - [youtube](https://www.youtube.com/user/MentalOutlawStudios), xmr: `45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436`
-- Yoshiguy35 - [youtube](https://www.youtube.com/channel/UCWX13rdnpFNeMh7gOhexnlg), [website](https://www.yoshiguy35.com/)

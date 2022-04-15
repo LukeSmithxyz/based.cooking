@@ -2,6 +2,7 @@
 title: "Chocolate Chip Cookies "
 date: 2021-05-13
 tags: ['dessert', 'cookies', 'sweet', 'chocolate']
+author: mfed3
 ---
 
 ![Chocolate Chip Cookies](/pix/chocolate-chip-cookies.webp)
@@ -32,7 +33,3 @@ tags: ['dessert', 'cookies', 'sweet', 'chocolate']
 5. Use an ice cream scooper or spoon to make uniform balls of cookie dough to the size you like and evenly space them out on a parchment paper lined baking sheet (you may need more than one sheet depending on the size of the cookies)
 6. Bake in the oven one baking sheet at a time for around 8-10 minutes, taking them out when they start to brown
 7. Cool for a few minutes then put them on a cooling rack
-
-## Contribution
-
-- mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`

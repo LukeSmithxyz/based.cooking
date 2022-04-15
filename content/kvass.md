@@ -2,6 +2,7 @@
 title: "Kvass"
 date: 2021-03-21
 tags: ['drink', 'bread']
+author: holsterbau
 ---
 
 [Kvass](https://en.wikipedia.org/wiki/Kvass) is a Slavic fermented beverage which is both simple to make and rich in flavour.
@@ -34,7 +35,3 @@ by total volume at the end of the fermentation process.
 and let it ferment for a week, or until it stops bubbling.
 8. Remove all raisins and fruits from the jar.
 9. Squeeze lemon juice from lemons into the mixture. You may drink the now-complete kvass right away, or refrigerate it before drinking.
-
-## Contribution
-
-- Holsterbau - [website](https://github.com/Holsterbau)

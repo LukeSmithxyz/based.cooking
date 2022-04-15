@@ -2,6 +2,7 @@
 title: "Sopa de Lentejas"
 date: 2021-03-21
 tags: ['spanish']
+author: nacchofer31
 ---
 
 ![Lentejas](/pix/lentejas.webp)
@@ -33,7 +34,3 @@ Traditional-spanish dish. Typical spanish!
 3. Stir in the garlic, tomatoes, chorizo and bay leaf; cook about 4 minutes.
 4. Add lentils and water (water should be about an inch deeper than the level of the lentils).
 5. Bring to a boil over high heat. Reduce heat to low; simmer, uncovered, until lentils are just cooked, 15 to 20 minutes.
-
-## Contribution
-
-- [Ignacio Ferrer - Nacchofer31](https://github.com/Nacchofer31)

@@ -2,6 +2,7 @@
 title: "Brown Sauce"
 date: 2021-03-23
 tags: ['sauce']
+author: "Vili Kangas"
 ---
 
 A very basic sauce that can be used for various dishes.
@@ -27,7 +28,3 @@ A very basic sauce that can be used for various dishes.
 5. Let the sauce boil and thicken for few minutes
 6. Add the onions and ground some pepper in the sauce
 7. (optional) Add preferred meat to the sauce or use as is
-
-## Contribution
-
-- Vili Kangas

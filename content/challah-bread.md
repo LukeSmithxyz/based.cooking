@@ -2,6 +2,7 @@
 title: "Challah Bread"
 date: 2021-04-15
 tags: ['israeli', 'bread']
+author: siggines
 ---
 
 A kind of braided bread preparation.
@@ -18,7 +19,7 @@ NOTE: Prep time does not account for the 3-4 hours the dough must be left to ris
 - 1 tablespoon dry active baking yeast
 - 7 tablespoons honey
 - 1.5kg flour
-- 3 eggs 
+- 3 eggs
 - 1 tablespoon salt
 - 1 tablespoon poppy seeds
 - 4 tablespoons vegetable oil
@@ -37,7 +38,3 @@ NOTE: Prep time does not account for the 3-4 hours the dough must be left to ris
 10. Grease two baking trays or use baking paper, cover with dry cloth and let rise for one hour. Preheat oven to 190°C / Gas mark 5.
 11. Whisk an egg and brush onto each plait, sprinkle with seeds.
 12. Bake until bread has a hollow sound when tapped, cool on a rack for an hour before slicing.
-
-## Contribution
-
-- siggines - [website](http://jacobsiggins.co.uk)

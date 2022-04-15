@@ -2,6 +2,7 @@
 title: "French Onion Soup"
 date: 2021-03-23
 tags: ['french', 'soup']
+author: joe-powerhouse
 ---
 
 - ⏲️ Prep time: 30 min
@@ -32,8 +33,3 @@ tags: ['french', 'soup']
 3. Return the strained onions to med-high heat, uncovered, stirring and deglazing with chicken broth frequently but not so frequent that they turn to mush. When the entire can of chicken broth has been added for deglazing, add 3 finely chopped garlic cloves, 1/4 cup brown sugar, balsamic vinegar, Worcestershire sauce, soy sauce. Wait until the pot dries and a fond is formed in between adding each liquid ingredient slowly. Keep slowly deglazing with the wooden spoon and caramelizing those onions.
 4. After onions are thoroughly caramelized and there are no more liquid ingredients to add, pour in 64oz beef broth and 2-3 Bay leaves. Cover on medium heat until it simmers. It is now ready to serve!
 5. Put sliced (and onion-juice brushed) bread in 400F oven until toasted, then under the broiler covered in cheese until melted. Soup can be served poured over the bread slices or the bread floating on top.
-
-## Contribution
-
-- Joe Powerhouse
-- BTC:1KPxw9js2VukakhMv2wUUFUQZnHQL842ju

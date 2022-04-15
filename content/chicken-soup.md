@@ -2,6 +2,7 @@
 title: "Chicken Soup"
 date: 2021-03-16
 tags: ['chicken', 'soup']
+author: aj
 ---
 
 Hearty soup that is adaptable to customizing to your desired vegetables or other additions
@@ -26,7 +27,3 @@ Hearty soup that is adaptable to customizing to your desired vegetables or other
 3. Add in chicken and stock or broth and mix together well. Season with salt, pepper, hot sauce, whatever you desire
 4. Allow it to simmer on low heat for 2 hours mixing every so often.
 5. If adding noodles, add in pasta and allow pasta to cook until al dente.
-
-## Contribution
-
-- AJ XMR: `45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ`

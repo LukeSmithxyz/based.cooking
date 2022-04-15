@@ -32,7 +32,3 @@ This is a recipe for making Jordan's Country Crisp-like cereals.
 7. Bake the mixture in the 120°C oven until it becomes hard (in approximately 2 hours)
 8. Break the hardened mixture to obtain cereals.
 9. Add if you want some broken chocolate (or chocolate chips) in the cereals, or anything you want.
-
-## Contribution
-
-Recipe translated from french and tested by [Pr.Walter Bulbazor](https://prwalterbulbazor.868center.tech), from [this blog article](https://vegebon.wordpress.com/2010/07/27/country-crisp-au-chocolat-la-recette-maison/)

@@ -2,6 +2,7 @@
 title: "Hamburger Patties"
 date: 2021-03-19
 tags: ['american', 'quick', 'beef', 'basic']
+author: "James Hendrie"
 ---
 
 🍽️ Servings: 4 patties
@@ -18,7 +19,3 @@ tags: ['american', 'quick', 'beef', 'basic']
 2.	Place into a pan, pre-heated or otherwise, at medium/med-high temperature.
 3.  Add salt, pepper, and optional seasonings.
 4.	Cook until done, flipping occasionally to prevent burning.
-
-## Contribution
-
-- James Hendrie

@@ -1,7 +1,7 @@
 ---
 title: "Dianne's Southwestern Cornbread Salad"
 date: 2021-04-20
-tags: ['salad', 'mexican', 'southwest', '']
+tags: ['salad', 'mexican', 'southwest']
 ---
 
 ![Dianne's Southwestern Cornbread Salad](/pix/diannes-cornbread-salad.webp)

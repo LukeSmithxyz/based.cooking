@@ -2,6 +2,7 @@
 title: "Breakfast Wrap"
 date: 2021-03-21
 tags: ['breakfast', 'quick', 'basic', 'eggs']
+author: "Linux Lounge"
 ---
 
 The basic parts of a full English in a wrap. Inspired by McDonald's breakfast wraps.
@@ -26,7 +27,3 @@ The basic parts of a full English in a wrap. Inspired by McDonald's breakfast wr
 3. Next, possibly while the bacon is frying, crack an egg into a bowl, add a dash of milk and whisk it
 4. Then, put the egg mixture into the microwave for a minute, take it out and whisk it again, do this twice again or until the scrambled egg is ready.
 5. Add the sausage, bacon and scrambled egg to a wrap (I recommend two sausage halves, a bacon rasher and half the bowl of scrambled egg per wrap). Add ketchup if desired.
-
-## Contribution
-
-- Linux Lounge

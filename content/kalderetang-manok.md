@@ -2,6 +2,7 @@
 title: "Kalderetang Manok"
 date: 2021-03-21
 tags: ['filipino', 'chicken']
+author: jess-calape
 ---
 
 Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coca Cola.
@@ -34,7 +35,3 @@ Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coc
 4. Add potatoes, carrots, and liver spread. Mix the liver spread and let it boil until broth thickens, let it boil until carrots and potatoes are soft. Add more salt and pepper if needed.
 5. Add dried peas, bell pepper and grated cheese and let it cook for a minute.
 6. Cook until cheese melts before serving.
-
-## Contribution
-
-- Jess Calape - [twitter](https://twitter.com/justjess1128)

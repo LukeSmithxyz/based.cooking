@@ -2,6 +2,7 @@
 title: "Chicken, Tomato and Spinach Curry"
 date: 2021-03-10
 tags: ['curry', 'chicken']
+author: luke-goule
 ---
 
 This dish is a very simple and tasty curry that can be made with minimal ingredients, but pairs amazingly with anything else one may want in a curry (i.e. ginger, lemongrass).
@@ -26,7 +27,3 @@ Note: You may also need a blender / food processor.
 4. As the chicken cooks through, dump all of your tomatoes and extra ingredients into a food processor and turn it all into a thin tomato paste. Add the paste to the curry directly. If you do not wish to use a food processor you can skin the tomatoes and add them to the curry anyway.
 5. Add all of your wanted spinach, and don't be shy about doing so. At first it may seem like you are adding too much but it quickly shrivels up in the curry and you'll need to add more.
 6. Make sure the chicken is cooked all the way through and serve.
-
-## Contribution
-
-- Luke Goule - [GitHub](https://github.com/LukeGoule), [XMR Donation QR](https://ergine.cc/xmr.png)

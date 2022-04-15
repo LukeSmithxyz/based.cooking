@@ -2,6 +2,7 @@
 title: "Limoncello"
 date: 2021-05-13
 tags: ['alcohol', 'lemons', 'digestivo', 'liquor']
+author: mfed3
 ---
 
 ![Limoncello](/pix/limoncello.webp)
@@ -26,7 +27,3 @@ tags: ['alcohol', 'lemons', 'digestivo', 'liquor']
 5. Allow the water to cool completely, then strain the alcohol into the sugar water and stir
 6. Bottle or put it back into the mason jar
 7. Feel free to scale the recipe up or down, and adjust the sugar to the sweetness you like, but the ABV should remain somewhere around 28-30%
-
-## Contribution
-
-- mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`

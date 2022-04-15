@@ -2,6 +2,7 @@
 title: "Frittata"
 date: 2021-03-15
 tags: ['eggs', 'italian', 'cheesefare']
+author: aj
 ---
 
 Very filling egg dish that's easy, fast, and can be eaten at any meal. Any other types of vegetables can be added, this is just what I use the most
@@ -34,7 +35,3 @@ Very filling egg dish that's easy, fast, and can be eaten at any meal. Any other
 - If adding tomatoes, try to keep as much of the juice out to prevent it from being too watery and falling apart
 - An easy way to get it out of the pan is flip upside down on to a plate and then flip again onto another plate/cooling rack
 - It is possible to use ground meat as well, but it may have to cook a bit longer in the over to ensure firmness.
-
-## Contribution
-
-- AJ XMR: `45kYSzfMbY79HeuFoJC2sSGwoXCkty7X6F8nD7rNMkmuZvsDwoAnxDk3B1bT4rK2Je6z9cvKoxxGqS7aUbzvQajzEcK8nfQ`

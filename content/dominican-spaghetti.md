@@ -2,6 +2,7 @@
 title: "Dominican Spaghetti"
 date: 2021-03-17
 tags: ['pasta', 'supper', 'dominican', 'cheesefare']
+author: carl-zimmerman
 ---
 
 - ⏲️ Prep time: 10 min
@@ -33,7 +34,3 @@ tags: ['pasta', 'supper', 'dominican', 'cheesefare']
 5. Add evaporated milk, butter, sugar, and olives.
 6. Taste for seasoning and heat to desired temperature.
 7. Add spaghetti and toss into the sauce.
-
-## Contribution
-
-- Carl Zimmerman -- [website](https://codingwithcarl.com)

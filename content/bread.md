@@ -2,6 +2,7 @@
 title: "Basic Bread Recipe"
 date: 2021-03-10
 tags: ['basic', 'bread', 'fasting']
+author: alex-selimov
 ---
 
 This is a recipe for a basic loaf of bread. The dough itself can be used however. I've made buns, rolls, and whole bread loafs using this same exact dough every time without a problem. Eat within 3 days as it will probably be going stale around then (as bread without preservatives and other junk should).
@@ -35,7 +36,3 @@ This is a recipe for a basic loaf of bread. The dough itself can be used however
 * For whole wheat version use 2 cups of whole wheat bread and 1 and 3/4 cup unbleached all purpose flour.
 * Add sunflower seeds and/or rolled oats for extra flavor/grains.
 * For buns or rolls divide dough into smaller pieces before second rest. Shape them and then let the dough rest. Recommended lowering oven temperature to 350 F and not using water as those will result in a hard crust and potentially dry interior.
-
-## Contribution
-
-Alex Selimov - [Website](https://alexselimov.xyz)

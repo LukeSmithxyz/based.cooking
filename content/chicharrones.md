@@ -26,7 +26,3 @@ tags: ['mexican', 'pork']
 11. Put some oil to make sure it doesn't stick too much
 12. Use spoon to spin/stir and fry until a golden brown
 13. Take out the Chicharonnes and put into the colander. You may keep some of the fried bits that come off to eat as well.
-
-## Contribution
-
-- Abuela's Cooking 

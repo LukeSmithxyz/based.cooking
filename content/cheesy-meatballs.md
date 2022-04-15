@@ -2,6 +2,7 @@
 title: "Cheesy Meatballs with Tomato Sauce"
 date: 2021-03-12
 tags: ['beef', 'cheese']
+author: yaroslav-smirnov
 ---
 
 ![Cheesy Meatballs with Tomato Sauce](/pix/cheesy-meatballs.webp)
@@ -56,9 +57,3 @@ For the sauce:
 12. Serve with some side dish and enjoy!
 
 Originally published at [https://www.yaroslavps.com/food/cheesy-meatballs/](https://www.yaroslavps.com/food/cheesy-meatballs/)
-
-## Contribution
-
-- Yaroslav de la Peña Smirnov -- [website](https://www.yaroslavps.com/), 
-[other website](https://saucesource.cc/),
-[donate](https://www.yaroslavps.com/donate)

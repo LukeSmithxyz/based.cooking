@@ -2,6 +2,7 @@
 title: "Arroz Chaufa"
 date: 2021-03-16
 tags: ['peruvian', 'chinese', 'rice']
+author: andy-rufasto
 ---
 
 Peruvian-chinese dish. Easy to cook just add and mix everything.
@@ -33,7 +34,3 @@ Peruvian-chinese dish. Easy to cook just add and mix everything.
 5. Mix everything over low heat, adding soy sauce.
 6. Optional: Add bacon, sesame oil.
 7. If everything is salty, you can reduce it with just a teaspoon of sugar, especially if you cook the rice with salt.
-
-## Contribution
-
-- Andy Rufasto - [contact](mailto:andy@andyrufasto.cf), [GPG](https://keyoxide.org/0A3D7C5B8C2499A8BEBCE72869D2E5C413569DA2)

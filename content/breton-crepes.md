@@ -2,6 +2,7 @@
 title: "Breton Crêpes (Breton Galettes)"
 date: 2021-03-14
 tags: ['french', 'cheesefare']
+author: aeredren
 ---
 Buckwheat crêpes eaten as dishes, traditionally garnished with ham, eggs and cheese (galette complète).
 
@@ -22,8 +23,3 @@ Buckwheat crêpes eaten as dishes, traditionally garnished with ham, eggs and ch
 
 Always keep the crepe-maker's T stick in water while cooking so the dough doesn't dry on it.
 It will then be easier to spread the dough.
-
-### Contributor
-
-- Aeredren - [GitHub](https://github.com/Aeredren)
-- Tait Hoyen - [website](https://tait.tech)

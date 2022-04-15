@@ -2,6 +2,7 @@
 title: "Corn Salsa"
 date: 2021-03-23
 tags: ['sauce', 'mexican']
+author: joe-powerhouse
 ---
 
 - ⏲️ Prep time: 10 Minutes
@@ -20,6 +21,3 @@ tags: ['sauce', 'mexican']
 ## Directions
 
 1. Chop everything to pieces smaller than the corn kernels. Mix well and let sit covered in the fridge for at least an hour, even better overnight.
-
-## Contributions
-- Joe Powerhouse - BTC:1KPxw9js2VukakhMv2wUUFUQZnHQL842ju

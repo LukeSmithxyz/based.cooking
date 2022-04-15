@@ -2,6 +2,7 @@
 title: "Baba's Feta Pasta"
 date: 2021-03-21
 tags: ['greek', 'feta', 'pasta', 'supper']
+author: peepopoggers
 ---
 
 Greek Pasta Recipe with sauce made out of feta, stock, cream cheese and other ingredients.
@@ -43,8 +44,3 @@ Make sure to prepare & chop most ingredients before you start.
 7. Wait 2-3 more minutes and then you can test the sauce if you want. If you feel there is some missing, add more mixed spice or herbs such as parsley to it.
 8. Turn down the main mix again slightly and add the 1/3 Mug of Whole milk to the mix.
 9. Strain and serve your pasta and cover with the sauce. Enjoy!
-
-## Contribution
-
-- peepopoggers - [github](https://github.com/peepopoggers)
-- Original recipe.

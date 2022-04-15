@@ -2,6 +2,7 @@
 title: "Ginataang Kalabasa"
 date: 2021-03-13
 tags: ['filipino', 'squash']
+author: jacob-smith
 ---
 
 Or "Squash in Coconut Milk". This is a common Filipino dish.
@@ -24,7 +25,3 @@ Or "Squash in Coconut Milk". This is a common Filipino dish.
 3. Once your onions are translucent add both cans of coconut milk to the pot along with your cubes of squash. Let simmer until squash is soft.
 4. When your squash is soft take a potato masher and mash about half of your squash leaving the rest of it as cubes.
 5. Take off heat and serve over rice.
-
-## Contribution
-
-- Jacob Smith - [website](https://jacobwsmith.xyz)

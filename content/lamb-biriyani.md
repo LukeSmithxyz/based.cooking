@@ -2,6 +2,7 @@
 title: "Lamb Biriyani"
 date: 2021-03-21
 tags: ['lamb', 'mutton', 'indian']
+author: ram-pari
 ---
 
 This recipe makes an Southern Indian (Tamil) style Lamb biriyani that has been adapted to a more western audience (aka a bit less spicy)
@@ -52,7 +53,3 @@ PS: the biriyani tastes better the longer it's allowed to soak in it's flavour a
 12. Once 80% of the standing water has evaporated, Turn to the heat down to as low as possible and check the salt and spice levels and add more as required.
 13. Now with a lid on, let the pot simmer for another 10 mins.
 14. Serve with onion raitha and boiled Eggs and Garnish with coriander or mint sprigs. Enjoy!
-
-## Contribution
-
-- Ram Pari - [website](https://github.com/ramkpari) - Donate -> ETH: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w`

@@ -2,6 +2,7 @@
 title: "Instant Tom Yam Kung noodle soup"
 date: 2021-03-11
 tags: ['thai', 'quick', 'soup', 'cheesefare']
+author: ricky-linden
 ---
 
 Instant noodles with processed spices are quick but not the most healthy. It's important to add fresh veggies and eggs. It's a quick tasty lunch, a life saver when going through a busy period.
@@ -29,7 +30,3 @@ Instant noodles with processed spices are quick but not the most healthy. It's i
 5. After 3-5 minutes it's done. Serve in deep bowls. Squeeze the lime juice and chopped coriander on top.
 
 Pro tip: Squeeze some remaining lime juice into your drinking water.
-
-## Contribution
-
-- Ting-Yun Huang, Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)

@@ -2,6 +2,7 @@
 title: "Curry sauce"
 date: 2021-05-08
 tags: ['sauce', 'indian', 'curry']
+author: "Fiddelate"
 ---
 
 I like to make double this amount and freeze the rest.
@@ -38,7 +39,3 @@ I like to make double this amount and freeze the rest.
 9. Add the cornflour and water.
 10. Simmer for 5 minutes while stirring.
 11. Blend the sauce. Add in some lemon juice if you want.
-
-## Contribution
-
-Fiddelate

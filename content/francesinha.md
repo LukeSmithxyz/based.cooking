@@ -2,6 +2,7 @@
 title: "Francesinha"
 date: 2021-03-21
 tags: ['portuguese', 'beef']
+author: artur-mancha
 ---
 
 Francesinha is a traditional dish from the city of Porto. The francesinha in its special sandwich variation consists of linguiça, ham, cold meat and beef steak, covered with melted cheese.
@@ -45,7 +46,3 @@ Francesinha is a traditional dish from the city of Porto. The francesinha in its
 4. Take 4 slices of bread for each Francesinha. Cut the center of two slices to make room for the filling. The other two will be the bottom and top of the francesinhas.
 5. Fill the bread with the sausages, the beef and the ham roughly chopped. Cover the francesinhas with the cheese and melt in the oven for 5 minutes.
 6. Cover with the sauce and serve with french fries.
-
-## Contribution
-
-- Artur Mancha -- [Pleroma](https://pleroma.pt/@lisbonjoker)

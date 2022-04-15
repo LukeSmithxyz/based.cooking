@@ -2,6 +2,7 @@
 title: "Chicken Biscuit Potpie Recipe"
 date: 2021-03-11
 tags: ['chicken', 'milk']
+author: front3ndninja
 ---
 
 ## Ingredients
@@ -18,7 +19,3 @@ tags: ['chicken', 'milk']
 
 1. Preheat oven to 400°F (200°C). In a large bowl, combine the vegetables, chicken, soup and thyme. Pour into an ungreased deep-dish 9-in. pie plate. Combine the biscuit mix, milk and egg; spoon over chicken mixture.
 2. Bake until topping is golden brown and toothpick inserted in the center comes out clean, 25-30 minutes.
-
-## Contribution
-
-Front3ndNinja - [Website](https://github.com/Front3ndNinja)

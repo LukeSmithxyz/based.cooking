@@ -2,6 +2,7 @@
 title: "Italian Mulled Wine"
 date: 2021-05-13
 tags: ['alcohol', 'wine', 'liquor', 'drink']
+author: mfed3
 ---
 
 ![Italian Mulled Wine](/pix/italian-mulled-wine.webp)
@@ -12,10 +13,10 @@ tags: ['alcohol', 'wine', 'liquor', 'drink']
 
 ## Ingredients
 
-### Crushed Ingredients 
+### Crushed Ingredients
 
 - 1 star anise
-- 1 bay leaf 
+- 1 bay leaf
 - 1 pinch rosemary
 - 1 pinch peppercorn
 - 1 pinch thyme
@@ -31,7 +32,7 @@ tags: ['alcohol', 'wine', 'liquor', 'drink']
 - 1 lemon
 - 1 tbsp honey
 - 1 tsp vanilla
-- 1 stick cinnamon 
+- 1 stick cinnamon
 - 4 figs (optional)
 - 100 ml limoncello (optional)
 - 50 ml sweet vermouth (optional)
@@ -46,7 +47,3 @@ tags: ['alcohol', 'wine', 'liquor', 'drink']
 5. Cook on low for at least 15 minutes to infuse the flavors
 6. Keep the flame on low so the wine stays warm and continues to infuse, but doesn't bubble / burn off the alcohol
 7. Feel free to double the recipe or scale any of these ingredients up or down to suite your taste
-
-## Contribution
-
-- mfed3 - xmr: `48eEMdYtCQaV5wY7wvmxK6jCxKkia9dgpNTMNT1do7RLWXCwWDgSKjN3kiZ6yHbAuAXWgDGN6imnGT9NPeHWD7zX9hSyHu2`

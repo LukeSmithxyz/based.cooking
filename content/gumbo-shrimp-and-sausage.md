@@ -2,6 +2,7 @@
 title: "Shrimp and Sausage Gumbo"
 date: 2021-03-15
 tags: ['american', 'fish', 'rice']
+author: carl-zimmerman
 ---
 
 This recipe is a simplified version of AB's Seafood Gumbo -- [youtube](https://youtu.be/XuiKYWb7s5o)
@@ -9,7 +10,7 @@ This recipe is a simplified version of AB's Seafood Gumbo -- [youtube]
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 130 min
 - 🍽️ Servings: 4-6
-  
+
 ## Ingredients
 
 - 2-3 lbs Shrimp
@@ -48,9 +49,3 @@ This recipe is a simplified version of AB's Seafood Gumbo -- [youtube]
 12. Increase heat to medium. Add shrimp and cook for 5-7 minutes.
 13. Turn off the heat and serve over white rice.
 14. (Optional) For leftovers, boil gumbo with dry white rice and turn it into a jambalaya.
-  
-
-## Contribution
-
-- Carl Zimmerman -- [website](https://codingwithcarl.com)
-- Smokin' & Grillin' wit AB -- [youtube](https://www.youtube.com/c/SmokinGrillinwitAB/)

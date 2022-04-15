@@ -2,6 +2,7 @@
 title: "Bolognese Sauce"
 date: 2021-03-23
 tags: ['sauce', 'italian', 'pasta']
+author: tait
 ---
 
 ![Bolognese sauce](/pix/bolognese-sauce-1.webp)
@@ -46,8 +47,3 @@ stir it through until it has completely evaporated. (If you are using it you can
 10. let it simmer for as long as you can wait, preferably at least 4 hours, if it starts getting a bit too dry you can add a bit more water to make sure the sauce doesn't burn.
 11. Once it's done simmering for as long as you can muster and its nice and thick, the liquid should not come above your meat and should be pretty concentrated
 12. You can add your glass of milk, let it simmer for 10 more minutes and serve.
-
-## Contribution
-
-- Yiusa, eth `0x68f1317c6512f0267fa711cafb6c134ae968fa80`
-- Tait, [website](https://tait.tech)

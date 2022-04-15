@@ -2,6 +2,7 @@
 title: "Cheesy Potato Bake"
 date: 2021-03-21
 tags: ['american', 'cheese', 'potato']
+author: "Kyle Johnson and Sabina Mortensen"
 ---
 
 Potatoes baked in a dish smothered with cheese, what's not to love?
@@ -42,8 +43,3 @@ Potatoes baked in a dish smothered with cheese, what's not to love?
     4. Repeat steps 1-3 of assembly until there are no more potatoes/sauce
     5. Add the remaining 1/4 cheese to the top
     6. Put in oven for 45 min. If it starts to brown too much cover with tinfoil
-
-## Contribution
-
-- Originally published at [https://www.taste.com.au/recipes/cheesy-potato-bake/9749dafb-5288-4066-aa45-d9c99025b975](https://www.taste.com.au/recipes/cheesy-potato-bake/9749dafb-5288-4066-aa45-d9c99025b975)
-- Kyle Johnson and Sabina Mortensen -- [website](https://www.kylecjohnson.site/)

@@ -2,6 +2,7 @@
 title: "Fish Curry"
 date: 2021-03-15
 tags: ['thai', 'fish']
+author: thijs-wester
 ---
 
 Best served with white rice
@@ -29,6 +30,3 @@ Best served with white rice
 3. Heat oil on a wok and sauté the onion and garlic
 4. Add beans, tomato, broth and spices and boil for 6 minutes
 5. Add coconut milk, fish and pepper (whole) and boil for an additional 6 minutes.
-
-## Contribution
-- Thijs Wester - [website](https://twester.tk)

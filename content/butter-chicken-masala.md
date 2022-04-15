@@ -2,6 +2,7 @@
 title: "Butter Chicken Masala Curry"
 date: 2021-03-15
 tags: ['indian', 'curry', 'chicken']
+author: nihar-samantaray
 ---
 
 ![Butter Chicken Masala](/pix/butter-chicken-masala.webp)
@@ -38,7 +39,3 @@ Butter chicken Masala is one of India's most popular chicken recipes, a mild cur
 5. Add tomato puree, salt, and chili powder. Let simmer for about 5 minutes, occasionally stirring until sauce thickens and becomes a deep brown-red color.
 6. Add the marinated chicken, butter, fresh cream, the crushed fenugreek leaves, and sliced green chilies. Cook for an additional 5 to 10 min until the chicken is cooked.
 7. Adjust salt, garnish with the coriander leaves. Serve over rice or naan.
-
-## Contribution
-
-- Nihar Samantaray - [website](https://nihars.com), [contact](mailto:i@nihars.com)

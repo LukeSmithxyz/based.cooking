@@ -2,6 +2,7 @@
 title: "Chicken Pasta Casserole"
 date: 2021-03-12
 tags: ['chicken', 'italian', 'pasta']
+author: miika-nissi
 ---
 
 ![Chicken Pasta Casserole](/pix/chicken-pasta-casserole.webp)
@@ -30,7 +31,3 @@ Easy to throw together and transport for the working fellow. High in protein!
 3. [Cook the pasta](/pasta) for a few minutes less than usual (about 7-8 minutes).
 4. Add chicken and pasta into a casserole dish. Mix together. Add diced tomato and shredded mozzarella cheese and keep mixing. Top with parmesan cheese and bread crumbs for an even coat. Add about a spoonful of butter evenly on the top.
 5. Cook in the oven for 22-25 minutes, until the top looks golden.
-
-## Contribution
-
-- Miika Nissi - [website](https://miikanissi.com)

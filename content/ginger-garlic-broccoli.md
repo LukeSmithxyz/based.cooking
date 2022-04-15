@@ -2,6 +2,7 @@
 title: "Broccoli with Ginger and Garlic Sauce"
 date: 2021-03-15
 tags: ['side', 'quick', 'asian', 'fasting']
+author: mjt91
 ---
 
 Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds of Asian inspired sauted vegetables.
@@ -29,7 +30,3 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 7. Stir in soy sauce, brown sugar and lemon juice to your taste.
 8. Thicken sauce with corn starch.
 9. Put dry cooked broccoli back in and saute for very short time (you want it nice and crunchy).
-
-## Contribution
-
-- mjt91 - [website](https://github.com/mjt91), [donate](https://www.paypal.com/paypalme/mjt91)

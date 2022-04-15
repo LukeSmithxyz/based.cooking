@@ -2,6 +2,7 @@
 title: "Banana Pancakes"
 date: 2021-03-13
 tags: ['breakfast', 'quick', 'sweet', 'pancake', 'cheesefare']
+author: ricky-linden
 ---
 
 - ⏲️ Prep time: 10 minutes
@@ -26,7 +27,3 @@ tags: ['breakfast', 'quick', 'sweet', 'pancake', 'cheesefare']
 5. Make smaller or bigger pancakes, up to you. Wait until tiny air bubbles form on top (2 to 5 minutes), turn and continue frying until the bottom is browned. Repeat.
 
 Either eat the pancakes as they get ready or put a plate in a preheated oven (low degree) to keep the ready pancakes warm.
-
-## Contribution
-
-- Ricky Lindén - [website](https://rickylinden.com), [donate](https://rickylinden.com/donate.html)

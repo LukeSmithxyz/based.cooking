@@ -2,6 +2,7 @@
 title: "Honey Garlic Chicken with Broccoli and Brown Rice"
 date: 2021-05-08
 tags: ['chicken', 'broccoli', 'rice', 'quick']
+author: "Connor McLean"
 ---
 
 Very easy, high protein.
@@ -24,11 +25,7 @@ Very easy, high protein.
 2. While rice is cooking, cut chicken breasts into cube. Season with olive oil, black pepper, and
 paprika. Cut broccoli into pieces and place into steamer basket over pot 1/2 filled with water, do
 not start it yet.
-3. Put chicken cubes into a hot pan and cook for ~3 minutes. After 3 minutes add honey, soy sauce, 
+3. Put chicken cubes into a hot pan and cook for ~3 minutes. After 3 minutes add honey, soy sauce,
 and garlic. Cook for another 5 minutes. Begin boiling broccoli water.
 4. Add frozen peas to rice and stir, they will heat up quickly.
 5. Add rice and peas to chicken and stir.
-
-## Contribution
-
-- Connor McLean

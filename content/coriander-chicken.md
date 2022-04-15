@@ -2,6 +2,7 @@
 title: "Coriander Chicken"
 date: 2021-04-02
 tags: ['indian', 'lunch', 'spicy']
+author: chetan-basuray
 ---
 
 Boneless chicken marinated in a gravy of yoghurt and coriander
@@ -42,9 +43,3 @@ Boneless chicken marinated in a gravy of yoghurt and coriander
 12. Add salt to taste and keep stirring the chicken to make sure it does not burn or stick to the bottom of the pan.
 13. Once the oil separates, add the remaining mixture which was left behind after step 4.
 14. Stir until it has a thick consistency. Serve with [naan](/naan-bread) or [rice](/rice).
-
-## Contribution
-
-- Chetan Basuray
-    - [website](https://github.com/chetanbasuray)
-    - [donate](http://chetanbasuray.tk/)

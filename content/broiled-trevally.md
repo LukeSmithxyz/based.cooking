@@ -2,6 +2,7 @@
 title: "Broiled Trevally"
 date: 2021-03-10
 tags: ['fish', 'cheesefare']
+author: oq-olarte
 ---
 
 Well, it's actually a *giant* trevally, and if you have seen one, that fish looks ugly.
@@ -31,6 +32,3 @@ So here's a recipe to make it look---and taste!---more appealing.
 6. Flip the fish on the other side, just to make sure that it's properly cooked.
 7. Check the doneness of the squash: if it's cooked, everything is.
 8. Let everything set for 5 mins. before serving.
-
-## Contribution
-- O.Q. Olarte [website](https://oqolarte.github.io), [donate](https://oqolarte.github.io/support)

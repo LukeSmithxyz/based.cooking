@@ -25,7 +25,3 @@ tags: ['chicken', 'french', 'wine']
 3. Brown both sides until skin is golden brown and chicken is cooked, about 12-15 minutes. Remove chicken to a platter and cover loosely with aluminum foil to keep warm.
 4. Pour out half of oil from pan, and use other half to brown shallots over medium-high heat. Slowly add vinegar and boil until reduced to almost a syrup. Add crème fraîche/cream and cook until blended and brown, about 5 minutes. Return chicken to pan to coat and heat.
 5. Return chicken to platter. Add garnish if available, and serve.
-
-## Contribution
-
-- Anonymous

@@ -2,6 +2,7 @@
 title: "Flammkuchen"
 date: 2021-03-11
 tags: ['french', 'pork', 'quick']
+author: bernhard-egger
 ---
 
 A recipe for Flammkuchen a very thin crust pizza-like dish - it originates from Elsass, a French region close to where I grew up.
@@ -26,7 +27,3 @@ I like the recipe because it takes 10 minutes to prepare and another 10 minutes 
 6. put salt and pepper
 
 I usually take it down from the baking tray and let it cool down for 2-5 minutes before eating
-
-## Contributors
-
-- Bernhard Egger - [website](https://eggerbernhard.ch), [twitter](https://twitter.com/VisionBernie)

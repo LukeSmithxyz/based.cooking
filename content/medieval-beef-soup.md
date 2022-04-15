@@ -1,8 +1,13 @@
-# Medieval Beef Soup
+---
+title: "Medieval Beef Soup"
+date: 2022-04-15
+author: "LogSuperMulti"
+tags: ['beef', 'soup', 'roast']
+---
+
+![Medieval Beef Soup](/pix/medievil-beef-soup.webp)
 
 Medieval beef soup with turnips and turnip greens.
-
-![Medieval Beef Soup](pix/medievil-beef-soup.webp)
 
 ## Ingredients
 
@@ -25,9 +30,3 @@ Medieval beef soup with turnips and turnip greens.
 7. Cut the stems off of the greens and then chop the greens vertically.
 8. Cook the soup on high for 2 to 2 1/2 hours or until the turnip and meat are soft and tender. About 20 minutes before it is to be done take the chopped greens and put them in the soup. Don't worry if it overfills the slow cooker, the greens will shrink a ton. Cook for about 20 minutes until done.
 9. Taste the soup, if it's still too bland you can add spices of your choice and season to your taste.
-
-## Contributions
-
--LogSuperMulti - Adapted from a recipe from Anonimo Toscano's Manuscript.
-
-;tags: beef soup roast

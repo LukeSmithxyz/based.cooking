@@ -1,6 +1,6 @@
 ---
 title: "Ceviche"
-tags: seafood peruvian
+tags: ['seafood', 'peruvian']
 author: jacob-smith
 date: 2022-04-16
 ---

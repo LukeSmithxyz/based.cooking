@@ -1,11 +1,12 @@
 body {
 	background: #151515 ;
-	color: #ccc ;
+	color: navajowhite ;
 	max-width: 850px ;
 	margin: auto ;
 	padding: 0 16px ;
 	margin-bottom: 500px ;
 	scrollbar-color: gray #151515;
+	font-family: sans-serif ;
 }
 
 ::-webkit-scrollbar {
@@ -15,17 +16,23 @@ body {
 ::-webkit-scrollbar-thumb {
 	background-color: gray;
 	border-radius: 5px;
-}font-family: sans-serif ;
+}
 
 a {
-	color: lightblue ;
+	color: gold ;
+}
+
+.tagcloud a {
+	color: darkorange ;
 }
 
 a:visited {
-	color: gray ;
+	color: darkgoldenrod ;
 }
 
 h1 {
+	border-style: solid ;
+	border-width: 0px 0px 2px 0px ;
 	text-align: center ;
 }
 

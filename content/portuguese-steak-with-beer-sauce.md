@@ -5,7 +5,7 @@ tags: ['portuguese', 'beef']
 author: artur-mancha
 ---
 
-Bitoque (pronounced bee-tok) is a traditional quintessential Portuguese dish, its name comes from being cooked in wood burning ovens in the oil mills. Good in combination with red wine, beer sauce that I am going to also provide the ingredients and directions on how to do, [rice](https://based.cooking/rice.html), french fries and a salad.
+Bitoque (pronounced bee-tok) is a traditional quintessential Portuguese dish, its name comes from being cooked in wood burning ovens in the oil mills. Good in combination with red wine, beer sauce that I am going to also provide the ingredients and directions on how to do, [rice](/rice), french fries and a salad.
 
 ## Ingredients
 

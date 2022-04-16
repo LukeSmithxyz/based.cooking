@@ -37,7 +37,7 @@ This is a very easy and simple Japanese style ramen noodle soup. This is very ch
 1. For the broth, add 700ml of chicken stock to a large boiling pot with the garlic, ginger, soy sauce, chinese five spice, chili, and 300ml of water.
 2. Bring this to the boil, then turn the heat to low and simmer for around 5 mins.
 3. Add a pinch of sugar and more soy sauce to taste
-4. Fry the pork chops until cooked (My [Sticky Pork Chops](https://based.cooking/sticky-porkchops) recipe works really well with this dish)
+4. Fry the pork chops until cooked (My [Sticky Pork Chops](/sticky-porkchops) recipe works really well with this dish)
 5. Hard boil 4 eggs.
 6. Cook the ramen noodles as per packet instructions.
 7. Strain the stock into another pan, then reheat.

@@ -10,7 +10,7 @@ author: "tom-fasano"
 Can be served with a Spicy Yogurt Sauce as Tapas or Hors D’Oeuvres.
 
 - ⏲️ Prep time: 10 min
-- 🧊Chill time: 30 min
+- 🧊 Chill time: 30 min
 - 🍳 Cook time: 10 min
 - 🍽️ Servings: 15
 

@@ -14,7 +14,7 @@ author: "Ctrl-Alt-W"
 - Oats (either rolled or quick cooked, but I prefer rolled)
 - Milk
 - Seeds for thickening (optional)
-- Salt (optional)
+- Seasoning (optional)
 - Fruits (optional)
 - Sweeteners (optional)
 ## Directions

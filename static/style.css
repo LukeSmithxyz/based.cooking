@@ -73,8 +73,8 @@ img[alt="XMR Logo"] {
 
 @media (pointer: coarse) {
 	li > a {
-	    display: block;
-		height: 1.5rem
+	    display: inline-block;
+		padding: 0.2em 0;
 	}
 }
 

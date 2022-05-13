@@ -15,7 +15,7 @@ author: mental-outlaw
 - Egg wash
 - Bread crumbs
 - Vegetable oil
-- Seasoning:salt and pepper with cayenne or paprika (optional)
+- Seasoning: salt and pepper with cayenne or paprika (optional)
 
 ## Directions
 

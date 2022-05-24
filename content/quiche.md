@@ -13,28 +13,28 @@ tags: ['cheese', 'French', 'Ham']
 
 - 200g Flour (full sight)
 - 100g Butter or Margarine
-- 1/2 Teaspoons of Salz
-- 5 Tablespoon of Wasser
+- 1/2 Teaspoons of Salt
+- 5 Tablespoon of Water
 - 200g of Ham (alternatively cooked ham)
 - 4 Eggs
 - 1/4 Cream
 - 125g grinded Edamer Cheese
-- For the Baking Tin: More Butter and flour
+- For the Baking Tin: More Butter and Flour
 
 ##  Directions
 
 1. Spread some butter on a 26cm Ø or two smaller baking tins and cover it with flour
 2. Sieve the flour, mingle the butter/margarine in small flakes.
 3. Add the salt.
-4. Form a depression in the middle of the flour and add the spoons of water.
+4. Form a depression in the middle of the flour and add spoons of water.
 5. Mix all ingredients by hand until the dough becomes a homogenious mass.
-6. Wrap the dough in aluminium foil and let it rest in the fridge (around -4 °C).
+6. Wrap the dough in aluminium foil and let it rest in the fridge for two hours (around -4 °C).
 7. Preheat the oven at 200°C.
 8. Spread the dough on a flour-covered surface. Roll it until it has a thickness of around 4cm. Form a crust on the sides.
 9. Use a fork to prick the dough for a more thorough heat penetration.
-10. Cut the ham in slices and distribute these evenly on the dough.
+10. Cut the ham in slices and distribute them evenly on the dough.
 11. Divide the yolk from the egg white.
-12. Whisk the yolk with the cream, pepper and salt.
+12. Whisk the yolk with cream.
 13. Add the grinded cheese.
 14. Whisk the egg white until it becomes foamy. Add it to the yolk-pepper-salt-cheese mixture.
 15. Cover the ham in the baking tin with the mixture. Equalize the surface.

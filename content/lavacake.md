@@ -1,5 +1,5 @@
 ---
-title: "Chocolate Cupcakes"
+title: "Lavacake"
 date: 17-05-2022
 author: benjamin_h.
 tags: ['Chocolate', 'Dessert', 'Quick']

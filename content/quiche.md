@@ -13,8 +13,7 @@ tags: ['cheese', 'French', 'Ham']
 
 - 200g Flour (full sight)
 - 100g Butter or Margarine
-- 1/2 Teaspoons of Salt
-- 5 Tablespoon of Water
+- 5 Tablespoons of Water
 - 200g of Ham (alternatively cooked ham)
 - 4 Eggs
 - 1/4 Cream

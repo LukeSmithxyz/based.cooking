@@ -13,12 +13,11 @@ tags: ['cheese', 'French', 'Ham']
 
 - 200g Flour (full sight)
 - 100g Butter or Margarine
-- 1/2 Teaspons of Salz
+- 1/2 Teaspoons of Salz
 - 5 Tablespoon of Wasser
 - 200g of Ham (alternatively cooked ham)
 - 4 Eggs
 - 1/4 Cream
-- 1 White Pepper
 - 125g grinded Edamer Cheese
 - For the Baking Tin: More Butter and flour
 

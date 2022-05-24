@@ -5,7 +5,7 @@ author: benjamin-h
 tags: ['cheese', 'French', 'Ham']
 ---
 
-- ⏲️ Prep time: 140 min
+- ⏲️ Prep time: 160 min
 - 🍳 Cook time: 30 min
 - 🍽️ Servings: 4
 

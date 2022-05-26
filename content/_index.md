@@ -52,9 +52,11 @@ document.addEventListener('DOMContentLoaded', () => {
 })
 </script>
 
-## All Recipes
-
 {{< artlist >}}
+
+## Or Browse by Category...
+
+{{< tagcloud >}}
 
 ## About this site
 

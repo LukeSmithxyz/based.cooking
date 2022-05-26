@@ -33,7 +33,12 @@ document.addEventListener('DOMContentLoaded', () => {
       el.hidden = !isMatch
       el.classList.toggle('matched-recipe', isMatch && searchText.length !== 0);
       artlist.classList.add('list-searched');
+      if (hasFilter && isMatch) {
+        matchCount++;
+      }
     })
+
+    ul.classList.toggle('is-filtered', matchCount > 0);
   })
 
   clearSearch.addEventListener('click', e => {

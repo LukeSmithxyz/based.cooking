@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     })
 
-    ul.classList.toggle('is-filtered', matchCount > 0);
+    artlist.classList.toggle('list-searched', matchCount > 0);
   })
 
   clearSearch.addEventListener('click', e => {

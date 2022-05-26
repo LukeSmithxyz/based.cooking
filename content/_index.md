@@ -34,7 +34,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   clearSearch.addEventListener('click', e => {
     search.value = ''
-    rec.forEach(el => el.hidden = false)
+    rec.forEach(el => {
+      el.hidden = false
+      el.classList.remove('matched-recipe');
+    })
+
+    ul.classList.remove('is-filtered');
     artlist.classList.remove('list-searched') ;
   })
 })

@@ -1,12 +1,12 @@
 ---
 title: "Lavacake"
 date: 17-05-2022
-author: benjamin_h.
+author: benjamin-h.
 tags: ['Chocolate', 'Dessert', 'Quick']
 ---
 
 ![lavacake](/pix/lavacake.webp)
-Easily made chocolate desert with fluid chocolate content. The only requirement is a baking tin with cupcake pits.
+Easily made chocolate dessert with fluid chocolate content. The only requirement is a baking tin with cupcake pits.
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 7 min

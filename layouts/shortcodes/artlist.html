@@ -1,5 +1,5 @@
 <ul id=artlist>
 {{range.Site.RegularPages}}
-<li><a href="{{.Permalink}}">{{.Title}}</a></li>
+<li><a href="{{.Permalink}}">{{.Title}}<span style="display:none">{{.Params.Tags}}</span></a></li>
 {{end}}
 </ul>

@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const search = document.querySelector('#search')
   const clearSearch = document.querySelector('.clear-search')
 
-  search.addEventListener('change', e => {
+  search.addEventListener('input', e => {
     // grab search input value
     const searchText = e.target.value.toLowerCase()
     // for each recipe hide all but matched

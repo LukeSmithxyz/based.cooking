@@ -51,6 +51,7 @@ h1 {
 
 h2 {
 	color: tomato ;
+	text-align: center ;
 }
 
 footer {
@@ -145,4 +146,14 @@ button.clear-search {
 }
 button.clear-search:hover {
   color: #eee;
+}
+
+
+.matched-recipe {
+	font-size: x-large ;
+}
+
+.list-searched {
+	column-count: 1 !important ;
+	list-style: decimal ;
 }

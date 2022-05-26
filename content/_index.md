@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const rec = document.querySelectorAll('#artlist li')
   const search = document.querySelector('#search')
   const clearSearch = document.querySelector('.clear-search')
+  const artlist = document.getElementById('artlist')
 
   search.addEventListener('input', e => {
     // grab search input value
@@ -26,12 +27,15 @@ document.addEventListener('DOMContentLoaded', () => {
       const isMatch = recipeName.includes(searchText)
 
       el.hidden = !isMatch
+      el.classList.toggle('matched-recipe', isMatch && searchText.length !== 0);
+      artlist.classList.add('list-searched');
     })
   })
 
   clearSearch.addEventListener('click', e => {
     search.value = ''
     rec.forEach(el => el.hidden = false)
+    artlist.classList.remove('list-searched') ;
   })
 })
 </script>

@@ -22,8 +22,21 @@ a {
 	color: gold ;
 }
 
-.tagcloud a {
-	color: darkorange ;
+#tagcloud {
+	list-style: none ;
+	text-align: center ;
+}
+
+#tagcloud li {
+	display: inline-block ;
+}
+
+#tagcloud a {
+	margin: .1em .25em ;
+}
+
+a:hover {
+	color: beige ;
 }
 
 a:visited {

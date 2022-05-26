@@ -48,7 +48,6 @@ document.addEventListener('DOMContentLoaded', () => {
       el.classList.remove('matched-recipe');
     })
 
-    ul.classList.remove('is-filtered');
     artlist.classList.remove('list-searched') ;
   })
 })

@@ -1,8 +1,8 @@
 ---
 title: "Lavacake"
-date: 17-05-2022
-author: benjamin-h.
-tags: ['Chocolate', 'Dessert', 'Quick']
+date: 2022-05-17
+author: benjamin-h
+tags: ['chocolate', 'dessert', 'quick']
 ---
 
 ![lavacake](/pix/lavacake.webp)
@@ -24,5 +24,5 @@ Easily made chocolate dessert with fluid chocolate content. The only requirement
 2. Heat the oven for 200°C.
 3. Mix all of the ingredients.
 4. Fill dough in the baking tins pits.
-5. Bake for 7 min. in the oven at 200°C. 
+5. Bake for 7 min. in the oven at 200°C.
 6. Serve hot with berries and vanilla ice-creame.

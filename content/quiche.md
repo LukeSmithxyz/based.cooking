@@ -1,8 +1,8 @@
 ---
 title: Quiche Lorraine - Lothringer Käsetorte
-date: 16-05-2022
+date: 2022-05-17
 author: benjamin-h
-tags: ['cheese', 'French', 'Ham']
+tags: ['cheese', 'French', 'ham']
 ---
 
 - ⏲️ Prep time: 160 min

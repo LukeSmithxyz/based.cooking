@@ -21,7 +21,11 @@ document.addEventListener('DOMContentLoaded', () => {
   search.addEventListener('input', e => {
     // grab search input value
     const searchText = e.target.value.toLowerCase()
+
+    const hasFilter = searchText.length > 0;
+
     // for each recipe hide all but matched
+    let matchCount = 0;
     rec.forEach(el => {
       const recipeName = el.innerText.toLowerCase()
       const isMatch = recipeName.includes(searchText)

@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // for each recipe hide all but matched
     let matchCount = 0;
     rec.forEach(el => {
-      const recipeName = el.innerText.toLowerCase()
+      const recipeName = el.textContent.toLowerCase()
       const isMatch = recipeName.includes(searchText)
 
       el.hidden = !isMatch

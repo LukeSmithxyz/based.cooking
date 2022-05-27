@@ -157,3 +157,81 @@ button.clear-search:hover {
 	column-count: 1 !important ;
 	list-style: decimal ;
 }
+
+#tag_alcohol:before { content: "🍺" ;}
+#tag_american:before { content: "🇺🇸" ; }
+#tag_australian:before { content: "🇦🇺" ;}
+#tag_austrian:before { content: "🇦🇹" ;}
+#tag_bacon:before { content: "🥓" ; }
+#tag_beans:before { content: "🫘" ; }
+#tag_beef:before { content: "🐄" ; }
+#tag_belgian:before { content: "🇧🇪" ; }
+#tag_brazilian:before { content: "🇧🇷" ; }
+#tag_bread:before { content: "🍞" ;}
+#tag_breakfast:before { content: "🌅" ;}
+#tag_broccoli:before { content: "🥦" ;}
+#tag_cake:before { content: "🍰" ; }
+#tag_cheese:before { content: "🧀" ; }
+#tag_chicken:before { content: "🐔" ;}
+#tag_chinese:before { content: "🐉" ; }
+#tag_chocolate:before { content: "🍫" ; }
+#tag_cookies:before { content: "🍪" ;}
+#tag_corn:before { content: "🌽" ;}
+#tag_curry:before { content: "🍛" ; }
+#tag_dominican:before { content: "🇩🇴" ;}
+#tag_drink:before { content: "🍹" ;}
+#tag_dumpling:before { content: "🥟" ;}
+#tag_dutch:before { content: "🇳🇱" ;}
+#tag_eggs:before { content: "🥚" ; }
+#tag_english:before { content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" ; }
+#tag_fasting:before { content: "☦️" ; }
+#tag_fish:before { content: "🐟" ; }
+#tag_french:before { content: "🇫🇷" ; }
+#tag_fruit:before { content: "🍇" ; }
+#tag_german:before { content: "🇩🇪" ; }
+#tag_greek:before { content: "🇬🇷" ; }
+#tag_indian:before { content: "🇮🇳" ; }
+#tag_irish:before { content: "🇮🇪" ; }
+#tag_israeli:before { content: "🇮🇱" ; }
+#tag_italian:before { content: "🇮🇹" ; }
+#tag_japanese:before { content: "🇯🇵" ; }
+#tag_lebanese:before { content: "🇱🇧" ; }
+#tag_lemons:before { content: "🍋" ;}
+#tag_mediterranean:before { content: "🫒" ; }
+#tag_mexican:before { content: "🇲🇽" ; }
+#tag_milk:before { content: "🥛" ; }
+#tag_mushrooms:before { content: "🍄" ;}
+#tag_pancake:before { content: "🥞" ; }
+#tag_pasta:before { content: "🍝" ;}
+#tag_pastry:before { content: "🧁" ;}
+#tag_peruvian:before { content: "🇵🇪" ;}
+#tag_pie:before { content: "🥧" ;}
+#tag_pizza:before { content: "🍕" ; }
+#tag_polish:before { content: "🇵🇱" ;}
+#tag_pork:before { content: "🐖" ;}
+#tag_portuguese:before { content: "🇵🇹" ;}
+#tag_potato:before { content: "🥔" ; }
+#tag_quebec:before { content: "⚜️" ; }
+#tag_quick:before { content: "🏃" ; }
+#tag_raw:before { content: "🍖" ;}
+#tag_rice:before { content: "🍚" ; }
+#tag_russian:before { content: "🇷🇺" ;}
+#tag_salad:before { content: "🥗" ;}
+#tag_sandwich:before { content: "🥪" ;}
+#tag_seafood:before { content: "🦐" ; }
+#tag_soup:before { content: "🍜" ;}
+#tag_sourdough:before { content: "🥖" ;}
+#tag_spanish:before { content: "🇪🇸" ; }
+#tag_spicy:before { content: "🌶️" ; }
+#tag_steak:before { content: "🥩" ; }
+#tag_stew:before { content: "🍲" ; }
+#tag_swedish:before { content: "🇸🇪" ; }
+#tag_sweet:before { content: "🎂" ; }
+#tag_texmex:before { content: "🤠" ; }
+#tag_thai:before { content: "🇹🇭" ;}
+#tag_tomato:before { content: "🍅" ;}
+#tag_turkey:before { content: "🦃" ; }
+#tag_turkish:before { content: "🇹🇷" ; }
+#tag_ukrainian:before { content: "🇺🇦" ; }
+#tag_vietnamese:before { content: "🇻🇳" ; }
+#tag_wine:before { content: "🍷" ; }

@@ -156,6 +156,8 @@ button.clear-search:hover {
 .list-searched {
 	column-count: 1 !important ;
 	list-style: decimal ;
+	max-width: 600px ;
+	margin: auto ;
 }
 
 #tag_alcohol:before { content: "🍺" ;}

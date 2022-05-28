@@ -25,6 +25,7 @@ a {
 #tagcloud {
 	list-style: none ;
 	text-align: center ;
+	padding: 0 ;
 }
 
 #tagcloud li {

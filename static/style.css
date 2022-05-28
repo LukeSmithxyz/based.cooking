@@ -55,8 +55,10 @@ h2 {
 }
 
 footer {
-	margin: 3em ;
 	text-align: center ;
+	border-style: solid ;
+	border-width: 2px 0px 0px 0px ;
+	padding: 1em ;
 }
 
 img {
@@ -162,6 +164,7 @@ button.clear-search:hover {
 
 #tag_alcohol:before { content: "🍺" ;}
 #tag_american:before { content: "🇺🇸" ; }
+#tag_asian:before { content: "🥢" ; }
 #tag_australian:before { content: "🇦🇺" ;}
 #tag_austrian:before { content: "🇦🇹" ;}
 #tag_bacon:before { content: "🥓" ; }
@@ -182,11 +185,13 @@ button.clear-search:hover {
 #tag_curry:before { content: "🍛" ; }
 #tag_dominican:before { content: "🇩🇴" ;}
 #tag_drink:before { content: "🍹" ;}
+#tag_duck:before { content: "🦆" ; }
 #tag_dumpling:before { content: "🥟" ;}
 #tag_dutch:before { content: "🇳🇱" ;}
 #tag_eggs:before { content: "🥚" ; }
 #tag_english:before { content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" ; }
 #tag_fasting:before { content: "☦️" ; }
+#tag_filipino:before { content: "🇵🇭" ; }
 #tag_fish:before { content: "🐟" ; }
 #tag_french:before { content: "🇫🇷" ; }
 #tag_fruit:before { content: "🍇" ; }
@@ -223,13 +228,14 @@ button.clear-search:hover {
 #tag_seafood:before { content: "🦐" ; }
 #tag_soup:before { content: "🍜" ;}
 #tag_sourdough:before { content: "🥖" ;}
+#tag_southwest:before { content: "🤠" ; }
 #tag_spanish:before { content: "🇪🇸" ; }
 #tag_spicy:before { content: "🌶️" ; }
 #tag_steak:before { content: "🥩" ; }
 #tag_stew:before { content: "🍲" ; }
 #tag_swedish:before { content: "🇸🇪" ; }
-#tag_sweet:before { content: "🎂" ; }
-#tag_texmex:before { content: "🤠" ; }
+#tag_sweet:before { content: "🍯" ; }
+#tag_swiss:before { content: "🇨🇭" ; }
 #tag_thai:before { content: "🇹🇭" ;}
 #tag_tomato:before { content: "🍅" ;}
 #tag_turkey:before { content: "🦃" ; }

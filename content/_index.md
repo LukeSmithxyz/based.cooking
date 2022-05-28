@@ -4,6 +4,12 @@ title: "🍲 Based Cooking 🍳"
 
 ## What do you want to cook?
 
+<noscript>
+<style>
+.search { display: none; }
+</style>
+</noscript>
+
 <div class="search">
   <input type="text" id="search" placeholder="Search...">
   <button class="clear-search">

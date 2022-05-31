@@ -23,6 +23,19 @@ document.addEventListener('DOMContentLoaded', () => {
   const search = document.querySelector('#search')
   const clearSearch = document.querySelector('.clear-search')
   const artlist = document.getElementById('artlist')
+  
+  document.addEventListener('keydown', function(e) {
+    // if search already focused do nothing
+    if (search === document.activeElement) return;
+
+    // if key pressed is '/'
+    if (e.keyCode ===  191) {
+        search.focus();
+
+        // preventDefault so '/' is not added to search value
+        e.preventDefault();
+    }
+  })
 
   search.addEventListener('input', e => {
     // grab search input value

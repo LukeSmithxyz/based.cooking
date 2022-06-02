@@ -24,3 +24,7 @@ A raw carrot salad to support digestive, hormone and thyroid health
 ## Directions
 
 Grate the carrot and rinse out under water. Then mix with coconut oil and vinegar, I also like to add a pinch or two of salt.
+
+## Contribution
+
+- [Rami Shafikov](https://shafikov.ca)

@@ -4,6 +4,8 @@ tags: ['basic', 'snack', 'spread', 'traditional']
 date: 2022-04-16
 ---
 
+![Tzatziki](/pix/tzatziki.webp)
+
 A traditional greek dip that goes well with crackers, celery and carrots. Great for parties and sharing with your family friends.
 
 - ⏲️ Prep time: 2 min

@@ -191,6 +191,7 @@ button.clear-search:hover {
 #tag_duck:before { content: "🦆" ; }
 #tag_dumpling:before { content: "🥟" ;}
 #tag_dutch:before { content: "🇳🇱" ;}
+#tag_easter:before { content: "✝️" ; }
 #tag_eggs:before { content: "🥚" ; }
 #tag_english:before { content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" ; }
 #tag_fasting:before { content: "☦️" ; }
@@ -235,6 +236,7 @@ button.clear-search:hover {
 #tag_sourdough:before { content: "🥖" ;}
 #tag_southwest:before { content: "🤠" ; }
 #tag_spanish:before { content: "🇪🇸" ; }
+#tag_spice:before { content: "🧂" ; }
 #tag_spicy:before { content: "🌶️" ; }
 #tag_spread:before { content: "🧈" ; }
 #tag_steak:before { content: "🥩" ; }

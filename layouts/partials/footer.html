@@ -2,7 +2,7 @@
             {{ $tagsLen := len .Params.tags }}
             {{ if gt $tagsLen 0 }}
         <div class=taglist>
-            See related:</br>
+            See related:<br>
                 {{ range $k, $v := .Params.tags }}
                 {{ $url := printf "tags/%s" (. | urlize | lower) }}
                 <a id="tag_{{ . }}" href="{{ $url | absURL }}">{{ . | title }}</a>
@@ -13,7 +13,7 @@
         {{ end }}
     </main>
     <footer><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a><br>
-        All site content is in the public domain.</br>
+        All site content is in the public domain.<br>
         <a href="/index.xml"><img src="/pix/rss.svg" style="max-height:.9em;display:inline" alt="RSS"> Subscribe via RSS for New Recipes</a></footer>
 </body>
 </html>

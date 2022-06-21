@@ -1,11 +1,11 @@
 ---
-title: Potato Soup (Dairy)
+title: Potato Soup
 tags: ['potato', 'milk', 'soup']
 date: 2022-05-19
 author: "Matthew"
 ---
 
-For the lactose tolerant. Serves many people or one person for many days.
+Serves many people or one person for many days.
 
 ## Ingredients
 

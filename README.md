@@ -62,6 +62,17 @@ they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, et
 Note also that images should have links beginning with a slash in this use
 case, i.e. `/pix/...`.
 
+## Building from source
+If you need to build this project from source, e.g. for debugging purposes, run the following:
+```sh
+git clone https://github.com/LukeSmithxyz/based.cooking.git
+git clone https://github.com/LukeSmithxyz/lugo.git based.cooking/themes/lugo
+
+cd based.cooking
+hugo server -D
+```
+For more information on how to work with Hugo, please refer to [their official documentation](https://gohugo.io/documentation/).
+
 ## License
 
 This website and all its content is in the public domain.

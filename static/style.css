@@ -251,3 +251,22 @@ button.clear-search:hover {
 #tag_ukrainian:before { content: "🇺🇦" ; }
 #tag_vietnamese:before { content: "🇻🇳" ; }
 #tag_wine:before { content: "🍷" ; }
+
+.cryptocontainer {
+    display: flex ;
+    flex-wrap: wrap ;
+    justify-content: center ;
+}
+.cryptoinfo {
+    max-width: 350px ;
+    text-align: center ;
+    padding-left: 10px ;
+    padding-right: 10px ;
+}
+.cryptoinfo code {
+	font-size: small ;
+	overflow-wrap: break-word ;
+}
+.qr {
+    max-height: 150px; ;
+}

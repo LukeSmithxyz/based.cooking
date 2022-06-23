@@ -1,6 +1,6 @@
 ---
 title: Puff Pastry
-tags: ['Dough', 'Fasting', 'Pastry']
+tags: ['Dough', 'cheesefare', 'Pastry']
 date: 2022-06-23
 author: "Nic Trib"
 ---
@@ -26,9 +26,3 @@ A basic puff pastry recipe that can replace any recipe that calls for puff pastr
 4. Repeat rolling and folding two more times, then refrigerate again until firm. 
 5. Repeat two or more times until the dough was rolled roughly 6 times, then wrap and refrigerate. The dough can now be used in recipes calling for puff pastry. Roll out thin, about 1/4 inch, and bake at 400 degrees F for best results.
 
-
-Note that you can create a `your-name.json` file in `data/authors` to add
-personal links and donation addresses if you want more specific credit. If you
-do this, for the `author:` line the in the metadata, include the bare file name
-of the json file. For example, my file is `data/authors/luke-smith.json`, so I
-would put `author: luke-smith`.

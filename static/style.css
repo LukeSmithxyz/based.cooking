@@ -270,3 +270,5 @@ button.clear-search:hover {
 .qr {
     max-height: 150px; ;
 }
+
+.js-only { display: none ; }

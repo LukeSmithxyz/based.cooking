@@ -15,7 +15,7 @@ A "merienda" (afternoon meal) that is intertwined with the history of colonizati
 
 - 1.1 pound (1/2 kilo) of all-purpose flour.
 - 4 tablespoons of lard or butter.
-- 1/2 cup of water mixed with 2 tablespoons of salt.
+- 1/2 cup of water mixed with a teaspoon of salt.
 - Oil or grease of choice for frying. (Modern Argentines use refined tallow or sunflower seed oil, but for the real gaucho way, unrefined lard or tallow is the right choice) 
 - Sugar, cinnamon, or herbs and spices of choice (Optional)
 

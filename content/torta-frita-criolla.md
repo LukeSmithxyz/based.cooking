@@ -25,5 +25,5 @@ A "merienda" (afternoon meal) that is intertwined with the history of colonizati
 2. Mix flour and grease with your fingertips, while slowly adding the salt water, until you end up with a dough ball.
 3. Knead it energically, until the dough forms bubbles on its surface.
 4. Let it rest for 1 or 2 hours, and then form little balls, the size you'd do for a chocolate chip cookie, smash them to a disc shape, then poke a small hole in the middle. 
-5. Fry it on abundant grease, remove it with a perforated spoon, then put it on a bowl with paper towels to absorb excess grease.
+5. Fry it on abundant grease until golden brown, remove it with a perforated spoon, then put it on a bowl with paper towels to absorb excess grease.
 6. Add garnishes, but it is not essential, due to how rich and filling the dish is. 

@@ -30,4 +30,4 @@ jobs:
           cd repo
           git stash
           git pull --force origin master
-          hugo -s . -t /var/www/lugo -d ../based.cooking/
+          hugo -s . -t /var/www/lugo -d ~/based.cooking/ --cacheDir ~/hugocache

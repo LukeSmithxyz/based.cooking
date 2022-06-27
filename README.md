@@ -5,6 +5,8 @@
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 
+This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
+
 ## Ways to contribute
 
 - By adding a recipe.

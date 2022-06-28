@@ -42,5 +42,5 @@ author: 'prox'
 4. Drain any excess grease and add spices. Stir together and cook ~30 seconds.
 5. Mix tomato paste with enough water to create a viscous tomato sauce. Add sauce to meat and simmer 2-3 minutes before setting aside.
 6. In a saucepan melt the butter and add the flour. Cook 2-3 mins until no longer starchy, whisking frequently. Add milk gradually and whisk continuously. Add stock and cook until sauce is thickened.  Add nutmeg and season to taste.
-7. Add thin béchamel layer to bottom of casserole dish and assemble as follows: half pasta, all the meat sauce, 2nd half of pasta, rest of béchamel.
+7. Add thin béchamel layer to bottom of casserole dish and assemble as follows: half pasta, all the meat sauce, 2nd half of pasta, rest of béchamel and cheese.
 8. Bake covered for 45 minutes, removing lid last 5-10 minutes to brown top.  Let cool 15 minutes.

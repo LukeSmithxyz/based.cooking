@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Based Cooking'
 theme = 'lugo'
 
+[params]
+  favicon = "/favicon.svg"
+  stylesheet = "/style.css"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

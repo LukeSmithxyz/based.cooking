@@ -1,11 +1,11 @@
 ---
-title: Croque-monsieur / Croque Monsieur bites
+title: Croque-monsieur bites
 tags: ['quick','Cheese', 'French']
 date: 2022-06-24
 author: "SofianeHamlaoui"
 ---
 
-![croquemsr](https://assets.afcdn.com/recipe/20170112/28965_w1024h768c1cx1500cy1000.webp)
+![croquemsr](/pix/croque-monsieur.webp)
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 10 min

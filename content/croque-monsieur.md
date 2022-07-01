@@ -1,6 +1,6 @@
 ---
 title: Croque-monsieur bites
-tags: ['quick','Cheese', 'French']
+tags: ['quick','cheese', 'french']
 date: 2022-06-24
 author: "SofianeHamlaoui"
 ---

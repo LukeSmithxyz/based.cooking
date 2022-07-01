@@ -1,6 +1,6 @@
 ---
 title: Torta Frita Criolla (Argentinian frybread)
-tags: ['🇦🇷 Argentinian', 'Fry', 'Bread']
+tags: ['argentinian', 'fry', 'bread']
 date: 2022-06-23
 author: "bernardo-slongo"
 ---

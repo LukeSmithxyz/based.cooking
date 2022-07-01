@@ -166,6 +166,7 @@ button.clear-search:hover {
 
 #tag_alcohol:before { content: "🍸" ;}
 #tag_american:before { content: "🇺🇸" ; }
+#tag_argentinian:before { content: "🇦🇷" ; }
 #tag_asian:before { content: "🥢" ; }
 #tag_australian:before { content: "🇦🇺" ;}
 #tag_austrian:before { content: "🇦🇹" ;}

@@ -13,6 +13,8 @@ description: 'The fast-loading recipe site with cooking only and no ads.'
 </div>
 
 <script>
+// @license magnet:?xt=urn:btih:5ac446d35272cc2e4e85e4325b146d0b7ca8f50c&dn=unlicense.txt Unlicense
+
 document.addEventListener('DOMContentLoaded', () => {
   for (e of document.getElementsByClassName("js-only")) {
         e.classList.remove("js-only")
@@ -54,6 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
     artlist.classList.remove('list-searched') ;
   })
 })
+// @license-end
 </script>
 
 {{< artlist >}}

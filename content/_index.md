@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   search.addEventListener('input', e => {
     // grab search input value
-    const searchText = e.target.value.toLowerCase()
+    const searchText = e.target.value.toLowerCase().trim()
 
     const hasFilter = searchText.length > 0;
 

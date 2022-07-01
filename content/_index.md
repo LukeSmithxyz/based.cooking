@@ -28,15 +28,16 @@ document.addEventListener("DOMContentLoaded", () => {
   search.addEventListener("input", () => {
     // grab search input value
     const searchText = search.value.toLowerCase().trim();
+    const searchTerms = searchText.split(" ");
     const hasFilter = searchText.length > 0;
 
     artlist.classList.toggle("list-searched", hasFilter);
 
     // for each recipe hide all but matched
-    let matchCount = 0;
     recipes.forEach(recipe => {
       const recipeName = recipe.textContent.toLowerCase();
-      const isMatch = searchText.split(' ').every(term => recipeName.includes(term));
+      const isMatch = searchTerms.every(term => recipeName.includes(term));
+
       recipe.hidden = !isMatch;
       recipe.classList.toggle("matched-recipe", hasFilter && isMatch);
     })

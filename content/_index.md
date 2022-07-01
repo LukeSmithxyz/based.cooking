@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let matchCount = 0;
     rec.forEach(el => {
       const recipeName = el.textContent.toLowerCase()
-      const isMatch = recipeName.includes(searchText)
+      const isMatch = searchText.split(' ').every(term => recipeName.includes(term))
 
       el.hidden = !isMatch
       el.classList.toggle('matched-recipe', isMatch && searchText.length !== 0);

@@ -7,7 +7,7 @@ description: 'The fast-loading recipe site with cooking only and no ads.'
 
 <div class="search js-only">
   <input type="text" id="search" placeholder="Search...">
-  <button class="clear-search">
+  <button id="clear-search">
     <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Backspace</title><path d="M135.19 390.14a28.79 28.79 0 0021.68 9.86h246.26A29 29 0 00432 371.13V140.87A29 29 0 00403.13 112H156.87a28.84 28.84 0 00-21.67 9.84v0L46.33 256l88.86 134.11z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M336.67 192.33L206.66 322.34M336.67 322.34L206.66 192.33M336.67 192.33L206.66 322.34M336.67 322.34L206.66 192.33"></path></svg>
   </button>
 </div>
@@ -15,45 +15,41 @@ description: 'The fast-loading recipe site with cooking only and no ads.'
 <script>
 // @license magnet:?xt=urn:btih:5ac446d35272cc2e4e85e4325b146d0b7ca8f50c&dn=unlicense.txt Unlicense
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener("DOMContentLoaded", () => {
   for (e of document.getElementsByClassName("js-only")) {
-        e.classList.remove("js-only")
+    e.classList.remove("js-only");
   }
-  const rec = document.querySelectorAll('#artlist li')
-  const search = document.querySelector('#search')
-  const clearSearch = document.querySelector('.clear-search')
-  const artlist = document.getElementById('artlist')
 
-  search.addEventListener('input', e => {
+  const recipes = document.querySelectorAll("#artlist li");
+  const search = document.getElementById("search");
+  const clearSearch = document.getElementById("clear-search");
+  const artlist = document.getElementById("artlist");
+
+  search.addEventListener("input", () => {
     // grab search input value
-    const searchText = e.target.value.toLowerCase().trim()
-
+    const searchText = search.value.toLowerCase().trim();
     const hasFilter = searchText.length > 0;
 
+    artlist.classList.toggle("list-searched", hasFilter);
+
     // for each recipe hide all but matched
-    let matchCount = 0;
-    rec.forEach(el => {
-      const recipeName = el.textContent.toLowerCase()
-      const isMatch = searchText.split(' ').every(term => recipeName.includes(term))
+    recipes.forEach(recipe => {
+      const recipeName = recipe.textContent.toLowerCase();
+      const isMatch = searchText.split(' ').every(term => recipeName.includes(term));
 
-      el.hidden = !isMatch
-      el.classList.toggle('matched-recipe', isMatch && searchText.length !== 0);
-      if (hasFilter && isMatch) {
-        matchCount++;
-      }
+      recipe.hidden = !isMatch;
+      recipe.classList.toggle("matched-recipe", hasFilter && isMatch);
     })
-
-    artlist.classList.toggle('list-searched', matchCount > 0);
   })
 
-  clearSearch.addEventListener('click', e => {
-    search.value = ''
-    rec.forEach(el => {
-      el.hidden = false
-      el.classList.remove('matched-recipe');
+  clearSearch.addEventListener("click", () => {
+    search.value = "";
+    recipes.forEach(recipe => {
+      recipe.hidden = false;
+      recipe.classList.remove("matched-recipe");
     })
 
-    artlist.classList.remove('list-searched') ;
+    artlist.classList.remove("list-searched");
   })
 })
 // @license-end

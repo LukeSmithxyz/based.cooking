@@ -137,7 +137,7 @@ input#search {
   display: flex;
 }
 
-button.clear-search {
+button#clear-search {
   all: unset;
   position: absolute;
   right: 4px;
@@ -148,7 +148,7 @@ button.clear-search {
   cursor: pointer;
   transition: color 180ms ease-in-out;
 }
-button.clear-search:hover {
+button#clear-search:hover {
   color: #eee;
 }
 

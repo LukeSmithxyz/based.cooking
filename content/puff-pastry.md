@@ -1,6 +1,6 @@
 ---
 title: Puff Pastry
-tags: ['Dough', 'cheesefare', 'Pastry']
+tags: ['dough', 'cheesefare', 'pastry']
 date: 2022-06-23
 author: "Nic Trib"
 ---

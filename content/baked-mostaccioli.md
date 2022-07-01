@@ -2,12 +2,12 @@
 title: "Baked Mostaccioli"
 date: 2021-03-21
 tags: ['pasta', 'italian']
-author: "Dan and Zyansheep"
+author: "zyansheep"
 ---
 
 ![baked mostaccioli in bowl](/pix/baked-mostaccioli-00.webp "Baked Mostaccioli in Bowl")
 
-Baked pasta cooked in dish with spicy sauce
+Pasta baked in dish with spicy sauce
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 15-20 min

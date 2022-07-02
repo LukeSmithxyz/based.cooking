@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   search.addEventListener("input", () => {
     // grab search input value
-    const searchText = search.value.toLowerCase().trim();
+    const searchText = search.value.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, "");
     const searchTerms = searchText.split(" ");
     const hasFilter = searchText.length > 0;
 
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // for each recipe hide all but matched
     recipes.forEach(recipe => {
-      const searchString = `${recipe.textContent} ${recipe.dataset.tags}`.toLowerCase();
+      const searchString = `${recipe.textContent} ${recipe.dataset.tags}`.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, "");
       const isMatch = searchTerms.every(term => searchString.includes(term));
 
       recipe.hidden = !isMatch;

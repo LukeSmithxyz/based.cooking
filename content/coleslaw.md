@@ -18,7 +18,7 @@ This is a coleslaw recipe that I got from a chili restaurant in my neighborhood 
 - 3 tbsp lemon juice
 - 3 tbsp apple cider vinegar
 - 4 tbsp distilled vinegar
-- 1/3 cup canola oil
+- 1/3 cup olive oil
 - 1/4 cup granulated sugar
 - 1 1/2 tsp kosher salt
 - 1 tsp ground black pepper
@@ -33,7 +33,7 @@ This is a coleslaw recipe that I got from a chili restaurant in my neighborhood 
 
 1. Finely shred, rinse, and drain the carrot
 2. Finely shred the cabbage (use a food processor if possible)
-3. Whisk together the mayonnaise, buttermilk, lemon juice, cider vinegar, distilled vinegar, canola oil, and sugar
+3. Whisk together the mayonnaise, buttermilk, lemon juice, cider vinegar, distilled vinegar, olive oil, and sugar
 4. Add the salt, pepper, celery seeds, onion powder, and granulated garlic, and combine well
 5. Combine the shredded cabbage and carrot in a separate bowl
 6. Slowly add the dressing until it lightly coats the vegetables, and toss well. Add more dressing until it tastes good

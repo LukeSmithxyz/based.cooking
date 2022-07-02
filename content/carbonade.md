@@ -21,9 +21,9 @@ The smoked bacon is not in the traditional recipe but it's good. Don't add it if
 - diced smoked bacon: 250g | 1/2lb (optional)
 - mustard
 - butter
-- vegetable oil
+- olive oil
 - thyme
-- cloves(not garlic cloves, just cloves): 5
+- cloves (not garlic cloves, just cloves): 5
 - juniper berries: 5
 - bay leaves: 2
 
@@ -31,7 +31,7 @@ The smoked bacon is not in the traditional recipe but it's good. Don't add it if
 
 1. Cut meat into big chunks
 2. Dice onions
-3. Sear the meat on high heat in a large stainless or cast iron pot until golden brown, using vegetable oil. Don't overcrowd the pot. Meanwhile, start sweating the onions in a pan, with the butter, and the smoked bacon.
+3. Sear the meat on high heat in a large stainless or cast iron pot until golden brown, using olive oil. Don't overcrowd the pot. Meanwhile, start sweating the onions in a pan, with the butter, and the smoked bacon.
 4. Set meat aside, deglaze the pot with a bit of beer, put in the onions, bacons and the brown sugar.
 5. Once the sugar is melted and the pot is deglazed properly, put the meat back in.
 6. Pour the rest of the beer into the pot.

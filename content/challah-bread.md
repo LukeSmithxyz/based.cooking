@@ -22,7 +22,7 @@ NOTE: Prep time does not account for the 3-4 hours the dough must be left to ris
 - 3 eggs
 - 1 tablespoon salt
 - 1 tablespoon poppy seeds
-- 4 tablespoons vegetable oil
+- 4 tablespoons olive oil
 
 ## Directions
 

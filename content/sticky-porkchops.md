@@ -27,5 +27,5 @@ Simple chinese inspired sticky porkchops.
 3. Place your porkchops in the dish, then flip them.
 4. Cover the dish with clingfilm, then chill in the fridge for 1h 30mins.
 5. Take the dish out of the fridge, flip the porkchops, then recover the dish and chill for a further 1h 30mins.
-6. Heat some olive oil (vegetable oil should be fine too) in a pan over medium heat, then place your porkchops in the pan and cook for 10-15mins or until cooked through.
+6. Heat some olive oil in a pan over medium heat, then place your porkchops in the pan and cook for 10-15mins or until cooked through.
 7. Take the porkchops out the pan, then rest for a couple of minutes before slicing and serving.

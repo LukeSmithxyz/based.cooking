@@ -3,7 +3,7 @@
 [https://based.cooking](https://based.cooking)
 
 This is a simple cooking website where users can submit recipes here for credit.
-There are no ads, trackers, cookies (unless recipes thereof).
+There are no ads, trackers or cookies (unless recipes thereof).
 
 This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
 

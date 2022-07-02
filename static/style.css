@@ -20,6 +20,7 @@ body {
 
 a {
 	color: gold ;
+	text-decoration: none ;
 }
 
 #tagcloud {
@@ -111,6 +112,22 @@ img[alt="XMR Logo"] {
 
 }
 
+.older-article {
+	display: none ;
+}
+
+.hidden {
+	display: none !important ;
+}
+
+#artlist {
+	font-size: large ;
+}
+
+#artlist li {
+	padding: .25em ;
+}
+
 @media (min-width: 55em) {
 	#artlist { column-count: 2 ;}
 }
@@ -155,6 +172,7 @@ button#clear-search:hover {
 
 .matched-recipe {
 	font-size: x-large ;
+	display: block !important ;
 }
 
 .list-searched {

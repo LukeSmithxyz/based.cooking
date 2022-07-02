@@ -1,6 +1,6 @@
 ---
 title: "Fennel White Bean and Kale Soup"
-date: 2022-07-1
+date: 2022-07-01
 tags: ['soup', 'vegetables', 'beans']
 author: "zyansheep"
 ---

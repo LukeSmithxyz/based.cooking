@@ -35,8 +35,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // for each recipe hide all but matched
     recipes.forEach(recipe => {
-      const recipeName = recipe.textContent.toLowerCase();
-      const isMatch = searchTerms.every(term => recipeName.includes(term));
+      const searchString = `${recipe.textContent} ${recipe.dataset.tags}`.toLowerCase();
+      const isMatch = searchTerms.every(term => searchString.includes(term));
 
       recipe.hidden = !isMatch;
       recipe.classList.toggle("matched-recipe", hasFilter && isMatch);

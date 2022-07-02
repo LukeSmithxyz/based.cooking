@@ -39,7 +39,7 @@ Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) 
 6.	Salt and pepper both sides of the roast before placing the roast fat side down and spreading the paste over the roast leaving about a 2 inch gap on one side.
 7.	Roll tightly towards the 2 inch gap and use butchers twine to secure the roll. Place a knot every inch or so.
 8.	Bake at 275°F (135°C) for 2 hours or until internal temperature reads 135°F (57°C) in the thickest part.
-9.	Add vegetable oil to cast iron skillet and heat on high until ripping hot. Cut remaining lemon in half. Brown all sides of pork roast and lemon using tongs.
+9.	Add olive oil to cast iron skillet and heat on high until ripping hot. Cut remaining lemon in half. Brown all sides of pork roast and lemon using tongs.
 10.	Juice the lemon into the remaining oil from the garlic/rosemary herb spread. Add freshly chopped parsley. Whisk with fork until emulsified. Season with salt and pepper.
 11.	Slice roast into ½ inch thick slices and top with lemon herb vinaigrette.
 

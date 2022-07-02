@@ -16,7 +16,7 @@ This recipe is a simplified version of AB's Seafood Gumbo -- [youtube]
 - 2-3 lbs Shrimp
 - 2 lbs Andouille Sausage
 - 2 (32 oz) Chicken Broth
-- 1 cup Vegetable or Canola Oil
+- 1 cup olive oil
 - 1 cup All Purpose Flour
 - 1 cup finely chopped Yellow Onion
 - 1 cup finely chopped Green Pepper

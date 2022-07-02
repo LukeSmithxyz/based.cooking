@@ -19,7 +19,7 @@ Asian style crispy coated chicken with sweetish sauce recipe. Served with boiled
 - 10 tbsp all-purpose flour
 - 1/2 tsp garlic powder
 - 2 tsp paprika powder
-- Around 5 tbsp of vegetable oil for frying the chicken
+- Around 5 tbsp of sesame oil for frying the chicken
 
 ### Sauce
 

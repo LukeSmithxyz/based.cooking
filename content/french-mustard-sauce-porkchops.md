@@ -18,7 +18,7 @@ French bistrot style porkchops with a mustard, white wine and gherkins sauce. Ve
 - brown stock: 100ml | 1/2 cup
 - mustard: 2tbsp
 - butter
-- vegetable oil
+- olive oil
 
 ## Directions
 

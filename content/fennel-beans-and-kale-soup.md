@@ -35,7 +35,7 @@ Hearty soup with lots of veggie and protein.
 ![after first step](/pix/fennel-bean-kale-soup-1.webp)
 4. Add one handful of greens at a time, stirring until leaves wilt.
 ![after second step](/pix/fennel-bean-kale-soup-2.webp)
-5. Add white beans, broth, and black pepper, 
+5. Add white beans, broth, and black pepper,
 6. Bring to boil then bring to simmer while mashing some of the beans with a wooden spoon. Simmer until liquid has reduced and simmered (6-8 mins)
 ![after third step](/pix/fennel-bean-kale-soup-3.webp)
 7. Take off heat, stir in lemon juice and parmesan. Serve with some toasted bread that is good at scooping up soup. Enjoy!

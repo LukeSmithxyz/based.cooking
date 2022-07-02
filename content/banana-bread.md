@@ -20,13 +20,13 @@ Not too sweet. Great for when you have friends over for tea.
 - 1 1/2 cups mashed bananas (this is around 4-5 bananas)
 - 2 eggs
 - 1 cup sugar (brown or white is fine)
-- 1/2 cup butter or vegetable oil
+- 1/2 cup butter
 - 1/4 cup crushed walnuts
 
 ## Directions
 
 1. Preheat oven to 350°F (175°C)
-2. Mix the wet ingredients (eggs, bananas, oil, sugar) in one bowl.
+2. Mix the wet ingredients (eggs, bananas, butter, sugar) in one bowl.
 3. Mix the dry ingredients (flour, baking soda/powder, spices, salt) in another
    bowl.
 4. Slowly add the wet to the dry while mixing.

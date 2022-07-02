@@ -28,7 +28,7 @@ Creamy french lobster soup perfect for the holidays, you can optionally replace 
 - 2 twigs of thyme
 - fresh parsley
 - heavy cream
-- canola oil
+- olive oil
 - 2 tbsp butter
 
 ## Directions

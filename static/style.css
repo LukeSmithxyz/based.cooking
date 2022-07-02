@@ -172,7 +172,7 @@ button#clear-search:hover {
 
 .matched-recipe {
 	font-size: x-large ;
-	display: block !important ;
+	display: list-item !important ;
 }
 
 .list-searched {

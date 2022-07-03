@@ -1,0 +1,294 @@
+body {
+	background: #151515 ;
+	color: navajowhite ;
+	max-width: 850px ;
+	margin: auto ;
+	padding: 0 16px ;
+	margin-bottom: 500px ;
+	scrollbar-color: gray #151515;
+	font-family: sans-serif ;
+}
+
+::-webkit-scrollbar {
+	width: .66vw;
+	background-color: #151515;
+}
+::-webkit-scrollbar-thumb {
+	background-color: gray;
+	border-radius: 5px;
+}
+
+a {
+	color: gold ;
+	text-decoration: none ;
+}
+
+#tagcloud {
+	list-style: none ;
+	text-align: center ;
+	padding: 0 ;
+}
+
+#tagcloud li {
+	display: inline-block ;
+}
+
+#tagcloud a {
+	margin: .1em .25em ;
+}
+
+a:visited {
+	color: darkgoldenrod ;
+}
+
+a:hover {
+	color: beige ;
+	text-decoration: underline;
+}
+
+h1 {
+	border-style: solid ;
+	border-width: 0px 0px 2px 0px ;
+	text-align: center ;
+}
+
+h2 {
+	color: tomato ;
+	text-align: center ;
+}
+
+footer {
+	margin-top: 3em ;
+	text-align: center ;
+	border-style: solid ;
+	border-width: 2px 0px 0px 0px ;
+	padding: 1em ;
+}
+
+img {
+	max-width: 90% ;
+	max-height: 400px ;
+	margin: auto ;
+	display: block ;
+}
+
+code {
+	overflow-wrap: break-word ;
+	color: lime ;
+}
+
+.taglist {
+	text-align: center ;
+	margin-bottom: 2em ;
+	margin-top: 2em ;
+}
+
+img[alt="BTC Logo"],
+img[alt="ETH Logo"],
+img[alt="XMR Logo"] {
+	max-width: 1em ;
+	max-height: 1em ;
+	display: inline ;
+}
+
+@media (pointer: coarse) {
+	li > a {
+	    display: inline-block;
+		padding: 0.2em 0;
+	}
+}
+
+@media print {
+	a[href] {
+		text-decoration: none ;
+		color: black ;
+	}
+
+	footer,.taglist { display: none ; }
+
+	body {
+		margin: 0;
+	}
+
+
+}
+
+.older-article {
+	display: none ;
+}
+
+.hidden {
+	display: none !important ;
+}
+
+#artlist {
+	font-size: large ;
+}
+
+#artlist li {
+	padding: .25em ;
+}
+
+@media (min-width: 55em) {
+	#artlist { column-count: 2 ;}
+}
+
+@media (min-width: 100em) {
+	#artlist { column-count: 3 ;}
+}
+
+
+input#search {
+  all: unset;
+  background: #222;
+  color: #fff;
+  padding: 0.7rem 1rem;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.search {
+  width: 400px;
+  max-width: 85vw;
+  position: relative;
+  margin: 0.5rem auto 1.2rem;
+  display: flex;
+}
+
+button#clear-search {
+  all: unset;
+  position: absolute;
+  right: 4px;
+  top: 5px;
+  height: 30px;
+  width: 30px;
+  color: #888;
+  cursor: pointer;
+  transition: color 180ms ease-in-out;
+}
+button#clear-search:hover {
+  color: #eee;
+}
+
+
+.matched-recipe {
+	font-size: x-large ;
+	display: list-item !important ;
+}
+
+.list-searched {
+	column-count: 1 !important ;
+	list-style: decimal ;
+	max-width: 600px ;
+	margin: auto ;
+}
+
+#tag_alcohol:before { content: "🍸" ;}
+#tag_american:before { content: "🇺🇸" ; }
+#tag_argentinian:before { content: "🇦🇷" ; }
+#tag_asian:before { content: "🥢" ; }
+#tag_australian:before { content: "🇦🇺" ;}
+#tag_austrian:before { content: "🇦🇹" ;}
+#tag_bacon:before { content: "🥓" ; }
+#tag_beans:before { content: "🫘" ; }
+#tag_beef:before { content: "🐄" ; }
+#tag_belgian:before { content: "🇧🇪" ; }
+#tag_brazilian:before { content: "🇧🇷" ; }
+#tag_bread:before { content: "🍞" ;}
+#tag_breakfast:before { content: "🌅" ;}
+#tag_broccoli:before { content: "🥦" ;}
+#tag_cake:before { content: "🍰" ; }
+#tag_cheese:before { content: "🧀" ; }
+#tag_chicken:before { content: "🐔" ;}
+#tag_chinese:before { content: "🐉" ; }
+#tag_chocolate:before { content: "🍫" ; }
+#tag_cookies:before { content: "🍪" ;}
+#tag_corn:before { content: "🌽" ;}
+#tag_curry:before { content: "🍛" ; }
+#tag_dessert:before { content: "🍮" ; }
+#tag_dominican:before { content: "🇩🇴" ;}
+#tag_drink:before { content: "🍹" ;}
+#tag_duck:before { content: "🦆" ; }
+#tag_dumpling:before { content: "🥟" ;}
+#tag_dutch:before { content: "🇳🇱" ;}
+#tag_easter:before { content: "✝️" ; }
+#tag_eggs:before { content: "🥚" ; }
+#tag_english:before { content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" ; }
+#tag_fasting:before { content: "☦️" ; }
+#tag_filipino:before { content: "🇵🇭" ; }
+#tag_fish:before { content: "🐟" ; }
+#tag_french:before { content: "🇫🇷" ; }
+#tag_fruit:before { content: "🍇" ; }
+#tag_german:before { content: "🇩🇪" ; }
+#tag_greek:before { content: "🇬🇷" ; }
+#tag_indian:before { content: "🇮🇳" ; }
+#tag_irish:before { content: "🇮🇪" ; }
+#tag_israeli:before { content: "🇮🇱" ; }
+#tag_italian:before { content: "🇮🇹" ; }
+#tag_japanese:before { content: "🇯🇵" ; }
+#tag_lebanese:before { content: "🇱🇧" ; }
+#tag_lemons:before { content: "🍋" ;}
+#tag_liquour:before { content: "🥃" ;}
+#tag_lunch:before { content: "🍱" ; }
+#tag_mediterranean:before { content: "🫒" ; }
+#tag_mexican:before { content: "🇲🇽" ; }
+#tag_milk:before { content: "🥛" ; }
+#tag_mushrooms:before { content: "🍄" ;}
+#tag_pancake:before { content: "🥞" ; }
+#tag_pasta:before { content: "🍝" ;}
+#tag_pastry:before { content: "🧁" ;}
+#tag_peruvian:before { content: "🇵🇪" ;}
+#tag_pie:before { content: "🥧" ;}
+#tag_pizza:before { content: "🍕" ; }
+#tag_polish:before { content: "🇵🇱" ;}
+#tag_pork:before { content: "🐖" ;}
+#tag_portuguese:before { content: "🇵🇹" ;}
+#tag_potato:before { content: "🥔" ; }
+#tag_quebec:before { content: "⚜️" ; }
+#tag_quick:before { content: "🏃" ; }
+#tag_raw:before { content: "🍖" ;}
+#tag_rice:before { content: "🍚" ; }
+#tag_russian:before { content: "🇷🇺" ;}
+#tag_salad:before { content: "🥗" ;}
+#tag_sandwich:before { content: "🥪" ;}
+#tag_seafood:before { content: "🦐" ; }
+#tag_soup:before { content: "🍜" ;}
+#tag_sourdough:before { content: "🥖" ;}
+#tag_southwest:before { content: "🤠" ; }
+#tag_spanish:before { content: "🇪🇸" ; }
+#tag_spice:before { content: "🧂" ; }
+#tag_spicy:before { content: "🌶️" ; }
+#tag_spread:before { content: "🧈" ; }
+#tag_steak:before { content: "🥩" ; }
+#tag_stew:before { content: "🍲" ; }
+#tag_swedish:before { content: "🇸🇪" ; }
+#tag_sweet:before { content: "🍯" ; }
+#tag_swiss:before { content: "🇨🇭" ; }
+#tag_thai:before { content: "🇹🇭" ;}
+#tag_tomato:before { content: "🍅" ;}
+#tag_turkey:before { content: "🦃" ; }
+#tag_turkish:before { content: "🇹🇷" ; }
+#tag_ukrainian:before { content: "🇺🇦" ; }
+#tag_vietnamese:before { content: "🇻🇳" ; }
+#tag_wine:before { content: "🍷" ; }
+
+.cryptocontainer {
+    display: flex ;
+    flex-wrap: wrap ;
+    justify-content: center ;
+}
+.cryptoinfo {
+    max-width: 350px ;
+    text-align: center ;
+    padding-left: 10px ;
+    padding-right: 10px ;
+}
+.cryptoinfo code {
+	font-size: small ;
+	overflow-wrap: break-word ;
+}
+.qr {
+    max-height: 150px; ;
+}
+
+.js-only { display: none ; }

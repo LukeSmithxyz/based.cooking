@@ -1,4 +1,9 @@
-# This is the dish title
+---
+title: Dish Title
+tags: ['beef', 'soup', 'german']
+date: 2022-02-20
+author: "Your Name"
+---
 
 If necessary, provide a very brief description of the dish in one or two sentences.
 For most dishes, this will be unnecessary.
@@ -27,20 +32,8 @@ You may also include prep/cook time and the number of servings as below:
 5. an image can be included between some directions if needed to explain something particular.
 6. But that should be kept to a minimum to reduce bandwidth and aid in simplicity.
 
-## Contribution
-
-Here, just put your name and links to yourself (maybe a website or donation link) if you want.
-You may say "Anonymous" or a screenname if desired.
-If you add something substantial to an already existing recipe (including an image) you may add your name below with the contribution in parens.
-
-Note that your commit name will be used to sign the recipe, so for full
-anonymity either commit with a name that can't be traced back to you, or ask
-someone else to commit for you.
-
-If you add a Bitcoin/Monero address, put it in "code" between \`'s, like below. This is for formatting, especially with long Monero addresses.
-
-- Luke Smith - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
-- Billy Smith - btc: `bc1q763s4ud0hgfa66ce64gyh6tsss49vyk5cqcm6w`
-- Sally Smith (photo credit) - [website](https://lukesmith.xyz), [donate](https://lukesmith.xyz/donate)
-
-;tags: tag1 tag2 tag3 (see README for tag guidelines)
+Note that you can create a `your-name.json` file in `data/authors` to add
+personal links and donation addresses if you want more specific credit. If you
+do this, for the `author:` line the in the metadata, include the bare file name
+of the json file. For example, my file is `data/authors/luke-smith.json`, so I
+would put `author: luke-smith`.

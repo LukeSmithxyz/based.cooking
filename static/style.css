@@ -37,12 +37,13 @@ a {
 	margin: .1em .25em ;
 }
 
-a:hover {
-	color: beige ;
-}
-
 a:visited {
 	color: darkgoldenrod ;
+}
+
+a:hover {
+	color: beige ;
+	text-decoration: underline;
 }
 
 h1 {

@@ -37,12 +37,13 @@ a {
 	margin: .1em .25em ;
 }
 
-a:hover {
-	color: beige ;
-}
-
 a:visited {
 	color: darkgoldenrod ;
+}
+
+a:hover {
+	color: beige ;
+	text-decoration: underline;
 }
 
 h1 {
@@ -172,7 +173,7 @@ button#clear-search:hover {
 
 .matched-recipe {
 	font-size: x-large ;
-	display: block !important ;
+	display: list-item !important ;
 }
 
 .list-searched {

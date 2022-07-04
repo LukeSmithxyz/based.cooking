@@ -42,5 +42,5 @@ author: mfed3
 5. Add the stock and a splash of soy sauce, turn up the gas and bring to a boil
 6. Add the tofu, lower the gas, and braise for around 15 mins
 7. You'll know it's done when the tofu shows their trademark "pockmarks" and the seasoning sticks to them
-8. Mix in the crushed sichuan peppercorns and green parts of the scallions right before serving
+8. Mix in the crushed Sichuan peppercorns and green parts of the scallions right before serving
 9. Serve over steamed rice

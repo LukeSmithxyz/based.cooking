@@ -7,7 +7,7 @@ author: mfed3
 
 This recipe is known by Italian-Americans as "Sunday Gravy", which originated from the Southern Italian dish Ragu Napoletano. This is my variation of my family's version which was passed down 3 generations to me.
 
-![Ragu Napoletano](/pix/ragu-napoletano-1.webp)
+![Ragu Napoletano](pix/ragu-napoletano-01.webp)
 
 - ⏲️ Prep time: 30-60 min
 - 🍳Cook time: 4-5 hrs
@@ -49,13 +49,13 @@ This recipe is known by Italian-Americans as "Sunday Gravy", which originated fr
 2. For fresh tomatoes, wash and cut out off the green stems of the tomatoes and cut them into a few chunks and lightly salt them over a collander or strainer so they release water and break down quicker
 3. For canned tomatoes, use your hands to crush the peeled tomatoes (don't use a food processor)
 4. In a large stock pot cook down the tomatoes for approximately 30 mins then use a food mill or strainer to remove the skins and seeds to yield tomato sauce (this can be done beforehand and frozen / canned for months)
-![Sauce](/pix/ragu-napoletano-2.webp)
+![Sauce](pix/ragu-napoletano-02.webp)
 5. Mix all the ingredients in the Meatballs section by hand and form equal sized meatballs
 6. Either bake the meatballs at 400°F until brown or fry them with the the other meats in step 7
 7. Coat the bottom of a dutch oven or large stock pot with olive oil and  sear each meat one by one, removing from the pot once browned on the outside (do not cook the meat all the way through)
 8. Sweat the onion and garlic, then deglaze the pan with the red wine
 9. Fill the pot with the seared meat, tomato sauce, add the fresh basil, then season with dried oregano, red pepper, salt, pepper, and a pinch of sugar to taste
-![Meats](/pix/ragu-napoletano-1.webp)
+![Meats](pix/ragu-napoletano-01.webp)
 10. Cook on very low flame uncovered for 4-5 hours stirring making sure it doesn't burn
 11. Serve over cooked dry pasta such as ziti, penne, rigatoni
 12. Portion the sauce and meats and freeze in containers for up to 4-6 months

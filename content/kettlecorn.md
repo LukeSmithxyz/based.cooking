@@ -5,6 +5,8 @@ date: 2022-07-02
 author: "MMOOBB"
 ---
 
+![Kettle Corn](/pix/kettlecorn.webp "Kettle Corn made with brown sugar")
+
 Recipie can be expanded or contracted to your needs. I personally devide the recipie in half to fit my 2 quart saucepan (recipie calls for a 3 quart). I reccomend using Orville Redenbacher's popcorn kernels, as they are specifically formulated to pop consistently. Follow these directions precisely, and I will gurentee you will have no burnt or unpoped kernels.
 
 - ⏲️ Prep time: 2 min

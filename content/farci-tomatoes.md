@@ -1,6 +1,6 @@
 ---
 title: Farcies tomatoes
-tags: ['spanish, 'chicken, 'oven]
+tags: ['french', 'tomatoes', 'oven']
 date: 2022-06-22
 author: miraunpajaro
 ---

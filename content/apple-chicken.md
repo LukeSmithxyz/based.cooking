@@ -5,7 +5,7 @@ date: 2022-06-22
 author: miraunpajaro
 ---
 
-![Applechicken](/pix/applechicken.webp)
+![Applechicken](/pix/apple_chicken.webp)
 Baked chicken with apples and onions. Suprinsingly good and simple combination.
 
 - ⏲️ Prep time: 10 min

@@ -11,7 +11,7 @@ author: "Eric Lindberg"
 
 ## Ingredients
 
-- 2 lb boneless chicken breast or thigh
+- 2 lbs boneless chicken breast or thigh
 - 1.5 tbsp oyster sauce
 - 1 tbsp ground tumeric
 - 2 tbsp sugar

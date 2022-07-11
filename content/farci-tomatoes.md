@@ -1,7 +1,7 @@
 ---
-title: Farcies tomatoes
+title: "Farcies tomatoes"
 tags: ['french', 'tomatoes', 'oven']
-date: 2022-06-22
+date: 2022-07-11
 author: miraunpajaro
 ---
 

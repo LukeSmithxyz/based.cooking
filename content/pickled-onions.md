@@ -4,6 +4,7 @@ date: 2021-03-16
 tags: ['quick', 'side', 'basic']
 author: aj
 ---
+![Pickled Red Onions in  a Jar](/pix/pickled-onions.webp)
 
 A good way to use up older red onions and goes great with just about anything.
 

@@ -33,3 +33,5 @@ You may also include prep/cook time and the number of servings as below:
 5. Add the brown sugar and combine thoroughly.
 6. Add the flavor packet saved from earlier.
 7. Add the red pepper oil now if you are using it. You may also substitute it with red pepper flakes.
+8. Combine with noodles and eat.
+9. \n

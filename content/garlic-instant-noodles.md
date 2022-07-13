@@ -29,5 +29,3 @@ author: "BugNugget"
 6. Add the flavor packet saved from earlier.
 7. Add the red pepper oil now if you are using it. You may also substitute it with red pepper flakes.
 8. Combine with noodles and eat.
-
-\n

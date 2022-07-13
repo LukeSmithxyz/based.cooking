@@ -5,11 +5,6 @@ date: 2022-07-13
 author: "BugNugget"
 ---
 
-If necessary, provide a very brief description of the dish in one or two sentences.
-For most dishes, this will be unnecessary.
-If there is a title image of this dish, it should be above this paragraph.
-You may also include prep/cook time and the number of servings as below:
-
 - ⏲️ Prep time: Varies
 - 🍳 Cook time: Varies
 - 🍽️ Servings: 1
@@ -34,4 +29,5 @@ You may also include prep/cook time and the number of servings as below:
 6. Add the flavor packet saved from earlier.
 7. Add the red pepper oil now if you are using it. You may also substitute it with red pepper flakes.
 8. Combine with noodles and eat.
-9. \n
+
+\n

@@ -5,7 +5,7 @@ date: 2022-07-13
 author: "ivn1s"
 ---
 
-![pulpo a la gallega](../static/pix/pulpo-gallega.webp)
+![pulpo a la gallega](/pix/pulpo-gallega.webp)
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 35 to 40 min

@@ -39,3 +39,4 @@ This is more of an example of possible ingredients, you can replace any of them 
 4. Add any ingredients you want to add on top of the sauce (cheese last).
 5. Bake the pizza for 10 minutes in the oven at 250°C.
 6. Add any fresh ingredients now.
+7. Cut into slices and serve.

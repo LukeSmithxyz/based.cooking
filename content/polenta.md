@@ -25,9 +25,8 @@ Cornmeal preparation originated in Italy. This is how it is done by Venetian imm
 2. Add salt (and optional oil)
 3. Slowly add the cornmeal, while mixing it with a wooden spoon or a big whisk.
 4. Keep mixing. If it feels too thick or thin, add more water or cornmeal, respectively. Keep in mind it will thicken with time.
-5. Once it has reached the consistency of a porridge, keep it going, mix it once in a while.
-6. When it stops sticking to the pan (roughly 40min), remove it from heat and put it on a bowl or casserole.
-7. A lot of it gets permanently stuck to the pan, just fill it with cold water, and in less than a day you can remove that skin.
+5. When it  has the consistency of a porridge and stops sticking to the pan (roughly 40min), remove it from heat and put it on a bowl or casserole.
+6. A lot of it gets permanently stuck to the pan, just fill it with cold water, and in less than a day you can remove that skin.
 
 ## Extras
 

@@ -5,7 +5,7 @@ date: 2022-07-17
 author: "josrael"
 ---
 
-A hearty and dirt cheap stew, that's easy to make and is my go to dish to make and freeze on weeknights. This dish is super flexible and goes with virtually any veg you've got in your cupboards. Originated around Stoke and Liverpool as Lobscouse and later split into Lobby and Scouse.
+A hearty and cheap stew, that's easy to make and is my go to dish to make and freeze on weeknights. This dish is really flexible and goes with virtually any vegetables you've got in your cupboard. Originated around Stoke and Liverpool as Lobscouse and later split into the dishes Lobby and Scouse.
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min

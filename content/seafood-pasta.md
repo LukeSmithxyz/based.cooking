@@ -1,7 +1,7 @@
 ---
 title: "Garlic Butter Seafood Pasta"
 date: 2022-07-18
-tags: ['italian', 'pasta', 'quick', 'seafood', 'shrimp', 'mussels', 'clams', 'garlic']
+tags: ['italian', 'pasta', 'quick', 'seafood', 'shrimp', 'garlic']
 author: nelson-morrow
 ---
 

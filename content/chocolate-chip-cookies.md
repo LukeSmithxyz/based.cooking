@@ -28,7 +28,7 @@ author: mfed3
 
 1. Preheat oven to 375°F
 2. Mix the flour, baking soda, and salt in a bowl
-3. Using a mixer or whisk, beat the butter, sugar, eggs, and vanilla in a separate bowl for a few mins
+3. Using a mixer or whisk, beat the butter, sugar, eggs, vanilla and milk in a separate bowl for a few mins
 4. Combine and stir in the dry ingredients, then the chocolate chips
 5. Use an ice cream scooper or spoon to make uniform balls of cookie dough to the size you like and evenly space them out on a parchment paper lined baking sheet (you may need more than one sheet depending on the size of the cookies)
 6. Bake in the oven one baking sheet at a time for around 8-10 minutes, taking them out when they start to brown

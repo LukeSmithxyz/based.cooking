@@ -16,7 +16,7 @@ This recipe results in five slices of easy to make french toast.
 ## Ingredients
 
 - 2 Eggs
-- 1/2 Cup of milk
+- 1/2 Cup of milk (1/4 for a more solid consistency)
 - 5 Slices of bread
 - Maple Syrup (Optional)
 - Butter

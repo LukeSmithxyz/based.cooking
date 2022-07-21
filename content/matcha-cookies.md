@@ -1,7 +1,7 @@
 ---
 title: "Matcha Cookies"
 date: 2021-03-11
-tags: ['snack', 'sweet', 'dessert', 'cheesefare']
+tags: ['snack', 'cookies', 'sweet', 'dessert', 'cheesefare']
 author: "Hamza Masood"
 ---
 

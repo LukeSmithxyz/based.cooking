@@ -1,7 +1,7 @@
 ---
 title: "Greek Easter Cookies"
 date: 2021-03-21
-tags: ['dessert', 'snack', 'greek', 'easter']
+tags: ['dessert', 'cookies', 'snack', 'greek', 'easter']
 author: "Rufflikerex"
 ---
 

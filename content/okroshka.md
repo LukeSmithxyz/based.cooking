@@ -1,8 +1,8 @@
 ---
 title: "Russian Okroshka"
-date: 2021-03-19
-tags: ['basic', 'spread', 'quick', 'russian', 'cold soup']
-author: Mons
+date: 2022-07-21
+tags: ['basic', 'spread', 'quick', 'russian', 'soup']
+author: mons
 ---
 
 A hearty and healthy cold soup, which is especially good to eat in the hot season. Author's recipe.
@@ -10,7 +10,7 @@ A hearty and healthy cold soup, which is especially good to eat in the hot seaso
 ## Ingredients
 
 - 2-3 medium potatoes
-- 4 eggs 
+- 4 eggs
 - 2 long or 4 short cucumbers
 - 3 strands of spring onions
 - 10-12 radishes

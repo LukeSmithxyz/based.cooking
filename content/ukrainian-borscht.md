@@ -1,7 +1,7 @@
 ---
 title: "Ukrainian Borscht"
 date: 2021-04-02
-tags: ['ukrainian', 'soup', 'beetroot', 'russian']
+tags: ['ukrainian', 'soup', 'beetroot']
 author: stanislav
 ---
 

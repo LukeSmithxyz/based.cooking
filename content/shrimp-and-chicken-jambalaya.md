@@ -1,6 +1,6 @@
 ---
 title: Shrimp and Chicken Jambalaya
-tags: ['shrimp', 'chicken', 'cajun', 'bell pepper', 'tomato']
+tags: ['shrimp', 'chicken', 'cajun', 'tomato']
 date: 2022-08-04
 author: joel-maxuel
 ---

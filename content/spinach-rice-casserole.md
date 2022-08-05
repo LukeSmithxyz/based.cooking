@@ -1,6 +1,6 @@
 ---
 title: Spinach-Rice Casserole
-tags: ['parsley', 'spinach', 'rice']
+tags: ['spinach', 'rice']
 date: 2022-08-04
 author: joel-maxuel
 ---

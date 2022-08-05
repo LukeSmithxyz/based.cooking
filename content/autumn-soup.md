@@ -1,6 +1,6 @@
 ---
 title: Autumn Soup
-tags: ['vegetable', 'soup', 'seasonal', 'squash', 'carrot']
+tags: ['vegetable', 'soup']
 date: 2022-08-04
 author: joel-maxuel
 ---

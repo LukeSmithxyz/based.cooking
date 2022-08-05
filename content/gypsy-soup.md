@@ -1,6 +1,6 @@
 ---
 title: Gypsy Soup
-tags: ['soup', 'vegetarian', 'sweet potato', 'celery', 'tomato', 'chickpea', 'garbanzo']
+tags: ['soup', 'fasting', 'tomato']
 date: 2022-08-04
 author: joel-maxuel
 ---

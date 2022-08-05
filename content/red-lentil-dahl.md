@@ -1,6 +1,6 @@
 ---
 title: Red Lentil Dahl
-tags: ['indian', 'curry', 'tomato', 'lentil', 'cilantro', 'vegetable']
+tags: ['indian', 'curry', 'tomato', 'vegetables']
 date: 2022-08-04
 author: joel-maxuel
 ---
@@ -22,7 +22,7 @@ author: joel-maxuel
 - 5 Plum Tomatoes, chopped
 - juice of 1 Lemon
 - 1 cup Fresh Cilantro, chopped and lightly packed
-- Dried Red Chili's or cayenne pepper, to taste    
+- Dried Red Chili's or cayenne pepper, to taste
 - 1/4 tsp Ground Cinnamon
 
 ## Directions

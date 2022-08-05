@@ -19,7 +19,6 @@ Warm up your stock with raw shrimp shells to infuse additional flavour, if desir
 - 1/2 tsp Rubbed Sage
 - 1/4 tsp Dried Basil
 - 1/2 tsp Black Pepper
-
 - 1 Tbsp Unsalted Butter
 - 1/2 cup Diced Andouille (or Chirozo sausage)
 - 1/2 cup Diced Onion

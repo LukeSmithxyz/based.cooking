@@ -5,6 +5,8 @@ tags: ['bread', 'dessert', 'sweet', 'fasting']
 author: martin-chrzanowski
 ---
 
+![finished banana bread](/pix/banana-bread.webp "Finished Bread")
+
 Not too sweet. Great for when you have friends over for tea.
 
 ## Ingredients

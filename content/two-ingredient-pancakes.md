@@ -29,4 +29,4 @@ The 1:1 ratio of bannana to egg is a suggestion since the size of each will vary
 1. Beat the eggs
 2. Mash bananas into the eggs. Batter can be a bit chunky
 3. Stir in optional additives if desired
-3. Cook on medium in pan
+4. Cook on medium in pan

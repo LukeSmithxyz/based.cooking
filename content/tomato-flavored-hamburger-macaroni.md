@@ -28,7 +28,7 @@ This is a based, easy and relatively quick to make meal. Great for making in lar
 - Marjoram
 - Rosemary leaves
 - 2 Large grated garlic cloves
-- Onion power
+- Onion powder
 - Frank's RedHot sauce (optional)
 - Mozzarella Cheese (optional)
 - Better than Bulion

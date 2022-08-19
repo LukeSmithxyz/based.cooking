@@ -5,6 +5,8 @@ tags: ['potato', 'soup', 'vegetables', 'cheesefare']
 author: cactar
 ---
 
+![potato leek soup](/pix/potato-leek-soup.webp)
+
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 1 hour 20 min
 - 🍽️ Servings: 2

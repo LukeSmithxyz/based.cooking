@@ -41,7 +41,7 @@ crypto addresses as `btc`, `xmr` and `eth`.
 Remember to add tags to your recipe, but try to use tags already used by other recipes.
 
 If your recipe contains no meat or dairy, include the `fasting` tag.
-If it includes dairy but no milk, incude the `cheesefare` tag.
+If it includes dairy but no milk, include the `cheesefare` tag.
 
 ### Images
 

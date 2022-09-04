@@ -5,6 +5,8 @@ date: 2022-09-02
 author: 'Jeremy Petch'
 ---
 
+![Bread Pudding](/pix/bread-pudding.webp)
+
 This recipe is designed to use up spare bread, so base the other quantities on the amount of bread, and how much liquid it can absorb.
 
 - ⏲️ Prep time: 30 min

@@ -1,6 +1,6 @@
 ---
 title: Korv Stroganoff
-tags: ['swedish', 'quick']
+tags: ['swedish', 'quick', 'sausage']
 date: 2022-07-16
 ---
 

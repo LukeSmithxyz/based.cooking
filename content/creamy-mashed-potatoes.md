@@ -5,7 +5,7 @@ tags: ['potato', 'side', 'cheesefare']
 author: yaroslav-smirnov
 ---
 
-![Creamy Mashed Potatoes](/pix/creamy-mashed-potatoes.webp)
+![Creamy Mashed Potatoes](/pix/creamy-mashed-potatoes.avif)
 
 Mashed potatoes is a really great recipe that is often relegated to the position
 of side dish. This recipe is a spin of the classical mashed potatoes recipe

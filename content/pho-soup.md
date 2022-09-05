@@ -5,7 +5,7 @@ tags: ['vietnamese', 'beef']
 author: jon-burga
 ---
 
-![Based Beef Pho](/pix/pho-soup.webp)
+![Based Beef Pho](/pix/pho-soup.avif)
 
 Vietnamese Pho Soup is a tea-like, beef based soup with a flavor profile that differentiates it from the traditional Western palette. This recipe is designed to be as easy to make as possible, while simultaneously being as based as possible.
 

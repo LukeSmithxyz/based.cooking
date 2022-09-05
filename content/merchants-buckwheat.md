@@ -5,7 +5,7 @@ tags: ['russian', 'pork']
 author: yaroslav-smirnov
 ---
 
-![Merchant's Buckwheat](/pix/merchants-buckwheat.webp)
+![Merchant's Buckwheat](/pix/merchants-buckwheat.avif)
 
 Buckwheat is not very popular outside Russia, the former USSR, and some Asian
 countries; but it is a nice grain full of nutrients which can be used to prepare

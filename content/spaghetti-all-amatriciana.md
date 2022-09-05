@@ -7,7 +7,7 @@ author: "Jebusthebus"
 
 Ignore the fact that those in the photo are pennette and not spaghetti, that's all I had that day.
 
-![Jebusthebus](/pix/spaghetti-all-amatriciana.webp)
+![Jebusthebus](/pix/spaghetti-all-amatriciana.avif)
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 25 min

@@ -5,7 +5,7 @@ tags: ['italian', 'pasta']
 author: yiusa
 ---
 
-![lasagna](/pix/lasagna.webp)
+![lasagna](/pix/lasagna.avif)
 
 A nice recipe for amazing fully home-made lasagna.
 

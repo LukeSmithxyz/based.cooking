@@ -5,7 +5,7 @@ date: 2022-07-15
 author: "leo-meinel"
 ---
 
-![Wholemeal-Pizza](/pix/wholemeal-pizza.webp)
+![Wholemeal-Pizza](/pix/wholemeal-pizza.avif)
 
 This is a recipe combining two others and adding stuff on top.
 This is more of an example of possible ingredients, you can replace any of them with others.

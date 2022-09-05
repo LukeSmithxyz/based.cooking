@@ -5,7 +5,7 @@ tags: ['basic', 'snack', 'spread', 'fasting']
 author: jacob-smith
 ---
 
-![Hummus](/pix/hummus.webp)
+![Hummus](/pix/hummus.avif)
 
 ## Ingredients
 

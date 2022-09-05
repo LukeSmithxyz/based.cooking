@@ -4,7 +4,7 @@ tags: ['basic', 'snack', 'spread', 'traditional']
 date: 2022-04-16
 ---
 
-![Tzatziki](/pix/tzatziki.webp)
+![Tzatziki](/pix/tzatziki.avif)
 
 A traditional greek dip that goes well with crackers, celery and carrots or in a greek gyro. Great for parties and sharing with your family friends. Can be eaten immediately after preparation or after a few hours of being in the fridge for enhanced flavor.
 

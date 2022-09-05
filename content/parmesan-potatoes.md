@@ -5,7 +5,7 @@ tags: ['potato', 'side']
 author: yaroslav-smirnov
 ---
 
-![Parmesan potatoes](/pix/parmesan-potatoes.webp)
+![Parmesan potatoes](/pix/parmesan-potatoes.avif)
 
 You can have this as a side dish, or for breakfast. Well, you can have it
 whenever and wherever you want if you are cooking it! We are grown ups here

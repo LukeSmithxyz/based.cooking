@@ -5,7 +5,7 @@ tags: ['ukrainian', 'soup', 'beetroot', 'russian']
 author: stanislav
 ---
 
-![Borscht in a bowl](/pix/borscht.webp)
+![Borscht in a bowl](/pix/borscht.avif)
 
 Borscht is a beet soup that originates from Ukraine and is common in Eastern Europe and North Asia.
 Depending on the recipe, borscht may be purely vegetarian; it may be served either hot or cold; and it may range from a hearty one-pot meal to a clear broth or a smooth drink.

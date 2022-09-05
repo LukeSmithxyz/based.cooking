@@ -5,7 +5,7 @@ tags: ['german', 'cabbage', 'side', 'fasting']
 author: andrej-kirchmaier
 ---
 
-![Sauerkraut](/pix/sauerkraut.webp)
+![Sauerkraut](/pix/sauerkraut.avif)
 
 Sauerkraut is a based lacto-fermented food that is healthy and has a long shelf live.
 

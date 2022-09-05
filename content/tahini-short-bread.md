@@ -5,7 +5,7 @@ tags: ['dessert', 'side', 'snack', 'cheesefare', 'eggs', 'dough']
 date: 2022-06-29
 ---
 
-![Tahini biscuits](/pix/tahini-short-bread.webp)
+![Tahini biscuits](/pix/tahini-short-bread.avif)
 
 This short bread recipe uses sesame paste called Tahini, a minimal amount of white sugar is necessary in order to get a crunchy/caramelized short-bread.
 For better results, a food processor is welcome for this recipe.  **IMPORTANT** Butter is what makes this recipe complicated when cooking the dough, make sure it is not liquid or that the room is not to warm and make sure that the shortbreads are cold before putting in the oven.

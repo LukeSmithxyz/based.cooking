@@ -5,7 +5,7 @@ tags: ['alcohol', 'wine', 'liquor', 'drink']
 author: mfed3
 ---
 
-![Italian Mulled Wine](/pix/italian-mulled-wine.webp)
+![Italian Mulled Wine](/pix/italian-mulled-wine.avif)
 
 - ⏲️ Prep time: 5 min
 - 🍳Cook time: 15 min

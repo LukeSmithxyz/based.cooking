@@ -5,7 +5,7 @@ tags: ['snack', 'german', 'eggs', 'pub']
 author: svent
 ---
 
-![Soleier](/pix/soleier.webp)
+![Soleier](/pix/soleier.avif)
 
 Soleier are a german pub dish. They are typically enjoyed between two beers.
 

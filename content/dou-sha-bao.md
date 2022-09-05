@@ -5,7 +5,7 @@ tags: ['chinese', 'snack', 'breakfast']
 date: 2022-05-31
 ---
 
-![Dou-Sha-Bao](/pix/dou-sha-bao.webp)
+![Dou-Sha-Bao](/pix/dou-sha-bao.avif)
 
 Soft and fluffy sweet buns filled-up with creamy Azuki red bean paste.
 

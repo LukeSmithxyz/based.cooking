@@ -9,7 +9,7 @@ author: Sami Ben Romdhane
 Credits to creator of recipe, Mike Benayoun , [(original recipe)](https://www.196flavors.com/tunisia-tunisian-couscous/).
 I decided to post it on here to be more available.
 
-![couscous](/pix/couscous.webp)
+![couscous](/pix/couscous.avif)
 
 Couscous is a staple in most Maghreb cuisines. It is known as the national dish in Tunisia, but also in Algeria and Morocco, as well as Mauritania and Libya. Tunisian couscous is one of the countless variations of this delicious and versatile dish.
 

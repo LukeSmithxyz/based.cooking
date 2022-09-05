@@ -5,7 +5,7 @@ tags: ['drink', 'quick']
 author: chandra-kiran
 ---
 
-![Assam Tea](/pix/assam-tea.webp)
+![Assam Tea](/pix/assam-tea.avif)
 
 This is a simple Assam tea recipe.
 

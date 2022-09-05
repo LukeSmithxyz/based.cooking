@@ -5,7 +5,7 @@ tags: ['chicken', 'italian', 'pasta']
 author: miika-nissi
 ---
 
-![Chicken Pasta Casserole](/pix/chicken-pasta-casserole.webp)
+![Chicken Pasta Casserole](/pix/chicken-pasta-casserole.avif)
 
 Easy to throw together and transport for the working fellow. High in protein!
 

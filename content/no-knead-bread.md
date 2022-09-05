@@ -5,7 +5,7 @@ tags: ['bread', 'dough']
 author: enthdegree
 ---
 
-![Finished bread](/pix/no-knead-bread-1.webp)
+![Finished bread](/pix/no-knead-bread-1.avif)
 
 - ⏲️ Prep time: 13 h
 - 🍳 Cook time: 50 m
@@ -23,6 +23,6 @@ author: enthdegree
 
  1. Mix the dry ingredients then add the hot water. It should come out as a firm dough.
  2. Leave the dough at room temperature for 12 hours. You can then keep the dough in the fridge for up to 48 hours before cooking.
-    ![Before baking](/pix/no-knead-bread-2.webp)
+    ![Before baking](/pix/no-knead-bread-2.avif)
  3. Preheat oven and pan to 450 F (230 C).
  4. Bake for 30 minutes covered (e.g. aluminum foil), then 20 minutes uncovered.

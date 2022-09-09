@@ -21,7 +21,7 @@ Chicken stew ubiquitous in rural Brazil. Perfect pair with rice and beans, polen
 
 ## Directions
 
-1. Cut the chicken into pieces. Remove offal or small bones, if you want, salt and pepper to taste now.
+1. Cut the chicken into pieces. Remove offal or small bones, if you want. Salt and pepper to taste now.
 2. In a pan (best if cast iron), add the lard and heat it up very well.
 3. Add the chicken and lower the heat.
 4. After the meat sears, add the diced onions.

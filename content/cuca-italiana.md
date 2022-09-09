@@ -23,7 +23,7 @@ For the dough:
 - 1 tablespoon of instant dry yeast
 - A pinch of nutmeg
 - 1 teaspoon of vanilla essence (optional).
-- 1 teaspoon of fennel seeds (optional)
+- Optional herbs and spices: Fennel seeds, cinammon, cloves. Don't put too many though.
 
 For the "farofa", the crumbly top:
 - 1 cup of sugar

@@ -21,9 +21,9 @@ author: "BeFe"
 
 ## Directions
 1. Mix all ingredients in a bowl.
-2. Let the dought rest for ~15 mins.
+2. Let the dough rest for ~15 mins.
 3. Heat a pan with a bit butter or oil.
-4. For each pancake spread a ladle of dought in the pan and bake them at lower medium temperature until they are brown on both sides.
+4. For each pancake spread a ladle of dough in the pan and bake them at lower medium temperature until they are brown on both sides.
 
 ## Served with
 - Syrup

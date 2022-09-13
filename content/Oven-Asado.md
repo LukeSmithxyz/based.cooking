@@ -20,7 +20,7 @@ Such a simple way to prepare such a juicy slab of meat- Argentinian style!
 3. [OPTIONAL] Rinse each end of the beef to get rid of any remaining bone fragments from when the meat was cut
 4. Pat all sides of beef dry with a paper towel
 5. Salt each side of the beef **generously**, salt will drip off of the meat due to the fat as the meat cooks
-6. Place beef on a rack and place in oven **bone-side down**
+6. Place beef on a rack and place in oven **bone-side down**, and be sure to add a tray below the rack to catch all the fat that drips off
 7. 20 minutes into cooking, flip each piece over (should be bone-side top now)
 8. After another 20 minutes, flip each piece again
 9. Take out of the oven after a total of 40 - 45 minutes, and let rest for 5 - 10 minutes

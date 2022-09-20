@@ -5,6 +5,8 @@ author: jacob-smith
 date: 2022-04-16
 ---
 
+![tilapia ceviche on rice](/pix/ceviche.webp)
+
 Ceviche is a South American dish which originated in Peru. The following recipe will only cover
 the bare minimum ingredients, so feel free to experiment by adding things like garlic, ginger, peppers
 tomatoes, cilantro, other citrus juices, and anything else you feel might taste good in there.

@@ -1,9 +1,8 @@
-{{ partial "header.html" . }}
-
-<header><h1>{{ .Title }}</h1></header>
-
+{{ define "title" }}
+{{ .Title }}
+{{ end }}
+{{ define "main" }}
 {{ .Content }}
-
 {{ $author := index .Site.Data.authors (.Params.author | default "default") }}
 {{- if $author -}}
 <h2>Contributor(s)</h2>
@@ -29,5 +28,4 @@
 </li>
 </ul>
 {{- end -}}
-
-{{ partial "footer.html" . }}
+{{ end }}

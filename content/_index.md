@@ -1,6 +1,7 @@
 ---
 title: "🍲 Based Cooking 🍳"
 description: 'The fast-loading recipe site with cooking only and no ads.'
+layout: single
 ---
 
 ## What do you want to cook?

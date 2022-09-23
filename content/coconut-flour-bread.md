@@ -27,7 +27,7 @@ It is sitting between bread and cake feel and my wife loved it. I used pasture-r
 1. Mix all dry ingredients in a big bowl.
 2. Add the whole eggs and the coconut oil.
 3. Mix well with a spoon until it gets thick. You can add extra coconut flour if you feel it is too liquid.
-4. Pre-heat your oven to 350°F (175°C)
-5. Pour the dough evenly into a Bread/Loaf form (coated with butter or parchment paper) and cook for 35min to 45mina
+4. Pre-heat your oven to 350°F (175°C).
+5. Pour the dough evenly into a Bread/Loaf form (coated with butter or parchment paper) and cook for 35 to 45 min.
 6. After cooking, remove it from the oven and let it sits while it cools down.
 7. Some variations can be done, like using butter instead of coconut oil or adding pumpkin pure to the mix and having a cake-like texture.

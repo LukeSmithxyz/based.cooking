@@ -1,0 +1,15 @@
+baseURL = 'https://based.cooking/'
+languageCode = 'en-us'
+title = 'Based Cooking'
+theme = 'lugo'
+
+[params]
+  favicon = "/favicon.svg"
+  stylesheet = "/style.css"
+  indexarticles = 50
+  taglist = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

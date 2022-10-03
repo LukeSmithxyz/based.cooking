@@ -1,3 +1,10 @@
+---
+title: Granola
+tags: ['breakfast']
+date: 2022-10-03
+author: hanlex
+---
+
 # Granola
 
 - ⏲️ Prep time: 10 min
@@ -6,30 +13,22 @@
 
 ## Ingredients
 
-- Whole Oats (3 cups)
-- Olive Oil (1/2 cup)
-- Maple Syrup (1/2 cup)
-- Nuts: Almonds, Pumpkin Seeds, etc. (1 cup, optional)
-- Dried Fruit: Apricots, Unsweetened Cranberries, dates, etc. (1 cup, optional)
-- Spices: Ground Cinnamon, Ground Cloves, Ground Cardamom (1 teaspoon of each)
+- 3 cups Oats
+- 1/2 cup Olive Oil
+- 1/2 cup Maple Syrup
+- 1 cup Chopped Nuts (Almonds, Pumpkin Seeds, etc)
+- 1 tsp Ground Cloves
+- 1 tsp Ground Cardamom
+- 1 cup Dried Fruit (Apricots, Unsweetened Cranberries, Dates, etc)
 
 ## Directions
 
 1. Preheat oven to 315° F
-2. Combine and stir Oil, Maple Syrup and Spices in a large mixing bowl
-3. Add Oats to bowl
-4. Coarsely chop Nuts and add to bowl
-5. Mix until aggregate is uniform
-6. Cover two large baking sheets with parchment paper
-7. Spread the mixure thinly and evenly on two baking sheets, put in oven (once preheated)
-8. Wait 15 minutes, take out of oven, stir, put back in oven (swap oven location of cookie sheets for even cooking)
-9. Wait 15 minutes, take out of oven, stir, put back in oven (swap oven location of cookie sheets for even cooking)
-10. Wait 10 minutes, take out of oven, **do not stir** (helps form clumps), let it cool
-11. Coarsely chop Dried Fruit and mix in
-12. Serve with yogurt, milk, fresh fruit, etc
-
-## Contribution
-
-- Hanlex
-
-;tags: breakfast
+2. In a large bowl, mix: Oats, Oil, Maple Syrup, Chopped Nuts and Spices
+3. Cover two large baking sheets with parchment paper
+4. Spread the mixture thinly and evenly on baking sheets, put in oven
+5. Bake 15 minutes, take out of oven, stir, put back in oven (swap oven locations for even cooking)
+6. Bake 15 minutes, take out of oven, stir, put back in oven (swap oven locations for even cooking)
+7. Bake 10 minutes, take out of oven, **do not stir** (helps form clumps), let it cool
+8. Coarsely chop Dried Fruit and mix in
+9. Serve with yogurt, milk, fresh fruit, etc

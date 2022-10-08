@@ -29,7 +29,7 @@ This method of using a slow cooker renders the meatloaf into a tender and juicy 
 
 ## Directions
 
-1. Decase your sausage links and combine with ground beef in a large mixing bowl.
+1. Uncase your sausage links and combine with ground beef in a large mixing bowl.
 2. Chop your purple onion to desired consistency and add to bowl (I find that coarsely chopped onions work well).
 3. Combine rest of ingredients and, using your hands (or mixer), thoroughly mix the ingredients together into a homogenous paste. 
 4. Line your slow-cooker with aluminum foil.

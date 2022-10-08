@@ -31,7 +31,8 @@ This method of using a slow cooker renders the meatloaf into a tender and juicy 
 
 1. Uncase your sausage links and combine with ground beef in a large mixing bowl.
 2. Chop your purple onion to desired consistency and add to bowl (I find that coarsely chopped onions work well).
-3. Combine rest of ingredients and, using your hands (or mixer), thoroughly mix the ingredients together into a homogenous paste. 
+3. Take a sleeve of your crackers and crush them into a fine powder. Do this in the cracker sleeve or bag to make for easy cleanup.
+3. Combine crackers with the rest of ingredients and, using your hands (or mixer), thoroughly mix the ingredients together into a homogenous paste. 
 4. Line your slow-cooker with aluminum foil.
 5. Dump the meatloaf mixture into your slow cooker and form it into a loaf.
 6. Place the crock from your slow cooker in your refrigerator to marinate overnight.

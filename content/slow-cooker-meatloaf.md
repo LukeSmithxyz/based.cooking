@@ -37,4 +37,4 @@ This method of using a slow cooker renders the meatloaf into a tender and juicy 
 6. Place the crock from your slow cooker in your refrigerator to marinate overnight.
 7. Remove crock from refrigerator approximately 20-30 minutes before cooking (this allows the crock to come to room temperature to avoid cracking when the slow cooker turns on)
 8. Cook on low for 6-8 hours. Check the meatloaf's internal temperature to make sure that it is cooked all the way through before serving.
-9. At this point, you may remove and broil if you wish. I recommend stopping here and eating the meatloaf as it came out of the slow cooker.
+9. At this point, you may remove and broil if you wish. I recommend stopping here and serving the meatloaf as it came out of the slow cooker. Add ketchup, if desired.

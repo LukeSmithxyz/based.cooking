@@ -5,6 +5,7 @@ date: 2022-10-15
 author: "M-watermelon"
 ---
 ![Strawberry Compote](/pix/glass-of-compote.webp)<image.webp>
+
 Strawberry Compote (клубничный компот) is a chilled sweet drink that is popular in many post-soviet countries. It is similar to strawberry jam or conserves in taste (less sweet/concentrated flavor), but resembles fruit punch in looks and consistency. It is very easy to adjust this recipe and scale it up/down.
 
 FYI, I suggest using organic strawberries for this (may be on the expensive side), it makes a world of difference in flavor.  

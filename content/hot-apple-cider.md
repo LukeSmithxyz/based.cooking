@@ -2,7 +2,7 @@
 title: "Hot Apple Cider"
 date: 2022-10-18
 tags: ['drink', 'sweet', 'apple']
-author: polyeleos
+author: elias-howell
 ---
 
 - ⏲️ Prep time: 5 min

@@ -26,7 +26,7 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
   list.
 - Don't include an image unless (1) you took it yourself, and more importantly
   (2), **it actually looks good**! Most existing images on this site IMO look
-  like unappetizing NEET photos, so you are welcome to take one a better one
+  like unappetizing NEET photos, so you are welcome to take a better one
   yourself and submit it if you make a dish.
 - The file needs to be `\n` terminated in unix-fashion (if you're on Linux you
   don't need to care, it should be automatic).

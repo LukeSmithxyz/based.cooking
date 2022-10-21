@@ -281,6 +281,9 @@ button#clear-search:hover {
     text-align: center ;
     padding-left: 10px ;
     padding-right: 10px ;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 }
 .cryptoinfo code {
 	font-size: small ;
@@ -288,6 +291,8 @@ button#clear-search:hover {
 }
 .qr {
     max-height: 150px; ;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .js-only { display: none ; }

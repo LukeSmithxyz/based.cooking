@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+![Winter Risotto](/static/pix/winter-risotto.webp)
+
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 40 min
 - 🍽️ Servings: 4

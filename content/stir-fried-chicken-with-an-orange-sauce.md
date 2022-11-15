@@ -5,6 +5,8 @@ tags: ['asian', 'chicken']
 author: jacob-smith
 ---
 
+![](/pix/stir-fried-chicken-with-an-orange-sauce.webp)
+
 I could have called this Orange Chicken but I feel like some people wouldn't classify my recipe that way.
 
 ## Ingredients

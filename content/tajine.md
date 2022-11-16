@@ -1,6 +1,6 @@
 ---
 title: "Tajine Maadnous"
-date: 2022-08-06
+date: 2022-11-16
 tags: ['tunisian', 'Eggs']
 author: Sami Ben Romdhane
 ---

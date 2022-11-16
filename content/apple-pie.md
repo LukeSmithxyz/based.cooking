@@ -1,7 +1,7 @@
 ---
 title: "Apple Pie"
 date: 2021-05-13
-tags: ['dessert', 'pie', 'sweet']
+tags: ['dessert', 'pie', 'sweet', 'apple']
 author: mfed3
 ---
 

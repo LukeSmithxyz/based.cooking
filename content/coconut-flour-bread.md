@@ -1,7 +1,7 @@
 ---
 title: Keto Coconut Bread
 tags: ['bread', 'coconut', 'baked', 'keto', 'bariatric']
-date: 2022-09-15
+date: 2022-11-16
 author: "luis-fernando-maschietto-junior"
 ---
 ![keto-coconut-bread](/pix/coconutbread-lufemas.webp)
@@ -15,10 +15,10 @@ It is sitting between bread and cake feel and my wife loved it. I used pasture-r
 
 ## Ingredients
 
-- 6 Medium Eggs (or 5 Extra Large) 
+- 6 Medium Eggs (or 5 Extra Large)
 - 1 Tbsp Coconut Oil
 - ¾ cup Coconut Flour
-- 1 tsp Baking Powder 
+- 1 tsp Baking Powder
 - Pinch of Salt
 - ½ tsp or less of Xanthan Gum (optional, to have a more stick bread)
 

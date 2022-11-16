@@ -13,16 +13,16 @@ author: joel-maxuel
 ## Ingredients
 
 - 1 3/4 cups Flour
-1 cup + 2 1/2 Tbsp Butter, divided
-Up to 1/3 cup Water, chilled
-1/2 cup Onion, finely chopped
-14 ounces Smoked Salmon, chopped
-2 tsp Fresh Chives, chopped
-1 clove Garlic, chopped
-2 tsp Fresh Basil, chopped
-5 whole Eggs
-1 cup Milk
-1 cup Whipping Cream
+- 1 cup + 2 1/2 Tbsp Butter, divided
+- Up to 1/3 cup Water, chilled
+- 1/2 cup Onion, finely chopped
+- 14 ounces Smoked Salmon, chopped
+- 2 tsp Fresh Chives, chopped
+- 1 clove Garlic, chopped
+- 2 tsp Fresh Basil, chopped
+- 5 whole Eggs
+- 1 cup Milk
+- 1 cup Whipping Cream
 
 
 ## Directions

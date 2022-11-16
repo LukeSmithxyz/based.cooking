@@ -1,7 +1,7 @@
 ---
 title: Risengrød
 tags: ['danish', 'christmas']
-date: 2022-08-08
+date: 2022-11-16
 author: "Vilhelm Bergsøe"
 ---
 
@@ -32,4 +32,3 @@ Risengrød is part of the Nordic Christmas tradition as a dinner dish. Rice boil
 5. Mix sugar and cinnamon to form cinnamon sugar in a bowl or container.
 6. Serve warm with cinnamon sugar on top and a bit of butter in the middle.
 7. Enjoy!
-

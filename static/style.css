@@ -201,6 +201,7 @@ button#clear-search:hover {
 #tag_chicken:before { content: "🐔" ;}
 #tag_chinese:before { content: "🐉" ; }
 #tag_chocolate:before { content: "🍫" ; }
+#tag_christmas:before { content: "🎄" ; }
 #tag_cookies:before { content: "🍪" ;}
 #tag_corn:before { content: "🌽" ;}
 #tag_curry:before { content: "🍛" ; }

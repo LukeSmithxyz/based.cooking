@@ -25,6 +25,6 @@ Delicious milk toffee used on desserts or as a spread. Substitute for Nootella o
 2. Once the sugar dissolves, set heat to very low, and keep mixing once in a while for approximately two hours. It should not boil, if it happens, set it aside, keep mixing and once the temperature lowers put it back on the heat.      
 3. Once the preparation gets thicker, be more careful and mix it more frequently so that it does not stick (and burn) 
 and lumps do not form.
-4. Once you get a consistency similar to that of a custard, set it aside and keep mixind for 10 minutes, until it gets
+4. Once you get a consistency similar to that of a custard, set it aside and keep mixing for 10 minutes, until it gets
  cold and thickens a bit more. If you put a spoon inside, pass your finger in the middle and it does not unite anymore, it is done.
 5. Once cold, put it on a glass jar and leave it in the fridge, or sterilize it. 

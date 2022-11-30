@@ -5,7 +5,7 @@ tags: ['quick', 'breakfast', 'sweet', 'pancake', 'cheesefare']
 author: jesper
 ---
 
-![pancake](/pix/danish-pancake.webp)
+![pancake](/pix/danish-pancake.avif)
 
 Danish Pancake recipe
 

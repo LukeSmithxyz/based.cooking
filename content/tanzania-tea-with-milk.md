@@ -5,7 +5,7 @@ tags: ['drink', 'milk', 'quick']
 author: extramundane
 ---
 
-![tea-n-milk](/pix/tanzania-tea-with-milk-01.webp)
+![tea-n-milk](/pix/tanzania-tea-with-milk-01.avif)
 
 This is a very traditional simple beverage from Tanzania, a country in East Africa. While I stayed there in Mwanza and Dar es Salaam, they
 would always have this option for breakfast (or in general).
@@ -24,7 +24,7 @@ the box lol)
 
 ## Directions
 
-![tea](/pix/tanzania-tea-with-milk-02.webp)
+![tea](/pix/tanzania-tea-with-milk-02.avif)
 
 1. Bring some hot water to boil and seep the tea. Depending on how strong you like it, you can do this for up to 10 min at most.
 Be warned; typically black teas are very strong.

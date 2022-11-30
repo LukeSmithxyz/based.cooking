@@ -5,7 +5,7 @@ tags: ['sauce', 'basic']
 author: brox
 ---
 
-![Aioli](/pix/mayonnaise-or-aioli.webp)
+![Aioli](/pix/mayonnaise-or-aioli.avif)
 
 Aioli is pretty much just mayonnaise with garlic, although traditional aioli only includes olive oil and garlic, and no eggs or acid. This recipe uses raw eggs, so if that is sketchy in your region use pasteurized eggs 🥚.
 

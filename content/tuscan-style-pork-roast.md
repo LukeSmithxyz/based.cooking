@@ -5,7 +5,7 @@ tags: ['italian', 'pork', 'roast']
 author: tanner-wilcox
 ---
 
-![tuscan-style-pork-roast](/pix/tuscan-style-pork-roast.webp)
+![tuscan-style-pork-roast](/pix/tuscan-style-pork-roast.avif)
 
 An herbaceous pancetta stuffed pork roast with a crispy exterior. Finished with a lemon vinaigrette.
 Adapted from [Binging With Babish](https://www.youtube.com/watch?v=AgFaljoriYA) whose instructions are notoriously bad.

@@ -5,7 +5,7 @@ date: 2022-07-13
 author: "leo-meinel"
 ---
 
-![Wholemeal-Wheat-Flour-Pizza-Dough](/pix/wholemeal-wheat-flour-pizza-dough.webp)
+![Wholemeal-Wheat-Flour-Pizza-Dough](/pix/wholemeal-wheat-flour-pizza-dough.avif)
 
 One serving(~200g dough) should be enough to make a pizza.
 The dough can be stored in the refrigerator for ~2 days.

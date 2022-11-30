@@ -6,7 +6,7 @@ author: "peebowo"
 
 ---
 
-![brisket quesadilla](/pix/quesadilla.webp "Brisket and Bean Quesadilla with using Montery Jack Cheese")
+![brisket quesadilla](/pix/quesadilla.avif "Brisket and Bean Quesadilla with using Montery Jack Cheese")
 
 A quick and easy low-prep meal, able to be taken anywhere.
 

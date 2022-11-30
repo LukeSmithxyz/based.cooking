@@ -5,7 +5,7 @@ author: "LogSuperMulti"
 tags: ['beef', 'soup', 'roast']
 ---
 
-![Medieval Beef Soup](/pix/medieval-beef-soup.webp)
+![Medieval Beef Soup](/pix/medieval-beef-soup.avif)
 
 Medieval beef soup with turnips and turnip greens.
 

@@ -11,7 +11,7 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
 
 - By adding a recipe.
 - Make a recipe and take a nice picture of it if no nice picture already
-  exists. Submitted images should be small `.webp` files ideally less than 100K
+  exists. Submitted images should be small `.avif` files ideally less than 100K
   or so.
 - Fix errors in recipes or add minor improvements.
 
@@ -59,12 +59,12 @@ Do not add stock images you found on the internet. Take a good picture yourself
 of the actual dish created. If you see a bad or substandard image, you may
 submit a better one.
 
-Images should be in `.webp` format and with as small file size as possible. If
+Images should be in `.avif` format and with as small file size as possible. If
 you submit an image for say, `chicken-parmesan.md`, it should be added as
-`pix/chicken-parmesan.webp`.
+`pix/chicken-parmesan.avif`.
 
 If you would like to add additional directional images,
-they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, etc.
+they should be numbered with two digits like: `pix/chicken-parmesan-01.avif`, etc.
 
 Note also that images should have links beginning with a slash in this use
 case, i.e. `/pix/...`.

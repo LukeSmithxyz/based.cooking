@@ -5,7 +5,7 @@ tags: ['quick', 'breakfast', 'sweet', 'pancake', 'cheesefare']
 author: "BeFe"
 ---
 
-![Pancakes made at home](/pix/pancake.webp)
+![Pancakes made at home](/pix/pancake.avif)
 
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 10 min

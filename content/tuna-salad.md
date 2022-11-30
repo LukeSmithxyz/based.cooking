@@ -6,7 +6,7 @@ author: "scary90"
 
 ---
 
-![Tuna Salad](/pix/tuna-salad.webp)
+![Tuna Salad](/pix/tuna-salad.avif)
 
 - ⏲️ Prep time: 5 min
 - 🍽️ Servings: 3

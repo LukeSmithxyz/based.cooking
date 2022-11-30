@@ -5,7 +5,7 @@ tags: ['mediterranean', 'chicken', 'traybake']
 author: isaac-hill
 ---
 
-![Lemon and oregano chicken traybake](/pix/lemon-and-oregano-chicken-traybake.webp)
+![Lemon and oregano chicken traybake](/pix/lemon-and-oregano-chicken-traybake.avif)
 
 - ⏲️ Prep time: 30 min (in 10 minute intervals)
 - 🍳 Cook time: 60 min

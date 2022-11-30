@@ -5,7 +5,7 @@ date: 2022-07-11
 author: miraunpajaro
 ---
 
-![Farci tomatoes](/pix/farci_tomatoes.webp)
+![Farci tomatoes](/pix/farci_tomatoes.avif)
 Farcies tomates with rice.
 
 - ⏲️ Prep time: 10 min

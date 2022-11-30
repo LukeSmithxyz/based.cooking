@@ -5,7 +5,7 @@ tags: ['italian', 'quick', 'pasta', 'cheesefare']
 author: siedes
 ---
 
-![pepe](/pix/cacio-e-pepe.webp)
+![pepe](/pix/cacio-e-pepe.avif)
 
 Cacio e Pepe (meaning cheese and pepper) is not only based but also incredibly simple, ideal for lazy neets and similarly minded people who don't want to wash too many dishes and don't like complicated recipes with too many extra ingredients.
 

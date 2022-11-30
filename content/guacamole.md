@@ -5,7 +5,7 @@ tags: ['mexican', 'spread', 'snack', 'fasting']
 author: yaroslav-smirnov
 ---
 
-![Fresh Guacamole](/pix/guacamole.webp)
+![Fresh Guacamole](/pix/guacamole.avif)
 
 A nice recipe that functions as a delicious and fresh appetizer, best eaten with
 some totopos corn chips, especially in a hot summer day.

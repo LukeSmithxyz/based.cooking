@@ -5,7 +5,7 @@ tags: ['fasting']
 author: yorge-z
 ---
 
-![Lenten chili](/pix/lenten-chili.webp)
+![Lenten chili](/pix/lenten-chili.avif)
 
 
 - ⏲️ Prep time: 10 min

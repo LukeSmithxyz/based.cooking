@@ -5,7 +5,7 @@ tags: ['austrian', 'beef']
 author: "Tobias & Alexandra Grimm"
 ---
 
-![schnitzel](/pix/schnitzel.webp)
+![schnitzel](/pix/schnitzel.avif)
 
 Original Austrian breaded meat, pan-fried in butter.
 

@@ -5,7 +5,7 @@ author: "Kevin Anderson"
 date: 2022-04-16
 ---
 
-![Honey Sriracha Chicken Thighs](/pix/honey-sriracha-chicken-thighs.webp)
+![Honey Sriracha Chicken Thighs](/pix/honey-sriracha-chicken-thighs.avif)
 
 This recipe yields a batch of relatively spicy chicken thighs. If you don't like spicy foods, you can add more honey and less sriracha.
 Conversely, if you like spicy foods, consider a 1:1 ratio of sriracha and honey.

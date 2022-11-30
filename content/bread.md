@@ -5,7 +5,7 @@ tags: ['basic', 'bread', 'fasting']
 author: alex-selimov
 ---
 
-![Finished bread in its baking mold](/pix/bread.webp)
+![Finished bread in its baking mold](/pix/bread.avif)
 
 This is a recipe for a basic loaf of bread. The dough itself can be used however. I've made buns, rolls, and whole bread loafs using this same exact dough every time without a problem. Eat within 3 days as it will probably be going stale around then (as bread without preservatives and other junk should).
 

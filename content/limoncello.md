@@ -5,7 +5,7 @@ tags: ['alcohol', 'lemons', 'digestivo', 'liquor']
 author: mfed3
 ---
 
-![Limoncello](/pix/limoncello.webp)
+![Limoncello](/pix/limoncello.avif)
 
 - ⏲️ Prep time: 10 min
 - 🍳Wait time: 20 days

@@ -5,7 +5,7 @@ tags: ['basic', 'french', 'salad', 'fasting']
 author: "gucko"
 ---
 
-![croutons](/pix/croutons.webp)
+![croutons](/pix/croutons.avif)
 
 Croutons are an essential addition to many salads.  They are delicious and easy to make at home.
 

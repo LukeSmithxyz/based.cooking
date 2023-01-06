@@ -1,5 +1,5 @@
 ---
-title: Cambucha
+title: 'Kombucha'
 tags: ['drink', 'sweet']
 date: 2022-12-30
 author: elias-pahls

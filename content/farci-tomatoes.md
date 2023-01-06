@@ -6,6 +6,7 @@ author: miraunpajaro
 ---
 
 ![Farci tomatoes](/pix/farci_tomatoes.webp)
+
 Farcies tomates with rice.
 
 - ⏲️ Prep time: 10 min

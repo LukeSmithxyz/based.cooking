@@ -17,6 +17,6 @@ Quick and simple bread spread.
 
 ## Directions
 
-1. Put plums in hot water from kettle for couple of minutes, in order to make them softer.
+1. Put plums in hot water from kettle for a couple of minutes, in order to make them softer.
 2. After that put plums (without the water) and rest of the ingredients into blender and mix it until you're satisfied.
 3. If you want to make it more liquid you can add water from the plums.

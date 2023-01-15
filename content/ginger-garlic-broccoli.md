@@ -25,8 +25,9 @@ Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds o
 2. Fill your pan (or wok) around half inch (1.57cm) with water and bring to a rapid boil.
 3. Put broccoli in and steam with lid on for approx. 3 minutes.
 4. Drain broccoli and wipe pan dry.
-5. One teaspoon of oil and saute garlic and ginger (use sesame seed oil for Asian touch, but neutral or olive oil works well too).
+5. One teaspoon of oil and sauté garlic and ginger (use sesame seed oil for Asian touch, but neutral or olive oil works
+   well too).
 6. Deglaze with sherry, put half a cup (approx 120 ml) of warm water or chicken stock. Reduce on medium-high heat.
 7. Stir in soy sauce, brown sugar and lemon juice to your taste.
 8. Thicken sauce with corn starch.
-9. Put dry cooked broccoli back in and saute for very short time (you want it nice and crunchy).
+9. Put dry cooked broccoli back in and sauté for very short time (you want it nice and crunchy).

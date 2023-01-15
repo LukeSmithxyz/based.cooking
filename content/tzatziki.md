@@ -6,7 +6,9 @@ date: 2022-04-16
 
 ![Tzatziki](/pix/tzatziki.webp)
 
-A traditional greek dip that goes well with crackers, celery and carrots or in a greek gyro. Great for parties and sharing with your family friends. Can be eaten immediately after preparation or after a few hours of being in the fridge for enhanced flavor.
+A traditional greek dip that goes well with crackers, celery and carrots or in a greek gyro. Great for parties and
+sharing with your family friends. Can be eaten immediately after preparation or after a few hours of being in the fridge
+for enhanced flavor.
 
 - ⏲️ Prep time: 2 min
 - 🍳 Cook time: 6 min

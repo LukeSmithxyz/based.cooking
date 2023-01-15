@@ -7,12 +7,11 @@ author: yaroslav-smirnov
 
 ![Country Breakfast Skillet](/pix/country-skillet.webp)
 
-If you are feeling quite hungry after just waking up and want to have a
-breakfast to fill your HP and stamina bars for the day, I've got just the
+If you are feeling quite hungry after just waking up and want to have breakfast to fill your HP and stamina bars for the day, I've got just the
 perfect recipe for you.
 
 To be honest, this is more of a build-your-own dish. What I am providing here, I
-would say, is more of a starting point and you're more than welcome to add (or
+would say, is more of a starting point, and you're more than welcome to add (or
 remove) anything you'd like. I also have to say that this is not exclusively a
 breakfast dish, I've had it for breakfast, for lunch, for supper, for dinner,
 etc. Although, I guess when you're a student just any food at any time of the
@@ -57,10 +56,11 @@ have used, but seldom use.
 9. Cook for a couple of minutes more, until eggs are cooked enough. Don't let
    the eggs dry (unless that's the way you like your eggs ¯\\_(ツ)\_/¯).
 10. For the final touch, chop the parsley (or whatever other spices/herbs you
-   decided to use) and add it on top.
+    decided to use) and add it on top.
 11. Serve hot and add some freshly ground pepper.
 
 \*Personally, I prefer to beat the eggs first in a bowl before adding them to the
 frying pan.
 
-Originally published at [https://www.yaroslavps.com/food/country-breakfast-skillet/](https://www.yaroslavps.com/food/country-breakfast-skillet/)
+Originally published
+at [https://www.yaroslavps.com/food/country-breakfast-skillet/](https://www.yaroslavps.com/food/country-breakfast-skillet/)

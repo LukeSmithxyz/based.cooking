@@ -7,7 +7,7 @@ author: yaroslav-smirnov
 
 ![Cheesy Meatballs with Tomato Sauce](/pix/cheesy-meatballs.webp)
 
-Nothing beats meat, cheese and tomato combined together to create the best
+Nothing beats meat, cheese and tomato combined to create the best
 combination of flavors that man has created.
 
 ## Ingredients
@@ -56,4 +56,5 @@ For the sauce:
     that they get completely bathed in tomato sauce.
 12. Serve with some side dish and enjoy!
 
-Originally published at [https://www.yaroslavps.com/food/cheesy-meatballs/](https://www.yaroslavps.com/food/cheesy-meatballs/)
+Originally published
+at [https://www.yaroslavps.com/food/cheesy-meatballs/](https://www.yaroslavps.com/food/cheesy-meatballs/)

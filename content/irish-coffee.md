@@ -19,4 +19,5 @@ author: front3ndninja
 
 ## Directions
 
-1. In a coffee mug, combine Irish cream and Irish whiskey. Fill mug with coffee. Top with a dab of whipped cream and a dash of nutmeg.
+1. In a coffee mug, combine Irish cream and Irish whiskey. Fill mug with coffee. Top with a dab of whipped cream and a
+   dash of nutmeg.

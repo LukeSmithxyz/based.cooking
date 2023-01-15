@@ -23,6 +23,7 @@ __Imperial__
 - 3 teaspoons salt
 
 __Metric__
+
 - 750 g sweet potato
 - 1 kg all-purpose flour
 - 150 ml water (warm at 75F / 35C)
@@ -42,6 +43,7 @@ __Metric__
 9. After 3 days, divide the dough into 8 to 10 pieces of equal weight on a work surface dusted with flour.
 10. Form balls and flatten them to a thickness of about 1 inch (2,5cm).
 11. Let them rest for 30 minutes in a warm place, protected from drafts.
-12. Heat a dry pan over medium-high heat and cook the bolos do caco on both sides until a thin and slightly hard crust is formed. Turn them over very regularly.
+12. Heat a dry pan over medium-high heat and cook the bolos do caco on both sides until a thin and slightly hard crust
+    is formed. Turn them over very regularly.
 13. Then take each bolo do caco with tongs and turn them around on the hot pan to bake the sides.
 14. Serve warm or lukewarm with salted butter and parsley.

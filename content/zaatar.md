@@ -1,8 +1,8 @@
 ---
-title:	"Zaatar"
-date:	2022-09-30
-tags:	['palestinian', 'lebanese', 'mediterranean', 'middle eastern', 'spice']
-author:	Wael Karram
+title:    "Zaatar"
+date:    2022-09-30
+tags:    ['palestinian', 'lebanese', 'mediterranean', 'middle eastern', 'spice']
+author:    Wael Karram
 ---
 
 This is a traditional Palestinian-Lebanese way of making Zaatar.
@@ -22,5 +22,6 @@ This recipe scales for larger amounts so long you preserve the ratios.
 
 1. Lightly roast the sesame in a wide pan until it get a golden brown color.
 2. Wait for the sesame to completely cool down.
-3. Mix everything together, starting from the Zaatar and sesame while adjusting the Sumac (optionally citric acid) and salt to taste.
+3. Mix everything together, starting from the Zaatar and sesame while adjusting the Sumac (optionally citric acid) and
+   salt to taste.
 4. Store in an airtight jar or container.

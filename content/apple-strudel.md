@@ -29,7 +29,7 @@ author: "Lorenzo Iuri"
 4. Arrange the apple slices over the jam.
 5. Sprinkle with cinnamon and breadcrumbs.
 6. Cut tiny pieces of butter and arrange them over the apple slices.
-![apple-strudel-2](/pix/apple-strudel-2.webp)
+   ![apple-strudel-2](/pix/apple-strudel-2.webp)
 7. Roll the puff pastry edges over, overlapping them.
 8. Bake for around 40 minutes at 180°C (360° F).
 9. Cover with powdered sugar.

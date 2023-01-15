@@ -7,7 +7,6 @@ author: yorge-z
 
 ![Lenten chili](/pix/lenten-chili.webp)
 
-
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min
 - 🍽️ Servings: 4
@@ -37,7 +36,7 @@ author: yorge-z
 4. Just before onions are done add the minced garlic to the pot and let cook for 1-2 minutes.
 5. Add the tomato sauce, diced tomatoes, sweet corn, beans, and rice.
 6. Turn up the heat to medium.
-6. Add each of the spices, taste the chili, and adjust flavoring accordingly.
-7. Let cook for 20-30 minutes, stirring occasionally.
+7. Add each of the spices, taste the chili, and adjust flavoring accordingly.
+8. Let cook for 20-30 minutes, stirring occasionally.
 
 Let cool for a few minutes and then serve in bowls.

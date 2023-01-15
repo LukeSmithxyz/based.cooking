@@ -5,7 +5,8 @@ tags: ['tunisian', 'Eggs']
 author: Sami Ben Romdhane
 ---
 
-Similar to an Italian frittata or Spanish tortilla, Tunisian tajine maadnous is an easy & delicious egg omelette filled with chicken, parsley, and spices.
+Similar to an Italian frittata or Spanish tortilla, Tunisian tajine maadnous is an easy & delicious egg omelette filled
+with chicken, parsley, and spices.
 
 ![tajine maadnous](/pix/tajine-maadnous.webp)
 
@@ -39,10 +40,13 @@ Similar to an Italian frittata or Spanish tortilla, Tunisian tajine maadnous is 
 ## Directions
 
 1. Mix the spices together (grinding any whole spices if necessary) and set them aside.
-2. In a large frying pan or pot over medium heat, saute the onions in about 1 tbsp of olive oil until tender.
+2. In a large frying pan or pot over medium heat, sauté the onions in about 1 tbsp of olive oil until tender.
 3. Toss chicken with 1/2 of the spice mix. Add this to the pan and brown.
-4. Add the potatoes and the water to the pan. Bring to a gentle simmer, then cook uncovered until potatoes are tender and most of the liquid has evaporated.
+4. Add the potatoes and the water to the pan. Bring to a gentle simmer, then cook uncovered until potatoes are tender
+   and most of the liquid has evaporated.
 5. Stir chopped parsley into the cooked mixture and set aside to cool.
 6. Preheat oven to 350°F (180°C), and grease a medium (2 quart/liter) baking pan with the remaining olive oil.
-7. Thoroughly whisk the eggs in a large bowl, then mix in the cheese. Stir in the chicken, potato, and parsley mixture, along with the remaining spice mixture. Stir until well-combined, then pour into the oiled baking dish.
-8. Bake for 30-35 minutes, or until set in the center. Allow to cool, and serve warm or at room temperature. Serve with some harissa, if you like.
+7. Thoroughly whisk the eggs in a large bowl, then mix in the cheese. Stir in the chicken, potato, and parsley mixture,
+   along with the remaining spice mixture. Stir until well-combined, then pour into the oiled baking dish.
+8. Bake for 30-35 minutes, or until set in the center. Allow to cool, and serve warm or at room temperature. Serve with
+   some harissa, if you like.

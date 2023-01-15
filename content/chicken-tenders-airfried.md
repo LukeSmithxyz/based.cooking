@@ -19,12 +19,12 @@ author: mental-outlaw
 
 ## Directions
 
-1. In a plate, mix a little over a table spoon of spices into your flour.
+1. In a plate, mix a little over a tablespoon of spices into your flour.
 2. Dip the chicken into the flour one strip at a time coating the entire surface.
-3. Dip the floured chicken into the eggwash.
+3. Dip the floured chicken into the egg-wash.
 4. Press the chicken into the breadcrumbs trying to pick up as much as possible.
 5. Repeat until all strips have been floured egged and breaded.
 6. Coat both sides of the tenders with a light amount of olive oil.
-7. Place the tenders into your airfryer, do not layer them on top of each other.
-8. Set your airfryer to chicken mode and cook for 20 minutes at 360 degrees fahrenheit.
+7. Place the tenders into your air fryer, do not layer them on top of each other.
+8. Set your air fryer to chicken mode and cook for 20 minutes at 360 degrees Fahrenheit.
 9. Serve with honey mustard for maximum effect.

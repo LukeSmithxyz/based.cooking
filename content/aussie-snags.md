@@ -30,4 +30,4 @@ especially national events. Sometimes served at hardware chains.
 4. Use your tongs to toss the onions until they are golden brown
 5. When the onions are golden brown turn off the hotplate
 6. When the sausages are cooked, butter the bread, then the onions, and add a sausage (optionally split)
-7. Finally tomato sauce on top
+7. Finally, tomato sauce on top

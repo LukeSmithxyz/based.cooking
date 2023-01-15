@@ -27,7 +27,8 @@ Easy to prepare Italian dish with lots of flavour great for a relaxing evening d
 2. Put the chipolata sausages in an oven dish
 3. Cut 4 red onions into quarters spread them out in the oven dish.
 4. Mince 2 of the garlic cloves and add them to the oven dish.
-5. Add the 2 remaining garlic cloves to the oven dish, This can be done with the skin to create a garlic spread for the bread.
+5. Add the 2 remaining garlic cloves to the oven dish, This can be done with the skin to create a garlic spread for the
+   bread.
 6. Add 3 tablespoons of oil to the oven dish and toss to cover everything in oil
 7. Put the dish in the oven for 30 minutes. Toss everything around at 15 minutes to ensure even baking.
 8. Cut half of the cherry tomatos in half keep the other half intact.

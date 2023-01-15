@@ -28,4 +28,5 @@ Dianne's Southwestern Cornbread Salad is as colorful as it is delicious.
 
 1. **Prepare** cornbread according to package directions, cool, and crumble. Then set aside.
 2. **Prepare** salad dressing according to package directions.
-3. **Layer** a large bowl with half each of cornbread, lettuce, and the next 6 ingredients: spoon half of dressing evenly over top. Repeat layers with remaining ingredients and dressing. Cover and chill at least 2 hours.
+3. **Layer** a large bowl with half each of cornbread, lettuce, and the next 6 ingredients: spoon half of dressing
+   evenly over top. Repeat layers with remaining ingredients and dressing. Cover and chill at least 2 hours.

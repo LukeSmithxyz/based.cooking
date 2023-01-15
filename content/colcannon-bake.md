@@ -24,8 +24,13 @@ author: joel-maxuel
 
 ## Directions
 
-1. Place the potatoes into a large pot and cover with salted water. Bring to a boil, then reduce heat to medium-low, cover and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two. Season the potatoes with salt, and mash with 6 Tbsp of the butter, the sour cream, egg, and milk.
+1. Place the potatoes into a large pot and cover with salted water. Bring to a boil, then reduce heat to medium-low,
+   cover and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two. Season the
+   potatoes with salt, and mash with 6 Tbsp of the butter, the sour cream, egg, and milk.
 2. Preheat oven to 350F. Grease a 2-quart casserole dish.
-3. Heat the remaining butter in a skillet over medium heat. Stir in the cabbage, leeks, and onion until the cabbage is tender and the onion is translucent (10 mins).
-4. Crush the bouillon cubes into the cabbage mixture, and stir to blend and dissolve the cubes. Stir the cabbage mixture into the potato mixture until thoroughly mixed, and spoon into the prepared casserole dish.
-5. Bake in the preheated oven for 40 minutes, top with cheddar cheese, and return to oven until the cheese melts (10 mins).
+3. Heat the remaining butter in a skillet over medium heat. Stir in the cabbage, leeks, and onion until the cabbage is
+   tender and the onion is translucent (10 mins).
+4. Crush the bouillon cubes into the cabbage mixture, and stir to blend and dissolve the cubes. Stir the cabbage mixture
+   into the potato mixture until thoroughly mixed, and spoon into the prepared casserole dish.
+5. Bake in the preheated oven for 40 minutes, top with cheddar cheese, and return to oven until the cheese melts (10
+   mins).

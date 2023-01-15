@@ -8,7 +8,7 @@ author: yaroslav-smirnov
 ![Parmesan potatoes](/pix/parmesan-potatoes.webp)
 
 You can have this as a side dish, or for breakfast. Well, you can have it
-whenever and wherever you want if you are cooking it! We are grown ups here
+whenever and wherever you want if you are cooking it! We are grown-ups here
 after all.
 
 ## Ingredients
@@ -34,4 +34,5 @@ have it as a side dish this should be enough for two persons.
    ground pepper on top.
 6. Enjoy!
 
-Originally published at [https://www.yaroslavps.com/food/parmesan-potatoes/](https://www.yaroslavps.com/food/parmesan-potatoes/)
+Originally published
+at [https://www.yaroslavps.com/food/parmesan-potatoes/](https://www.yaroslavps.com/food/parmesan-potatoes/)

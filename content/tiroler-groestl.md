@@ -5,7 +5,7 @@ tags: ['austrian', 'bacon', 'potato']
 author: peter-wilbrink
 ---
 
-- ⏲️  Prep time: 15 min
+- ⏲️ Prep time: 15 min
 - 🍳 Cook time: 30 min
 - 🍽️ Servings: 5
 

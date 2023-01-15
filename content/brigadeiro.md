@@ -7,7 +7,8 @@ author: daniel-kemmerich
 
 ![Brigadeiro](/pix/brigadeiro.webp)
 
-A very traditional Brazilian dessert that is present in every Brazilian birthday party! Delicious and super easy to make.
+A very traditional Brazilian dessert that is present in every Brazilian birthday party! Delicious and super easy to
+make.
 
 ## Ingredients
 
@@ -25,4 +26,5 @@ A very traditional Brazilian dessert that is present in every Brazilian birthday
 
 ## Closing remarks
 
-Depending on how much brigadeiro you want to make, you'll have to add more or less of each ingredient, so be creative! Be careful with the chocolate powder, you definitely do not want to add too much of it!
+Depending on how much brigadeiro you want to make, you'll have to add more or less of each ingredient, so be creative!
+Be careful with the chocolate powder, you definitely do not want to add too much of it!

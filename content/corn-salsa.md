@@ -20,4 +20,5 @@ author: joe-powerhouse
 
 ## Directions
 
-1. Chop everything to pieces smaller than the corn kernels. Mix well and let sit covered in the fridge for at least an hour, even better overnight.
+1. Chop everything to pieces smaller than the corn kernels. Mix well and let sit covered in the fridge for at least an
+   hour, even better overnight.

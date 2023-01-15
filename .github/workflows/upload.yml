@@ -18,16 +18,16 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Updating website.
-      uses: appleboy/ssh-action@master
-      with:
-        host: based.cooking
-        username: based
-        key: ${{ secrets.based_ssh }}
-        passphrase: ${{ secrets.based_ssh_pass }}
-        port: ${{ secrets.based_port }}
-        script: |
-          cd repo
-          git stash
-          git pull --force origin master
-          hugo -s . -t /var/www/lugo -d ~/based.cooking/ --cacheDir ~/hugocache
+      - name: Updating website.
+        uses: appleboy/ssh-action@master
+        with:
+          host: based.cooking
+          username: based
+          key: ${{ secrets.based_ssh }}
+          passphrase: ${{ secrets.based_ssh_pass }}
+          port: ${{ secrets.based_port }}
+          script: |
+            cd repo
+            git stash
+            git pull --force origin master
+            hugo -s . -t /var/www/lugo -d ~/based.cooking/ --cacheDir ~/hugocache

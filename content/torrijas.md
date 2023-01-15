@@ -25,7 +25,8 @@ It is said they were first cooked using the leftovers from the Lent.
 
 ## Directions
 
-1. Mull the milk with cinnamon and a bit of sugar (not too much, the milk is already sweet). Add the lemon rind if you want.
+1. Mull the milk with cinnamon and a bit of sugar (not too much, the milk is already sweet). Add the lemon rind if you
+   want.
 2. Cool down the milk.
 3. While the milk is cooling, beat the eggs and heat up half a pan of olive oil.
 4. Cut the dry bread in slices. Soak it in the milk.

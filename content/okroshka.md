@@ -22,7 +22,7 @@ A hearty and healthy cold soup, which is especially good to eat in the hot seaso
 ## Directions
 
 1. Prepare a saucepan where you will put the ingredients (5 liters) and a saucepan for boiling eggs and potatoes
-2. Boil potatoes and eggs (hard boiled)
+2. Boil potatoes and eggs (hard-boiled)
 3. Finely chop cucumbers, radishes, onions, dill and sausage (or meat)
 4. Peel eggs and potatoes and chop finely
 5. Pour kefir (or kvass) and mix all the ingredients

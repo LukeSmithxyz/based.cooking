@@ -9,9 +9,10 @@ author: martin-stohanzl
 * 🍳 Cook time: 120 min
 * 🍽️ Servings: 8-12
 
-This is a recipe for a typical Austrian carb and protein bomber. This is traditionally made with ham or smoked rolled roast. This is good if you want to feed a family or if you just want to be lazy and eat the same thing for 3 or 4 days.
+This is a recipe for a typical Austrian carb and protein bomber. This is traditionally made with ham or smoked rolled
+roast. This is good if you want to feed a family or if you just want to be lazy and eat the same thing for 3 or 4 days.
 
-Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 Oil-Vinegrette)
+Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 Oil-Vinaigrette)
 
 ## Ingredients
 
@@ -22,8 +23,8 @@ Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 
 - 1-2 eggs
 - Majoran, Muskat, Pepper
 - Optional:
-  - parmesan
-  - chili flakes
+    - parmesan
+    - chili flakes
 
 ## Directions
 
@@ -37,4 +38,6 @@ Serve topped with cheese on top of salad (with Mustard, Jam, Salt, 1 Vinegar, 4 
 8. Bake at ~160°C for ~2 hours.
 9. Optionally gratin mozzarella or any other cheese on top for 5-10 minutes.
 
-There you have it, an idiot-proof carb and protein bomber that should taste reasonably well. Besides browning the noodles this is really just throwing stuff into a baking pan. This is the kind of dish that tastes better the next day so it's ideal for making on a Sunday and eating for the next 3 or 4 days. Just reheat in oven or pan (add little water).
+There you have it, an idiot-proof carb and protein bomber that should taste reasonably well. Besides browning the
+noodles this is really just throwing stuff into a baking pan. This is the kind of dish that tastes better the next day,
+so it's ideal for making on a Sunday and eating for the next 3 or 4 days. Just reheat in oven or pan (add little water).

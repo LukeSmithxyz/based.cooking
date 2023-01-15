@@ -25,7 +25,7 @@ author: mfed3
 
 - 2 tbsp spicy doubanjiang (la doubanjiang)
 - 1 tsp dou-chi
-- 2-3 chopped scallions white and green separated)
+- 2-3 chopped scallions white and green separated
 - 2-4 minced garlic cloves
 - 2 inch minced ginger (similar amount as garlic)
 - 400 ml chicken broth or water
@@ -35,6 +35,7 @@ author: mfed3
 ## Directions
 
 ![Mapo Tofu Simmering](/pix/mapo-tofu-02.webp)
+
 1. Marinade the pork in shaoxing cooking wine, a splash of cooking oil, the soy sauce,
 2. Add cooking oil to a wok and sear the ground pork until browned, chopping it up as it cooks
 3. Add the doubanjiang and let it simmer for about a minute

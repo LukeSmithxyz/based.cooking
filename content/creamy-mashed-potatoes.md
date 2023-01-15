@@ -34,7 +34,7 @@ mashed potatoes to be.
 
 ## Directions
 
-1. Peel and cut the potatoes into medium sized pieces.
+1. Peel and cut the potatoes into medium-sized pieces.
 2. Put the potatoes in a pot with some water so that it covers the potatoes and
    boil them for about 20-30 minutes, or until the potatoes are soft.
 3. About ten minutes before removing the potatoes from the boiling water, cut
@@ -50,4 +50,5 @@ mashed potatoes to be.
    add the shredded cheese and fried bacon and mix a little.
 9. Serve and top with chopped green onions.
 
-Originally published at [https://www.yaroslavps.com/food/creamy-mashed-potatoes/](https://www.yaroslavps.com/food/creamy-mashed-potatoes/)
+Originally published
+at [https://www.yaroslavps.com/food/creamy-mashed-potatoes/](https://www.yaroslavps.com/food/creamy-mashed-potatoes/)

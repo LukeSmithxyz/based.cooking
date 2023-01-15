@@ -19,10 +19,11 @@ Baked chicken with apples and onions. Suprinsingly good and simple combination.
 - Nuez moscada.
 - Apples.
 - Potatoes.
-- Cream or creme fraiche.
+- Cream or crème fraîche.
 - Salt.
 - Pepper.
 - One glass (33c) of wine or cognac.
+
 ## Directions
 
 1. Heat the oven to 200C and prepare an oven tray.
@@ -32,6 +33,7 @@ Baked chicken with apples and onions. Suprinsingly good and simple combination.
 5. Put the chicken, onions and apple in the oven tray.
 6. Add salt and pepper.
 7. Cook in the oven for 40 min.
-8. While the chicken is the oven prepare mushed potatoes. First you boil them until they are soft (keep the skin on). Once they are soft, peel them. Then mush them with a fork and add milk or creme fraiche.
+8. While the chicken is the oven prepare mushed potatoes. First you boil them until they are soft (keep the skin on).
+   Once they are soft, peel them. Then mush them with a fork and add milk or crème fraîche.
 9. Add the wine or the cognac. Cook until the chicken is well cooked.
 10. Enjoy.

@@ -5,7 +5,8 @@ tags: ['quick', 'sauce', 'indian']
 author: ram-pari
 ---
 
-Raitha is an yogurt-based Indian style sauce that goes great with rice dishes such as Pilau and Biriyani. It's quite similar to
+Raitha is a yogurt-based Indian style sauce that goes great with rice dishes such as Pilau and Biriyani. It's quite
+similar to
 a greek Tzatziki and is quick and quite easy to make. It's great especially with super spicy indian dishes as it
 provides as a sweet and cooling effect.
 

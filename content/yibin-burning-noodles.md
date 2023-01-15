@@ -37,9 +37,11 @@ This is a dry noodle dish from the town of Yibin in Sichuan, China.
 ### Yibin Chili Oil
 
 1. Add ground chilies to a heat-proof jar or bowl.
-2. Heat rapeseed oil (or Chinese peanut oil) over medium heat until lightly smoking at approximately 230°C for 2 minutes.
+2. Heat rapeseed oil (or Chinese peanut oil) over medium heat until lightly smoking at approximately 230°C for 2
+   minutes.
 3. Turn off heat and let oil cool down to about 150°C.
-4. Turn flame back to medium and add ginger, cassia bark, star anise, black cardamom, Sichuan peppercorn and chopped walnut pieces.
+4. Turn flame back to medium and add ginger, cassia bark, star anise, black cardamom, Sichuan peppercorn and chopped
+   walnut pieces.
 5. Simmer for 10 minutes.
 6. Ensure the oil is approximately 150°C
 7. Pour oil through a strainer onto the ground chilies.

@@ -20,7 +20,7 @@ author: teo-dragovic
 4. Add tortellini in.
 5. Cook for 3 minutes.
 6. Drain water from the pot while keeping tortellini in.
-7. Add cooking cream and mix at medium heat until reduced a bit so it's more creamy.
+7. Add cooking cream and mix at medium heat until reduced a bit, so it's more creamy.
 8. Turn off the heat and add 1 or 2 eggs.
 9. Mix in and let eggs cook using heat from the pot and tortellini.
 10. Serve on a plate. Add pepper, more salt if needed, and optionally, shredded cheese on top for extra creaminess.

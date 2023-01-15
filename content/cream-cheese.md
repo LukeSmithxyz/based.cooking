@@ -1,20 +1,20 @@
 ---
-title: "Cream Cheese" 
+title: "Cream Cheese"
 date: 2022-04-16
 tags: ['basic', 'cheesefare']
-author: "SuperDuperDeou" 
+author: "SuperDuperDeou"
 ---
 
 ## Ingredients
 
 - thermometer
-- 1 cheesecloth 
+- 1 cheesecloth
 - 1 cheese recipient
 - 250ml of fresh, non-UHT milk
 - 250ml of yogurt
 - 1lt of fresh cream
 - 5g of table salt
-- 6g of of citric acid (contained in 130ml of lemon juice) 
+- 6g of citric acid (contained in 130ml of lemon juice)
 
 ## Directions
 

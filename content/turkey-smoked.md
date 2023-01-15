@@ -27,12 +27,14 @@ Turkey, smoked on a charcoal grill
 2. Remove giblets and other materials from the turkey cavity.
 3. Rinse the turkey and pat dry with a towel.
 4. Liberally coat the turkey with the whipped butter mixture. Ensure the entire surface is coated.
-5. Place turkey in a foil baking pan with mixed vegetables. If available, use a rack to elevate the turkey from the bottom of the pan.
+5. Place turkey in a foil baking pan with mixed vegetables. If available, use a rack to elevate the turkey from the
+   bottom of the pan.
 6. Add chicken broth until it coats the bottom of the pan.
 7. Cover the pan in foil.
 8. Ignite the charcoal grill; arrange the coals for indirect cooking. Try to maintain a temperature of 300-400°F.
 9. Place the turkey in pan on the grill and cook indirectly for 1 hour.
 10. Remove the foil, and continue cooking over indirect heat.
-11. Periodically (every 15-30 minutes) baste the turkey with its own juices. If the bottom of the pan is dry, add chicken broth and reduce heat.
+11. Periodically (every 15-30 minutes) baste the turkey with its own juices. If the bottom of the pan is dry, add
+    chicken broth and reduce heat.
 12. Remove when the turkey reaches an internal temperature of 160°F in the breast.
 13. Allow to rest for 10 minutes before carving.

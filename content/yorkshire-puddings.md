@@ -7,7 +7,8 @@ author: siggines
 
 ![Yorkshire Puddings](/pix/yorkshire-puddings.webp)
 
-Basically the northern England equivalent of the french pancake ( a means to make use of extra flour when you didn't have enough for bread ). They go well with Sunday Roasts.
+Basically the northern England equivalent of the French pancake ( a means to make use of extra flour when you didn't
+have enough for bread ). They go well with Sunday Roasts.
 Puddings may be preserved in freezer for up to a month.
 
 - ⏲️ Prep time: 5 min
@@ -27,7 +28,8 @@ Puddings may be preserved in freezer for up to a month.
 2. Drizzle oil into 24 'cupcake tin' slots. (The pans you make cupcakes in). Heat in oven.
 3. Pour flour into bowl.
 4. Whisk eggs, add to bowl.
-5. Add milk to bowl in small amounts, beating/whisking after each addition. Until there are no lumps in the batter. You may season with salt & pepper.
+5. Add milk to bowl in small amounts, beating/whisking after each addition. Until there are no lumps in the batter. You
+   may season with salt & pepper.
 6. Tip batter into a jug so that you may pour into the cupcake pan slots evenly and carefully.
 7. Bake undisturbed ( opening oven will impede the rising ), until the puddings have puffed up and browned.
 

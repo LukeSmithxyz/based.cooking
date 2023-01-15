@@ -24,9 +24,13 @@ This recipe for jerky is not heavily brined and flavored as commercial jerky is.
 
 1. Mince or press garlic.
 2. Mix all ingredients except beef to make brine.
-3. Slice beef into ¼" (½ cm) thick strips. Small chunks, about ¾" (2 cm), of stewing beef may also be used. If possible, cut along the grain of the meat rather than across it. It may be easier to freeze the meat before attempting to cut it, as this will stop the meat pulling and deforming so easily.
+3. Slice beef into ¼" (½ cm) thick strips. Small chunks, about ¾" (2 cm), of stewing beef may also be used. If possible,
+   cut along the grain of the meat rather than across it. It may be easier to freeze the meat before attempting to cut
+   it, as this will stop the meat pulling and deforming so easily.
 4. Marinate meat in overnight, or at least for an hour or two.
-5. Place meat on racks and dry in a food dehydrator at 145 °F (63 °C) for 6-8 hours. May be dried in a 150 °F (65 °C) oven with foil-covered racks. In oven, turn meat over 3-4 hours into drying time and reduce temperature to 130 °F (55 °C).
+5. Place meat on racks and dry in a food dehydrator at 145 °F (63 °C) for 6-8 hours. May be dried in a 150 °F (65 °C)
+   oven with foil-covered racks. In oven, turn meat over 3-4 hours into drying time and reduce temperature to 130 °F (55
+   °C).
 6. Meat should bend but not break when properly dried.
 
 ## Note

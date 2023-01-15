@@ -33,4 +33,5 @@ And of course, some totopos to eat with.
 This recipe is best consumed fresh, since the avocado oxidizes pretty fast and
 might lose its appetizing color and texture in just some hours.
 
-Originally published at [https://www.yaroslavps.com/food/fresh-guacamole/](https://www.yaroslavps.com/food/fresh-guacamole/)
+Originally published
+at [https://www.yaroslavps.com/food/fresh-guacamole/](https://www.yaroslavps.com/food/fresh-guacamole/)

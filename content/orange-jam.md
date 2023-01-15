@@ -10,7 +10,7 @@ can be used as a generic sweet spread.
 
 ## Ingredients
 
-* 4 medium sized oranges
+* 4 medium-sized oranges
 * 1 lemon
 * 1 1/2 cup sugar
 

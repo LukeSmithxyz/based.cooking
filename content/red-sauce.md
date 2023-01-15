@@ -5,7 +5,7 @@ tags: ['italian', 'sauce']
 author: laurent-micheli
 ---
 
-My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.
+My great-grandma's red sauce. All-purpose: good for pastas, lasagnas, subs, etc.
 
 - ⏲️ Prep time: 12 mins
 - 🍳 Cook time: Simmer all day

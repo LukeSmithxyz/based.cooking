@@ -5,7 +5,6 @@ date: 2022-09-11
 author: joel-maxuel
 ---
 
-
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 20 min
 - 🍽️ Servings: 8
@@ -28,7 +27,10 @@ author: joel-maxuel
 
 ## Directions
 
-1. In large saucepan heat 2 tsp oil over medium heat.  Add half of the chicken and cook 3 minutes until brown. Remove from pan and set aside. Repeat with remaining chicken.
-2. Add remaining oil to pan; add garlic, onion, and ginger. Reduce heat to medium and cook, stirring constantly for 5 minutes or until soft.  Stir in cayenne, cumin, and turmeric; saute for 1 minute.
-3. Stir in stock, tomatoes, tomato paste, and sugar; return chicken to pan. Bring to boil; reduce heat and simmer 5 minutes.
-4.  Stir in yogurt and simmer 2 minutes.
+1. In large saucepan heat 2 tsp oil over medium heat. Add half of the chicken and cook 3 minutes until brown. Remove
+   from pan and set aside. Repeat with remaining chicken.
+2. Add remaining oil to pan; add garlic, onion, and ginger. Reduce heat to medium and cook, stirring constantly for 5
+   minutes or until soft. Stir in cayenne, cumin, and turmeric; sauté for 1 minute.
+3. Stir in stock, tomatoes, tomato paste, and sugar; return chicken to pan. Bring to boil; reduce heat and simmer 5
+   minutes.
+4. Stir in yogurt and simmer 2 minutes.

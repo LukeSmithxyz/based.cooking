@@ -24,4 +24,5 @@ author: joel-maxuel
 
 1. Preheat oven to 350F. Butter a 1.5 quart baking dish.
 2. In a medium bowl, combine the potatoes, butter, eggs, onion, salt, and paprika. Mix well.
-3. Place potato mixture into the prepared baking dish and pour milk over top. Bake in the preheated oven for 40 minutes. Sprinkle top with cheese, return to oven until cheese melts and is slightly browned.
+3. Place potato mixture into the prepared baking dish and pour milk over top. Bake in the preheated oven for 40 minutes.
+   Sprinkle top with cheese, return to oven until cheese melts and is slightly browned.

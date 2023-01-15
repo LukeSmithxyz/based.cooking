@@ -26,7 +26,6 @@ author: joel-maxuel
 - Salt and freshly ground Black Pepper
 - 2 Tbsp Lemon juice, fresh
 
-
 ## Directions
 
 1. Combine the lettuce, tomatoes, cucumber, onion, bell pepper, olives in a bowl.

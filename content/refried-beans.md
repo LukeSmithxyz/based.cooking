@@ -33,7 +33,7 @@ As usual, the ingredients here are for about two adult portions:
    a brownish red. Mix with your spatula, and let fry for about 5 minutes.
 5. Open the can of beans and pour the beans into the pan. Depending on how
    liquid you want the refried beans to be, you can use all or just some part of
-   the liquid inside the can. I usually get rid of some of the liquid from the
+   the liquid inside the can. I usually get rid of some liquid from the
    can before pouring the beans.
 6. Mash the beans and mix. Let them fry at medium-low to medium heat for about 5
    to 10 minutes, mixing from time to time.

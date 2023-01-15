@@ -13,7 +13,7 @@ author: front3ndninja
 ## Ingredients
 
 - 1 (46 fluid ounce) bottle tomato-vegetable juice cocktail
-- 1 fruit, without seeds lemons, juiced
+- 1 fruit, without seeds lemons, juiced
 - 1 teaspoon brown sugar
 - 1 tablespoon steak sauce
 - 1 tablespoon Worcestershire sauce
@@ -23,4 +23,5 @@ author: front3ndninja
 
 ## Directions
 
-1. In a large pitcher, combine juice cocktail, lemon juice and brown sugar. Season with Worcestershire sauce, horseradish, hot sauce and celery salt. Cover, and refrigerate 8 to 12 hours to allow flavors to meld.
+1. In a large pitcher, combine juice cocktail, lemon juice and brown sugar. Season with Worcestershire sauce,
+   horseradish, hot sauce and celery salt. Cover, and refrigerate 8 to 12 hours to allow flavors to meld.

@@ -4,6 +4,7 @@ tags: ['fish', 'soup', 'japanese']
 date: 2022-11-16
 author: "Elsie Bee"
 ---
+
 - ⏲️ Prep time: 45 min
 - 🍳 Cook time: 15 min
 - 🍽️ Servings: 2
@@ -21,9 +22,11 @@ author: "Elsie Bee"
 
 ## Directions
 
-1. Place the mackerel fillets in a small container at room temperature. Pour sake on both sides of the fillets and let rest in the container, covered, for 30 min.
+1. Place the mackerel fillets in a small container at room temperature. Pour sake on both sides of the fillets and let
+   rest in the container, covered, for 30 min.
 2. Cut onion into large slices.
-3. To a saucepan, add two cups of water, sliced onions, and miso paste. Whisk the solution until the miso paste is fully dissolved.
+3. To a saucepan, add two cups of water, sliced onions, and miso paste. Whisk the solution until the miso paste is fully
+   dissolved.
 4. Bring to a boil. Let the miso soup boil for about 10-15 min, then bring to a simmer.
 5. While the miso boils, peel the summer squash. Cut squash into 1/4 in half moons.
 6. In a large pan, melt 1 tbsp butter at medium-high heat.

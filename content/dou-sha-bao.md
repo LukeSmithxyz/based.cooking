@@ -27,17 +27,22 @@ Soft and fluffy sweet buns filled-up with creamy Azuki red bean paste.
 
 ## Directions
 
-1. 24h after soaking, boil the beans during 5 minutes and rince to clean up impurities.
-2. Bring back the beans to simmering point during 1h30/2h. Drain when beans are easily squashable.
-3. Mix the beans until smooth paste. Feel free to ad some water if necessary.
-4. Put the bean paste in a low-heated pan with 150g (~ 5oz) sugar and a pinch of salt. Stir continuously to dry up the paste during around 10 minutes and let it cool.
-5. In a salad bowl, stir the flour, the rest of sugar (~ 50g / 1.7oz), a pinch of salt, the baking powder and baker's yeast.
-6. Knead the bun paste during 5 minutes then incorporate the oil, knead again during 2 minutes. Shape a bowl and let it for 1 hour.
+1. 24h after soaking, boil the beans during 5 minutes and rinse to clean up impurities.
+2. Bring back the beans to simmering point during 1h30/2h. Drain when beans are easily squash-able.
+3. Mix the beans until smooth paste. Feel free to add some water if necessary.
+4. Put the bean paste in a low-heated pan with 150g (~ 5oz) sugar and a pinch of salt. Stir continuously to dry up the
+   paste during around 10 minutes and let it cool.
+5. In a salad bowl, stir the flour, the rest of sugar (~ 50g / 1.7oz), a pinch of salt, the baking powder and baker's
+   yeast.
+6. Knead the bun paste during 5 minutes then incorporate the oil, knead again during 2 minutes. Shape a bowl and let it
+   for 1 hour.
 7. Shape 6 balls with red beans paste.
 8. Press the rested bun paste to remove the gas and knea it up for 1 minute.
 9. Sprinkle flour on working plan and make a sausage shape. Cut it in 6 equal shares and shape small balls with it.
 10. Spread these bun paste balls to obtain a 10/12cm (~ 4inch) diameter disc.
-11. Put the red bean paste in the center of the bun disc paste and close up the bao by making small folds around the ball. Solder well.
+11. Put the red bean paste in the center of the bun disc paste and close up the bao by making small folds around the
+    ball. Solder well.
 12. Dispose baos in a covered steaming basket and let it rest during 10 minutes.
-13. After 10 minutes of rest, steam it during 20 minutes. After steaming, let it rest during 5 minutes without uncover it.
+13. After 10 minutes of rest, steam it during 20 minutes. After steaming, let it rest during 5 minutes without uncover
+    it.
 14. Enjoy!

@@ -5,7 +5,8 @@ tags: ['pork', 'slowcooked', 'mexican']
 author: "sam"
 ---
 
-This recipe makes a lot and is super easy. A whole roast usually makes enough for a few meals (depending on how many people will be eating it). Leftovers can be refrigerated for 4-5 days.
+This recipe makes a lot and is super easy. A whole roast usually makes enough for a few meals (depending on how many
+people will be eating it). Leftovers can be refrigerated for 4-5 days.
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 8 hr 30 min

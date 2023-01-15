@@ -15,4 +15,5 @@ author: front3ndninja
 
 ## Directions
 
-1. Stir together apricot nectar, pineapple juice, water, and orange juice concentrate in a large pitcher until combined. Pour in bottle of sparkling wine just before serving.
+1. Stir together apricot nectar, pineapple juice, water, and orange juice concentrate in a large pitcher until combined.
+   Pour in bottle of sparkling wine just before serving.

@@ -34,7 +34,8 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
 - The file needs to be `\n` terminated in unix-fashion (if you're on Linux you
   don't need to care, it should be automatic).
 
-**If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
+**If you fail to do these things, I will close your submission, and you will have to resubmit. I am tired of having to
+fix more than 50% of submissions.**
 
 You may include a json file with your personal links/donation addresses in
 `data/authors/your-name.json`. See mine (`data/authors/luke-smith.json`) for a

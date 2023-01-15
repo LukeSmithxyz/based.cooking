@@ -6,7 +6,7 @@ author: mr-mip
 ---
 
 A tex-mex style mexican rice with beans and meat. Adding the beans and meat take it from a side
-dish to good good burrito filling. :x
+dish to good burrito filling. :x
 
 ## Ingredients
 

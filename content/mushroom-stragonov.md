@@ -12,7 +12,7 @@ Servings: 2
 ## Ingredients
 
 - 8 oz uncooked pasta (spaghetti or any other long noodle will work. Stroganov can also be served over rice.)
-- 12 oz mushrooms (I reccommend shitake, but white, portabello, or maitake will also work.)
+- 12 oz mushrooms (I recommend shiitake, but white, portabello, or maitake will also work.)
 - 2 cloves of garlic, minced
 - 1 small yellow onion, minced
 - 2 Tbsp butter
@@ -20,8 +20,8 @@ Servings: 2
 - 1 Cup vegetable broth
 - 1 Tsp dijon mustard
 - 1 Tsp Smoked paprika
-- 4 Tbsp creme fraiche (can be made by mixing equal parts heavy and sour cream)
-- 2 Tbsp parsely
+- 4 Tbsp crème fraîche (can be made by mixing equal parts heavy and sour cream)
+- 2 Tbsp parsley
 
 ## Directions
 

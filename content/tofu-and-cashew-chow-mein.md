@@ -5,7 +5,8 @@ date: 2022-09-10
 author: joel-maxuel
 ---
 
-Precooked thick wheat noodles are typically found in the refrigerated section of the supermarket. Preparing soba noodles is a worthy substitute.
+Precooked thick wheat noodles are typically found in the refrigerated section of the supermarket. Preparing soba noodles
+is a worthy substitute.
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 10 min
@@ -32,4 +33,5 @@ Precooked thick wheat noodles are typically found in the refrigerated section of
 3. Heat a wok or large frying pan over a high heat, add the oil and stir-fry the carrot and broccoli for 2 minutes.
 4. Add the tofu and stir-fry for 4 minutes.
 5. Add the garlic and ginger and stir-fry for a minute.
-6. Stir through the noodles and then add the sauce mixture and cashews and mix until thoroughly combined and heated through.
+6. Stir through the noodles and then add the sauce mixture and cashews and mix until thoroughly combined and heated
+   through.

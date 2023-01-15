@@ -34,9 +34,9 @@ sauce.
    slightly once we add the sauce.
 2. Defrost/Deshell your seafood of choice
 3. Chop a half tablespoon of garlic into small pieces
-4. In a large pan on medium heat, saute your chopped garlic in salt and butter for a
+4. In a large pan on medium heat, sauté your chopped garlic in salt and butter for a
    minute or so.
-5. Add and saute the seafood. Season with oregano, red pepper flakes and salt
+5. Add and sauté the seafood. Season with oregano, red pepper flakes and salt
 6. Add a half cup heavy cream and a third cup of white wine to the pan. Cook until you have the
    consistency you want.
 7. Drain your pasta (Which should be cooked by now) and pour contents of the pan into the pasta.

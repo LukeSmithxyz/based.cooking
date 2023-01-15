@@ -22,10 +22,12 @@ Simple chinese inspired sticky porkchops.
 
 ## Directions
 
-1. Fill a shallow dish with soy sauce to about half the thickness of your porkchops. The level shouldn't be able to fully submerge them.
+1. Fill a shallow dish with soy sauce to about half the thickness of your porkchops. The level shouldn't be able to
+   fully submerge them.
 2. Mix in the honey until fully combined with the soy sauce, then mix in the garlic, ginger and chinese five spice.
 3. Place your porkchops in the dish, then flip them.
 4. Cover the dish with clingfilm, then chill in the fridge for 1h 30mins.
 5. Take the dish out of the fridge, flip the porkchops, then recover the dish and chill for a further 1h 30mins.
-6. Heat some olive oil in a pan over medium heat, then place your porkchops in the pan and cook for 10-15mins or until cooked through.
+6. Heat some olive oil in a pan over medium heat, then place your porkchops in the pan and cook for 10-15mins or until
+   cooked through.
 7. Take the porkchops out the pan, then rest for a couple of minutes before slicing and serving.

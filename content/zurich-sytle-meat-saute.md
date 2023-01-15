@@ -17,12 +17,11 @@ and mushrooms.
 
 ## Ingredients
 
-
-- 600g	Beef, finely sliced
-- 250g	Mushrooms, finely sliced
-- 1	Onion
+- 600g Beef, finely sliced
+- 250g Mushrooms, finely sliced
+- 1 Onion
 - 1 tbsp Flour
-- 200ml	White whine
+- 200ml White whine
 - 200ml Cream
 - 1 tbsp chopped parsley
 
@@ -30,9 +29,9 @@ and mushrooms.
 
 1. Fry the meat in butter at high heat until it starts loosing liquid.
 2. Take the meat out of the pan and set aside.
-3. Saute the onions.
-4. Add the mushrooms, saute, then add a tbsp of flour and mix well. The flour
-   will make the sauce thicker, so use carfully.
+3. Sauté the onions.
+4. Add the mushrooms, sauté, then add a tbsp of flour and mix well. The flour
+   will make the sauce thicker, so use carefully.
 5. Add the white wine and let it boil for a few minutes.
 6. Add cream, boil until the sauce is very creamy.
 7. Add the meat, boil until the meat is warm.

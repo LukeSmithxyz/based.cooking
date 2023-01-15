@@ -5,7 +5,6 @@ date: 2022-09-11
 author: joel-maxuel
 ---
 
-
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 20 min
 - 🍽️ Servings: 5
@@ -28,10 +27,13 @@ author: joel-maxuel
 - Small Fresh Basil Leaves (optional)
 - Parmesan, grated
 
-
 ## Directions
 
-1. Melt butter in a large saucepan over medium-high heat. Add mushrooms, red pepper, onion and garlic; cook, stirring about 5 minutes until tender.
-2. Sprinkle with flour and stir. Gradually whisk in milk then Worcestershire, salt and pepper. Stirring occasionally, bring to a boil.
-3. Add noodles, reduce heat to a low boil. Stirring constantly and around edges of pan, cook until pasta is tender, about 7 minutes.
-4. Stir in chunks of Boursin, then chicken, peas, and parsley, stirring until chicken is hot and Boursin is melted. Serve sprinkled with basil and Parmesan.
+1. Melt butter in a large saucepan over medium-high heat. Add mushrooms, red pepper, onion and garlic; cook, stirring
+   about 5 minutes until tender.
+2. Sprinkle with flour and stir. Gradually whisk in milk then Worcestershire, salt and pepper. Stirring occasionally,
+   bring to a boil.
+3. Add noodles, reduce heat to a low boil. Stirring constantly and around edges of pan, cook until pasta is tender,
+   about 7 minutes.
+4. Stir in chunks of Boursin, then chicken, peas, and parsley, stirring until chicken is hot and Boursin is melted.
+   Serve sprinkled with basil and Parmesan.

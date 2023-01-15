@@ -4,6 +4,7 @@ tags: ['apple', 'pancake', 'german', 'breakfast']
 date: 2022-11-16
 author: "Elsie Bee"
 ---
+
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 10 min
 - 🍽️ Servings: 8 pancakes
@@ -26,4 +27,5 @@ author: "Elsie Bee"
 3. Whisk the egg white until foamy.
 4. Slice the peeled apple into thin strips. Alternatively, grate the apple.
 5. Combine dry ingredients, apple, vanilla extract, egg white, and milk into a homogenous batter.
-6. To a large pan, add 1 tbsp butter. Add the batter (about 3 tbsp per pancake) and cook for 2 min per side on medium-high heat.
+6. To a large pan, add 1 tbsp butter. Add the batter (about 3 tbsp per pancake) and cook for 2 min per side on
+   medium-high heat.

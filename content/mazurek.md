@@ -5,8 +5,7 @@ tags: ['polish', 'easter', 'dessert']
 author: martin-chrzanowski
 ---
 
-Mazurek is a traditional Polish flat cake made in many homes for Easter. Many
-different toppings are possible.
+Mazurek is a traditional Polish flat cake made in many homes for Easter. Many toppings are possible.
 
 ## Ingredients
 

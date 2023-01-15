@@ -25,5 +25,6 @@ author: "wpnwbn"
 1. Mix eggs, sugar, honey and milk.
 2. In another bowl mix oat flour and baking powder.
 3. Combine two mixtures and let the batter rest for about 15 minutes.
-4. Preheat the pan for 5 minutes over low (~33%) heat, cook for about 1 - 1.5 minutes then flip when you see bubbles come out and cook for another 45s - 1 minute.
+4. Preheat the pan for 5 minutes over low (~33%) heat, cook for about 1 - 1.5 minutes then flip when you see bubbles
+   come out and cook for another 45s - 1 minute.
 5. Eat them with raspberry (or any other) jam.

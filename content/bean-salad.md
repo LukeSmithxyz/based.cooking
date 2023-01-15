@@ -27,7 +27,7 @@ Easy recipe to expand - black turtle beans and chickpeas also work well here.
 
 ## Directions
 
-1. Put dressing ingredients in a large salad bowl an whisk until blended.
+1. Put dressing ingredients in a large salad bowl a whisk until blended.
 2. Empty cans of beans into a colander and rinse under cold water.
-3. Chop remaining vegetables and add to dressing.  Add beans and gently stir.
+3. Chop remaining vegetables and add to dressing. Add beans and gently stir.
 4. Refrigerate for at least an hour before serving, stirring occasionally.

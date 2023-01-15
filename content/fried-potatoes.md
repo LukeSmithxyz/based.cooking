@@ -6,11 +6,13 @@ author: themisch
 ---
 
 ## Ingredients
+
 - Potatoes
 - Oil or Crème Fraîche
 - Onions
 
 ## Directions
+
 1. Peel and cut the potatoes to desired size.
 2. Cut the onions.
 3. Put a bit of Oil or Crème Fraîche in your pan.

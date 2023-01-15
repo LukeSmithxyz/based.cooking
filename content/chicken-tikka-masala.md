@@ -10,7 +10,7 @@ date: 2022-04-16
 
 ## Ingredients
 
-- 1 can (29 ounces) tomato puree
+- 1 can (29 ounces) tomato purée
 - 1-1/2 cups plain yogurt
 - 1/2 large onion, finely chopped
 - 2 tablespoons olive oil
@@ -33,5 +33,7 @@ date: 2022-04-16
 
 ## Directions
 
-1. In a 5-qt. slow cooker, combine the first 13 ingredients (Can blend these first for convenience). Add chicken, jalapeno and bay leaf. Cook, covered, on low 4 hours or until chicken is tender. Remove jalapeno and bay leaf.
-2. In a small bowl, mix cornstarch and cream until smooth; gradually stir into sauce. Cook, covered, on high 15-20 minutes or until sauce is thickened. Serve with rice. If desired, sprinkle with cilantro.
+1. In a 5-qt. slow cooker, combine the first 13 ingredients (Can blend these first for convenience). Add chicken,
+   jalapeno and bay leaf. Cook, covered, on low 4 hours or until chicken is tender. Remove jalapeño and bay leaf.
+2. In a small bowl, mix cornstarch and cream until smooth; gradually stir into sauce. Cook, covered, on high 15-20
+   minutes or until sauce is thickened. Serve with rice. If desired, sprinkle with cilantro.

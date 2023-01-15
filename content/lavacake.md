@@ -20,9 +20,10 @@ Easily made chocolate dessert with fluid chocolate content. The only requirement
 - 75g Chocolate
 
 ## Directions
+
 1. Cover the baking tin with some butter.
 2. Heat the oven for 200°C.
-3. Mix all of the ingredients.
+3. Mix all the ingredients.
 4. Fill dough in the baking tins pits.
 5. Bake for 7 min. in the oven at 200°C.
-6. Serve hot with berries and vanilla ice-creame.
+6. Serve hot with berries and vanilla ice cream.

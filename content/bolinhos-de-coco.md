@@ -5,7 +5,8 @@ tags: ['portuguese', 'quick', 'sweet', 'dessert', 'cheesefare']
 author: "Mealwhiles"
 ---
 
-This is a Portuguese dish that translates to "coconut cupcakes," though there are probably lots of equivalent dishes from other cultures.
+This is a Portuguese dish that translates to "coconut cupcakes," though there are probably lots of equivalent dishes
+from other cultures.
 Its simplicity and short preparation time make it perfect for a snack or dessert.
 
 - ⏲️ Prep time: 5 min

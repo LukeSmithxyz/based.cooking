@@ -13,8 +13,8 @@ author: "Éric G."
 
 - 2 ripe bananas (250 g/9 oz peeled)
 - 100g (3.5 oz) of oatmeal
-- 1 table spoon of cinnamon powder (optional)
-- 1 table spoon of honey (optional)
+- 1 tablespoon of cinnamon powder (optional)
+- 1 tablespoon of honey (optional)
 
 ## Directions
 

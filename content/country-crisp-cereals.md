@@ -26,7 +26,8 @@ This is a recipe for making Jordan's Country Crisp-like cereals.
 1. Preheat the oven at 120°C.
 2. Prepare the cooking support with for example, a parchment paper on a cooking plate.
 3. Mix the sugar and the water, until the sugar dissolves.
-4. In a large container (like a salad bowl) introduce the Flour, the Oat Flakes, and the Crushed Hazelnuts (and optionally the Vanilla Extract), and mix.
+4. In a large container (like a salad bowl) introduce the Flour, the Oat Flakes, and the Crushed Hazelnuts (and
+   optionally the Vanilla Extract), and mix.
 5. Introduce in the previous mixture, the Sugar Syrup and the Oil, and mix again.
 6. Deposit the paste obtained on the cooking plate without exceeding 2 cm in height.
 7. Bake the mixture in the 120°C oven until it becomes hard (in approximately 2 hours)

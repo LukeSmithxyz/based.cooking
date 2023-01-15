@@ -27,6 +27,7 @@ author: lukasz-drukala
 1. Peel the bananas and mush them together.
 2. Whip the two eggs and mix them with the sugar.
 3. Melt the butter, cut the chocolate into smaller pieces, and whip the eggs.
-4. Pour the butter into the bananas, then add the flour, then the cooking powder, the chocolate, the whipped eggs and sugar, and the optional vanilla sugar; stirring it all the time.
+4. Pour the butter into the bananas, then add the flour, then the cooking powder, the chocolate, the whipped eggs and
+   sugar, and the optional vanilla sugar; stirring it all the time.
 5. Pour the mass into your muffin dish.
 6. Heat up the oven to 160 °C / 320 °F and bake the muffins for around 20-30 minutes at 170 °C / 340 °F.

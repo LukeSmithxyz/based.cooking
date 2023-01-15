@@ -32,7 +32,7 @@ Primary brew:
 4. Strain the leaves from the tea and add 2 cups of sugar (or honey).
 5. Add other optional teas to your liking; I like to add a good handful of
    rosella tea; steep and strain this in boiling water separately.
-6. Add 4l of water to the tea concentrate and pour into a wide mouthed jar.
+6. Add 4l of water to the tea concentrate and pour into a wide-mouthed jar.
 7. Let the tea sit until it is less than 40°C; add ice cubes if it has to go
    quick.
 8. Add your scoby to the jar and seal the mouth tightly with a cloth or paper

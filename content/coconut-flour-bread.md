@@ -7,7 +7,8 @@ author: "luis-fernando-maschietto-junior"
 ![keto-coconut-bread](/pix/coconutbread-lufemas.webp)
 
 I created this recipe looking for a bread alternative not using any grains, processed sugar and processed oils.
-It is sitting between bread and cake feel and my wife loved it. I used pasture-raised eggs to my recipe, just because it is more nutritious. But regular eggs should be fine.
+It is sitting between bread and cake feel and my wife loved it. I used pasture-raised eggs to my recipe, just because it
+is more nutritious. But regular eggs should be fine.
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 45 min
@@ -30,4 +31,5 @@ It is sitting between bread and cake feel and my wife loved it. I used pasture-r
 4. Pre-heat your oven to 350°F (175°C).
 5. Pour the dough evenly into a Bread/Loaf form (coated with butter or parchment paper) and cook for 35 to 45 min.
 6. After cooking, remove it from the oven and let it sits while it cools down.
-7. Some variations can be done, like using butter instead of coconut oil or adding pumpkin pure to the mix and having a cake-like texture.
+7. Some variations can be done, like using butter instead of coconut oil or adding pumpkin pure to the mix and having a
+   cake-like texture.

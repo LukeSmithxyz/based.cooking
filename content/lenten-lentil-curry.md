@@ -29,7 +29,7 @@ Simple green lentil recipe. Suitable for Lent.
 3. Bring to a boil, and gently boil for about 15-20 minutes.
 4. Drain the water.
 5. Add the other ingredients to the pot.
-6. Add 1½-2 tsp of salt and a little bit of ground black pepper.
+6. Add 1½-2 tsp of salt and a bit of ground black pepper.
 7. Add 0.5 L (0.13 gal) of boiling water.
 8. Simmer for about 10 minutes.
 

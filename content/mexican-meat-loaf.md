@@ -5,7 +5,6 @@ date: 2022-09-10
 author: joel-maxuel
 ---
 
-
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 60 min
 - 🍽️ Servings: 4

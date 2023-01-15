@@ -28,8 +28,10 @@ Ignore the fact that those in the photo are pennette and not spaghetti, that's a
 
 1. Grate the pecorino and keep it aside.
 2. Mince the chili pepper(s) and keep it/them aside.
-3. Cut the guanciale in thin stripes and cook them in the oil with the minced pepper(s) for about 3 minutes on medium/high heat.
+3. Cut the guanciale in thin stripes and cook them in the oil with the minced pepper(s) for about 3 minutes on
+   medium/high heat.
 4. Douse with the wine and turn up the heat. Cook until the alcohol has evaporated.
 5. Start [cooking the pasta](/pasta).
-6. Lower the heat to medium and add the passata, some salt and plenty of pepper. Cook for about 15 minutes.
-7. Once finished, drain the pasta and add the sauce and the pecorino/parmesan, mix well and serve immediately. Optionally you can add some pecorino or parmesan on top.
+6. Lower the heat to medium and add the pasta, some salt and plenty of pepper. Cook for about 15 minutes.
+7. Once finished, drain the pasta and add the sauce and the pecorino/Parmesan, mix well and serve immediately.
+   Optionally you can add some pecorino or Parmesan on top.

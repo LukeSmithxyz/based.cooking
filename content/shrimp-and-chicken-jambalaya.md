@@ -5,7 +5,8 @@ date: 2022-08-04
 author: joel-maxuel
 ---
 
-Warm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.
+Warm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and
+your favourite beer.
 
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 40 min
@@ -46,4 +47,5 @@ Warm up your stock with raw shrimp shells to infuse additional flavour, if desir
 7. Add the stock, remaining Holy Trinity, seasoning mix, Worcestershire, and the garlic.
 8. Taste the broth for seasoning, particularly salt.
 9. Add the chicken, stir well and put the pot in the preheated oven. Bake uncovered for 25 minutes.
-10. Stir in the raw shrimp, parsley, and green onions - place back into oven for another 10 minutes (or until the shrimp is cooked through).
+10. Stir in the raw shrimp, parsley, and green onions - place back into oven for another 10 minutes (or until the shrimp
+    is cooked through).

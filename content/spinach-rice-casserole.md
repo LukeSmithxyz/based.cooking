@@ -27,7 +27,7 @@ author: joel-maxuel
 
 ## Directions
 
-1. Saute onions and garlic with salt in butter.  When onions are soft, add spinach. Cook 2 minutes.
+1. Sauté onions and garlic with salt in butter. When onions are soft, add spinach. Cook 2 minutes.
 2. Combine with all ingredients except sunflower seeds and paprika.
 3. Spread into buttered casserole dish and sprinkle sunflower seeds and paprika on top.
 4. Bake, covered, 35 minutes at 350F.

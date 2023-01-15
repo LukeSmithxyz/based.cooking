@@ -1,10 +1,9 @@
 ---
-title: Smoked Salmon Quiche
+title: Smoked Salmon Quiché
 tags: ['fish', 'eggs', 'french']
 date: 2022-09-10
 author: joel-maxuel
 ---
-
 
 - ⏲️ Prep time: 60 min
 - 🍳 Cook time: 30 min
@@ -24,12 +23,11 @@ author: joel-maxuel
 - 1 cup Milk
 - 1 cup Whipping Cream
 
-
 ## Directions
 
 1. Combine all pastry ingredients in a food processor (mix flour and butter, then add water gradually while mixing).
 2. Gather into a ball, cover with plastic wrap and chill 1 hour.
-3. Saute onion until shiny in the butter.
+3. Sauté onion until shiny in the butter.
 4. Stir in salmon, chives, garlic, and basil. Cool.
 5. Preheat the oven to 400F.
 6. Roll out the dough to fit a 10" tart pan. Prick with a fork.

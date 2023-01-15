@@ -24,5 +24,6 @@ Pinto beans cooking with beer, what beer you use can change the dish.
 2. Add garlic, sauté bit longer.
 3. Add tomatoes, water, beans, oregano, cumin, chilli powder, beer and salt, gradually bring to boil.
 4. When boiled, reduce to simmer.
-5. When beans are al dente (about 1 hour if using dried), bring to quick boil and evaporate remaining liquid until beans are stew-like.
+5. When beans are al dente (about 1 hour if using dried), bring to quick boil and evaporate remaining liquid until beans
+   are stew-like.
 6. Remove from the heat and mashup, or skip this step if you want more of a bean stew.

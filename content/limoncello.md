@@ -26,4 +26,5 @@ author: mfed3
 4. After the infusion is completed, create a simple syrup by boiling the water and dissolving the sugar in the water
 5. Allow the water to cool completely, then strain the alcohol into the sugar water and stir
 6. Bottle or put it back into the mason jar
-7. Feel free to scale the recipe up or down, and adjust the sugar to the sweetness you like, but the ABV should remain somewhere around 28-30%
+7. Feel free to scale the recipe up or down, and adjust the sugar to the sweetness you like, but the ABV should remain
+   somewhere around 28-30%

@@ -33,4 +33,5 @@ Traditional-spanish dish. Typical spanish!
 2. Add the onion, carrot, and bell pepper; cook and stir until vegetables begin to soften, about 5 minutes.
 3. Stir in the garlic, tomatoes, chorizo and bay leaf; cook about 4 minutes.
 4. Add lentils and water (water should be about an inch deeper than the level of the lentils).
-5. Bring to a boil over high heat. Reduce heat to low; simmer, uncovered, until lentils are just cooked, 15 to 20 minutes.
+5. Bring to a boil over high heat. Reduce heat to low; simmer, uncovered, until lentils are just cooked, 15 to 20
+   minutes.

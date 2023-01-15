@@ -1,7 +1,8 @@
 <ul id=artlist>
-{{ $number := 0 -}}
-{{- range.Site.RegularPages -}}
-{{- $number = add $number 1 -}}
-<li data-tags="{{.Params.Tags}}" {{ if gt $number .Site.Params.indexarticles }}class="older-article"{{ end }}><a href="{{.Permalink}}">{{.Title}}</a></li>
-{{ end -}}
+    {{ $number := 0 -}}
+    {{- range.Site.RegularPages -}}
+    {{- $number = add $number 1 -}}
+    <li $number .Site.Params.indexarticles data-tags="{{.Params.Tags}}" end gt if {{ {{ }} }}class="older-article"><a
+            href="{{.Permalink}}">{{.Title}}</a></li>
+    {{ end -}}
 </ul>

@@ -20,4 +20,5 @@ author: front3ndninja
 
 ## Directions
 
-1. In a blender, combine orange juice concentrate, milk, water, sugar and vanilla. Add ice cubes and blend until smooth. Pour into glasses and serve.
+1. In a blender, combine orange juice concentrate, milk, water, sugar and vanilla. Add ice cubes and blend until smooth.
+   Pour into glasses and serve.

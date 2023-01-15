@@ -22,8 +22,11 @@ author: joel-maxuel
 
 ## Directions
 
-1. In a large, heavy saucepan, cook bacon over medium-high heat for about 10 minutes or until crisp. Chop coarsely and set aside.
-2. Drain off all but 1 tbsp. fat from saucepan. Add onions and savoury. Cook, stirring occasionally for 5 minutes or until softened.
-3. Add potatoes, carrots, water and salt. Bring to boil, cover, reduce heat and simmer for about 20 minutes or until tender
+1. In a large, heavy saucepan, cook bacon over medium-high heat for about 10 minutes or until crisp. Chop coarsely and
+   set aside.
+2. Drain off all but 1 tbsp. fat from saucepan. Add onions and savoury. Cook, stirring occasionally for 5 minutes or
+   until softened.
+3. Add potatoes, carrots, water and salt. Bring to boil, cover, reduce heat and simmer for about 20 minutes or until
+   tender
 4. Cut cod into 1-inch chunks. Add to vegetables and simmer for about 5 minutes or until fish flakes easily
 5. Add milk and white pepper, heat through. Garnish with bacon and parsley.

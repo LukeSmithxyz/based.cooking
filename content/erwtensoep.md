@@ -6,7 +6,8 @@ author: rijk
 ---
 
 Erwtensoep, also called snert, is the Dutch version of pea soup.
-Slices of rookworst (smoked sausage) are added before serving. The soup, which is traditionally eaten during the winter, is emblematic of Dutch cuisine.
+Slices of rookworst (smoked sausage) are added before serving. The soup, which is traditionally eaten during the winter,
+is emblematic of Dutch cuisine.
 It is customarily served with Frisian rye bread (roggebrood) and bacon, cheese or butter.
 Pancakes are sometimes served with pea soup; this dish is called snert met struif, struif referring to the pancakes.
 
@@ -33,7 +34,8 @@ Pancakes are sometimes served with pea soup; this dish is called snert met strui
 ## Directions
 
 1. In a large soup pot, bring water, split peas, pork belly or bacon, pork chop, and bouillon cube to a boil.
-2. Reduce the heat to a simmer, cover and let cook for 45 minutes, stirring occasionally and skimming off any foam that rises to the top.
+2. Reduce the heat to a simmer, cover and let cook for 45 minutes, stirring occasionally and skimming off any foam that
+   rises to the top.
 3. Remove the pork chop, debone, and thinly slice the meat. Set aside.
 4. Add the celery, carrots, potato, onion, leek, and celeriac to the soup.
 5. Return to the boil, reduce the heat to a simmer and let cook, uncovered, for another 30 minutes

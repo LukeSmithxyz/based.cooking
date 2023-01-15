@@ -5,7 +5,6 @@ date: 2022-09-11
 author: joel-maxuel
 ---
 
-
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 15 min
 - 🍽️ Servings: 4
@@ -28,6 +27,9 @@ author: joel-maxuel
 
 ## Directions
 
-1. In a large pot of boiling salted water, cook linguine 10 min or until al dente, adding asparagus, beans, and sugar snap peas during the last 3 minutes of cooking and edamame during the last minute. Drain very well.
-2. Meanwhile in large saucepan, melt butter over medium heat. Add onion and garlic; cook, stirring 3 minutes. Stir in flour. Very gradually whisk in milk until smooth and stir often until mixture boils and has thickened (5 mins).
-3. Add pasta mixture, stirring until hot. Stir in salmon and mint just until mixed. Squeeze juice from lemon into pasta and stir.
+1. In a large pot of boiling salted water, cook linguine 10 min or until al dente, adding asparagus, beans, and sugar
+   snap peas during the last 3 minutes of cooking and edamame during the last minute. Drain very well.
+2. Meanwhile, in large saucepan, melt butter over medium heat. Add onion and garlic; cook, stirring 3 minutes. Stir in
+   flour. Very gradually whisk in milk until smooth and stir often until mixture boils and has thickened (5 mins).
+3. Add pasta mixture, stirring until hot. Stir in salmon and mint just until mixed. Squeeze juice from lemon into pasta
+   and stir.

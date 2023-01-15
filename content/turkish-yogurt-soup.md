@@ -28,5 +28,5 @@ author: digi
 7. when the rice is soft, add the yogurt mixture to the soup and mix quickly
 8. cut down the heat, wait for 15 minutes
 9. for the sauce, simply melt the butter in a separate small pan and stir in the dried mint
-10. add sauteed dried mint to the soup and stir well
+10. add sautéed dried mint to the soup and stir well
 11. serve warm

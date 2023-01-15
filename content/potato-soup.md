@@ -24,7 +24,8 @@ Serves many people or one person for many days.
 3. Begin heating up a big pot to about medium temperature, and put the butter in to melt.
 4. Cut the potatoes in half and scoop them directly into the pot.
 5. Once you are finished with that, begin mashing them until they are a nice mashed-potato-like consistency.
-6. Add milk little by little, stirring as you go, until you reach the desired consistency. I usually use half a gallon or so.
+6. Add milk little by little, stirring as you go, until you reach the desired consistency. I usually use half a gallon
+   or so.
 7. Shred cheese into the soup. Then add garlic, salt, pepper, cayenne, onion greens, and anything else you can think of.
-9. Let the soup reach a boil, stirring constantly. Remove from heat and serve.
-10. I usually eat it with sour cream mixed in to cool it down and get that extra dairy in.
+8. Let the soup reach a boil, stirring constantly. Remove from heat and serve.
+9. I usually eat it with sour cream mixed in to cool it down and get that extra dairy in.

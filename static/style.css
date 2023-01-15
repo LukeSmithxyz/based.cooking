@@ -2,9 +2,8 @@ body {
     background: #151515;
     color: navajowhite;
     max-width: 850px;
-    margin: auto;
     padding: 0 16px;
-    margin-bottom: 500px;
+    margin: auto auto 500px;
     scrollbar-color: gray #151515;
     font-family: sans-serif;
 }
@@ -49,7 +48,7 @@ a:hover {
 
 h1 {
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0 0 2px 0;
     text-align: center;
 }
 
@@ -61,7 +60,7 @@ h2 {
 footer {
     text-align: center;
     border-style: solid;
-    border-width: 2px 0px 0px 0px;
+    border-width: 2px 0 0 0;
     padding: 1em;
 }
 

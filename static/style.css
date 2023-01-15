@@ -231,6 +231,7 @@ button#clear-search:hover {
 #tag_lemons:before { content: "🍋" ;}
 #tag_liquour:before { content: "🥃" ;}
 #tag_lunch:before { content: "🍱" ; }
+#tag_malagasy:before { content: "🇲🇬" ; }
 #tag_mediterranean:before { content: "🫒" ; }
 #tag_mexican:before { content: "🇲🇽" ; }
 #tag_milk:before { content: "🥛" ; }
@@ -253,6 +254,7 @@ button#clear-search:hover {
 #tag_salad:before { content: "🥗" ;}
 #tag_sandwich:before { content: "🥪" ;}
 #tag_seafood:before { content: "🦐" ; }
+#tag_senegalese:before { content: "🇸🇳" ; }
 #tag_soup:before { content: "🍜" ;}
 #tag_sourdough:before { content: "🥖" ;}
 #tag_southwest:before { content: "🤠" ; }

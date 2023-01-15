@@ -24,8 +24,8 @@ for 1 liter of Glühwein
 - 1 spoon ginger powder (or a bit of fresh ginger)
 - 1 spoon cloves
 - 5 star anise
-- if you don't have the spices you can also just throw in sweet cinnamon tea bags instead (or similar), they contain most
-  spices - I took 6 teabags for 1 litre
+- if you don't have the spices you can also just throw in sweet cinnamon tea bags instead (or similar), they contain
+  most spices - I took 6 teabags for 1 litre
 
 ## Directions
 

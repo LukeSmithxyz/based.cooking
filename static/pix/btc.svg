@@ -1,6 +1,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg"
-     height="64" width="64" version="1.1">
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        height="64" width="64" version="1.1">
     <g transform="translate(0.00630876,-0.00301984)">
         <path fill="#f7931a"
               d="m63.033,39.744c-4.274,17.143-21.637,27.576-38.782,23.301-17.138-4.274-27.571-21.638-23.295-38.78,4.272-17.145,21.635-27.579,38.775-23.305,17.144,4.274,27.576,21.64,23.302,38.784z"/>

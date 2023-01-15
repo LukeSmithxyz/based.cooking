@@ -34,9 +34,14 @@ A simple and tasty curry that is easy to customise.
 3. Cook the sliced onions with oil until soft on medium (about 5-6 minutes).
 4. Add the garlic, garam masala, turmeric and ground coriander and allow to release aroma for a minute or two.
 5. Tip in the canned tomatoes and coconut milk. Add the eggplant, and chunks of potato.
-  - It is possible to add additional vegetables at this step. I have on occasion added carrots and red peppers (capsicums).
+
+- It is possible to add additional vegetables at this step. I have on occasion added carrots and red peppers (
+  capsicums).
+
 6. Cover and simmer for ~15-20 minutes.
 7. Boil 2 serves of rice
 8. Remove the lid and cook for a further 5 minutes, or until reduced.
-  - A nice optional addition at this point is paneer. 
+
+- A nice optional addition at this point is paneer.
+
 9. Serve with the rice

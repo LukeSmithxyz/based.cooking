@@ -22,7 +22,7 @@ Serves Around 3 People. You can scale up to 4 If you increase most quantities by
 - 15-20 Kalamon/Kalamata Olives (Cut into thirds)
 - Whole small courgette (Cut to small pieces)
 - 6 Medium Mushrooms (Cut smallish and small stalk)
-- 1/2 Broccli (Chopped small)
+- 1/2 Broccoli (Chopped small)
 - 8-10 Finely sliced cherry tomatoes
 - 1/2 Block of feta (Washed)
 - 1 Chicken stock (Added to 3/4 Mug boiling water)
@@ -43,7 +43,8 @@ Make sure to prepare & chop most ingredients before you start.
 2. Get a medium-large sized deepish pan, heat with oil and then add in the olives, courgettes and mushrooms. Sprinkle
    salt every now and then to enhance taste. After a few minutes when they are soft and are around the same color, then
    add in the onion and garlic from the smaller pan.
-3. Wait a couple of minutes and then add the broccoli and tomato slices to the mix. Wait 2-3 more minutes and then get your
+3. Wait a couple of minutes and then add the broccoli and tomato slices to the mix. Wait 2-3 more minutes and then get
+   your
    rinsed feta and melt it in the pan (chop to speed up).
 4. Start [cooking the pasta](/pasta).
 5. When the feta has nearly finished melting, add in the stock to the mix. Turn the pan temperature down slightly and

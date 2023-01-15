@@ -34,5 +34,6 @@ Serve with mashed potatoes.
    This will add some extra flavour. Wait until the alcohol has completely evaporated until you stir or continue.
 5. Add back in the meat and add in the stock and herbs. Lower the heat and allow to simmer for about 2 - 2.5 hours.
 6. After 2 hours the stew will be a bit thicker but probably still watery. The easiest thing to do is add some cut up
-   potatoes for the last half hour. The starch will help thicken the stew considerably. Otherwise, you can mix a teaspoon
+   potatoes for the last half hour. The starch will help thicken the stew considerably. Otherwise, you can mix a
+   teaspoon
    of flour with water in a cup and slowly add this to the stew while whisking.

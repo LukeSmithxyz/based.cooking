@@ -24,5 +24,6 @@ author: front3ndninja
    short end of the prepared baking sheet. Repeat with the second chicken.
 3. Combine salt, tarragon, paprika, and pepper in a small bowl. Stir in oil. Run your fingers under chicken skin and rub
    tarragon paste under skin. Slide lemon slices under skin, in a single layer.
-4. Roast until skin is crisp and an instant-read thermometer inserted into the thickest part of breast reads 165 degrees F,
+4. Roast until skin is crisp and an instant-read thermometer inserted into the thickest part of breast reads 165 degrees
+   F,
    about 35 minutes. Let stand 5 minutes before cutting each chicken into 8 pieces.

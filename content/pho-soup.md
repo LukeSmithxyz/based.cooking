@@ -39,8 +39,8 @@ possible.
 2. Boil bones until you remove most of the scum, and transfer the spices from the oven into the pot. Life will be easier
    if you can place the spices in a tea strainer of sorts, otherwise, it's not the worst thing in the world fishing them
    out later on.
-3. Add beef bouillon cubes, diced beef, fish/oyster sauce, and honey/sugar, then simmer for a couple of hours with the lid
-   on.
+3. Add beef bouillon cubes, diced beef, fish/oyster sauce, and honey/sugar, then simmer for a couple of hours with the
+   lid on.
 4. Cook the rice noodles (should only take a few minutes, just until the texture is al dente enough).
 5. Once the broth is done cooking, fish out the spices that you added at step 2. It's worth doing this rather than
    accidentally chewing on a bit of star anise, trust me.

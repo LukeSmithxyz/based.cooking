@@ -52,9 +52,9 @@ don't have a scale, get one!
 13. Bring dough to room temperature, it should feel like a water balloon, giving resistance to touch with some spring.
 14. Put one oven rack in the center and another below it, place a pan of water on the lower rack. Preheat oven to 475 -
     500 degrees F, depending on oven capability. The pan of water should create steam to help the bread expand.
-15. When oven is hot, turn bread into a baking vessel. I use an 8-inch spring form pan, but a dutch oven is ideal. You can
-    use any vessel that is rated for high temperatures. If using a dutch oven, keep it covered for the first 15 minutes,
-    and you don't need to use the pan of water.
+15. When oven is hot, turn bread into a baking vessel. I use an 8-inch spring form pan, but a dutch oven is ideal. You
+    can use any vessel that is rated for high temperatures. If using a dutch oven, keep it covered for the first 15
+    minutes, and you don't need to use the pan of water.
 16. Flour the top of the loaf and score the bread with a razor blade (this is optional but creates an artisan look)
 17. Bake covered/steamed for 15 minutes, then reduce oven temperature to 425 F. If using steam, remove the water pan
     now.

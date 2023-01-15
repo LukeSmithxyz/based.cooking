@@ -25,7 +25,8 @@ A delicious syrup that can be eaten on bread and used in a multitude of recipes.
 
 1. Wash the outside of the fruit with water and cut it in 8 medium-sized pieces. You don't have to core or deseed the
    fruit; everything can go in the pot.
-2. Place the fruit in a large pan with a thick bottom, so you get even heat. I suggest you place the pears on the bottom,
+2. Place the fruit in a large pan with a thick bottom, so you get even heat. I suggest you place the pears on the
+   bottom,
    since they don't burn as fast. Add the glass of water.
 3. If you are using them, add the dried fruits at this point.
 4. Put the heat as low as possible and let it all slowly stew for 3 hours, stirring every now and then.

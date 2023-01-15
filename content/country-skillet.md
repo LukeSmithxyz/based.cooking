@@ -7,7 +7,8 @@ author: yaroslav-smirnov
 
 ![Country Breakfast Skillet](/pix/country-skillet.webp)
 
-If you are feeling quite hungry after just waking up and want to have breakfast to fill your HP and stamina bars for the day, I've got just the
+If you are feeling quite hungry after just waking up and want to have breakfast to fill your HP and stamina bars for the
+day, I've got just the
 perfect recipe for you.
 
 To be honest, this is more of a build-your-own dish. What I am providing here, I

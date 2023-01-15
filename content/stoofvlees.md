@@ -33,7 +33,8 @@ Traditionally eaten with fries and chicory salad.
    translucent.
 3. While your onions are cooking place a large frying pan on medium high heat and melt your second spoon of butter.
 4. Fry up your beef until it has a nice brown crust, to prevent overcrowding the pan you should sear the meat in
-   separate batches, be careful to not burn the fond on the bottom of the pan. Season the meat with salt and pepper while
+   separate batches, be careful to not burn the fond on the bottom of the pan. Season the meat with salt and pepper
+   while
    its cooking.
 5. When a piece of beef is done searing add it to the pot with the onions, once you're done searing all of your meat add
    your beer to the frying pan and use it to deglaze, scrape off all the pieces stuck to the frying pan.

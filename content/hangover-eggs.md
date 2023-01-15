@@ -6,9 +6,8 @@ author: dr-cat
 ---
 
 Whenever my friends back home would drink to excess, they'd wake up wanting something tasty. I made them what I call "
-Hangover Eggs". Whether you're hungover, they're very delicious! I've recently been making them to gain weight, though you can alter the
-recipe to whatever
-suits your lifestyle.
+Hangover Eggs". Whether you're hungover, they're very delicious! I've recently been making them to gain weight, though
+you can alter the recipe to whatever suits your lifestyle.
 
 ## Ingredients
 

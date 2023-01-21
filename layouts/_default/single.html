@@ -1,9 +1,7 @@
-{{ partial "header.html" . }}
-
-<header><h1>{{ .Title }}</h1></header>
-
+{{ define "title" }}
+{{ .Title }}
+{{ end }}
+{{ define "main" }}
 {{ .Content }}
-
 {{ partial "contributor.html" . }}
-
-{{ partial "footer.html" . }}
+{{ end }}

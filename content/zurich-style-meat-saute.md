@@ -38,4 +38,4 @@ and mushrooms.
 7. Add the meat, boil until the meat is warm.
 8. Add parsley, and serve.
 
-Serve with [Rösti](./roesti.md) or other traditional Swiss dish.
+Serve with [Rösti](/roesti) or other traditional Swiss dish.

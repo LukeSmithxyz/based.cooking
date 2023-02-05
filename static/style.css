@@ -250,6 +250,7 @@ button#clear-search:hover {
 #tag_quick:before { content: "🏃" ; }
 #tag_raw:before { content: "🍖" ;}
 #tag_rice:before { content: "🍚" ; }
+#tag_romanian:before { content: "🇷🇴" ;}
 #tag_russian:before { content: "🇷🇺" ;}
 #tag_salad:before { content: "🥗" ;}
 #tag_sandwich:before { content: "🥪" ;}

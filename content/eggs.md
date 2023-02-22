@@ -57,3 +57,12 @@ The more you scramble the less fluffy the egg will be.
 
 Scrambled eggs are easy to customize. E.g. start by frying any of: onions, bits
 of ham, mushrooms, chopped tomatoes, etc., before cracking the eggs in.
+
+### Poached
+
+1. Bring water to a boil.
+2. Carefully form a whirlpool in the pot by stirring the water.
+3. Crack egg into the middle of the whirlpool.
+4. Boil for four minutes (or more for a firmer yolk) but avoid disturbing the egg while it's boiling.
+5. Remove egg from water with a slotted spoon.
+6. Season with salt and pepper.

@@ -1,7 +1,7 @@
 ---
 title: "Aljotta"
 date: 2021-03-16
-tags: ['fish', 'soup', 'mediterranean']
+tags: ['fish', 'soup', 'mediterranean', 'maltese']
 author: shou-ganai
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Overnight Oats"
-tags: ['breakfast', 'basic', 'milk', ]
+tags: ['breakfast', 'basic', 'milk']
 date: 2023-03-26
 author: "Maxwell Stelmack"
 ---

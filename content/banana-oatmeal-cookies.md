@@ -5,6 +5,8 @@ date: 2022-07-12
 author: "Éric G."
 ---
 
+![A banana oatmeal cookie](/pix/banana-oatmeal-cookies.webp)
+
 - ⏲️ Prep time: 3 min
 - 🍳 Cook time: 20 min
 - 🍽️ Serving : 3

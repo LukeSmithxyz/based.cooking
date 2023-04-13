@@ -1,11 +1,9 @@
 ---
-title: Long cooked chuck steak soup
+title: Long cooked chuck steak with vegetables.
 tags: ['beef', 'soup', 'keto']
 date: 2023-04-13
 author: "Emilio Müller"
 ---
-
-Long cooked chuck steak with vegetables soup. 
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 6 hours

@@ -2,7 +2,7 @@
 title: Liver and Onions
 tags: ['beef', 'basic', 'easy', 'liver', 'quick']
 date: 2023-04-28
-author: "POI"
+author: POI
 ---
 
 Though most people find liver barely tolerable to eat, it is extremely nutritious (the most nutrient dense food in the world!). 
@@ -27,9 +27,3 @@ If you really can't stand the taste of it, add more vegetables and lower the amo
 4. If pieces of beef liver are large, cut them into smaller pieces. About half a finger in size is best. 
 5. Add other vegetables. (optional)
 6. Season generously with salt and any seasoning you like. Various spice rubs work well.
-
-Note that you can create a `your-name.json` file in `data/authors` to add
-personal links and donation addresses if you want more specific credit. If you
-do this, for the `author:` line the in the metadata, include the bare file name
-of the json file. For example, my file is `data/authors/luke-smith.json`, so I
-would put `author: luke-smith`.

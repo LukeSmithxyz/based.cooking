@@ -17,13 +17,6 @@ author: "Lukas Nitzsche"
 - 1 Packet 0 Calorie Sweetener (optional)
 - 1 Pinch Cinnamon (optional)
 
-- There must be a blank line above all lists.
-- List the ingredients
-- in an unordered list
-- similar to this.
-- List amounts if necessary.
-- Put (optional) at the end of optional ingredients
-
 ## Directions
 
 1. Warm up milk in cafe mug until satisfactory

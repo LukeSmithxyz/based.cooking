@@ -5,7 +5,7 @@ date: 2022-06-18
 author: hcm444
 ---
 
-Chicken Paprikash is a delicious meal from Hungary, and I hope you are also Hungary! I make it all the time when I have guests.
+Chicken Paprikash is a delicious meal from Hungary! I make it all the time when I have guests.
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 1 hr 25 min

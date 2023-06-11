@@ -1,6 +1,6 @@
 ---
 title: Blueberry Muffins
-tags: ['blueberry', 'muffins', 'baking']
+tags: ['blueberry', 'muffins', 'baking', 'oven']
 date: 2022-6-10
 author: "Marcus Howser"
 ---
@@ -24,8 +24,8 @@ author: "Marcus Howser"
 ## Directions
 
 1. Preheat the oven to 375°F (190°C). Line a muffin tin with paper liners or just grease the tin directly.
-2. In a large mixing bowl, combine the flour, sugar, baking powder, and salt.
-3. In a separate bowl, whisk together the melted butter, milk, eggs, and vanilla extract.
+2. In a large mixing bowl, combine the dry ingredients: flour, sugar, baking powder, and salt.
+3. In a separate bowl, whisk together the wet ingredients: melted butter, milk, eggs, and vanilla extract.
 4. Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.
 5. Gently fold in the fresh blueberries.
 6. Spoon the batter into the prepared muffin tin, filling each cup about three-quarters full.

@@ -7,6 +7,7 @@ author: "u/Idzuna"
 
 - ⏲️ Prep time: 20 minutes
 - 🍳 Cook time: 55 minutes
+- 🍽️ Servings: 6-8
 
 ## Ingredients
 
@@ -26,3 +27,4 @@ author: "u/Idzuna"
 4. Bake in middle of oven at 180˚C (350-360˚F) for 10 minutes.
 5. Drop temperature down to 150˚C (300˚F) for 45 minutes.
 6. Turn off oven and leave to cool in oven.
+7. (Optional) Serve with fruit salad and ice cream.

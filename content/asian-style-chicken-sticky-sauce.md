@@ -35,7 +35,7 @@ Asian style crispy coated chicken with sweetish sauce recipe. Served with boiled
 
 1. Prepare the sauce by mixing the ingredients together in a bowl.
 2. Cut the chicken into bite sized pieces.
-3. Place all-purpose flour in a shallow bowl. Mix in garlic powder as well as salt and pepper, 1/2 tsp each.
+3. Place all-purpose flour in a shallow bowl. Mix in garlic powder as well as salt and pepper, 1/2 tsp each and 2 tsp paprika powder.
 4. Place lightly beaten egg in another shallow bowl.
 5. Coat the chicken in corn flour, dip it in egg and finally coat with seasoned all purpose-flour.
 6. Heat a good amount of oil on a pan to fry the chicken in. The oil should be hot enough so that the chicken sizzles when placed in the pan. You may want to do this in a couple of batches depending on the size of your pan.

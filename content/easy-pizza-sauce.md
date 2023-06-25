@@ -5,7 +5,7 @@ date: 2022-07-15
 author: "leo-meinel"
 ---
 
-![Easy-Pizza-Sauce](/pix/easy-pizza-sauce.webp)
+![Easy-Pizza-Sauce](/static/pix/easy-pizza-sauce.webp)
 
 One serving should be enough to cover a pizza.
 The sauce can be stored in the refrigerator for ~16 days if put into a conserving jar.

@@ -5,7 +5,7 @@ tags: ['potato', 'snack', 'side', 'fasting']
 author: shane-kunz
 ---
 
-![cooked sweet pototo fries in pan](/pix/sweet-potato-fries.webp)
+![cooked sweet pototo fries in pan](/static/pix/sweet-potato-fries.webp)
 
 A simple, tasty, and healthy carb based snack.
 

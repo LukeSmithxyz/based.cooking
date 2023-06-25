@@ -5,7 +5,7 @@ tags: ['sweet', 'breakfast', 'drink', 'cheesefare']
 author: yaroslav-smirnov
 ---
 
-![Sunday Morning Milkshake](/pix/sunday-milkshake.webp)
+![Sunday Morning Milkshake](/static/pix/sunday-milkshake.webp)
 
 A sweet and refreshing milkshake that barely requires any effort to make. You're
 not required to make it and drink it on Sunday, it was just almost a tradition

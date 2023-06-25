@@ -7,7 +7,7 @@ author: daddy-warcrimes
 
 Turkey, smoked on a charcoal grill
 
-![Smoked Turkey](/pix/turkey-smoked-1.webp)
+![Smoked Turkey](/static/pix/turkey-smoked-1.webp)
 
 - ⏲️ Prep time: 120 min
 - 🍳 Cook time: 90-180 min

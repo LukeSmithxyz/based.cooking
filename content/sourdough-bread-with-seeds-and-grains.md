@@ -5,7 +5,7 @@ tags: ['sourdough', 'bread']
 author: "SirStark"
 ---
 
-![Sourdough bread with seeds and grains](/pix/sourdough-bread-with-seeds-and-grains.webp)
+![Sourdough bread with seeds and grains](/static/pix/sourdough-bread-with-seeds-and-grains.webp)
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 120 min

@@ -5,7 +5,7 @@ tags: ['russian', 'pasta', 'beef']
 author: yaroslav-smirnov
 ---
 
-![Pasta Navy Style](/pix/pasta-navy-style.webp)
+![Pasta Navy Style](/static/pix/pasta-navy-style.webp)
 
 This is one of the three pasta dishes that I usually cook. It's a Russian pasta
 recipe that is fast and easy to make and is quite tasty.

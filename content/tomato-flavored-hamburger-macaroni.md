@@ -5,7 +5,7 @@ tags: ['beef', 'pasta', 'supper']
 author: ryan-wilson
 ---
 
-![Tomato Flavored Hamburger and Macaroni](/pix/tomato-flavored-hamburger-macaroni.webp)
+![Tomato Flavored Hamburger and Macaroni](/static/pix/tomato-flavored-hamburger-macaroni.webp)
 
 This is a based, easy and relatively quick to make meal. Great for making in large batches with a big pot and eating throughout the week.
 

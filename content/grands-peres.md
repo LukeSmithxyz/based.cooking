@@ -5,7 +5,7 @@ date: 2022-06-28
 author: 'prox'
 ---
 
-![Grands-pères](/pix/grands-peres.webp "Nice and fluffy")
+![Grands-pères](/static/pix/grands-peres.webp "Nice and fluffy")
 
 - ⏲️  Prep time: 5 min
 - 🍳 Cook time: 15 min

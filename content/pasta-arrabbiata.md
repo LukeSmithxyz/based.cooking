@@ -5,7 +5,7 @@ date: 2022-06-21
 author: "klisurovi4"
 ---
 
-![arrabiata](/pix/pasta-arrabbiata.webp)
+![arrabiata](/static/pix/pasta-arrabbiata.webp)
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 20 min

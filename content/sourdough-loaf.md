@@ -5,7 +5,7 @@ tags: ['bread', 'sourdough']
 author: "Quinn & Alison"
 ---
 
-![Sourdough Table Loaf](/pix/sourdough-loaf.webp)
+![Sourdough Table Loaf](/static/pix/sourdough-loaf.webp)
 
 If you've never made your own sourdough bread, it can be intimidating! But I believe it is absolutely worth the time and effort. You can look up videos to explain some of the methods listed, such as the stretch and fold, or different ways to shape your loaf. Fermenting grains has been a tradition of home cooking for millennia, and an art only lost in recent years. Fermenting grains has numerous health benefits, is much easier to digest, and even contains natural preservatives. You can get a sourdough starter from any bakery in your area, or make your own from scratch! Also, if you don't have a scale, get one!
 

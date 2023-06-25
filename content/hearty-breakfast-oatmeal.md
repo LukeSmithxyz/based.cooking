@@ -5,7 +5,7 @@ tags: ['breakfast', 'quick']
 author: joel-farthing
 ---
 
-![hearty-breakfast-oatmeal-00](/pix/hearty-breakfast-oatmeal-00.webp)
+![hearty-breakfast-oatmeal-00](/static/pix/hearty-breakfast-oatmeal-00.webp)
 
 If your Oatmeal isn't Hearty Breakfast Oatmeal... Is it even Oatmeal?
 
@@ -31,7 +31,7 @@ If your Oatmeal isn't Hearty Breakfast Oatmeal... Is it even Oatmeal?
 
 1. Chop or mash nuts and fruit.
 2. Combine nuts, fruit, and other dry ingredients in a saucepan
-![hearty-breakfast-oatmeal-01](/pix/hearty-breakfast-oatmeal-01.webp)
+![hearty-breakfast-oatmeal-01](/static/pix/hearty-breakfast-oatmeal-01.webp)
 3. Add milk and cook mixture over medium heat until oats are desired tenderness (5-10 mins)
 4. Add egg and protein powder and cook for a few more minutes
 5. Enjoy

@@ -5,7 +5,7 @@ tags: ['chinese', 'pork', 'spicy', 'sweet']
 author: "speaker scorned"
 ---
 
-![Spicy Glazed Hoisin Pork Belly](/pix/hoisin-pork-belly.webp)
+![Spicy Glazed Hoisin Pork Belly](/static/pix/hoisin-pork-belly.webp)
 
 Melt-in-mouth fatty pork in a sweet and spicy glaze.
 

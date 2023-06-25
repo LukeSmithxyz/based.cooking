@@ -5,7 +5,7 @@ tags: ['italian', 'pasta', 'quick', 'cheesefare']
 author: "Peter Piontek, Ladislao Blanchi"
 ---
 
-![carbonara](/pix/carbonara.webp)
+![carbonara](/static/pix/carbonara.webp)
 
 Carbonara is a simple dish. The quality of your ingredients makes or breaks it.
 I recommend using the best ingredients you can source.

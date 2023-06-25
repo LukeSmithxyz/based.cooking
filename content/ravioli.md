@@ -5,7 +5,7 @@ tags: ['pasta', 'italian']
 author: mfed3
 ---
 
-![Ravioli](/pix/ravioli-01.webp)
+![Ravioli](/static/pix/ravioli-01.webp)
 
 - ⏲️ Prep time: 30 min
 - 🍳Cook time: 2 min
@@ -47,14 +47,14 @@ author: mfed3
 14. Take out the dough and cut it into 4 pieces, keeping the ones not currently being worked on covered so they don't dry out
 15. Roll the dough out with a pasta machine down to the point where you can just barely see your hand through it (setting 2-3 out of 7) or roll it out with a rolling pin into a long sheet, maybe like 16 x 8 inches or so
 16. At this point you can either cut the sheet in half and make two sheets, a top and bottom, or one sheet, where you will fold the dough over and use the folded seam as one side of the ravioli
-![Lobster Ravioli](/pix/ravioli-02.webp)
+![Lobster Ravioli](/static/pix/ravioli-02.webp)
 17. Using a teaspoon, evenly space out the ricotta filling onto the sheets, leaving a few inches on each side for the seams
 18. As stated in step 16, either take the 2nd sheet and place it over top or fold over the dough and press down firmly, forcing out any air and making sure the two pieces of dough stick
 19. You may need to brush some water onto the dough if it is too heavily floured and not sticking
 20. Using a fancy pasta cutter, a knife, or even a pizza cutter, cut evenly between the seams of the raviolis to separate them
 21. If you used a pasta cutter, you are now done, store the raviolis on a floured wax paper sheet or freeze them for later
-![Finished Ravioli](/pix/ravioli-03.webp)
+![Finished Ravioli](/static/pix/ravioli-03.webp)
 22. If you don't have a pasta cutter, use a fork to press down the dough around the edges of the cut raviolis to ensure they are firmly closed and no leaks or air bubbles are visible, or else they will explode when cooked
 23. To cook, throw them in salted boiling water and they will let you know when they're done when they float to the top (1-2 minutes)
 24. Serve the seafood version with a simple fresh red sauce and basil, or spice it up a bit and go with a base of red sauce with some added heavy cream, and a pinch of red pepper flakes to make a pink sauce for the seafood version
-![Served Ravioli](/pix/ravioli-04.webp)
+![Served Ravioli](/static/pix/ravioli-04.webp)

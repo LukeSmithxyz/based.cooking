@@ -5,7 +5,7 @@ tags: ['japanese', 'chicken', 'soup']
 author: jake-keast
 ---
 
-![Japanese Noodle Soup](/pix/japanese-noodle-soup.webp)
+![Japanese Noodle Soup](/static/pix/japanese-noodle-soup.webp)
 
 This is a very easy and simple Japanese style ramen noodle soup. This is very cheap to make, and you can really customise this however you wish with the garnish. This is my own spin inspired by other recipes that I found.
 

@@ -5,7 +5,7 @@ tags: ['american', 'breakfast', 'pork']
 author: yaroslav-smirnov
 ---
 
-![Country Breakfast Skillet](/pix/country-skillet.webp)
+![Country Breakfast Skillet](/static/pix/country-skillet.webp)
 
 If you are feeling quite hungry after just waking up and want to have a
 breakfast to fill your HP and stamina bars for the day, I've got just the

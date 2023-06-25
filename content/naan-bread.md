@@ -5,7 +5,7 @@ tags: ['indian', 'bread', 'fasting']
 author: nihar-samantaray
 ---
 
-![Naan Bread](/pix/naan-bread.webp)
+![Naan Bread](/static/pix/naan-bread.webp)
 
 A curry serves best with naan that is unleavened bread. Traditionally made in ‘Tandoor or clay oven' but at home, we will be making it in the oven and/or on the stovetop. Naan is not eaten solely but acts as assortments with meat, veggies, or egg items.
 

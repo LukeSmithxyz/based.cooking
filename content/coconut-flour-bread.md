@@ -4,7 +4,7 @@ tags: ['bread', 'coconut', 'baked', 'keto', 'bariatric']
 date: 2022-11-16
 author: "luis-fernando-maschietto-junior"
 ---
-![keto-coconut-bread](/pix/coconutbread-lufemas.webp)
+![keto-coconut-bread](/static/pix/coconutbread-lufemas.webp)
 
 I created this recipe looking for a bread alternative not using any grains, processed sugar and processed oils.
 It is sitting between bread and cake feel and my wife loved it. I used pasture-raised eggs to my recipe, just because it is more nutritious. But regular eggs should be fine.

@@ -5,7 +5,7 @@ date: 2022-11-16
 author: "Vilhelm Bergsøe"
 ---
 
-![risen groed](/pix/risengroed.webp)
+![risen groed](/static/pix/risengroed.webp)
 
 Risengrød is part of the Nordic Christmas tradition as a dinner dish. Rice boiled with milk and a little sugar to form porridge. It is served warm with butter and cinnamon mixed with sugar.
 

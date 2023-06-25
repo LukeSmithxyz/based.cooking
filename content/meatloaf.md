@@ -5,7 +5,7 @@ tags: ['beef', 'american', 'supper']
 author: ryan-wilson
 ---
 
-![Meatloaf](/pix/meatloaf.webp)
+![Meatloaf](/static/pix/meatloaf.webp)
 
 This recipe will result in two or three glass dishes of tasty, moist meatloaf. Great for family suppers.
 

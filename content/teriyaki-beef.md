@@ -5,7 +5,7 @@ date: 2022-08-20
 author: "Lars Henrik Bolstad"
 ---
 
-![Teriyaki Beef Wok](/pix/teriyaki-beef.webp)
+![Teriyaki Beef Wok](/static/pix/teriyaki-beef.webp)
 
 If you have no wok, a regular pan will suffice.
 

@@ -4,7 +4,7 @@ date: 2021-03-22
 tags: ['salad', 'russian']
 ---
 
-![Crab salad](/pix/crab-salad.webp)
+![Crab salad](/static/pix/crab-salad.webp)
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min

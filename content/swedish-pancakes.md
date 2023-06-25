@@ -5,7 +5,7 @@ tags: ['breakfast', 'swedish', 'pancake']
 author: "Matt Bogenhagen"
 ---
 
-![Swedish Pancakes](/pix/swedish-pancakes-00.webp)
+![Swedish Pancakes](/static/pix/swedish-pancakes-00.webp)
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min
@@ -28,4 +28,4 @@ author: "Matt Bogenhagen"
 4. When edges of pancake start to firm-up use spatula and free up the outside inch or two to achieve a clean removal for flipping later.
 5. First side will take about a minute or more the second side will take half that time. Pick up at middle of pancake with spatula then place on plate and fold over. The pancake will then be four layers thick 10" x 2" long. Serve with syrup on top or anything you choose, my wife likes peanut butter and I prefer to spread a little butter on it before adding syrup. Maybe you prefer adding fruits of your choice.
 
-![Swedish Pancakes](/pix/swedish-pancakes-01.webp)
+![Swedish Pancakes](/static/pix/swedish-pancakes-01.webp)

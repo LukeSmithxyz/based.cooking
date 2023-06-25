@@ -5,7 +5,7 @@ tags: ['fish', 'seafood']
 author: shou-ganai
 ---
 
-![anglerfish](/pix/fried-anglerfish-fillet-00.webp)
+![anglerfish](/static/pix/fried-anglerfish-fillet-00.webp)
 
 This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically to the 'monfish/sea-devil' variant) meat is mild, absorbing the butter and subtle flavours of the herbs. Preparing the anglerfish is an involved process that I'll try and explain to the best of my abilities but watching someone do it would be more then helpful.
 
@@ -34,4 +34,4 @@ This is a simple light-flavoured recipe. Anglerfish (I'm referring specifically 
 9. Add the herbs, just enough to cover the fillets, salt and pepper too if desired and cover with the lid on low heat until fully cooked. Time here varies but it can be anywhere between 5-10 minutes.
 10. Enjoy. This goes well with steamed vegetables. Or potatoes to soak up the butter.
 
-![served](/pix/fried-anglerfish-fillet-01.webp)
+![served](/static/pix/fried-anglerfish-fillet-01.webp)

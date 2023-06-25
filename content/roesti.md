@@ -5,7 +5,7 @@ tags: ['swiss', 'potato', 'side', 'cheesefare']
 author: elias-pahls
 ---
 
-![Rösti](/pix/roesti.webp)
+![Rösti](/static/pix/roesti.webp)
 Used two serving sizes for this Rösti
 
 This swiss classic works great together with fried eggs and steamed peas or spinach.

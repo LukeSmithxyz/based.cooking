@@ -7,7 +7,7 @@ author: andy-rufasto
 
 Peruvian-chinese dish. Easy to cook just add and mix everything.
 
-![Arroz Chaufa](/pix/arroz-chaufa-2.webp)
+![Arroz Chaufa](/static/pix/arroz-chaufa-2.webp)
 
 - ⏲️ Prep time: 40 min
 - 🍳 Cook time: 10 min
@@ -23,7 +23,7 @@ Peruvian-chinese dish. Easy to cook just add and mix everything.
 - Soy Sauce
 - Welsh Onion
 
-![Ingredients](/pix/arroz-chaufa-1.webp)
+![Ingredients](/static/pix/arroz-chaufa-1.webp)
 
 ## Directions
 

@@ -5,7 +5,7 @@ date: 2022-07-11
 author: miraunpajaro
 ---
 
-![Ardei umpluti](/pix/ardei_umpluti.webp)
+![Ardei umpluti](/static/pix/ardei_umpluti.webp)
 Farcies tomates with rice.
 
 - ⏲️ Prep time: 10 min

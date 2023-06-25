@@ -5,7 +5,7 @@ date: 2022-07-02
 author: "MMOOBB"
 ---
 
-![Kettle Corn](/pix/kettlecorn.webp "Kettle Corn made with brown sugar")
+![Kettle Corn](/static/pix/kettlecorn.webp "Kettle Corn made with brown sugar")
 
 Recipe can be expanded or contracted to your needs. I personally divide the recipe in half to fit my 2 quart saucepan (recipe calls for a 3 quart). I recommend using Orville Redenbacher's popcorn kernels, as they are specifically formulated to pop consistently. Follow these directions precisely, and I will guarantee you will have no burnt or unpopped kernels.
 

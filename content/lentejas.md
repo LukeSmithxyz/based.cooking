@@ -5,7 +5,7 @@ tags: ['spanish']
 author: nacchofer31
 ---
 
-![Lentejas](/pix/lentejas.webp)
+![Lentejas](/static/pix/lentejas.webp)
 
 Traditional-spanish dish. Typical spanish!
 

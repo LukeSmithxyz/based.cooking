@@ -5,7 +5,7 @@ tags: ['beef', 'cheese']
 author: yaroslav-smirnov
 ---
 
-![Cheesy Meatballs with Tomato Sauce](/pix/cheesy-meatballs.webp)
+![Cheesy Meatballs with Tomato Sauce](/static/pix/cheesy-meatballs.webp)
 
 Nothing beats meat, cheese and tomato combined together to create the best
 combination of flavors that man has created.

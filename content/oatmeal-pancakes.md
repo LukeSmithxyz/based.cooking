@@ -4,7 +4,7 @@ date: 2021-04-15
 tags: ['breakfast', 'sweet', 'dessert', 'pancake']
 author: "wpnwbn"
 ---
-![oatmeal-pancakes](/pix/oatmeal-pancakes.webp)
+![oatmeal-pancakes](/static/pix/oatmeal-pancakes.webp)
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 15 min

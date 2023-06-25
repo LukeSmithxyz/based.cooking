@@ -5,7 +5,7 @@ tags: ['italian', 'salad', 'cheesefare']
 author: "gucko"
 ---
 
-![caesar_salad](/pix/csalad.webp)
+![caesar_salad](/static/pix/csalad.webp)
 
 Caesar Salad is an easy and delicious meal for lunch or dinner.
 

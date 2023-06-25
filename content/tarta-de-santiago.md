@@ -5,7 +5,7 @@ tags: ['spanish', 'almond', 'cake', 'galician']
 author: laura-alvarez
 ---
 
-![Tarta de Santiago](/pix/tarta-de-santiago.webp)
+![Tarta de Santiago](/static/pix/tarta-de-santiago.webp)
 
 Delicious Spanish almond cake or famously known as tarta de Santiago. This is a cake from Galicia and it is super easy to make, with only 3 main ingredients. I always feel this type of cake is just perfect for the holiday season.
 

@@ -5,7 +5,7 @@ tags: ['swiss', 'pork', 'potato', 'pasta']
 author: alexander-bocken
 ---
 
-![Älplermagronen](/pix/aelplermagronen.webp)
+![Älplermagronen](/static/pix/aelplermagronen.webp)
 
 A swiss favorite, _Älplermagronen_ combines pretty much everything you have at your disposal in your alpine chalet.
 It's the definition of comfort food for the Swiss.

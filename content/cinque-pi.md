@@ -5,7 +5,7 @@ tags: ['italian', 'pasta', 'quick']
 author: elias-pahls
 ---
 
-![Cinque Pi](/pix/cinque-pi.webp)
+![Cinque Pi](/static/pix/cinque-pi.webp)
 
 This is a nice simple dish made up of five ingredients: panna, pomodori, parmigiano, pepe, e prezzemolo
 

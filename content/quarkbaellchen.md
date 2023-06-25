@@ -5,7 +5,7 @@ tags: ['german', 'fry', 'sweet', 'cheesefare']
 author: kirill-schmidt
 ---
 
-![An image of my finished curd balls](/pix/quarkbaellchen.webp)
+![An image of my finished curd balls](/static/pix/quarkbaellchen.webp)
 
 “Quark” is a type of fresh dairy product. It's usually translated as curd cheese or cottage cheese.
 

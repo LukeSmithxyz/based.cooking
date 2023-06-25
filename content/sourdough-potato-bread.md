@@ -5,7 +5,7 @@ tags: ['sourdough', 'bread', 'potato']
 author: "SirStart"
 ---
 
-![Potato sourdough bread](/pix/sourdough-potato-bread.webp)
+![Potato sourdough bread](/static/pix/sourdough-potato-bread.webp)
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 45 min

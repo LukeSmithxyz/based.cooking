@@ -5,7 +5,7 @@ tags: ['lamb', 'roast', 'lemons', 'mediterranean']
 date: 2022-04-16
 ---
 
-![Slow-cooked Lamb with Lemon](/pix/slow-cooked-lamb-with-lemon.webp)
+![Slow-cooked Lamb with Lemon](/static/pix/slow-cooked-lamb-with-lemon.webp)
 
 You'll need a good-sized lidded pot that can go in the oven for this. But if you don't have that then you can use a large roasting tray with sides and cover it with foil, sealing it as best you can. It's an excellent celebration or Sunday meal.
 

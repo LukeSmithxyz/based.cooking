@@ -5,7 +5,7 @@ date: 2022-07-11
 author: miraunpajaro
 ---
 
-![Farci tomatoes](/pix/farci_tomatoes.webp)
+![Farci tomatoes](/static/pix/farci_tomatoes.webp)
 
 Farcies tomates with rice.
 

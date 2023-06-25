@@ -5,6 +5,8 @@ date: 2023-06-10
 author: "u/Idzuna"
 ---
 
+![Pavlova](/static/pix/pavlova.webp)
+
 - ⏲️ Prep time: 20 minutes
 - 🍳 Cook time: 55 minutes
 - 🍽️ Servings: 6-8

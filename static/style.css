@@ -1,6 +1,4 @@
 body {
-	background: #151515 ;
-	color: navajowhite ;
 	max-width: 850px ;
 	margin: auto ;
 	padding: 0 16px ;
@@ -19,7 +17,7 @@ body {
 }
 
 a {
-	color: gold ;
+	color: blue ;
 	text-decoration: none ;
 }
 
@@ -38,7 +36,7 @@ a {
 }
 
 a:visited {
-	color: darkgoldenrod ;
+	color: darkblue ;
 }
 
 a:hover {
@@ -73,7 +71,7 @@ img {
 
 code {
 	overflow-wrap: break-word ;
-	color: lime ;
+	color: darkgreen ;
 }
 
 .taglist {

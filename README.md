@@ -1,6 +1,6 @@
-# Based Cooking Website
+# Public Domain Recipes
 
-[https://based.cooking](https://based.cooking)
+(Deployed website coming soon)
 
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers or cookies (unless recipes thereof).

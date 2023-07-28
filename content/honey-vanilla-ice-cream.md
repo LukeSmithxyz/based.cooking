@@ -1,6 +1,6 @@
 ---
 title: Honey Vanilla Ice Cream
-tags: ['icecream', 'honey', 'dairy']
+tags: ['icecream', 'honey', 'dairy', 'dessert']
 date: 2023-07-28
 author: "Ruby-Dragon"
 ---

@@ -5,8 +5,6 @@ tags: ['side', 'cabbage', 'southern', 'salad']
 author: declan-cash
 ---
 
-This is a coleslaw recipe that I got from a chili restaurant in my neighborhood that closed down a few years ago. This recipe makes more dressing than needed for the coleslaw, so you can save it or use it as a vegetable dip.
-
 - ⏲️ Prep time: 25 min
 - 🥶 Fridge time: 1 hr
 - 🍽️ Servings: 8 - 10

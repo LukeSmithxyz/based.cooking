@@ -4,8 +4,9 @@ tags: ['breakfast', 'basic', 'milk']
 date: 2023-03-26
 author: "Maxwell Stelmack"
 ---
+![overnight-oats](/pix/overnight-oats.webp)
 
-Oats are most commonly served cooked. However, "Overnight Oats" are eaten raw to retain more nutrients like testosterone. Raw oats must be soaked for at least 12 hours. This allows the oats to expand safely, outside the gut. It also reduces the amount of phytate, which is a digestion inhibitor.
+Oats are most commonly served cooked. However, "Overnight Oats" are eaten raw to retain more nutrients like testosterone. Raw oats must be soaked for at least 12 hours. This allows the oats to expand safely, outside of the gut. It also reduces the amount of phytate, which is a digestion inhibitor.
 Note: don't worry if you hate plain yogurt! The bananas and peanut butter combine to neutralize the bad taste.
 
 - ⏲️ Prep time: 1 min

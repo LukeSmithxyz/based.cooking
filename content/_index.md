@@ -75,6 +75,3 @@ This recipe website is designed to be simple and with no ads or tracking. All re
 ## How to add a recipe
 
 New recipes can be submitted [on Github](https://github.com/ronaldlong46/public-domain-recipes).
-We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
-
-{{< crypto >}}

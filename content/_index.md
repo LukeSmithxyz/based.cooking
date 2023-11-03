@@ -1,5 +1,5 @@
 ---
-title: "🍲 Based Cooking 🍳"
+title: "🍲 Public Domain Recipes 🍳"
 description: 'The fast-loading recipe site with cooking only and no ads.'
 layout: single
 ---
@@ -70,16 +70,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## About this site
 
-Founded to provide a simple online cookbook without ads and obese web design.
-See the story of this site unfold in three videos:
+This recipe website is designed to be simple and with no ads or tracking. All recipes are public domain and free for anyone to share. Originally forked from Luke Smith's based.cooking project.
 
-- [A Demonstration of Modern Web Bloat](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f)
-- [The War Against Web Bloat Continues...](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
-- [SoyDevs DESTROYED Epic Style by Based Cooking!](https://odysee.com/@Luke:7/soydevs-destroyed-epic-style-by-based:6)
+## How to add a recipe
 
-## It's easy to contribute!
-
-New recipes can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
+New recipes can be submitted [on Github](https://github.com/ronaldlong46/public-domain-recipes).
 We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
 
 {{< crypto >}}

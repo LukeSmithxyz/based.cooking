@@ -1,6 +1,6 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'https://publicdomainrecipes.com'
 languageCode = 'en-us'
-title = 'Based Cooking'
+title = 'Public Domain Recipes'
 theme = 'lugo'
 
 [params]
@@ -13,3 +13,4 @@ theme = 'lugo'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+theme = 'lugo'

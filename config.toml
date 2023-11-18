@@ -1,6 +1,4 @@
 baseURL = 'https://based.cooking/'
-languageCode = 'en-us'
-title = 'Based Cooking'
 theme = 'lugo'
 
 [params]
@@ -13,3 +11,27 @@ theme = 'lugo'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      
+defaultContentLanguage = 'en-US'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.de]
+    contentDir = 'content/de'
+    disabled = false
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    title = 'Freies Kochen'
+    weight = 2
+	[languages.de.params]
+      subtitle = 'Based Cooking in Deutsch'
+     [languages.en]
+    contentDir = 'content/en-us'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Based Cooking'
+    weight = 1
+    [languages.en.params]
+      subtitle = 'Based Cooking in english'

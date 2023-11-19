@@ -3,7 +3,7 @@ title: "🍲 Freies Kochen 🍳"
 description: 'Die am schnellsten ladene Rezeptwebseite. Auschließlich kochen und keine Werbung.'
 layout: single
 ---
-# Diese Webseite gibt es auch in: <a href="http://localhost:1313/en/">🇬🇧/🇺🇸</a>
+# Diese Webseite gibt es auch in: <a href="https://based.cooking/en/">🇬🇧/🇺🇸</a>
 ## Was möchtest du kochen?
 # Diese Webseite ist wird noch aktiv übersetzt. Die meisten Rezepte sind noch auf Englich.
 <div class="search js-only">

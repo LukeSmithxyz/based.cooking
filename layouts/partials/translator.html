@@ -1,0 +1,25 @@
+{{ $translator := index .Site.Data.translators (.Params.translator | default "default") }}
+{{- if $translator -}}
+<h2>Translator(s)</h2>
+<ul>
+<li>
+{{- if $translator.website -}}<a href="{{ $translator.website }}">{{- end -}}
+    {{ $translator.name }}
+{{- if $translator.website -}}</a>{{- end -}}
+<ul>
+{{- if $translator.xmr }}
+<li><img alt="XMR Logo" src="/pix/xmr.svg">Monero: <code style="overflow-wrap:break-word;font-size:xx-small">{{ $translator.xmr }}</code></li>
+{{- end -}}
+{{- if $translator.btc }}
+<li><img src="/pix/btc.svg" alt="BTC Logo">Bitcoin: <code>{{ $translator.btc }}</code></li>
+{{- end -}}
+{{- if $translator.eth }}
+<li><img src="/pix/eth.svg" alt="ETH Logo">Ether: <code>{{ $translator.eth }}</code></li>
+{{- end -}}
+{{- if $translator.donate }}
+<li><a href="{{ $translator.donate }}">Donate/Tip</a></li>
+{{- end -}}
+</ul>
+</li>
+</ul>
+{{- end -}}

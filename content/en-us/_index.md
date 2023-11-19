@@ -3,7 +3,11 @@ title: "🍲 Based Cooking 🍳"
 description: 'The fast-loading recipe site with cooking only and no ads.'
 layout: single
 ---
+<<<<<<< HEAD
 # This Website also exists in: <a href="https://based.cooking/de/">🇩🇪</a>
+=======
+# This Website also exists in: <a href="http://localehost:1313/de/">🇩🇪</a>
+>>>>>>> 9fd6289 (added credits for the translator(s))
 ## What do you want to cook?
 
 <div class="search js-only">

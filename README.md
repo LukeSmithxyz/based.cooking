@@ -25,9 +25,7 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
   don't need to care, it should be automatic).
 
 You may include a json file with your personal links/donation addresses in
-`data/authors/your-name.json`. See mine (`data/authors/luke-smith.json`) for a
-model. You can include: `website`, `donate` (general donation link), `email` or
-crypto addresses as `btc`, `xmr` and `eth`.
+`data/authors/your-name.json`.
 
 ### Tags
 

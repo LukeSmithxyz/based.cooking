@@ -1,6 +1,6 @@
 # Public Domain Recipes
 
-(Deployed website coming soon)
+[PublicDomainRecipes.com](https://publicdomainrecipes.com)
 
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers or cookies (unless recipes thereof).
@@ -20,21 +20,9 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
 - Model submission files after [example.md](example.md). Put them in `content/`.
 - File names should be the name of the dish with words separated by hyphens
   (`-`). Not underscores, and definitely not spaces.
-- Recipe must be "based," i.e. good traditional and substantial food. Nothing
-  ironic, meme-tier hyper-sugary, meat-substitute, etc.
-- Don't include salt and pepper and other ubiquitous things in the ingredients
-  list.
-- Don't include an image unless (1) you took it yourself, and more importantly
-  (2), **it actually looks good**! Most existing images on this site IMO look
-  like unappetizing NEET photos, so you are welcome to take one a better one
-  yourself and submit it if you make a dish. If you don't know if your image is
-  good, please have a real-live woman in real life approve your photo before
-  you submit it. I'm serious about this, it's a waste for me to wade through
-  disgusting photos in PRs.
+- No need to include simple items (salt, pepper, etc.) in the ingredient list.
 - The file needs to be `\n` terminated in unix-fashion (if you're on Linux you
   don't need to care, it should be automatic).
-
-**If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
 
 You may include a json file with your personal links/donation addresses in
 `data/authors/your-name.json`. See mine (`data/authors/luke-smith.json`) for a

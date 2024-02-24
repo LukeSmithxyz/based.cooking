@@ -272,6 +272,7 @@ button#clear-search:hover {
 #tag_turkish:before { content: "🇹🇷" ; }
 #tag_ukrainian:before { content: "🇺🇦" ; }
 #tag_vietnamese:before { content: "🇻🇳" ; }
+#tag_waffle:before { content: "🧇" ; }
 #tag_wine:before { content: "🍷" ; }
 
 .cryptocontainer {

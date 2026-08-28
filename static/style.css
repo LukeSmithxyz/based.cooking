@@ -206,6 +206,7 @@ button#clear-search:hover {
 #tag_cookies:before { content: "🍪" ;}
 #tag_corn:before { content: "🌽" ;}
 #tag_curry:before { content: "🍛" ; }
+#tag_danish:before { content: "🇩🇰" ;}
 #tag_dessert:before { content: "🍮" ; }
 #tag_dominican:before { content: "🇩🇴" ;}
 #tag_drink:before { content: "🍹" ;}

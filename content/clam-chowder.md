@@ -1,11 +1,11 @@
 ---
-title: Clam Chowder
+title: "Clam Chowder"
 tags: ['seafood', 'stew', 'american']
 date: 2025-10-09
 author: "Tim L"
 ---
 
-Basic recipe on creating the clam chowder-base. Ingredient requirements are based on approximate minimums. 
+Basic recipe on creating the clam chowder-base. Ingredient requirements are based on approximate minimums.
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 60 min

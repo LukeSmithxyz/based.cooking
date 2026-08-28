@@ -1,6 +1,6 @@
-baseURL = 'https://based.cooking/'
-languageCode = 'en-us'
 title = 'Based Cooking'
+baseURL = 'https://based.cooking/'
+locale = 'en-us'
 theme = 'lugo'
 
 [params]
@@ -8,6 +8,10 @@ theme = 'lugo'
   stylesheet = "/style.css"
   indexarticles = 50
   taglist = true
+  datesinlist = false
+  authorsinlist = false
+  nextprev = true
+  showrss = true
 
 [markup]
   [markup.goldmark]

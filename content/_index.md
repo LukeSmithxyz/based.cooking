@@ -71,11 +71,11 @@ document.addEventListener("DOMContentLoaded", () => {
 ## About this site
 
 Founded to provide a simple online cookbook without ads and obese web design.
-See the story of this site unfold in three videos:
+See the story of this site unfold in three YouTube videos:
 
-- [A Demonstration of Modern Web Bloat](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f)
-- [The War Against Web Bloat Continues...](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
-- [SoyDevs DESTROYED Epic Style by Based Cooking!](https://odysee.com/@Luke:7/soydevs-destroyed-epic-style-by-based:6)
+- [A Demonstration of Modern Web Bloat](https://www.youtube.com/watch?v=cvDyQUpaFf4)
+- [The War Against Web Bloat Continues...](https://www.youtube.com/watch?v=wY70NCW98Is)
+- [SoyDevs DESTROYED Epic Style by Based Cooking!](https://www.youtube.com/watch?v=ykNEkiYr0QM)
 
 ## It's easy to contribute!
 

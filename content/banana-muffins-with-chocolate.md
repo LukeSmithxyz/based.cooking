@@ -1,7 +1,7 @@
 ---
 title: "Banana Muffins with Chocolate"
 date: 2021-03-12
-tags: ['dessert', 'sweet', 'snack', 'cake', 'fasting']
+tags: ['dessert', 'sweet', 'snack', 'cake', 'fasting', 'muffins']
 author: lukasz-drukala
 ---
 

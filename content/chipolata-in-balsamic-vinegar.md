@@ -1,6 +1,6 @@
 ---
 title: "Chipolata Sausage in Balsamic Vinegar"
-tags: ['beef', 'oven', 'italian']
+tags: ['beef', 'baking', 'italian']
 date: 2022-07-27
 author: "Kensix"
 ---

@@ -21,6 +21,7 @@ A curry serves best with naan that is unleavened bread. Traditionally made in â€
 - Warm Milk 1 cup
 - Butter melted 2 tbsp
 - Oil - little to grease
+- Salt - 1 1/2 teaspoons
 
 ## Directions
 

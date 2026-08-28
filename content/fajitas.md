@@ -1,6 +1,6 @@
 ---
 title: Fajitas
-tags: ['beef', 'chicken', 'southwest']
+tags: ['beef', 'chicken']
 date: 2022-09-10
 author: joel-maxuel
 ---

@@ -12,7 +12,7 @@ This recipe is a quick and simple version for a delicious breakfast.
 - 🍳 Cook time: 10 min
 - 🍽️ Servings: 2
 
-![Shakshouka](/pix/shakshouka-02.webp)
+![Shakshouka](/pix/shakshouka.webp)
 
 ## Ingredients
 
@@ -33,7 +33,6 @@ This recipe is a quick and simple version for a delicious breakfast.
 6. Stir and wait for it to get denser
 7. Knock the eggs in
 8. Season the eggs
-![Shakshouka](/pix/shakshouka-01.webp)
 9. Cover the pan with a lid
 10. Cook until eggs are laid
 11. Add chives

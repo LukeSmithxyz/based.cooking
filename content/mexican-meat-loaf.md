@@ -1,6 +1,6 @@
 ---
 title: Mexican Meat Loaf
-tags: ['beef', 'traybake', 'mexican', 'southwest', 'american']
+tags: ['beef', 'baking', 'mexican', 'american']
 date: 2022-09-10
 author: joel-maxuel
 ---

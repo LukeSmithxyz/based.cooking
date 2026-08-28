@@ -1,7 +1,7 @@
 ---
 title: "Spanish Tortilla"
 date: 2021-03-21
-tags: ['spanish', 'potato', 'eggs', 'tortilla']
+tags: ['spanish', 'potato', 'eggs']
 author: octopusonfire
 ---
 

@@ -14,7 +14,7 @@ This easy Swedish dish makes for a great weeknight dinner.
 
 ## Ingredients
 
-- 1/2 kg Swedish [falukorv](https://en.wikipedia.org/wiki/Falukorv)
+- 1/2 kg Swedish falukorv
 - 1 yellow onion
 - 1 tbsp olive oil
 - 4 tbsp tomato purée

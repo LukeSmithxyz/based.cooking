@@ -49,5 +49,3 @@ mashed potatoes to be.
 8. Once the mix is somewhat homogeneous and the potatoes are properly mashed,
    add the shredded cheese and fried bacon and mix a little.
 9. Serve and top with chopped green onions.
-
-Originally published at [https://www.yaroslavps.com/food/creamy-mashed-potatoes/](https://www.yaroslavps.com/food/creamy-mashed-potatoes/)

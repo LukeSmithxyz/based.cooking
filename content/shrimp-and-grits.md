@@ -5,7 +5,7 @@ tags: ['american', 'fish', 'breakfast']
 author: carl-zimmerman
 ---
 
-This recipe is derived from Smokin' & Grillin' wit AB -- [youtube](https://youtu.be/cjlDBPlTqS0)
+This recipe is derived from [Smokin' & Grillin' wit AB](https://youtu.be/cjlDBPlTqS0).
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 20 min

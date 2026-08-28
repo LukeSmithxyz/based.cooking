@@ -35,5 +35,3 @@ it one time to get a sense of what the ideal proportions for you are.
 7. As a final tip, if your fillet is too thick after all, you can just lower the
    heat at the end and cook it for about 2-3 more minutes.
 8. And that's it. Winner winner chicken dinner!
-
-Originally published at [https://www.yaroslavps.com/food/pan-seared-chicken-filet/](https://www.yaroslavps.com/food/pan-seared-chicken-filet/)

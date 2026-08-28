@@ -50,5 +50,3 @@ Although it takes some time to make, it is actually quite easy to make, and it i
    things, like watching memes.
 9. Remove from stove, serve hot and enjoy with some beer or cider (or your
    favorite beverage).
-
-Originally published at [https://www.yaroslavps.com/food/beef-goulash/](https://www.yaroslavps.com/food/beef-goulash/)

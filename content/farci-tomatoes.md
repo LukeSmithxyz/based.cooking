@@ -1,11 +1,11 @@
 ---
-title: "Farcies tomatoes"
+title: "Farci tomatoes"
 tags: ['french', 'tomato', 'oven']
 date: 2022-07-11
 author: miraunpajaro
 ---
 
-![Farci tomatoes](/pix/farci_tomatoes.webp)
+![Farci tomatoes](/pix/farci-tomatoes.webp)
 
 Farcies tomates with rice.
 
@@ -15,14 +15,14 @@ Farcies tomates with rice.
 
 ## Ingredients
 
-- 2 tomatoes per person.
-- 300g of ground beef meat.
-- 1 or 2 onions.
-- Condiments of your choice: Parsley, origan or cumin.
+- 2 tomatoes per person
+- 300g of ground beef meat
+- 1 or 2 onions
+- Condiments of your choice: parsley, origan or cumin
 - Olive oil
-- Gruyere cheese.
-- Salt and pepper.
-- Optional: Butter.
+- Gruyere cheese
+- Salt and pepper
+- Butter (optional)
 
 ## Directions
 

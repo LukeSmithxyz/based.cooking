@@ -31,4 +31,4 @@ Puddings may be preserved in freezer for up to a month.
 6. Tip batter into a jug so that you may pour into the cupcake pan slots evenly and carefully.
 7. Bake undisturbed ( opening oven will impede the rising ), until the puddings have puffed up and browned.
 
-Originally published at https://www.bbcgoodfood.com/recipes/best-yorkshire-puddings
+Originally published on [Good Food](https://www.bbcgoodfood.com/recipes/best-yorkshire-puddings).

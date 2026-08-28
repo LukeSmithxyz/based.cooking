@@ -1,7 +1,6 @@
 ---
 title: "Bloody Mary Mix"
 date: 2022-04-14
-date: 2021-03-19
 tags: ['drink', 'sweet', 'breakfast']
 author: front3ndninja
 ---

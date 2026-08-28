@@ -62,5 +62,3 @@ have used, but seldom use.
 
 \*Personally, I prefer to beat the eggs first in a bowl before adding them to the
 frying pan.
-
-Originally published at [https://www.yaroslavps.com/food/country-breakfast-skillet/](https://www.yaroslavps.com/food/country-breakfast-skillet/)

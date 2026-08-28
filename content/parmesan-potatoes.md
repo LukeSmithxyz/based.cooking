@@ -33,5 +33,3 @@ have it as a side dish this should be enough for two persons.
 5. Remove potatoes from pan, serve and add shredded Parmesan and some freshly
    ground pepper on top.
 6. Enjoy!
-
-Originally published at [https://www.yaroslavps.com/food/parmesan-potatoes/](https://www.yaroslavps.com/food/parmesan-potatoes/)

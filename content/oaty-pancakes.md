@@ -12,7 +12,7 @@ author: "Puremana"
 ## Ingredients
 
 - 3⁄4 cup milk
-- 3⁄4 rolled oats
+- 3⁄4 cup rolled oats
 - 1 egg
 - 1⁄2 teaspoon salt
 - 2-3 tablespoon sugar

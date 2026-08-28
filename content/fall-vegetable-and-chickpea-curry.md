@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+![fall-vegetable-and-chickpea-curry](/pix/fall-vegetable-and-chickpea-curry.webp)
+
 Can be served over rice or on its own with a dollop of yogurt.
 
 - ⏲️ Prep time: 15 min

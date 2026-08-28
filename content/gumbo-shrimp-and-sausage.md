@@ -5,7 +5,7 @@ tags: ['american', 'fish', 'rice']
 author: carl-zimmerman
 ---
 
-This recipe is a simplified version of AB's Seafood Gumbo -- [youtube](https://youtu.be/XuiKYWb7s5o)
+This recipe is a simplified version of [AB's Seafood Gumbo](https://youtu.be/XuiKYWb7s5o).
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 130 min

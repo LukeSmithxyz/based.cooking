@@ -38,5 +38,3 @@ As usual, the ingredients here are for about two adult portions:
 6. Mash the beans and mix. Let them fry at medium-low to medium heat for about 5
    to 10 minutes, mixing from time to time.
 7. Serve, and enjoy with some totopos.
-
-Originally published at [https://www.yaroslavps.com/food/refried-beans/](https://www.yaroslavps.com/food/refried-beans/)

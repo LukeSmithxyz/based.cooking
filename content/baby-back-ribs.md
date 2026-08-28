@@ -1,7 +1,7 @@
 ---
 title: "Baby Back Ribs"
 date: 2022-04-15
-tags: ['pork', 'american', 'supper', 'southern']
+tags: ['pork', 'american', 'supper']
 author: crazywillbear
 ---
 
@@ -15,7 +15,7 @@ Some classic and delicious baby back ribs. Keep in mind that if you do not have 
 - Tin foil
 - Bag of brown sugar
 - Bottle of honey
-- Barbecue Sauce ([Oakland Dust, The One BBQ Sauce](https://www.sincerelysf.com/products/oakland-dust-the-one-bbq-sauce-1) is recommended)
+- Barbecue Sauce
 - (Optional) A stick of butter
 
 ## Directions

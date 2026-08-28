@@ -1,11 +1,11 @@
 ---
 title: "Ukrainian Vareniki"
 date: 2021-04-06
-tags: ['ukrainian', 'dumpling', 'potato']
+tags: ['ukrainian', 'potato']
 author: vlad
 ---
 
-(Vareniki/Dumplings) Vareniki are popular all over the world, but abroad they have different names.
+Vareniki (Ukrainian for dumplings) are popular all over the world, but abroad they have different names.
 
 - ⏲️ Prep: 30 mins
 - 🍳 Cook time: 25 mins

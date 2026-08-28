@@ -1,7 +1,7 @@
 ---
 title: "Lemon and oregano chicken traybake"
 date: 2021-03-23
-tags: ['mediterranean', 'chicken', 'traybake']
+tags: ['mediterranean', 'chicken', 'baking']
 author: isaac-hill
 ---
 

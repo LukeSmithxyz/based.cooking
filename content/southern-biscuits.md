@@ -1,7 +1,7 @@
 ---
 title: "Southern Biscuits"
 date: 2021-03-23
-tags: ['american', 'southern']
+tags: ['american']
 author: "Ian S. Pringle"
 ---
 

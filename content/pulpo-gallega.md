@@ -9,7 +9,7 @@ author: "ivn1s"
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 35 to 40 min
-- 🍽️ Servings: 
+- 🍽️ Servings:
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ author: "ivn1s"
 - Potatoes
 - 2 bay leaves
 - Sweet and spicy red pepper
-- Salt 
+- Salt
 - oil
 
 ## Directions

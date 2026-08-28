@@ -1,7 +1,7 @@
 ---
 title: "Limoncello"
 date: 2021-05-13
-tags: ['alcohol', 'lemons', 'digestivo', 'liquor']
+tags: ['alcohol', 'lemon', 'digestivo', 'liquor']
 author: mfed3
 ---
 

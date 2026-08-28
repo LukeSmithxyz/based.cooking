@@ -55,5 +55,3 @@ For the sauce:
 11. Cook over medium-low heat for about ten minutes rolling the meatballs so
     that they get completely bathed in tomato sauce.
 12. Serve with some side dish and enjoy!
-
-Originally published at [https://www.yaroslavps.com/food/cheesy-meatballs/](https://www.yaroslavps.com/food/cheesy-meatballs/)

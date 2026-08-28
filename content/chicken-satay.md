@@ -1,7 +1,7 @@
 ---
-title: Chicken Satay with Peanut Sauce 
+title: Chicken Satay with Peanut Sauce
 tags: ['chicken', 'thai', 'asian']
-date: 2022-07-10 
+date: 2022-07-10
 author: "Eric Lindberg"
 ---
 

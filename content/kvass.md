@@ -5,7 +5,7 @@ tags: ['drink', 'bread']
 author: holsterbau
 ---
 
-[Kvass](https://en.wikipedia.org/wiki/Kvass) is a Slavic fermented beverage which is both simple to make and rich in flavour.
+Kvass is a Slavic fermented beverage which is both simple to make and rich in flavour.
 
 - ⏲️ Prep time: ~30 min
 - ⌛ Fermentation time: ~1 week
@@ -17,9 +17,8 @@ author: holsterbau
 - 3 slices of black bread (e.g. pumpernickel bread, rye bread)
 - 1-2 lemons
 - 1 pkg (7 g) of active dry yeast
-- *Optional:*
-  - *A handful of coffee beans*
-  - *Non-citrus fruits (e.g. plums, apples, kiwi)*
+- A handful of coffee beans (optional)
+- Non-citrus fruits, e.g. plums, apples, kiwi (optional)
 
 ## Directions
 

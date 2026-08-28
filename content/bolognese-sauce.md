@@ -5,7 +5,7 @@ tags: ['sauce', 'italian', 'pasta']
 author: tait
 ---
 
-![Bolognese sauce](/pix/bolognese-sauce-1.webp)
+![Bolognese sauce](/pix/bolognese-sauce.webp)
 
 Basic bolognese sauce for lasagne or pasta dishes
 

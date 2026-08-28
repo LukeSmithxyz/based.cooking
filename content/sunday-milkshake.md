@@ -34,5 +34,3 @@ These are for about 4 glasses or 1 liter:
 Basically anything is better consumed fresh, but it is especially the case for
 this milkshake recipe. If you leave it sitting for more than 10-15 minutes it
 won't be so delicious anymore.
-
-Originally published at [https://www.yaroslavps.com/food/sunday-morning-milkshake/](https://www.yaroslavps.com/food/sunday-morning-milkshake/)

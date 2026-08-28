@@ -12,8 +12,8 @@ author: joel-maxuel
 
 ## Ingredients
 
-- 2 cups Cracked Wheat (bulghur) 
-- 2 cups Very Hot Water (or as directed) 
+- 2 cups Cracked Wheat (bulghur)
+- 2 cups Very Hot Water (or as directed)
 - 1 Cucumber, chopped
 - 2 small Tomatoes, chopped
 - 1 bunch Green Onions, sliced

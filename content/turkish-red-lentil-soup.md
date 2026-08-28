@@ -34,5 +34,5 @@ Serve with a squeeze of lemon and alongside turmeric flatbread.
 4. Add the tomato paste and stir it around for 1 minute. Add cumin, mint, thyme, and the paprika/pepper flakes not reserved - and saute for 10 seconds to bloom the spices. Immediately add the lentils, water, broth, and salt. Bring the soup to a boil.
 5. Once boiling, reduce heat to a medium, cover the pot halfway, and cook for 15-20 minutes or until the lentils have fallen apart and the carrots are fully softened.
 6. Meanwhile, heat the remaining olive oil in a small sauce pan over medium heat, and swirl in the reserved paprika and red pepper flakes. The moment you see the paprika start to bubble, remove the pan from the heat.
-7. Blend the soup to reach the desired consistency. Taste for seasoning. 
+7. Blend the soup to reach the desired consistency. Taste for seasoning.
 8. Divide soup into bowls and drizzle the paprika oil on top of each serving.

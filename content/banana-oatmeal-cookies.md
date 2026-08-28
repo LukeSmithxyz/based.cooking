@@ -1,6 +1,6 @@
 ---
 title: Banana and oatmeal cookies
-tags: ['snack', 'quick', 'dessert']
+tags: ['snack', 'quick', 'dessert', 'cookies']
 date: 2022-07-12
 author: "Éric G."
 ---
@@ -8,6 +8,8 @@ author: "Éric G."
 - ⏲️ Prep time: 3 min
 - 🍳 Cook time: 20 min
 - 🍽️ Serving : 3
+
+![Banana and oatmeal cookies](/pix/banana-oatmeal-cookies.webp "Banana and oatmeal cookies")
 
 ## Ingredients
 

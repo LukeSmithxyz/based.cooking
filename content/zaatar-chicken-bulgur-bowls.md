@@ -12,18 +12,18 @@ author: joel-maxuel
 
 ## Ingredients
 
-- 4 Chicken Breasts
-- 1 cup Bulghur Wheat
-- 1 oz Mixed Olives, drained
-- 4 oz Baby Spinach, chopped
-- 2 Tbsp Za'atar Spice Blend
-- 2 Roma Tomatoes
-- 1 Lemon
-- 1/2 cup Feta Cheese, crumbled
-- 2 Garlic Cloves, minced/grated
-- 2 Tbsp White Vinegar
-- 1 tsp Sugar
-- Oil
+- 4 chicken breasts
+- 1 cup bulghur wheat
+- 1 oz mixed olives, drained
+- 4 oz baby spinach, chopped
+- 2 tbsp za'atar spice blend
+- 2 Roma tomatoes
+- 1 lemon
+- 1/2 cup feta cheese, crumbled
+- 2 garlic cloves, minced/grated
+- 2 tbsp white vinegar
+- 1 tsp sugar
+- oil
 
 ## Directions
 

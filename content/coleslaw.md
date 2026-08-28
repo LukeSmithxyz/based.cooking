@@ -1,7 +1,7 @@
 ---
 title: "Coleslaw"
 date: 2021-05-08
-tags: ['side', 'cabbage', 'southern', 'salad']
+tags: ['side', 'cabbage', 'american', 'salad']
 author: declan-cash
 ---
 

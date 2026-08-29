@@ -2,7 +2,7 @@
 title: Liver and Onions
 tags: ['beef', 'basic', 'easy', 'liver', 'quick']
 date: 2023-04-28
-author: "POI"
+author: poi
 ---
 
 Though most people find liver barely tolerable to eat, it is extremely nutritious (the most nutrient dense food in the world!).

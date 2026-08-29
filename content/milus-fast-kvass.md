@@ -2,7 +2,7 @@
 title: "Milu's Fast Kvass"
 date: 2026-08-29
 tags: ['drink', 'bread']
-author: miluitinke
+author: milutinke
 ---
 
 Kvass is a Slavic fermented beverage which is both simple to make and rich in flavour.

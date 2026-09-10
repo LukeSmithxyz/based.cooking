@@ -146,12 +146,19 @@ input#search {
   width: 100%;
 }
 
-.search {
+.search-container {
   width: 400px;
   max-width: 85vw;
   position: relative;
   margin: 0.5rem auto 1.2rem;
   display: flex;
+  gap: .5rem;
+}
+
+.search {
+  position: relative;
+  display: flex;
+  flex-grow: 1;
 }
 
 button#clear-search {
@@ -169,6 +176,20 @@ button#clear-search:hover {
   color: #eee;
 }
 
+button#random {
+  all: unset;
+  background: #222;
+  color: #888;
+  border-radius: 5px;
+  padding: .7rem 1rem;
+  height: 100%;
+  cursor: pointer;
+  transition: color 180ms ease-in-out;
+}
+
+button#random:hover {
+  color: #eee;
+}
 
 .matched-recipe {
 	font-size: x-large ;

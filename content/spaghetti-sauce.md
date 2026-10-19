@@ -27,5 +27,3 @@ author: "Jimmy B"
 3. Add the tomato paste and 4 cans of tomatos and bring to a simmer. If adding red pepper flakes add them now.
 4. Cook uncovered for 45 minutes, stirring occasionally.
 5. Add a pinch of salt, the remaining 1/4 cup of olive oil, and basil if you are adding that.
-
-\n
